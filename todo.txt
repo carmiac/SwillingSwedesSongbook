@@ -1,1 +1,36 @@
-Celtic Lass's Retort (aka Viking Man II)
+Book Layout
+===========
+- add front and back cover placeholders
+- write better intro page content
+- get page alternating offsets for binding working
+
+Songs
+=====
+- Celtic Lass's Retort (aka Viking Man II)
+- galens stuff
+- Born on the List Field
+
+Songs That Need 2nd Round Copyediting
+=====================================
+
+Infrastructure
+==============
+- build in *nix
+    - install tex live in ubuntu vm
+    - install songs 
+    - make build script work
+        - possibly write new cross platform build script that does away with .bat files in windows
+- ebook version
+    - kindle pdf for now
+    - must do in linux
+    - install tex4ebook
+    - make it build
+    - check in kindle previewer
+- html version
+    - must do in linux
+    - install latex2html
+    - make it build
+    - check in browser
+- add documentation for github
+    - commit to github
+- make website

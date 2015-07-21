@@ -25,7 +25,7 @@
 \pagestyle{empty} 
 \usepackage[scaled]{helvet}
 \renewcommand{\familydefault}{\sfdefault}
-
+\usepackage{graphicx}
 
 \usepackage[bookmarks]{hyperref}
 \usepackage[lyric]{songs}
@@ -46,8 +46,9 @@
 \newindex{titleidx}{lbtitle}
 \newauthorindex{authidx}{lbauth}
 
+\input{title_page.txt}
 \begin{document}
-
+\titleGP % This command includes the title page
 \showindex[1]{Index of Songs}{titleidx}
 \songcolumns{1}
 \begin{songs}{titleidx,authidx}

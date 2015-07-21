@@ -21,6 +21,7 @@
 \documentclass[letterpaper]{article}
 \usepackage[bookmarks]{hyperref}
 \usepackage[lyric]{songs}
+\usepackage{graphicx}
 
 % \includeonlysongs{2}
 
@@ -40,8 +41,11 @@
 \newscripindex{scripidx}{lbscrip}
 
 \renewcommand*{\familydefault}{\sfdefault}
-
+\input{title_page.txt}
 \begin{document}
+\titleGP % This command includes the title page
+
+\input{introduction.txt}
 
 \showindex{Complete Index of Songs}{titleidx}
 
