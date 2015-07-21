@@ -1,0 +1,101 @@
+\beginsong{My Old Man}[by={Uncle Justininian, Roger of York, Othar Morganson, Muire Ultach}]
+\beginverse
+My old man's a fighter. 
+What do you think about that?
+He wears a fighter's tabard, he wears a fighter's hat,
+He wears a fighting tunic, and he wears fighter's shoes,
+And every day at Pennsic, he reads the daily news.
+And some day, if I can, I'm going to be a fighter, just like my old man.
+\endverse
+\beginverse
+My old man's a baron.
+What do you think about that?
+He wears a baron's tabard, he wears a nice gold hat,
+He wears a baron's tunic, and he wears leather shoes,
+And every day at Pennsic, some one reads him the news.
+And some day, if I can, I'm going to be a baron, just like my old man.
+\endverse
+\beginverse
+My old man's the king.
+What do you think about that?
+He wears a kingdom tabard, he wears a pointy hat,
+He wears embroidered tunics, and he wears pointy shoes,
+And every day at Pennsic, he makes the front page news.
+And some day, if I can, I'm going to be the king, just like my old man.
+\endverse
+\beginverse
+My old man's a herald.
+What do you think about that?
+He wears a herald's tabard, he wears a wide brimmed hat,
+He wears a herald's tunic, and he wears sensible shoes,
+And every day at Pennsic, he cries the daily news.
+And some day, if I can, I'm going to be a herald, and shout at my old man.
+\endverse
+\beginverse
+My old man's a merchant.
+What do you think about that?
+He'll sell you any tabard, he'll sell you any hat,
+Hell sell you any tunic, he'll sell you any shoes,
+And every day at Pennsic, his children shout: PENNSIC DAILY TIDINGS, ONLY FIFTY CENTS!
+And some day, if I can, I'm going to be a merchant, and sell you my old man.
+\endverse
+\beginverse
+My old man's a Pelican.
+What do you think about that?
+Hell help you make a tabard, he'll help you buy a hat,
+Hell help you sew a tunic, he'll help you pick out shoes,
+And every day at Pennsic, he helps put out the news.
+And some day, if I can, I'm going to be a Pelican, and help out my old man.
+\endverse
+\beginverse
+My old man's a Tuchuk.
+What do you think about that?
+He doesn't own a tabard, he has a fake fur hat,
+He doesn't wear a tunic, he hasn't any shoes,
+And every day at Pennsic, he eats the daily news.
+And some day, if I can, I don't want to be a Tuchuk, not like my old man.
+\endverse
+\beginverse
+My old man's a Laurel.
+What do you think about that?
+He wears a completely authenticated, fully documented tabard,
+And a completely authenticated, fully documented hat,
+And a completely authenticated, fully documented tunic,
+And completely authenticated, fully documented shoes,
+And every day at Pennsic, he refuses to read the Pennsic Daily Tidings
+Because his persona would not have been able to understand English.
+And some day, if I can, I'm going to be a Laurel, and criticize my old man.
+\endverse
+\beginverse
+My old man's a bard.
+What do you think about that?
+He'll sing for a tabard, and then he'll pass his hat,
+He'll sing about his tunic, and he'll sing and tap his shoes,
+And every day at Pennsic, he sings about the news.
+And some day, if I can, I'm going to be a bard, and sing about my old man.
+\endverse
+\beginverse
+My old man's a knight.
+What do you think about that?
+He wears a gold chain o'er his tabard, he wears an iron cap,
+He wears a white belt round his tunic, and spurs on his shoes,
+And every day at Pennsic, his squires bring him the news.
+And some day, if I can, I'm going to be a knight, just like my old man.
+\endverse
+\beginverse
+My old man's a fop.
+What do you think about that?
+He wears a frilly tabard, he wears a floppy hat,
+He wears lace tunics, and very pointy shoes,
+And every day at Pennsic, he makes the fashion news.
+And some day, if I can, I'm going to be a fop, and swish like my old man.
+\endverse
+\beginverse
+My old man's a stick jock.
+What do you think about that?
+He wears faded blue jeans, he wears a baseball cap,
+He wears a dirty tee-shirt, and white Nike shoes,
+And every day at Pennsic, he fights.
+And some day, if I can, I'm going to be a stick jock, and beat up my old man.
+\endverse
+\endsong

@@ -1,0 +1,44 @@
+\beginsong{Edward }[by={Traditional}]
+\beginverse
+What's that blood on your sword Edward?
+It is the blood of my greyhound
+Your greyhound's blood was never that red Edward
+You're telling lies, you're telling lies 
+\endverse
+\beginchorus
+And the sun will never shine Edward
+And the moon has lost it's light
+And the sun will never shine Edward
+You're telling lies, you're telling lies
+\endchorus
+\beginverse
+What's that blood upon your sword Edward?
+It is the blood of my grey mare
+Your grey mare's blood was never that grey Edward
+You're telling lies, you're telling lies
+\endverse
+\beginverse
+What's that blood upon your sword Edward?
+It is the blood of my grey hawk
+Your grey hawk's blood was never that grey Edward
+You're telling lies you're telling lies
+\endverse
+\beginverse
+What's that blood on your sword Edward?
+It is the blood of my brother
+Why did you kill your own brother Edward?
+For telling lies, for telling lies
+\endverse
+\beginverse
+What will you do, where will you go Edward?
+What will you do, how will you die?
+I'll sail away, I'll sail away Mother
+And you'll never see more of me
+\endverse
+\beginverse
+What of your wife, what of your son, Edward?
+And what will you leave your mother dear?
+The curse of Hell to burn her with Mother
+For telling lies, for telling lies 
+\endverse
+\endsong

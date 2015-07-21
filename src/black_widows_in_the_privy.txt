@@ -1,0 +1,20 @@
+\beginsong{Black Widows in the Privy}[by={Keridwen on Mynydd Gwyadd}]
+\beginverse
+Everyone knows someone we’d be better off without,
+But best not mention names for we don’t know who’s about
+But why commit a murder and risk the fires of hell,
+When black widows in the privy can do it just as well.
+\endverse
+\beginverse
+Now poison’s good, and daggers, and arrows in the back,
+And if you are really desperate you can try a front attack,
+But are they really worthy of the risk of being caught
+When black widows in the privy need not be bribed or bought?
+\endverse
+\beginverse
+So if there’s one, of whom you wish most simply to be rid,
+Just wait ‘til dark then point the way to where the widow’s hid,
+\textnote{spoken:}"I think you'll find that this one is the best."
+And black widows in the privy will gladly do the rest.
+\endverse
+\endsong

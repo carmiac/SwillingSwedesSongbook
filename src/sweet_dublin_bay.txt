@@ -1,0 +1,44 @@
+\beginsong{Sweet Dublin Bay }[
+    by={Traditional},
+]
+\beginverse
+They sailed away on that gallant barque
+Roy Niell and his fair young bride
+They had ventured all on that bounding ship
+That danced on the silvery tide
+And his heart was young, and his spirit light
+As he kissed her tears away
+And they watched the shore retreat from sight
+Of their own sweet Dublin Bay
+\endverse
+\beginverse
+Three days they sailed when the storm arose
+And the lightnin' swept the beam
+When the thunder crash broke the sharp repose
+Of the wee three sailors sleep
+Roy Niell he clasped his weepin' bride
+And he kissed the tears away
+\endverse
+\beginverse
+"Oh aloft was a fear for lower" he cried
+"When we left sweet Dublin Bay"
+On the crowded deck of that doomed ship
+Some fairlander did despair
+And some o'er come wi' a whole yuir hearts
+Of the God of the storm an' prayer
+"She has struck a rock" the sailors cried
+An' their breath of wild dismay
+And that ship went down wi' the fair young bride
+That sailed from Dublin Bay
+\endverse
+\beginverse
+They sailed away in that gallant barque
+Roy Niell and his fair young bride
+They had ventured all on that bounding ship
+That danced on the silvery tide
+But his heart was young, and his spirit light
+As he kissed her tears away
+And they watched the shore retreat from sight
+Of their own sweet Dublin Bay 
+\endverse
+\endsong

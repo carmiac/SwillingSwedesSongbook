@@ -1,0 +1,14 @@
+\beginsong{The Harp That Once Through Tara's Halls}
+\beginverse
+The harp that once though Tara's halls, the soul of music shed,
+now hangs as mute on Tara's walls as if that soul were fled.
+So speaks the pride of former days, so glory's thrill is o'er
+and hearts that one beat high for praise, now feel that pulse no more. 
+\endverse
+\beginverse
+No more to chiefs and ladies bright the harp of Tara swells.
+The chord alone that breaks at night its tale of ruin tells.
+Thus freedom now so seldom wakes the only throb she gives,
+is when some heart indignant breaks, to show that still she lives. 
+\endverse
+\endsong

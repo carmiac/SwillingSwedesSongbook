@@ -1,0 +1,38 @@
+\beginsong{The Nightingales Sing}[index = {One Morning in May}]
+\beginverse
+One morning, one morning, one morning in May
+I spied a young couple, a goin' this way
+One was a lady, a lady so fair
+The other a soldier, a brave Grenadier.
+\endverse
+\beginverse
+Good morning, good morning, good morning to thee
+O where are you going, my pretty lady?
+O, I'm going to walk to the banks of the sea;
+To see waters gliding, hear the nightingales sing.
+\endverse
+\beginverse
+They had not been standing but a moment or two
+When out of his knapsack a fiddle he drew
+And the tune that he played made the valleys to ring
+"Hark! Hark!" cried the lady, "hear the nigntingales sing."
+\endverse
+\beginverse
+"Pretty lady, pretty lady, it's time to give o'er"
+"O no", cried the lady,"please play one tune more
+I'd rather hear your fiddle, and the touch of one string
+Than to see waters gliding, hear the nightingales sing."
+\endverse
+\beginverse
+"O soldier, O soldier, will you marry me?"
+'O no, pretty lady, that never can be
+I've a wife in old England and children twice three
+Two wives in the army's too many for me."
+\endverse
+\beginverse
+"I'll go back to London and stay for a year
+And drink wine and whiskey, instead of small beer
+But if ever I return it'll be in the spring
+Just to see waters gliding, hear the nightingales sing."
+\endverse
+\endsong

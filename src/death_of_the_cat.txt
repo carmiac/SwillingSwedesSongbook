@@ -1,0 +1,32 @@
+\beginsong{Death of the Cat}
+\beginverse
+The trees were growing high
+And the wind was in the west
+When a hunter aimed his arrow
+Into the Cat's broad chest.
+And she died, she died.
+Against her lover's breast
+And we laid her in the earth
+So long and narrow.
+\endverse
+\beginverse
+It was early, so early
+In the graying of the morn,
+When we sang of the days
+Before the Cat was born.
+And how from her mother
+She was so shiftily torn,
+As we laid her in the earth
+So long and narrow.
+\endverse
+\beginverse
+Come all ye young fighting men
+And listen unto me.
+Do not place you affections
+Upon a girl so free.
+For she'll take the mortal wound
+Another meant for thee,
+And you'll lay her in the earth
+So long and narrow. 
+\endverse
+\endsong

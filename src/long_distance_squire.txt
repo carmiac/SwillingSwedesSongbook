@@ -1,0 +1,46 @@
+\beginsong{Long Distance Squire}[by={Galen of Bristol, Genvieve McCullum du Caen},
+                     tune = {Cats in the Cradle}]
+\beginverse
+Squired a lad just the other day
+Gave him his belt in the usual way
+But there were wars to fight, and men to slay
+He made his sword while I was away
+And he was fighting 'fore I knew it, and as he grew
+He'd say "I'm Going to be like you, Sir
+You know I'm going to be like you"
+\endverse
+\beginchorus
+And the cats in the cradle, and the silver spoon
+Little Squire boy, and the Man in the Moon
+When you coming home, Sir? I don't know when
+But we'll get together then, Squire
+You know we'll have a good fight then 
+\endchorus
+\beginverse
+He became a lord just the other day
+He said "Thanks for the shield, Sir, come on lets play
+Can you teach me to kill?" I said "Not today
+I got a lot to do." He said "That's okay"
+And he walked away, but his smile never dimmed
+He said "I'm going to be like him, yeah
+You know I'm going to be like him" 
+\endverse
+\beginverse
+He came from Pennsic just the other day
+So much like a Knight I just had to say
+"Squire I'm proud of you, can you fight for a while?"
+He shook his head and he said with a smile
+"What I'd really like, Sir, Is to borrow your tent please
+See you later, will you leave us in peace?" 
+\endverse
+\beginverse
+He's long been a knight, he's traveled far away
+I saw him here just the other day
+"I'd like to learn that snap blow, if you don't mind?"
+He said "I'd teach you sir if I could find the time
+But see the new Crown's a hassle, and the squires are new
+But it's been nice sparring with you"
+And as the King walked away, it occurred to me
+He'd grown up just like me. My Squire was just like me 
+\endverse
+\endsong

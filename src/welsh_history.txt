@@ -1,0 +1,55 @@
+\beginsong{Welsh History 101}[
+    by={Heather Rose Jones },
+%    cr={Public domain},
+%    index = {Some obvious line},
+    tune = {Ash Grove}
+]
+\beginverse
+If ever you wander out by the Welsh border
+Come stop by and see me and all of my kin
+I'm Morgan ap Daffyd ap Gwion ap Hywell
+Ap Ifor ap Madoc ap Rhodri ap Gwyn
+\endverse
+\beginverse
+We'll feast you on mutton and harp for your pleasure
+And give you a place to sleep out of the cold
+Or maybe we'll meet you out on the dark roadway
+And rob you of horses and weapons and gold
+\endverse
+\beginverse
+My neighbor from England has come across raiding
+Slain six of my kinsmen and burned down my hall
+It cannot be borne this offense and injustice
+I've only killed four of his, last I recall
+\endverse
+\beginverse
+I'll send for my neighbors, Llewellyn and Owain
+We'll cut him down as for the border he rides
+But yesterday Owain stole three of my cattle
+And first I'll retake them and three more besides
+\endverse
+\beginverse
+We need a strong prince to direct our resistance
+Heroic, impartial, of noble degree
+My brother's wife's fourth cousin's foster-son, Gruffydd
+Is best for the job as I'm sure you'll agree
+\endverse
+\beginverse
+What matter that Rhys is the old prince's nephew
+He's exiled to Ireland and will not return
+I know this for every time boats he is building
+I send my spies money to see that they burn
+\endverse
+\beginverse
+Last evening my brother and I were at war
+Over two feet of land on a boundary we share
+But early this morning, I hear he's been murdered
+I'll not rest until I avenge him, I swear
+\endverse
+\beginverse
+Yes, we are just plain folk who mind our own business
+Honest and loyal and full of good cheer
+So if you should wander our by the Welsh border
+Come stop by and meet all the friendly folk here 
+\endverse
+\endsong

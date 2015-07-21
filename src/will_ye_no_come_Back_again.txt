@@ -1,0 +1,55 @@
+\beginsong{Will Ye No Come Back Again?}[
+    by={Lady Carolina Oliphant},
+%    cr={Public domain},
+%    index = {Some obvious line},
+%    tune = {The Filked Song}
+]
+\beginverse
+Bonnie Charlie's now awa',
+Safely owre the friendly main;
+Mony a heart will break in twa,
+Should he no' come back again.
+\endverse
+\beginchorus
+Will ye no come back again?
+Will ye no come back again?
+Better lo'ed ye canna be,
+Will ye no come back again? 
+\endchorus
+\beginverse
+Ye trusted in your Hieland men,
+They trusted you, dear Charlie;
+They kent you hiding in the glen.
+Your cleadin' was but barely.
+\endverse
+\beginverse
+We watched you in the gloamin' hour,
+We watched thee in the mornin' grey;
+Tho' thirty thousand pounds they'd gie,
+Oh, there was nane that wad betray.
+\endverse
+\beginverse
+Mony a traitor 'mange the isles
+Brak the band o' nature's laws;
+Mony a traitor wi' his wiles,
+Sought to wear his life awa'.
+\endverse
+\beginverse
+Many a gallant sodger gaught,
+Mony a gallant chief did fa,
+Death itself were dearly bought,
+A' for Scotland's king and law.
+\endverse
+\beginverse
+Whene'er I hear the blackbird sing,
+Unto the evening sinking down,
+Or merl that makes the wood to ring,
+To me they hae nae other sound.
+\endverse
+\beginverse
+Sweet the lav'rock's note and lang,
+Lilting wildly up the glen;
+And aye the o'er world o' he sang,
+"Will he no' come back again?"
+\endverse
+\endsong

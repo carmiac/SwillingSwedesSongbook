@@ -1,0 +1,38 @@
+\beginsong{The Ash Grove}[by={Traditional}]
+\beginverse
+Down yonder green valley where streamlets meander,
+When twilight is fading I pensively rove,
+Or at the bright noontide in solitude wander
+Amid the dark shades of the lonely ash grove.
+\endverse
+\beginverse
+'Tis there where the blackbird is cheerfully singing
+Each warbler enchants with his note from the tree
+Ah, then little think I of sorrow or sadness
+The ash grove enchanting, spells beauty for me.
+\endverse
+\beginverse
+The ash grove, how graceful, how plainly 'tis speaking
+The harp through it playing has language for me
+Whenever the light through its branches is breaking
+A host of kind faces is gazing on me;
+\endverse
+\beginverse
+The friends of my childhood again are before me
+Each step wakes a memory as freely I roam;
+With soft whispers laden it's leaves rustle o'er me,
+The ash grove, the ash grove, alone is my home.
+\endverse
+\beginverse
+My laughter is over, my step loses lightness,
+Old countryside measures fall soft on my ear.
+Whenever I think on the past and its brightness,
+The dear ones I mourn for again gather here.
+\endverse
+\beginverse
+From out of the shadows their loving looks greet me.
+And wistfully searching the leafy green dome,
+I find other faces, fond, bending to greet me.
+The ash grove, the ash grove, alone is my home. 
+\endverse
+\endsong

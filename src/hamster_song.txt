@@ -1,0 +1,46 @@
+\beginsong{The Hamster Song}[by={Chrystofer Kensor, Andrixios Seljukroctonis },
+                     index = {The Fighting Hamsters of Calontir },
+                     tune = {Ballad of the Green Berets}]
+\beginverse
+Fighting hamsters from the sky
+Some will live and some will die
+Hamsters have nothing to fear
+The fighting hamsters of Calontir
+\endverse
+\beginverse
+Silver tape upon their backs
+A broadsword is all they lack
+Fifty hamsters fight a war
+They won't win without fifty more
+\endverse
+\beginverse
+Trained by jumping off a roof
+Trained in combat tooth to tooth
+Hamsters fight both far and near
+The fighting hamsters of Calontir
+\endverse
+\beginverse
+Riding high upon our helms
+Their war cry it overwhelms
+All opponents become weak
+At their fearsome squeaky squeak
+\endverse
+\beginverse
+Back at home Paval waits
+His fighting hamster has met its fate
+He has died while drinking beer
+The fighting hamsters of Calontir
+\endverse
+\beginverse
+Once again its off to war
+This time we number a dozen more
+We will fight for those in need
+so this year it's with Caid
+\endverse
+\beginverse
+Fighting hamsters jump from planes
+Fighting hamsters fall like rain
+Some will live but most will die
+Stupid creatures cannot fly 
+\endverse
+\endsong

@@ -1,0 +1,23 @@
+\beginsong{Odin Loves the Little Vikings}
+\beginverse
+Odin loves the little Vikings
+All the Vikings of the world
+Whether drunk on ale or mead
+In a boat or on a steed
+Odin loves the little Vikings of the world.
+\endverse
+\beginverse
+Odin loves the little Vikings
+All the Vikings of the world
+If you're drunk and thrown in jail
+Odin - and your axe! - are bail
+Odin loves the little Vikings of the world.
+\endverse
+\beginverse
+Odin loves the little Vikings
+All the Vikings of the world
+Offer up an ox or two
+And he'll be in debt to you.
+Odin loves the little Vikings of the world. 
+\endverse
+\endsong

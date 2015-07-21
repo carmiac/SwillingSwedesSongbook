@@ -1,0 +1,32 @@
+\beginsong{Farewell Johnny Miner}[by={Ed Pickford}]
+\beginverse
+Johnny Miner, you were born
+Never to see the rising dawn,
+Now it's time that you were gone,
+So farewell, Johnny Miner. 
+\endverse
+\beginchorus
+Farewell Durham, Yorkshire, too,
+Nottingham, the same to you
+Scotland, South Wales, bid adieu,
+And farewell, Johnny Miner. 
+\endchorus
+\beginverse
+You struggled hard with slate and shale,
+Lungs turned black and faces pale,
+Now your body's up for sale,
+And farewell, Johnny Miner. 
+\endverse
+\beginverse
+They promised you the earth some time
+To work down in their stinkin' mine,
+Now the justice for their crime
+Is farewell, Johnny Miner. 
+\endverse
+\beginverse
+Cheer up John, it won't be bad:
+Unemployment isn't hard -
+They'll treat you well in the knacker's yard,
+So farewell, Johnny Miner. 
+\endverse
+\endsong

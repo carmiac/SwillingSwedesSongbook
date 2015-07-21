@@ -1,0 +1,28 @@
+\beginsong{Rounds}[by={Traditional},
+                     index = {Rose, rose, rose, rose }]
+\textnote{As a round, or not}
+\beginverse
+Rose, rose, rose, rose
+Will I ever see thee red?
+I will marry at thy will sire
+At thy will
+\endverse
+\beginverse
+Love, love, love, love
+In this world the word is love
+Love thy neighbor as thy brother
+Love, love, love
+\endverse
+\beginverse
+Peace, peace, peace peace
+Will I ever see it come
+I will wait for ever and ever
+Peace, peace, peace
+\endverse
+\beginverse
+Ding dong, ding dong
+Wedding bells on an April morn
+Carve your name on a moss covered stone
+On a moss covered stone 
+\endverse
+\endsong

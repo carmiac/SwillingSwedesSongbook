@@ -1,0 +1,32 @@
+\beginsong{Scotland the Brave }[by={Cliff Hanley}]
+\beginverse
+Hark when the night is fallin', hear, hear the pipes a-callin'
+Loudly and proudly callin' down thru the glen
+There where the hills are sleepin', now feel the blood a-leapin'
+High as the spirits of the old highland men! 
+\endverse
+\beginchorus
+Towering in gallant fame, Scotland the mountain hame!
+High may your proud standards gloriously wave!
+Land of the high endeavour, land of the shining river,
+Land of my heart, forever, Scotland the brave! 
+\endchorus
+\beginverse
+High in the misty highlands, out by the purple islands,
+Brave are the hearts that beat beneath Scottish skies!
+Wild are the winds to meet you, staunch are the friends that greet you
+Kind as the light that shines from fair maiden's eyes!
+\endverse
+\beginverse
+Far-off in sunlit places, sad are the Scottish faces,
+Yearnin' t'feel the kiss of sweet Scottish rain!
+Where tropic skies are beamin', love sets the heart a-dreamin',
+Longin' and dreamin' for the homeland again!
+\endverse
+\beginverse
+Hot as a burning ember, flaming in bleak December
+Burning within the hearts of clansmen afar!
+Calling to home and fire, calling the sweet desire,
+Shining a light that beckons from every star! 
+\endverse
+\endsong

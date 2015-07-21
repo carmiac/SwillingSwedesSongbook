@@ -1,0 +1,37 @@
+\beginsong{Jug of Punch}[by={Traditional}]
+\beginverse
+One pleasant evening in the month of June
+As I was sitting with my glass and spoon
+A small bird sat on an ivy bunch
+And the song he sang was the jug of punch
+\endverse
+\beginchorus
+Too-ra-loo-ra-loo, too-ra-loo-ra-lay
+Too-ra-loo-ra-loo, too-ra-loo-ra-lay
+(Last two lines of verse)
+\endchorus
+\beginverse
+What more diversion can a man desire
+Than to sit him down by an ale house fire
+Upon his knee a pretty wench
+Aye, and on the table a jug of punch
+\endverse
+\beginverse
+Let the doctors come with all their art
+They'll make no impression upon my heart
+Even the cripple forgets his hunch
+When he's snug outside of a jug of punch
+\endverse
+\beginverse
+Well if I get drunk sure the money's me own
+And them don't like me they can leave me alone
+I'll tune my fiddle and I'll rosin my bow
+And I'll be welcome wherever I go
+\endverse
+\beginverse
+And when I'm dead now and in my grave
+No costly tombstone will I crave
+Just lay me down in my native peat
+With a jug of punch at my head and feet
+\endverse
+\endsong

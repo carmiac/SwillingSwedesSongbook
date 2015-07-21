@@ -1,0 +1,60 @@
+\beginsong{Worms of the Earth}[
+    by={Clam Chowder},
+%    cr={Public domain},
+%    index = {Some obvious line},
+%    tune = {The Filked Song}
+]
+\beginchorus
+We are the worms of the earth,
+Against the lions of might.
+All of our days we are tied to the land,
+While they hunt and they feast and they fight.
+We give our crops and our homes and our lives,
+The clerics tell us this is right.
+And they've beat us before, and they'll beat us again,
+But we'll drink from their helmets tonight.
+\endchorus
+\beginverse
+My father worked on the land, as did his father before him.
+Plowing and sowing by hand, and harvesting what the land bore him.
+He was killed by the robbers before I was ten,
+One stroke of the sword and then they were gone,
+While our lord strutted proudly on top his tall walls,
+And did nothing to hinder the slaughter. For..
+\endverse
+\beginverse
+Our Lord went away to the war, mounted on top a tall stallion,
+To fight for some noble cause, with his knights there and henchmen to guard him.
+Then we heard that they captured both he and his men,
+And for that they raised our taxes again,
+For to pay the great ransom in gold and in gems,
+To get our lord back to rule us. And.. 
+\endverse
+\beginverse
+This year there was a great drought. Our crops were burnt in the ground.
+Not that our lord did without, for his men took all that they found.
+Then our lord came among us with some of his men,
+To announce the taxes were raised yet again,
+So a few of us acted on our desperate plan,
+Now his body is meat for the crows.
+\endverse
+\textnote{No chorus this time}
+\beginverse
+Into the fire we stare, behind our poor barricade.
+Too tired to feel the despair, knowing no one will come to our aid.
+For when the sun rises the knights all around,
+They will gather in force and they'll hunt us all down,
+And they'll mount our heads proudly on pikes in the town,
+And our final tax will be paid. And.. 
+\endverse
+\beginchorus
+We are the worms of the earth,
+Against the lions of might.
+All of our days we are tied to the land,
+While they hunt and they feast and they fight.
+We give our crops and our homes and our lives,
+The clerics tell us this is right.
+And they've beat us before, and they'll kill us tomorrow,
+But we'll drink from their helmets tonight.
+\endchorus
+\endsong

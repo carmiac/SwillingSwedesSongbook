@@ -1,0 +1,16 @@
+\beginsong{White Sand and Grey Sand}[
+%    by={A. Author, B. Authour},
+%    cr={Public domain},
+%    index = {Some obvious line},
+%    tune = {The Filked Song}
+]
+\textnote{As a round}
+\beginverse
+White sand and grey sand,
+Who will buy my white sand?
+\endverse
+\beginverse
+White sand and grey sand,
+Who will buy my grey sand?
+\endverse
+\endsong

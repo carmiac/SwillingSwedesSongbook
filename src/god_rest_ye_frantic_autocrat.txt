@@ -1,0 +1,37 @@
+\beginsong{God Rest Ye Frantic Autocrat}[by={Master Tivar Moondragon },
+                     tune = {God Rest Ye Merry Gentlemen}]
+\beginverse
+God rest ye frantic autocrat, let nothing you dismay,
+Remember that the great event is still a month a way,
+Don't panic yet, there's lots of time, and don't get swept away. 
+\endverse
+\beginchorus
+And sing ye in chorus: " Never again, never again,"
+And sing ye in chorus: " Ne'er again!" 
+\endchorus
+\beginverse
+God rest ye frantic autocrat, let nothing you dismay,
+Remember that the great event is still two weeks away.
+The site is grand, though if it rains, it just might walk away.
+\endverse
+\beginverse
+God rest ye frantic autocrat, let nothing you dismay,
+Remember that the great event is still a week away,
+The music' s fine if only they remember how to play.
+\endverse
+\beginverse
+God rest ye frantic autocrat, let nothing you dismay,
+Remember that the great event is still three days away.
+The feast is planned, the food' s been bought, though God knows how you'll pay.
+\endverse
+\beginverse
+God rest ye frantic autocrat, let nothing you dismay,
+Remember that the great event is scheduled for today.
+The tourney' s grand, the rain won't last for very long, they say.
+\endverse
+\beginverse
+God rest ye frantic autocrat, let nothing you dismay,
+Remember that the great event, Can' t even cry " Oyez."
+The list field' s under water; a tornado's on the way. 
+\endverse
+\endsong

@@ -1,0 +1,9 @@
+\beginsong{A Touch of Autumn}
+\beginverse
+A touch of autumn fill the air
+A tender softness everywhere
+And golden mornings everywhere
+Are calling,
+Can you hear?
+\endverse
+\endsong

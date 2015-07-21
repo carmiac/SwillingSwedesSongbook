@@ -1,0 +1,37 @@
+\beginsong{Here Come the Sons}[by={Koshka},
+                                tune = {Here Comes the Sun - The Beatles}]
+\beginchorus
+Here comes the Sons, do do do do
+Here come the Sons, And I say - - Let' s fight! 
+\endchorus
+\beginverse
+Count Christian, it' s been a long, cold, lonely winter
+Tiger Lad, it seems like years since we' ve been here 
+\endverse
+\beginchorus
+Here comes the Sons, do do do do
+Here come the Sons, And I say - - Let' s fight! 
+\endchorus
+\beginverse
+Obadiah, I see the blood is amply flowing
+Swanman, it feels like years since I killed a peer 
+\endverse
+\beginchorus
+Here comes the Sons, do do do do
+Here come the Sons, And I say - - Let' s fight! 
+\endchorus
+\beginverse
+Sons, Sons, Sons, here they come
+Sons, Sons, Sons, here they come
+Sons, Sons, Sons, here they come
+Sons, Sons, Sons, here they come
+\endverse
+\beginverse
+Beerslayer, we see that they have been retreating
+Lord Corwin, it seems like years since we' ve been feared 
+\endverse
+\beginverse
+Sons, Sons, Sons, here they come
+Sons, Sons, Sons, here they come
+\endverse
+\endsong

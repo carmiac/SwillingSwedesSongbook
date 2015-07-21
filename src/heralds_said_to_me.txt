@@ -1,0 +1,32 @@
+\beginsong{The Heralds Said to Me}[by={ Ioseph of Locksley, Cherie Ruadh of Locksley },
+                     tune={12 Days of Christmas}]
+\beginverse
+The first time I sent my device the Heralds said to me:
+It violates the Rule of Three 
+\endverse
+\beginverse
+The next time I tried it, the Heralds said to me:
+We changed the forms, and 
+It violates the Rule of Three!
+\endverse
+\textnote{...to save space...}
+\beginverse
+The LAST time I sent my device, the Heralds said to me:
+Someone else has got it, 
+We changed the rules again,
+It's not a period design, 
+It's against the Rule of Tincture,
+We changed the rules,
+\textnote{In a fast Gregorian Monotone}
+In a decision rendered by the College of Arms
+on August 1'st, A.S. V it was decided that this
+Style of Heraldic Design was not appropriate to
+the aims and intentions of the Corporate Body
+Holy! Holy! Holy! 
+\textnote{Back to singing}
+We haven't got it, 
+We upped the fees, 
+We changed the forms, and 
+It violates the Rule of Three 
+\endverse
+\endsong

@@ -1,0 +1,90 @@
+\beginsong{King Kalas and his Sons}
+\beginchorus
+King Kalas had four sons,
+And four sons had he,
+And they rambled around
+In the northern countrie
+And they rambled around
+Without ever a care.
+The hound and the Bull
+And the cat and the bear.
+\endchorus
+\beginverse
+The hound was a hunter,
+The hound was a spy,
+The Hound could shoot down
+Any Bird o n the fly.
+The hound was out hunting
+When brought down was he
+Alone as he rambled
+The Northern Countrie.
+\endverse
+\beginchorus
+King Kalas had three sons,
+And three sons had he,
+And they rambled around
+In the northern countrie
+And they rambled around
+Without ever a care.
+And they were the Bull
+And the Cat and the Bear.
+\endchorus
+\beginverse
+The bull was a gorer,
+The bull was a knight,
+And never a man who would
+Run from a fight.
+The Bull was out fighting
+When brought down was he
+Alone as he rambled
+The northern countrie.
+\endverse
+\beginchorus
+King Kalas had two sons,
+And two sons had he,
+And they rambled around
+In the northern countrie
+And they rambled around
+Without ever a care.
+And the names they were called
+Were the Cat and the Bear.
+\endchorus
+\beginverse
+The Cat was a shadow,
+The cat was a snare,
+Sometimes you knew not
+When the cat was right there.
+The cat was out hiding
+When brought down was he
+Alone as he Rambled
+The northern countrie.
+\endverse
+\beginchorus
+King Kalas had one son,
+And one son had he,
+And he rambled around in the Northern countrie.
+And he rambled around without ever a care,
+And the name he went under
+Was Kalas' Bear.
+\endchorus
+\beginverse
+The bear was a bully,
+The bear was a brag,
+His mouth was brimmed over
+With bluster and swag.
+The bear was out boasting
+When brought down was he
+Alone as he rambled
+The northern countrie.
+\endverse
+\beginchorus
+King Kalas had no sons,
+And no sons had he,
+To ramble around
+In the northern countrie.
+Though late in the evening
+The ghosts are seen there
+Of the Hound and the Bull
+And the Cat and the Bear. 
+\endchorus
+\endsong

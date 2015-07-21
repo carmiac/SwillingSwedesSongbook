@@ -1,0 +1,38 @@
+\beginsong{Down at the Inn}[by={Francis of Saxony }]
+\beginverse
+Hey, digga din, Hey, digga din, down at the inn,
+Down at the inn, Down at the inn,
+Hey, digga din, Hey, digga din, down at the inn,
+Down at the inn, Everyone's down at the inn,
+\endverse
+\beginverse
+My lady's a hosteler, hosteler, hosteler,
+Such a fine hosteler she.
+All day she mounts horses, mounts horses, mounts horses;
+At night she comes home and drinks tea.
+\endverse
+\beginverse
+My lord is a jester, a jester, a jester,
+And such a fine jester is he.
+All day he makes jokes, makes jokes, he makes jokes;
+At night he comes home and drinks tea.
+\endverse
+\beginverse
+. a woodworker . screws bolts .
+\endverse
+\beginverse
+. an armorer . bangs iron .
+\endverse
+\beginverse
+. a herald . blows horns .
+\endverse
+\beginverse
+. a mason . lays bricks .
+\endverse
+\beginverse
+My Lady's a herbalist, herbalist, herbalist,
+Such a fine herbalist she.
+All day she drinks tea, she drinks tea, she drinks tea;
+At night she does nothing but pee. 
+\endverse
+\endsong

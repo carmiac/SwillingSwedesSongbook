@@ -1,0 +1,49 @@
+\beginsong{Van Dieman’s Land}[
+    by={Traditional},
+%    cr={Public domain},
+%    index = {Some obvious line},
+%    tune = {The Filked Song}
+]
+\beginverse
+Come all you wild and wicked youths, where ever you may be
+For I bid you pay attention now, and listen unto me
+For the fate of us poor transports, as you will understand
+And the hardships we do undergo, upon Van Diemans Land
+\endverse
+\beginverse
+My parents reared me tenderly, good learning gave to me
+Till with bad men I was beguiled, which proved my destiny
+O' I was brought up in Worchestershire, near to the town did dwell
+My name is Henry Albert, and many knows me well
+\endverse
+\beginverse
+Me and three more went out one night, to Squire Daniel's farm
+To get some game was our intent, as the night came tumbling down
+But to our sad misfortune, they took us there with speed
+And they hauled us off to Warlock Jail, which made our hearts to bleed
+\endverse
+\beginverse
+There at the Marchers Rises, At the bar we did appear
+Like Job we stood with patience, to hear our sentence there
+But being some bold offenders, made our case go hard
+My sentence was for fourteen years, and I was sent onboard
+\endverse
+\beginverse
+Now the ship that took us from the land, the Speedwell was her name
+For a full four months and more my boys, we ploughed the Ragin' Main
+No land, no harbor did we see, and believe it is no lie
+All around us one black water, above us one blue sky
+\endverse
+\beginverse
+On the day we made it to the land, upon that fateful shore
+The planters gathered 'round us there, full forty score and more
+They led us round like horses there, and sold us out of hand
+And they yoked us to the plough my boy, to plough Van Diemans Land
+\endverse
+\beginverse
+Last night as I lay in my bed, of Wooster I did dream
+With my true love beside me there, down by some burblin' stream
+But a' broken hearted I awoke, alone and far from home
+For now we're rattlin' in our chains, in foreign lands to roam 
+\endverse
+\endsong

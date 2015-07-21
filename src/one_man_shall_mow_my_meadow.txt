@@ -1,0 +1,31 @@
+\beginsong{One Man Shall Mow My Meadow}
+\beginverse
+One man shall mow my meadow
+Two men shall gather it together
+Two men and one more
+Shall shear my lambs and ewes and rams
+And gather my gold together
+\endverse
+\beginverse
+Three men shall mow my meadow
+Four men shall gather it together
+Four men, three men, two men and one more
+Shall shear my lambs and ewes and rams
+And gather my gold together
+\endverse
+\beginverse
+Five men shall mow my meadow
+Six men shall gather it together
+Six men, five men, four men, three men, two men and one more
+Shall shear my lambs and ewes and rams
+And gather my gold together
+\endverse
+\beginverse
+Seven men shall mow my meadow
+Eight men shall gather it together
+Eight men, seven men, six men, five men, four men, three men,
+  two men and one more
+Shall shear my lambs and ewes and rams
+And gather my gold together
+\endverse
+\endsong

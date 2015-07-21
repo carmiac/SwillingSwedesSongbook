@@ -1,0 +1,26 @@
+\beginsong{Golden, Golden}[by={Andy Stewart}]
+\beginverse
+Slowly, slowly, walk the path,
+And you might never stumble or fall
+Slowly, slowly walk the path,
+And you might never find love at all 
+\endverse
+\beginchorus
+Golden golden is her hair
+Like the mornin' sun, o'er the fields of corn
+Golden, golden flows her love,
+So sweet, and clean, and warm 
+\endchorus
+\beginverse
+Lonely, lonely, is the heart
+That ne'er another can call it's own
+Lonely, lonely is the heart
+That has to live all alone 
+\endverse
+\beginverse
+Wildly, Wildly, beats the heart
+With a rush of love like a mountain stream
+Wildly, wildly, play your part
+As free as a wild bird dreams 
+\endverse
+\endsong

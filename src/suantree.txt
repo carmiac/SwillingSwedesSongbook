@@ -1,0 +1,18 @@
+\beginsong{Suantree}[
+    index = {Hush Song},
+]
+\beginverse
+Sweet babe, a golden cradle holds thee;
+Soft a snow white fleece enfolds thee;
+Fairest flow'rs are strewn before thee;
+Sweet birds warble o'er thee:
+Sho heen sho lo! Shoe Heen sho lo lo! 
+\endverse
+\beginverse
+Oh! Sleep, my baby, free from sorrow,
+Bright thou'lt open thine eyes tomorrow;
+Sleep while o'er thy smiling slumbers
+Angels chant their numbers:
+Shoheen Sho lo! 
+\endverse
+\endsong

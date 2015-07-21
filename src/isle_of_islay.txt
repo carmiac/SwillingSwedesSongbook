@@ -1,0 +1,22 @@
+\beginsong{Isle of Islay}
+\beginverse
+How high the gulls fly o'er Islay,
+How sad the farm land deep in plague,
+Felt like the grain on your sand.
+\endverse
+\beginverse
+How well the sleep's bill music makes,
+Roving the cliffs where fancy takes
+Felt like a tide left me here.
+\endverse
+\beginverse
+How blessed the forest with birds song,
+How neat the cut peat laid so long,
+Fell like a seed on your land.
+\endverse
+\beginverse
+Felt like a tide left me here,
+Felt like a grain on your sand,
+Felt like a grain on your sand. 
+\endverse
+\endsong

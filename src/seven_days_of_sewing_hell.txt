@@ -1,0 +1,48 @@
+\beginsong{The Seven Days of Sewing Hell}[
+  by={Lady Anwyn},
+  tune={12 Days of Christmas}]
+\beginverse
+Seven days before 12th Night my true love bade of me,
+"Make me a tabard that is red and yellow parti"
+\endverse
+\beginverse
+Six days before 12th Night my true love bade of me,
+"Pray make a banner just like the tabard that is red and yellow parti"
+\endverse
+\beginverse
+Five days before 12th Night my daughter came to me,
+"Make me a corset, don't forget the banner, just like the tabard that is
+Red and yellow parti"
+\endverse
+\beginverse
+Four days before 12th Night my son asked of me,
+"Make me a tunic, finish my corset, hurry with the banner, that is just
+Like the tabard that is red and yellow parti"
+\endverse
+\beginverse
+Three days before 12th Night my best friend bade of me,
+"I need 5 gates of hell! Before you do the tunic, after you finish the
+corset, while you make the banner that is just like the tabard that is
+red and yellow parti"
+\endverse
+\beginverse
+Two days before 12th Night my neighbor asked of me,
+"One dagged sleeved hupalon, 2 linen wimples, 5 gates of Hell!, when you
+do the tunic, after the corset, when you finish the banner that is just
+like the tabard, that is red and yellow parti"
+\endverse
+\beginverse
+On the day of 12th Night my sister bade of me,
+"A 4 layer velvet Tudor, after you start the dagged sleeved hupalon, I'll
+take over the wimples, almost done on the 5 gates of Hell, forget about
+the tunic, but finish up the corset, don't forget the banner that is just
+like the tabard that is red and yellow parti"
+\endverse
+\beginverse
+\textnote{SING SLOW AND DIRGE LIKE}
+On the day after 12th Night- there was 1 velvet Tudor, 1 dagged
+sleeved hupalon, 2 linen wimples, 5 gates of Hell!, 1 full length tunic,
+a steel boned corset, 1 thread bare banner just like the tabard that all
+ended up in Gold Key! 
+\endverse
+\endsong

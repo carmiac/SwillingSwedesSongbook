@@ -1,0 +1,37 @@
+\beginsong{The Pride of the Stag}[
+    by={Pendar the Bard},
+%    cr={Public domain},
+%    index = {Some obvious line},
+%    tune = {The Filked Song}
+]
+\beginverse
+The Outlands has fought in wars outside our realm,
+Traveled far for the sake of the crown,
+But oft foreign lands judge us by how we appear,
+In spite of the honor we’ve shown.
+\endverse
+\beginchorus
+For an Outlander’s soul is tied strong to our king,
+Takes pride in the strength of the stag.
+And to those who may view us as less than we are:
+Beware the approach of our flag.
+\endchorus
+\beginverse
+Now some kingdoms view us as barbaric men,
+Make light of our dress and our ways,
+But the drums that they hear beat our dance out tonight,
+Will beat out their doom the next day.
+\endverse
+\beginverse
+Now some kingdoms view us as swordsmen for hire,
+To be bought for a silver a day,
+But the silver does not change an Outlander’s pride,
+We fight for our glory, not pay.
+\endverse
+\beginverse
+Now some kingdoms view us as nothing to fear,
+For deer are not known to be brave,
+But when foreign crowns crumple ‘neath antlers and hooves,
+They’ll pray to their gods to be saved.
+\endverse
+\endsong

@@ -1,0 +1,37 @@
+\beginsong{The Sleeping Scotsman}
+\beginverse
+A Scotsman clad in kilt left a bar one evening fair
+And one could tell by how he walked he'd drunk more than his share
+He stumbled on until he could no longer keep his feet
+Then staggered off into the grass to sleep, beside the street
+\endverse
+\beginchorus
+A ring-di-diddle-e-di do, a-ring-di-diddle-i-day
+He staggered off into the grass to sleep beside the street.
+\textnote{following choruses as above, repeating last line of verse}
+\endchorus
+\beginverse
+A pair of young and lovely girls just happened to come by
+And one said to the other, with a twinkle in her eye:
+"You see yon sleeping Scotsman, so strong and handsome built..
+I wonder if it's true what they don't wear beneath the kilt?"
+\endverse
+\beginverse
+They crept upon the sleeping Scotsman, quiet as could be,
+And lifted up his kilt above the waist, so they could see..
+And there, behold, for them to view, beneath his Scottish skirt
+'Twas nothing but what God has graced him with upon his birth!
+\endverse
+\beginverse
+They marveled for a moment, then one said: "We'd best be gone.
+But let's leave a present for our friend before we move along!"
+So as a gift, they left a blue silk ribbon, tied into a bow,
+Around the Bonnie Star the Scottish kilt did lift and show!
+\endverse
+\beginverse
+The Scotsman woke to Nature's Call, and stumbled towards a tree
+Behind the bush, he lifts his kilt, and gawks at what he sees!
+Then, in a startled voice he says to what's before his eyes:
+"I ken na' whaur y'been, m'lad, but I see y'won First Prize!" 
+\endverse
+\endsong

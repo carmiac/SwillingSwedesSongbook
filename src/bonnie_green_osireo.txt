@@ -1,0 +1,35 @@
+\beginsong{Bonnie Green Osireo}[index = {The Cruel Mother}]
+\beginverse
+She's leaned her back against an oak,
+All alone in the lailey O',
+She's pushed, and she's pushed till her backs near broke.
+Down in the bonny green Osireo.
+\endverse
+\beginverse
+She's leaned her head against a thorn,
+All alone in the lailey O',
+The two bonniest babes that ever were born.
+Down in the bonny green Osireo.
+\endverse
+\textnote{SImilarly}
+\beginverse
+She's gone back to her fathers castle hall,
+She was the smallest maid of them all.
+\endverse
+\beginverse
+She looks over her father's castle wall,
+She sees two babes a' playin' at the ball.
+\endverse
+\beginverse
+O, bonny babes if you were mine,
+I'd give you bread, and I'd give you wine.
+\endverse
+\beginverse
+Mother Dear Mother, when we were thine,
+Around our necks you pulled the twine.
+\endverse
+\beginverse
+Now we are in the heaven so High,
+And in hells fires you shall die.
+\endverse
+\endsong

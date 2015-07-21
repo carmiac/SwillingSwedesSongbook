@@ -1,0 +1,61 @@
+\beginsong{The Viking Love Song}[
+%    by={A. Author, B. Authour},
+%    cr={Public domain},
+%    index = {Some obvious line},
+%    tune = {The Filked Song}
+]
+\beginverse
+Oh I'm a sturdy Viking lad with hairy chest and chin,
+to match my furry armor so you can't tell where they end.
+I'm hung just like a horse to keep the ladies satisfied.
+and now I've come down from the north to hunt me up a bride.
+\endverse
+\beginverse
+I saw you in your father's fields and knew him to be rich.
+so I cut his legs off at the knees and tossed him in the ditch.
+I plundered all his cattle and took his larder too.
+And now I hie me back to Jaul in hopes to marry you.
+\endverse
+\beginchorus
+Cuz I'm a man,
+Viking man,
+and what's more,
+I think I'm in love.
+\endchorus
+\beginverse
+I've lots of wealth to offer and that's truly not a boast.
+for I've all the wealth of half the farms along the eastern coast.
+I slaughtered all your family just to prove to you my heart,
+and by your hair I drug you home so we need not be apart.
+\endverse
+\beginverse
+I've have many servants that will also be as yours.
+There's Gertrude and Brunhilde who can help you with the chores
+And there's young Laina who upon a former maid I sired.
+and I bed one down each night so you need not get too tired.
+\endverse
+\beginchorus
+Cuz I'm a man,
+Viking man,
+and what's worse,
+I think I'm in love.
+\endchorus
+\beginverse
+Yes I'm a sturdy Viking lad, a fine catch to be sure.
+Though I smell much like and ox, my heart is Viking pure.
+I thank Odin, I thank Frey, for smiling on my life,
+for on, for us, this lucky day you shall become my wife.
+\endverse
+\beginchorus
+Cuz I'm a man,
+Viking man,
+and what's worse,
+I think I'm in love.
+\endchorus
+\beginchorus
+Cuz I'm a man,
+Viking man,
+and what's worse,
+I think I'm in love.
+\endchorus
+\endsong

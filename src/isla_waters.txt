@@ -1,0 +1,32 @@
+\beginsong{The Isla Waters}[by={Andy Stewart, Martin Hadden}]
+\beginverse
+I hae' friends, they buy me whisky
+Bonnie friends they call my name
+But if I should get too drunk for walkin'
+Where's the man that would carry me hame 
+\endverse
+\beginchorus
+And if I be drunk in the Isla Waters
+Through the Thistlewood I must hame
+If I be drunk in the Isla Waters
+My wee doggie would find me in the Isla Stream 
+\endchorus
+\beginverse
+All the day I bless that water
+Aye she's bricht an' clear to see
+But after hours o' ale hoose laughter
+Dark an' still she waits for me 
+\endverse
+\beginverse
+Like the fishers line that's broken
+Leaves the salmon tae the swell
+Many's the nicht you've had me soakin'
+Part tae break the lyer's hell 
+\endverse
+\beginverse
+All my days I've lived tae court her
+Bauden bonny fine stuff I've seen
+But should I droun in yuir water
+My wee doggie would find me in the Isla Stream 
+\endverse
+\endsong

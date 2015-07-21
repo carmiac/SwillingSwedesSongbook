@@ -1,0 +1,56 @@
+\beginsong{The Outlands Marches Off to War}[by={James the Namer},
+                     tune = {The Ants go Marching}]
+\beginverse
+The Outlands marches off to war
+Huzzah, huzzah
+At least a hundred men or more
+Huzzah, huzzah
+The Outlands marches off to war
+The King and Queen march in the fore 
+\endverse
+\beginchorus
+And we all go marching down
+To the war, in Atenveldt, Oh... 
+\endchorus
+\beginverse
+The Outlands marches off to fight
+Fifty spearpoints in the light
+The Outlands marches off to fight
+A hundred helmets shining bright
+\endverse
+\beginverse
+The Outlands marches off to war
+With grand Caid just like before
+The Outlands marches off to war
+With our Caid brothers from afar
+\endverse
+\beginverse
+The Outlands marches off to fight
+A Calontir Fyrdman to our right
+The Outlands marches off to fight
+The Calontir Fyrdsman ready to strike
+\endverse
+\beginverse
+The Outlands marches off to war
+To face the Aten shields galore
+The Outlands marches off to war
+To fill the Aten fields with gore
+\endverse
+\beginverse
+The Outlands marches off to fight
+To take our toll on Atens might
+The Outlands marches off to fight
+Us each an Aten helm to smite
+\endverse
+\beginverse
+The Outlands won the war that day
+Huzzah, huzzah
+It's friends we're fighting anyway
+Huzzah, huzzah
+(slowly)
+The Outlands won the war that day
+Then we went off to drink and play
+With our good friends from the west
+In the land, of Atenveldt, oh 
+\endverse
+\endsong

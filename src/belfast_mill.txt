@@ -1,0 +1,30 @@
+\beginsong{Belfast Mill}
+\beginverse
+On the east end of town, by the foot of the hill
+There's a chimney so tall, says Belfast Mill
+But there's no smoke at all comin' out of the stack
+For the mill has shut down, and it's never comin' back
+\endverse
+\beginchorus
+And the only tune I hear is the sound of the wind
+As she blows through the town, we then spin, we then spin
+\endchorus
+\beginverse
+There's no children playin down the dark lonely streets
+For the mill has shut down, so quiet I can't sleep
+\endverse
+\beginverse
+The mill has shut down, 'twas the only life I know
+Tell me where will I go, tell me where will I go
+\endverse
+\beginverse
+Well I'm to old to work, and I'm too young to die
+Tell me where will I go, my family and I
+\endverse
+\beginverse
+At the east end of town, by the foot of the hill
+There's a chimney so tall, says Belfast Mill
+But there's no smoke at all comin' out of the stack
+For the mill has shut down, and it's never comin' back 
+\endverse
+\endsong

@@ -1,0 +1,57 @@
+\beginsong{Ratty Atta To Dum}[by={Traditional }]
+\textnote{Chorus every two verses}
+\beginverse
+As I rode out to Galway City
+At the hour of twelve at night
+Who should I see but a handsome damsel
+Combin' her hair by candlelight
+\endverse
+\beginverse
+Lassie I have gold and silver
+Lassie I have houses and lands
+Lassie I have ships on the ocean
+They'll be all at your command 
+\endverse
+\beginchorus
+Ratty atta to dum to dum to dum
+Ratty atta to dum to dum day
+Ratty atta to dum to dum to dum
+Ratty atta to dum to dum day 
+\endchorus
+\beginverse
+So to me you came a courtin
+My fine favor for to win
+But would gi' me the greatest pleasure
+If you never did call again
+\endverse
+\beginverse
+What would I do when I go a walkin'
+Walkin' out in the mornin dew
+What would I do when I go a walkin'
+Walkin out wi' a lad like you
+\endverse
+\beginverse
+Lassie I have gold and silver
+Lassie I have houses and lands
+Lassie I have ships on the ocean
+They'll be all at your command
+\endverse
+\beginverse
+What do I care for your ships on the ocean
+What do I care for your houses and lands
+What do I care for your gold and silver
+All I want is a handsome man
+\endverse
+\beginverse
+Did you ever see the grass in the mornin'
+All bedecked wi' jewels a rare
+Ever see a handsome lassie
+Diamonds sparklin in her hair
+\endverse
+\beginverse
+Ever see a copper kettle
+Mended wi' an old tin can
+Ever see a handsome lassie
+Married off to an ugly man 
+\endverse
+\endsong

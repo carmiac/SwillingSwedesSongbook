@@ -1,0 +1,26 @@
+\beginsong{Come by the Hills}[by={Gordon Smith}]
+\beginverse
+Come by the hills to the land where fancy is free
+And stand where the peaks meet the sky and the lochs meet the sea
+Where the rivers run clear and the bracken is gold in the sun
+Ah, the cares of to-morrow can wait 'til this day is done
+\endverse
+\beginverse
+Oh, come by the hills to the land where life is a song
+And sing while the birds fill the air with their joy all day long
+Where the trees sway in time and even the wind sings in tune
+Ah, the cares of to-morrow can wait 'til this day is done
+\endverse
+\beginverse
+Come by the hills to the land where legend re-mains
+Where stories of old fill the heart and may yet come a-gain
+Where our past has been lost and the future has still to be won
+Ah, the cares of to-morrow can wait 'til this day is done 
+\endverse
+\beginverse
+Come by the hills to the land where fancy is free
+And stand where the peaks meet the sky and the lochs meet the sea
+Where the rivers run clear and the bracken is gold in the sun
+Ah, the cares of to-morrow can wait 'til this day is done
+\endverse
+\endsong

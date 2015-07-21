@@ -1,0 +1,27 @@
+\beginsong{Sally, My Dear}
+\beginverse
+Oh Sally my dear, I would I could woo you,
+Oh Sally my dear, I would I could woo you,
+She laughed and replied, "would then wooing undo you?"
+\endverse
+\beginchorus
+Sing fol the diddle di-do
+Sing Whack fol the diddle day.
+\endchorus
+\beginverse
+Oh Sally my dear, your cheek I would kiss it, (2x)
+She laughed and replied, "If you did, would you miss it?"
+\endverse
+\beginverse
+If the young girls were fish, that swim in the water
+Then all the young men would go and swim after.
+\endverse
+\beginverse
+If all the young girls were linnets and thrushes
+Then all the young men would go beating the bushes.
+\endverse
+\beginverse
+Oh Sally my dear, 'tis the season for mating
+She laughed and replied, "Why then are you waiting?"
+\endverse
+\endsong

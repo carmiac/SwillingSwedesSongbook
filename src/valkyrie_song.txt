@@ -1,0 +1,70 @@
+\beginsong{A Valkyrie Song}
+[
+    by={Mikal Hrafspa},
+%    cr={Public domain},
+%    index = {Some obvious line},
+%    tune = {The Filked Song}
+]
+\beginchorus
+Alone by the fire, a warrior I knew
+Told me this tale, and I pray it is true.
+\endchorus
+\beginverse
+From far Ansteorra our dragon-ship came
+To fight for good Halidar on Lilied plain
+My sword I had lent seeking honor and fame
+Or Odin's great hall in the fray
+\endverse
+\beginverse
+We charged into battle, the sun beating high
+Our battle-horns sounding a victory nigh
+Our spears crossed their arrows like hawks in the sky
+Leaving many men dead on the way
+\endverse
+\beginchorus
+Sing me no songs of angels I pray
+For a Valkyrie found me in battle that day
+\endchorus
+\beginverse
+The battle was long and the sun was like fire
+The heat drove us down like a funeral pyre
+Though many I'd slain, now my bloodlust did tire
+Struck down by the heat of the day
+\endverse
+\beginverse
+The battle moved onward from where I was laid
+I drew of my helmet to rest in the shade
+When a soft even tread, like the wind in a glade
+Brought a daughter of Asgard my way
+\endverse
+\beginchorus
+Sing me no songs of angels I pray
+For a Valkyrie found me in battle that day
+\endchorus
+\beginverse
+She gave me cool drink 'till my wits came again
+Be fore I could speak she was gone like the wind
+Had I but died, I could follow her then
+But I lay with the living that day
+\endverse
+\beginverse
+Long I did search, a full year I have mourned
+And told all my brothers this love I have borne
+But she is of Asgard, and I of this shore
+So here with my brothers I stay
+\endverse
+\beginchorus
+Sing me no songs of angels I pray
+For a Valkyrie found me in battle that day
+\endchorus
+\beginverse
+True to this dream like the tale I have told
+Close to my heart, a small pouch I still hold
+And in it a lock of her hair pure as gold
+This I carry to battle this day
+\endverse
+\beginchorus
+Alone by the fire, a warrior I knew
+Told me this tale, and I pray it is true ..... 
+\endchorus
+\endsong

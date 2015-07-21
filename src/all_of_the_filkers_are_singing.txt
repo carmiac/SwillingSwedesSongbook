@@ -1,0 +1,28 @@
+\beginsong{All of the Filkers are Singing}[
+                     tune = {Greensleeves-ish},
+                     ]
+\beginverse
+The folks have all gathered under the bright moonlight
+To sing strange tales of dragons in flight
+The laurels overheard us, they've retired for the night
+They can't take the sound of our singing 
+\endverse
+\beginchorus
+So belt out whatever note suits you
+Join in everyone, is your own key
+It's fare thee well, to all vestige of harmony
+When all of the filkers are singing 
+\endchorus
+\beginverse
+When sing-a-longs start in this gathering of friends
+The authentic mavens scream, "Dear God when will it end"
+The drunks and the tone deaf add spice to the blend
+Of what we have the gall to call singing 
+\endverse
+\beginverse
+Our bloodshot eyes clash with the pink morning sun
+It's a hell of a night once the singing's begun
+Yet for some strange reason we claim that it's fun
+When everyone is gathered for singing 
+\endverse
+\endsong

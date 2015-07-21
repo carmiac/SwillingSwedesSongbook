@@ -1,0 +1,52 @@
+\beginsong{The Foggy Dew }[by={Charles O’Neill }]
+\beginverse
+'Twas down the glen one Easter morn
+To a city fair rode I.
+When Ireland's line of marching men
+In squadrons passed me by.
+No pipe did hum, no battle drum
+Did sound its dread tattoo
+But the Angelus bell o'er the Liffey's swell
+Rang out in the foggy dew.
+\endverse
+\beginverse
+Right proudly high over Dublin town
+They hung out a flag of war.
+'Twas better to die 'neath an Irish sky
+Than at Suvla or Sud el Bar.
+And from the plains of Royal Meath
+Strong men came hurrying through;
+While Brittania's sons with their long-range guns
+Sailed in from the foggy dew.
+\endverse
+\beginverse
+'Twas England bade our wild geese go
+That small nations might be free.
+Their lonely graves are by Suvla's waves
+On the fringe of the grey North Sea.
+But had they died by Pearse's side
+Or fought with Gathal Bruga,
+Their graves we'd keep where the Fenians sleep
+'Neath the hills of the foggy dew.
+\endverse
+\beginverse
+The bravest fell, and the solemn bell
+Rang mournfully and clear
+For those who died that Eastertide
+In the springing of the year.
+And the world did gaze in deep amaze
+At those fearless men and true
+Who bore the fight that freedom's light
+Might shine through the foggy dew.
+\endverse
+\beginverse
+Ah, back through the glen I rode again
+And my heart with grief was sore
+For I parted then with valiant men
+Whom I never shall see more
+But to and fro in my dreams I go
+And I'd kneel and pray for you,
+For slavery fled, O glorious dead,
+When you fell in the foggy dew. 
+\endverse
+\endsong

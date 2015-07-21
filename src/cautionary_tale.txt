@@ -1,0 +1,52 @@
+\beginsong{A Cautionary Tale}[
+  by={Adellind Le Quintain},
+  tune={Red is the Rose}]
+\beginverse
+Well, come sit ye down, and I'll tell you a tale
+It concerns what goes on 'tween lads and lasses
+'tis a good thing to learn for any canny lass
+And when I am done you will thank me.
+\endverse
+\beginchorus
+Red is yer nose as on yer face it grows
+And red is me face as I sit here
+And red is the hand does the spankin' in this land
+But my arse is redder than any!
+\endchorus
+\beginverse
+"Now come to the bed, me bonnie little wife,
+And we'll have a bit of slap-and-tickle.
+And willing I went and well was I served
+But 'twas then that I made my great blunder.
+\endverse
+\beginverse
+"Oh, Johnnie, my love, your lovin' has no peer"
+and truer words were never spoken
+But Robbie's the name of my duly wedded lord
+And John is the name of my lover.
+\endverse
+\beginchorus
+Red is yer nose as on yer face it grows
+And red is me face as I sit here
+And red is the hand does the spankin' in this land
+But my arse is redder than any!
+\endchorus
+\beginverse
+Then up from the bed, me husband bolted up
+And great was his rage as he shouted,
+"Now how is it, wife that ye call another's name,
+When I should be all that ye think of?"
+\endverse
+\beginverse
+My tale now is done, as I shift from cheek to cheek
+The lesson I learned is quite simple;
+If ye canna hold your tongue when ye're lyin' with a man,
+'Tis best ye remain ever faithful! 
+\endverse
+\beginchorus
+Red is yer nose as on yer face it grows
+And red is me face as I sit here
+And red is the hand does the spankin' in this land
+But my arse is redder than any!
+\endchorus
+\endsong

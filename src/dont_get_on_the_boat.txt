@@ -1,0 +1,47 @@
+\beginsong{Don't Get on the Boat!}[
+    by={Pendar the Bard},
+%    cr={Public domain},
+%    index = {Some obvious line},
+%    tune = {The Filked Song}
+]
+\beginverse
+There's a lesson in ballads that oft is ignored
+Though the warning is quite plain to me
+Young lovers will find that their future is doomed
+Whenever they take to the sea.
+\endverse
+\beginchorus
+Don't get on the boat! Don't get on the boat!
+No one's seen this more times than me.
+As a bard I sing often of ill-fated loves
+And many are claimed by the sea.
+\endchorus
+\beginverse
+A young highland lad told his lass he must go
+To fight in the wars for his King.
+He got on a boat, and never returned
+Now the ghost of his lass waits and sings:
+\endverse
+\beginverse
+Captain Jack was a young man when he went to sea
+Left behind him a young fiancee
+He married a mermaid and his young lady love
+Was down on the docks heard to say:
+\endverse
+\beginverse
+A man sailed away from the banks of the Lea
+And his lass waited late at the moor.
+She died in the darkness, and the grieving young man
+Pulls her roses and cries evermore:
+\endverse
+\beginverse
+Roy Neal and his bride sought out a new home
+Took a boat from their sweet Dublin Bay.
+They'd been on the water for only three days
+When the storm came and swept them away.
+\endverse
+\textnote{2 -  "My Love's Far Away" by Velada of Isenfir}
+\textnote{3 -  "Captain Jack and the Mermaid" by Meg Davis}
+\textnote{4 -  "Banks of the Lea" by Silly Wizard/Andy M. Stewart}
+\textnote{5 -  "Dublin Bay" by Silly Wizard/Andy M. Stewart} 
+\endsong

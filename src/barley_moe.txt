@@ -1,0 +1,21 @@
+\beginsong{The Barley Moe}[by={Traditional}]
+\beginverse
+Now here's jolly good luck to the brown bowl
+Good luck to the Barley Mow
+Jolly good luck to the  brown bowl
+Good luck to the Barley Mow
+Oh, the brown bowl
+Fetch in a little drop more 
+\endverse
+\beginverse
+\textnote {Last verse for brevity}
+Here's good luck to the company, good luck to the Barley Moe
+Jolly good luck to the company, good luck to the Barley Moe
+Here's good luck to the company, the daughter, the cooper,
+the brewer, the daughter, the landlady, the landlord, the full ton
+the half ton, the barrel, the half barrel, the gallon,
+the half gallon, the quart pot, pint pot, half pint, gill pot,
+half a gill, quarter gill, nipperkin, and the brown bowl.
+Here's good luck, good luck to the barley moe 
+\endverse
+\endsong

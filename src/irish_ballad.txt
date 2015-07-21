@@ -1,0 +1,76 @@
+\beginsong{An Irish Ballad}[by={Tom Lerher}]
+\beginverse
+About a maid I sing a song
+Sing rickety tickety tin
+About a maid I sing a song
+Who didn't have her family long
+Not only did she do them wrong
+She did every one of them in, them in
+She did every one of them in
+\endverse
+\beginverse
+One morning in a fit of peak
+Sing rickety tickety tin
+One morning in a fit of peak
+She drown her father in the creek
+The water tasted bad for a week
+So we had to make due with Gin, with Gin
+We had to make due with Gin
+\endverse
+\beginverse
+Her mother she could never stand
+Sing rickety tickety tin
+Her mother she could never stand
+And so a cyanide stew she planned
+Her mother died with a spoon in her hand
+And her face in a hideous grin, a grin
+Her face in a hideous grin
+\endverse
+\beginverse
+She set her sisters hair on fire
+Sing rickety tickety tin
+She set her sisters hair on fire
+And as the smoke and flames rose higher
+She danced around the funeral pyre
+Playing a violin, 'olin
+Playing a violin
+\endverse
+\beginverse
+\textnote{Spoken fast}
+She weighted her brother down with stones
+Sing rickety tickety tin
+She weighed her brother down with stones
+And sent him off to Davy Jones
+\textnote{Sung}
+All they ever found were some bones
+And occasional pieces of skin, of skin
+Occasional pieces of skin
+\endverse
+\beginverse
+One day when she had nothing to do
+Sing rickety tickety tin
+One day when she had nothing to do
+She cut her baby brother in two
+Served him up as an Irish Stew
+And invited the neighbors in, 'bors in
+And invited the neighbors in
+\endverse
+\beginverse
+And when at last the police came by
+Sing rickety tickety tin
+And when at last the police came by
+Her little pranks she could not deny
+To do so she would have had to lie
+And lying she knew was a sin, a sin
+And lying she knew was a sin
+\endverse
+\beginverse
+My ghastly tale I'll not prolong
+Sing rickety tickety tin
+My ghastly tale I'll not prolong
+And if you did not enjoy my song
+You've yourself to blame if it's too long
+You should never have let me begin, begin
+You should never have let me begin! 
+\endverse
+\endsong

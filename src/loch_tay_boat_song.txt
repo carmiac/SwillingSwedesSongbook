@@ -1,0 +1,56 @@
+\beginsong{Loch Tay Boat Song}[by={Scottish Traditional}]
+\beginverse
+When I'm done the work of day
+And I row my boat away
+Dawn the waters of Loch Tay
+When the evening light is fallen
+\endverse
+\beginverse
+Then I look towards Ben Lass
+Where the after glories glow
+And I dream of two bright eyes
+Where the Mary Mirth glow
+\endverse
+\beginverse
+She's my beauteous Maiden Loch
+She's my Joy and Sorrow too
+Though I own she is not true
+Ah, but I cannot live without her
+\endverse
+\beginverse
+For my heart's a boat in two
+And I'd give the world to know
+If she means to let me go
+As I send me slowly home
+\endverse
+\beginverse
+And in Loch her loving hair
+Has more beauty I declare
+Then all the tresses fair
+From Cildain to Aber Felde
+\endverse
+\beginverse
+Be they lent, white, gold, or brown
+Be they blacker than the sloe
+They meant not as much to me
+As a meltin' flake of snow
+\endverse
+\beginverse
+And her dance is like the gleam
+Of the sunlight on the stream
+And the songs that we folk sing
+Oh they're songs that she sings milkin'
+\endverse
+\beginverse
+But my heart is full of woe
+For last night she bade me go
+And the tears began to flow
+As I silently go home 
+\endverse
+\beginverse
+When I'm done the work of day
+And I row my boat away
+Dawn the waters of Loch Tay
+When the evening light is fallen
+\endverse
+\endsong

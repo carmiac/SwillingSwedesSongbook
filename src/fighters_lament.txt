@@ -1,0 +1,40 @@
+\beginsong{The Fighters Lament}[index = {I once had a sword },
+                     tune = {Norwegian Wood}]
+\beginverse
+I once had a sword
+Or should I say, it once had me
+I just picked it up
+Oh what a sword
+It was plus three
+\endverse
+\beginverse
+Its ego was twelve
+A fact of which I wasn't aware
+I tried to leave
+And I found that the sword didn't care
+Oh, oh, oh
+\endverse
+\beginverse
+I walked through the halls
+Wasting my time
+Nothing to find
+Then I turned around
+And then I said
+"Oh no, undead"
+\endverse
+\beginverse
+The thirty two knights saw me coming
+And started to laugh
+I closed my eyes
+As my sword started hewing a path
+Oh, oh, oh
+\endverse
+\beginverse
+And when I awoke
+I was alone
+That sword had flown
+Now I use a club
+Isn't it good
+No-Ego wood 
+\endverse
+\endsong

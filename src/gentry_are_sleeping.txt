@@ -1,0 +1,36 @@
+\beginsong{The Gentry Are Sleeping}[tune = {The Ants Go Marching}]
+\beginverse
+The Gentry are sleeping One by One, Oyez... Oyez...,
+The Gentry are sleeping One by One, Oyez... Oyez...,
+The Gentry are sleeping One by One,
+And no one is having very much fun,
+And The Gentry are sleeping anywhere they can. 
+\endverse
+\beginverse
+Two by two... It's a terribly period thing to do.
+\endverse
+\beginverse
+Three by three I think that's MY hand on my knee!
+\endverse
+\beginverse
+Four by four On the furniture, on the floor.
+\endverse
+\beginverse
+Five by five With everybody except their wives.
+\endverse
+\beginverse
+Six by six With (insert name) up to (his/her) usual tricks.
+\endverse
+\beginverse
+Seven by seven I think I've died and gone to heaven.
+\endverse
+\beginverse
+Eight by eight Hurry up (insert name) or you'll be late.
+\endverse
+\beginverse
+Nine by nine I don't know why, it must be the wine.
+\endverse
+\beginverse
+Ten by ten No one's asleep and it's morning again. 
+\endverse
+\endsong

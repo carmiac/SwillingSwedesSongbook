@@ -1,0 +1,30 @@
+\beginsong{Ballynure Ballad}
+\beginverse
+As I was goin’ to Ballynure,
+The day I will remember,
+For to view the lads and lasses on
+The fifth day of November,
+\endverse
+\beginchorus
+With a ma-ring-doo-a-day,
+With a ma-ring-a-doo-a-daddy oh!
+\endchorus
+\beginverse
+As I was goin’ along the road
+When homeward I was walking.
+I hear a wee lad behind a ditch-a
+To his wee lass was talking,
+\endverse
+\beginverse
+Said the wee lad to the wee lass,
+"It’s will ye let me kiss ye,
+For it’s I have got the cordial eye
+That far exceeds the whiskey."
+\endverse
+\beginverse
+This cordial that ye talk about
+There’s very few o’ them gets it,
+For there’s nothin’ now but crooked combs
+And muslin gowns can catch it.
+\endverse
+\endsong

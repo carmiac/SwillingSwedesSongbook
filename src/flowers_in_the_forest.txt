@@ -1,0 +1,20 @@
+\beginsong{The Flowers in The Forest}
+\beginverse
+I heard them lilting, at the morning milking
+The lassies a-lilting before the dawn of day
+Now they are mourning, their men not returning
+The flowers of the forest are stolen away
+\endverse
+\beginverse
+Faith in our order sent our lads to the border
+The English for once by deceit won the day
+The flowers of the forest, the bravest, the foremost
+The pride of our country, lie cold in the clay
+\endverse
+\beginverse
+There'll be no more lilting at the evening milking
+No laughter, no lightness the long summer day
+But weeping and mourning, for lovers not returning
+The flowers of the forest are vanished away 
+\endverse
+\endsong

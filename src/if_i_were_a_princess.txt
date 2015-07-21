@@ -1,0 +1,26 @@
+\beginsong{If I Were A Princess}[tune = {If I Were A Rich Man}]
+\beginchorus
+All day long I'd sit upon my throne,
+Watching all the peasants carry on. Ha. 
+\endchorus
+\beginverse
+If I were a princess- La Da Da Da Da Da etc.
+There would be a dozen virile knights
+Fighting for my favor and my song.
+\endverse
+\beginverse
+They'd Come to Court and give me all sorts of presents
+Trinkets and lovely things to eat.
+Then they'd bow and curtsey when I pass by.
+They'd work so hard to please me hoping that I would
+Tell them that their lives were now complete.
+But I'd just keep them groveling at my feet. Ha!
+\endverse
+\beginverse
+But since I'm not a princess- La Da Da Da Da Da etc.
+No one ever looks my way,
+I'm the one who toils night and day
+And I'll never hear the gentles say,
+"Oh, your highness have a lovely day."
+\endverse
+\endsong

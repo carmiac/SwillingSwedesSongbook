@@ -1,0 +1,27 @@
+\beginsong{Odin}[tune = {Mercedes Benz - Janis Joplin}]
+\textnote{Now here's a song of great religious and historical import'.}
+\beginverse
+O-din won't you bring me a long bastard sword
+I've killed 60 Normans, I deserve a reward
+My tribe all use pole arms but I'm getting bored
+O-din won't you give me a long bastard sword
+\endverse
+\beginverse
+O-din won't you give me a red 12 course lute
+When I sing accapella they give me the boot
+I really like salad and I'd sing for my curt-ons
+O-din won't you give me a red 12 course lute
+\endverse
+\beginverse
+O-din won't you give me a flagon of mead
+I'm dry and I'm parched and I'm really in need
+Can't face the day sober and I'm all out of weed
+O-din won't you give me a flagon of mead
+\endverse
+\beginverse
+O-din won't you give me a warm cuddly Knight
+A cold lonely bed always gives me a fright
+A Duke on my left and an Earl on my right
+O-din won't you give me a warm cuddly Knight 
+\endverse
+\endsong

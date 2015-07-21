@@ -1,0 +1,33 @@
+\beginsong{I'm a Freeborn Man}[by={Ewan MacColl},
+                            index = {Freeborn Man of the Traveling People}]
+\beginverse
+I am a freeborn man of the traveling people
+Got no fixed abode, with nomads I am numbered
+Country lanes and byways were always my ways
+Never fancied being lumbered
+\endverse
+\beginverse
+O we knew the woods, all the resting places
+And the small birds sang when wintertime was over
+Then we'd pack our load and be on the road
+They were good old times for the rover
+\endverse
+\beginverse
+There was open ground where a man could linger
+Stay a week or two for time was not your master
+Then away you'd jog with your horse and dog
+Nice and easy, no need to go faster
+\endverse
+\beginverse
+Now and then you'd meet up with other travelers
+Hear the news or else swap family information
+At the country fairs, we'd be meeting there
+All the people of the traveling nation
+\endverse
+\beginverse
+All you freeborn men of the traveling people
+Every tinker, rolling stone, or gypsy rover
+Winds of change are blowing, old ways are going
+Your traveling days will soon be over 
+\endverse
+\endsong

@@ -1,0 +1,40 @@
+\beginsong{The Gray-Bearded Knight}[
+    by={Thomas Winterbourne of Ghent},
+%    cr={Public domain},
+%    index = {Some obvious line},
+%    tune = {The Filked Song}
+]
+\beginverse
+I am an old man, a gray-bearded knight
+But I stood with young Harry on Agincourt’s field
+My arm is still strong and my eye is still bright
+And Baron or bandit, to no man I’ll yield
+\endverse
+\beginchorus
+I’ll hold the line, when darkness is fallin’
+I’ll hold the line, with courage and steel
+I’ll hold the line, till the gray dawn is breakin’
+And damned if I ever will yield
+\endchorus
+\beginverse
+Oh, I hear the whispers of popinjay warriors
+Unblooded young men and merchant’s third sons
+They call me grandfather and laugh at my warnings
+But there’ll be no laughter when battles begun
+\endverse
+\beginverse
+And now the French army is camped o’er the river
+And on the morrow they’ll be at the walls
+And all the young popinjays come to me cryin’
+Oh, what shall we do when the battle is called?
+\endverse
+\beginchorus
+You’ll hold the line...
+\endchorus
+\beginverse
+Oh, I am an old man, a gray-bearded knight
+But I stood with young Harry on Agincourt’s field
+My arm is still strong and my eye is still bright
+And Baron or bandit, to no man I’ll yield
+\endverse
+\endsong

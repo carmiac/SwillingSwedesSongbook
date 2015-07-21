@@ -1,0 +1,42 @@
+\beginsong{The Molecatcher}[by={Traditional}]
+\textnote{Collected by Bob Copper in about 1954 from Jim Barrett, at the Fox in North Waltham, Hants}
+\beginverse
+At Manchester City the sign of the Plough,
+There lives an old molecatcher, I can't tell you how.
+He goes a-molecatching from morning till night
+While the jolly young farmer goes playing with his wife.
+\endverse
+\beginchorus
+Singing law-til-i-day, law-tili-little-i, law-til-i-day.
+\endchorus
+\beginverse
+The molecatcher jealous of the very same thing,
+So he hides in the bake-house and saw him come in,
+And when that young farmer got over the stile
+It caused the molecatcher to laugh and to smile.
+\endverse
+\beginverse
+He knocked at the door and thus he did say,
+Pray, where is your husband, good woman, I say.
+He's gone a-molecatching, you need not fear,
+But little did she think the molecatcher was near.
+\endverse
+\beginverse
+She went upstairs - he followed the sign,
+And the molecatcher followed them closely behind,
+And when that young farmer was in the midst of his sport
+The molecatcher grabbed him quite fast by his coat.
+\endverse
+\beginverse
+He clapped his hands and laughed at the sight,
+Saying, This is the finest mole I've catched in me life.
+I'll make you pay well for ploughing my ground
+And the money it shall be no less than ten pound.
+\endverse
+\beginverse
+Very well, said the farmer, the money I don't mind,
+For it only costs me about twopence a time.
+So come all you young farmer chaps, mind what you're at
+And never get caught in a molecatcher's trap.
+\endverse
+\endsong

@@ -1,0 +1,55 @@
+\beginsong{Bianca's Lament}[
+    by={Bianca},
+%    cr={Public domain},
+%    index = {Some obvious line},
+%    tune = {The Filked Song}
+]
+\beginverse
+He stood on a battlefield in a tabbard of green
+White stag leaping high on his breast
+Two gold cups on his shield
+And a field of blue o'er the rest
+\endverse
+\beginverse
+He called to his comrades "We fight for the King"
+"For our Queen we lay down our lives,"
+"For our ladies' honour we take up our swords"
+"Outlands! Hark to our cry!" 
+\endverse
+\beginchorus
+Forward my warriors, Hark to the horn;
+we go forth to fight and to die.
+Be still sweet lady, 'tis not time to mourn;
+for the white stag, he yet marches high!
+Forward my spearmen, I stand with the shield.
+Forward my swordmen, I call.
+To this angry horde, we never shall yield;
+though to the last man, this day we may fall. 
+\endchorus
+\beginverse
+I looked o'er the battlefield searching long for sword
+And cups of my kinsmen and lord
+Out numbered on the green, the White Stag and his men
+Marched to meet the great foeman horde
+\endverse
+\beginverse
+My lord and my kinsmen stand ready to fight
+Waiting only the call of the King.
+LAY ON! Was the call and Outlands the cry
+And sword on armour did ring
+\endverse
+\textnote{Chorus}
+\beginverse
+I stand on a battlefield piled high with the dead
+With a cup for the warriors who live.
+Though blessed cool water I bear to these men
+And to them sweet succor I give,
+\endverse
+\beginverse
+My heart bleeds within me, for my lord lies just there
+Run through for to save his king.
+Long will I remember the battle this day
+Long of its great heroes I'll sing.
+\endverse
+\textnote{Chorus}
+\endsong

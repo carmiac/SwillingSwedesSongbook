@@ -1,0 +1,44 @@
+\beginsong{The Blackbird Of Sweet Avondale}[by={Traditional}]
+\beginverse
+By the sweet bay of Dublin, while carelessly strolling
+I sat myself down by a green myrtle shade
+Reclined on the beach, as the wild waves were rolling
+In sorrowful condoning, I saw a fair maid
+\endverse
+\beginverse
+Her robes changed to mourning, that once were so glorious
+I stood in amazement to hear her sad wail
+Her heartstrings burst forth with wild ascent uproarious
+Saying, "Where, where is my Blackbird of sweet Avondale?"
+\endverse
+\beginverse
+"In the fair counties Meath, Wexford, Cork, and Tipperary,
+The rights of Old Ireland, my Blackbird did sing
+Ah, but woe to the hour, with heart light and airy
+Away from my arms, to Dublin took wing"
+\endverse
+\beginverse
+"The fowlers waylaid him in hopes to ensnare him
+While I here in sorrow, his absence bewail
+Oh, it grieves me to think that the walls of Kilmainham
+Surround my dear Blackbird of sweet Avondale"
+\endverse
+\beginverse
+"Oh, Ireland, my country, awake from your slumbers
+And give back my Blackbird, so dear unto me
+And let everyone know, by the strength of your numbers
+That we, as a nation, would wish to be free"
+\endverse
+\beginverse
+"The cold prison dungeons is no habitation
+For one, to his country, was loyal and true
+Then give him his freedom, without hesitation
+And remember he fought hard for freedom and you"
+\endverse
+\beginverse
+"Oh, Heaven, give ear to my consultation
+And strengthen the bold sons of Old Granuaile
+And God grant that my country will soon be a nation
+And bring back the Blackbird to sweet Avondale"
+\endverse
+\endsong

@@ -1,0 +1,64 @@
+\beginsong{The Highwayman}[by={Alfred Noyes }]
+\beginverse
+The wind was a torrent of darkness among the gusty trees,
+The moon was a ghostly galleon tossed upon cloudy seas
+The road was a ribbon of moonlight over the purple moor,
+And the highwayman came riding, riding, riding-
+The highwayman came riding, up to the old inn door.
+\endverse
+\beginverse
+Over the cobbles he clattered and clashed in the dark inn yard
+And he tapped with his whip on the shutters, but all was locked and barred;
+He whistled a tune to the window and who should be waiting there
+But the landlord's black eyed daughter, Bess, the landlord's daughter
+Plaiting a red love-knot into her long black hair.
+\endverse
+\beginverse
+"One kiss, my bonny sweetheart, I'm after a prize tonight,
+But I shall be back with the yellow gold before the morning light;
+Yet, if they press me sharply, and harry me through the day,
+Then look for me by moonlight, watch for me by moonlight,
+I will come to thee by moonlight, though Hell should bar the way."
+\endverse
+\beginverse
+He did not come in the dawning; he did not come at noon;
+And out of the tawny sunset, before the rise of the moon,
+When the road was a gypsy's ribbon, looping the purple moor,
+A red-coat troop came marching, marching, marching-
+King George's men came marching, up to the old inn door.
+\endverse
+\beginverse
+They tied her up to attention, with many a sickening jest,
+And they bound a musket beside her, with the barrel to her breast.
+"Now keep good watch!" and they kissed her. She heard the dead man say,
+"Look for me by moonlight, watch for me by moonlight,
+I will come to thee by moonlight, though Hell should bar the way."
+\endverse
+\beginverse
+"Look for me by moonlight." The hoof-beats ringing clear.
+"Watch for me by moonlight." Were they deaf they did not hear?
+Her eyes grew wide for a moment; she drew one last deep breath,
+Then her finger moved in the moonlight, her musket shattered the moonlight
+Shattered her breast in the moonlight, and warned him - with her death.
+\endverse
+\beginverse
+He turned, he spurred him westward; he did not know who stood
+Bowed with her head o'er the musket, drenched with her own red blood.
+Not 'til the dawn he heard it; his face grew gray to hear
+How Bess, the landlord's daughter, the landlord's black-eyed daughter,
+Had watched for her love by moonlight, and died in the darkness there.
+\endverse
+\beginverse
+Back he spurred like a madman, shrieking a curse to the sky,
+With the white road smoking behind him, and his rapier brandished high!
+Blood red were his spurs in the golden noon, wine-red was his velvet coat,
+When they shot him down on the highway, with a bunch of lace at his throat.
+\endverse
+\beginverse
+And still of a winter's night, they say, when the wind is in the trees
+When the moon is a ghostly galleon tossed upon cloudy seas,
+When the road is a ribbon of moonlight over the purple moor,
+A highwayman comes riding, riding, riding-
+A highwayman comes riding, up to the old inn door. 
+\endverse
+\endsong

@@ -1,0 +1,43 @@
+\beginsong{The Burden of the Crown}[
+    by={Baldwin of Erebor},
+%    cr={Public domain},
+%    index = {Some obvious line},
+%    tune = {The Filked Song}
+]
+\beginverse
+The battlefield is silent the shadows growing long
+Though I may view the sunset I'll not live to see the dawn
+The trees have ceased to rustle, the birds no longer sing
+All nature seems to wonder at the passing of a king
+\endverse
+\beginverse
+And now you stand before me your father's flesh and blood
+Begotten of my sinews on the woman that I loved
+So difficult the birthing, the mother died that day
+And now you stand before me to take my crown away
+\endverse
+\beginverse
+The hour is fast approaching when you come into your own
+When you take the ring and scepter and sit upon your throne
+Before that fatal hour when we each must meet our fate
+Pray gaze upon the royal crown and marvel at its weight
+\endverse
+\beginverse
+This cap of burnished metal is the symbol of a land
+Supporting all we cherish, the dreams for which we stand
+The weight you'll find is nothing if you hold it in your hand
+The burden of the crown begins the day you put it on
+\endverse
+\beginverse
+See how the jewels sparkle as you gaze on it again
+Each facet is a subject whose rights you must defend
+Every point of light a burden you must shoulder with your own
+And mighty is the burden of the man upon the throne
+\endverse
+\beginverse
+The day is nearly ended, my limbs are growing cold
+I feel the angels waiting to receive my passing soul
+Keep well for me my kingdom, when my memory is dead
+And forgive me for the burden I place upon your head!
+\endverse
+\endsong

@@ -1,0 +1,32 @@
+\beginsong{A Grazing Mace}[by={Skald-Brandr Toralfsson, Anonymous},
+                     tune = {Amazing Grace},
+                     ]
+\beginverse
+A grazing mace, how sweet the sound, that felled a foe for me
+I bashed his head, he struck the ground, and thus came victory
+\endverse
+\beginverse
+My mace has taught my foes to fear, that mace my fears relieved
+How precious did my mace appear, when I my mace received
+\endverse
+\beginverse
+Through many tourneys, wars, and fairs, I have already come
+My mace has brought me safe so far, my mace will bring me home
+\endverse
+\beginverse
+The King has promised good to me, His word my hope secures
+I will his Shield and Weapon be, when He gives me my spurs
+\endverse
+\beginverse
+And when my mace my foeman nails, that mortal strife shall cease
+And we'll possess within our pale, a life of joy and peace
+\endverse
+\beginverse
+A grazing mace, how sweet the sound, that flattened a wretch like thee
+Whose head is flat, that once was round done in by my mace...And me!
+\endverse
+\beginverse
+A grazing mace, how sweet the sound that smites a foe like thee
+You're left there lying on the ground, you've left the field to me! 
+\endverse
+\endsong

@@ -1,0 +1,36 @@
+\beginsong{Where Go The Maids}[
+    by={Mikal Hrafspa},
+%    cr={Public domain},
+%    index = {Some obvious line},
+    tune = {Girls Just Wanna Have Fun - ish}
+]
+\beginverse
+Where go the maids on summer's day
+When the Falcon bears their men away
+\endverse
+\beginchorus
+Sing willow a willow away hey hey
+Sing willow a willow away
+Sing willow a willow away
+\endchorus
+\beginverse
+Gone to the hall to step a dance
+While their good lovers break a lance
+\endverse
+\beginverse
+And drink they mead where it is kept
+While their good lovers drink their sweat
+\endverse
+\beginverse
+And trade they kisses with young beaus
+While their good husbands trade at blows
+\endverse
+\beginverse
+And when the Falcon comes to nest
+They welcome their good men to rest
+\endverse
+\beginverse
+For lords may ken to battle's run
+But a lady too will have her fun
+\endverse
+\endsong

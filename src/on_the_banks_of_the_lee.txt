@@ -1,0 +1,26 @@
+\beginsong{On The Banks of the Lee}[by={Traditional}]
+\beginverse
+Where true lovers meet, Beneath the green bower
+Where true lovers meet, beneath the green tree
+And Mary, Fond Mary, she says unto her True Love
+You have stolen my young heart, on the banks of the Lee 
+\endverse
+\beginchorus
+For I loved her very dearly, Most truly and sincerely
+There is no one in this wide world I love more than she
+Every Birch, and every bower, every wild Irish flower
+Reminds me of my Mary, on the banks of the Lee 
+\endchorus
+\beginverse
+Don't stay out too late love, on the muirlands my Mary
+Don't stay out too late love, on the muirlands for me
+But little was my notion, when we parted by the Ocean
+That we were forever partin', by the banks of the Lee 
+\endverse
+\beginverse
+I will pull my love some roses, some wild Irish roses
+I will pull my love some roses, the fairest I see
+And I lay them on the gravesite, of my own sweet darlin' Mary
+On that cold and silent gravesite, where she sleeps beneath the dew 
+\endverse
+\endsong

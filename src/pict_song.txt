@@ -1,0 +1,50 @@
+\beginsong{A Pict Song}[by={Rudyard Kipling}]
+\beginverse
+Rome never heeds where she treads.
+Always the heavy hooves fall
+On our stomachs, our hearts and our heads.
+And Rome never heeds when we bawl.
+\endverse
+\beginchorus
+We are the little folk, we.
+Too little to love or to hate.
+But leave us alone and you'll see
+Just how we can drag down the State. 
+\endchorus
+\beginverse
+The sentries pass on, that is all.
+And we gather behind them in hordes,
+And plot to reconquer the Wall
+With only our tongues for our swords.
+\endverse
+\beginverse
+We are the worm in the wood,
+We are the rot at the root,
+We are the taint in the blood,
+We are the thorn in the foot!
+\endverse
+\beginverse
+Mistletoe choking an oak,
+Rats gnawing cables in two,
+Moths making holes in a cloak,
+How they must love what they do.
+\endverse
+\beginverse
+Yes, and we little folk too!
+We are as busy as they,
+Working our works out of view.
+But watch, and you'll see them someday.
+\endverse
+\beginverse
+No, indeed we are not strong.
+But we know people who are!
+And we, we will guide them along
+To crush and destroy you in war.
+\endverse
+\beginverse
+Yes, we have always been slaves,
+And, yes, we will still be their slaves.
+But you, you will die of the shame.
+And then we will dance on your graves. 
+\endverse
+\endsong

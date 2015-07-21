@@ -1,0 +1,56 @@
+\beginsong{The Housewife’s Lament}[by={Traditional Irish}]
+\beginverse
+One day I was walking, I heard a complaining,
+And saw an old woman, the picture of gloom.
+She gazed at the mud on her doorstep ('twas raining).
+And this was her song as she wielded her broom: 
+\endverse
+\beginchorus
+Oh, Life is a toil, and love is a trouble,
+Beauty will fade and riches'll flee.
+Pleasures they dwindle and prices they double,
+And nothing is as I would wish it to be.
+\endchorus
+\beginverse
+There's too much of worriement goes to a bonnet,
+There's too much ironing goes to a shirt.
+There's nothing that pays for the time you waste on it;
+There's nothing that lasts us but trouble and dirt.
+\endverse
+\beginverse
+In March it is mud, it is slush In December;
+The midsummer breezes are loaded with dust.
+In fall the leaves litter. In muddy September
+The wallpaper rots and the candlesticks rust.
+\endverse
+\beginverse
+There are worms on the cherries and slugs on the roses,
+And ants in the sugar and mice in the pies.
+The rubbish of spiders no mortal supposes;
+And ravaging roaches and damaging flies.
+\endverse
+\beginverse
+It's sweeping at six and it's dusting at seven.
+It's victuals at eight and it's dishes at nine.
+It's potting and panning from ten to eleven;
+We scarce break our fast till we plan how to dine.
+\endverse
+\beginverse
+With grease and with grime, from corner to center,
+Forever at war and forever alert.
+No rest for a day lest the enemy enter;
+I spend my whole life in struggle with dirt.
+\endverse
+\beginverse
+Last night in my dreams I was stationed forever
+On a far little rock in the midst of the sea.
+My one chance of life was a ceaseless endeavour
+To sweep off the waves as they swept over me.
+\endverse
+\beginverse
+Alas! 'Twas no dream; ahead I behold it.
+I see I am helpless my fate to avert.
+She lay down her broom, her apron she folded,
+She lay down and died and was buried in dirt. 
+\endverse
+\endsong

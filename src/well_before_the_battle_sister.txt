@@ -1,0 +1,17 @@
+\beginsong{Well Before the Battle Sister}[
+%    by={A. Author, B. Authour},
+%    cr={Public domain},
+%    index = {Some obvious line},
+%    tune = {The Filked Song}
+]
+\beginverse
+Well before the battle, sister
+When the sky is crowned with stars,
+And the world is clean of wounded,
+And the ground is free of scars.
+Well before the battle, sister,
+When content with what we know,
+We will sing the lovely ballads.
+From the long and long ago.
+\endverse
+\endsong

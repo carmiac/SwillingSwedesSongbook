@@ -1,0 +1,27 @@
+\beginsong{Molly Malone}[by={Traditional}]
+\beginverse
+In Dublin's fair city where girls are so pretty
+'Twas there that I first met sweet Molly Malone
+As she wheeled her wheelbarrow
+Through street broad and narrow
+Crying, "Cockles and mussels, alive, alive oh" 
+\endverse
+\beginchorus
+Alive, alive oh, alive, alive oh,
+Crying, "Cockles and mussels, alive, alive oh"
+\endchorus
+\beginverse
+Now she was a fishmonger and sure 'twas no wonder
+For so were her mother and father before
+And they each wheeled their barrows
+Through streets broad and narrow
+Crying, "Cockles and mussels, alive, alive oh" 
+\endverse
+\beginverse
+She died of a fever and no one could save her
+And that was the end of sweet Molly Malone
+Now her ghost wheels her barrow
+Through streets broad and narrow
+Crying, "Cockles and mussels, alive, alive oh" 
+\endverse
+\endsong

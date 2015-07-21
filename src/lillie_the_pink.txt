@@ -1,0 +1,45 @@
+\beginsong{Lillie The Pink}[by={Traditional}]
+\beginchorus
+OH, I'll drink and drink and drink
+To Lillie the Pink, the Pink, the Pink
+The savior of the human race
+She invented, Medicinal Compound
+With applications in every case 
+\endchorus
+\beginverse
+Now here's a story, a little bit gory
+A little bit happy, a little bit sad
+Of Lillie the Pink, and her Medicinal Compound
+And how it drove her to the bad
+\endverse
+\beginverse
+Well Ebeneezer thought he was Julius Caesar
+So they put him in a home
+Then they gave him Medicinal Compound
+And now he's Emperor of Rome
+\endverse
+\beginverse
+Paddy Klinger, the Opera singer
+Could break a glass with his voice to save
+Rubbed his tonsils with Medicinal Compound
+Now they break glasses o'er his head
+\endverse
+\beginverse
+Tinny Hammer, had a terrible stammer
+He could hardly say a word
+And so they gave him Medicinal Compound
+And now he's seen and never heard
+\endverse
+\beginverse
+Uncle Paul, he was very small, he
+Was the shortest man in town
+Rubbed his body with Medicinal Compound
+Now he weighs only half a pound
+\endverse
+\beginverse
+Lilly died and went to heaven
+All the church bells they did ring
+She took her Medicinal Compound
+Hark the Herald Angels sing 
+\endverse
+\endsong

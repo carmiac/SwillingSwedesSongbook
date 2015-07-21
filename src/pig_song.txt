@@ -1,0 +1,17 @@
+\beginsong{The Pig Song}[by={Modern Traditional}]
+\beginverse
+It was early last December, as near as I remember
+Oh I staggered down the street and tipsy cried
+No one I was disturbing, as I lay down by the curbing
+And then a pig came up and lay down by my side
+\endverse
+\beginverse
+As I lay there by the gutter, thinking thoughts I cannot ...Utter
+A Lady passing by was heard to say...
+\textnote{Spoken}
+*Hmmmmm. Well, well, well*
+\textnote{Sung}
+You can tell a man who boozes, by the company he chooses
+And then the pig got up and slowly walked away 
+\endverse
+\endsong

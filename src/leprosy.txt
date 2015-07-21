@@ -1,0 +1,39 @@
+\beginsong{Leprosy}[tune = {Yesterday - The Beatles}]
+\beginverse
+Leprosy,
+All my skin is falling off of me
+And it's simple, very plain to see
+I've got a case of Leprosy
+\endverse
+\beginverse
+Leprosy,
+Friends and family shy away from me
+And I can't afford a colony
+Oh I am stuck with Leprosy
+\endverse
+\beginchorus
+Why I have to rot, I know not
+I cannot say
+Gangrene is better but
+I an stuck, with Leprosy
+\endchorus
+\beginverse
+Leprosy,
+All my clothes are dirty rags you see
+Thats why all the people stare at me
+Oh why do I have Leprosy
+\endverse
+\beginchorus
+Why I have to rot, I know not
+I cannot say
+Gangrene is better but
+I am stuck with Leprosy
+\endchorus
+\beginverse
+Leprosy,
+I'm not half the man I used to be
+Thats 'cause half of me is dead you see
+Oh I am plagued with Leprosy 
+\endverse
+\textnote{What do you call a leper in a sauna......Stew}
+\endsong

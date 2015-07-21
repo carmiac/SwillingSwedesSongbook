@@ -1,0 +1,40 @@
+\beginsong{Flowers in the Valley}
+\beginverse
+There was a woman, oh but she was a widow
+Fair as the flowers in the valley
+With a daughter as fair as a fray sunny meadow
+The red and the green and the yellow
+\endverse
+\beginchorus
+No harp, no lute, nor pipe nor flute nor cymbal
+As sweet grows the treble violin
+\endchorus
+\beginverse
+This maiden so fair and the flower so rare
+Together they grew in the valley
+Oh, then came this knight all dressed in red
+Fair as the flowers in the valley
+"Thou art my bride ?I'll say? thou as thee said"
+The red and the green and the yellow
+\endverse
+\beginverse
+"Oh no" said she "Oh thou'st never win me"
+As fair as the flowers in the valley
+Oh, then came this knight all dressed in green
+Fair as the flowers in the valley
+"Thou must be, I see thou as my queen"
+The red and the green and the yellow
+\endverse
+\beginverse
+"Oh no" said she "Oh thou'st never win me"
+As fair as the flowers in the valley
+Oh, then came this knight all dressed in yellow
+Fair as the flowers in the valley
+"Thou art my love and my bride" said he
+The red and the green and the yellow
+\endverse
+\beginchorus
+"I'll come" said she "I'll go with thee"
+Farewell to the flowers in the valley 
+\endchorus
+\endsong

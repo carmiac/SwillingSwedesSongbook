@@ -1,0 +1,59 @@
+\beginsong{Sumer Is Icumen In}[
+%    by={A. Author, B. Authour},
+%    cr={Public domain},
+%    index = {Some obvious line},
+%    tune = {The Filked Song}
+]
+\textnote{Middle English}
+\beginverse
+Svmer is icumen in
+Lhude sing cuccu
+Groweþ sed
+and bloweþ med
+and springþ þe wde nu
+Sing cuccu
+\endverse
+\beginverse
+Awe bleteþ after lomb
+lhouþ after calue cu
+Bulluc sterteþ
+bucke uerteþ
+\endverse
+\beginverse
+murie sing cuccu
+Cuccu cuccu
+Wel singes þu cuccu
+ne swik þu nauer nu
+\endverse
+\beginverse
+Sing cuccu nu
+Sing cuccu
+Sing cuccu
+Sing cuccu nu
+\endverse
+\textnote{Modern English}
+\beginverse
+Summer is a comin' in,
+Loudly sing, cuckoo!
+The seed is growing
+And the meadow is blooming,
+And the wood is coming into leaf now,
+Sing, cuckoo!
+\endverse
+\beginverse
+The ewe is bleating after her lamb,
+The cow is lowing after her calf;
+The bullock is prancing,
+The billy-goat farting,
+\endverse
+\beginverse
+Sing merrily, cuckoo!
+Cuckoo, cuckoo,
+You sing well, cuckoo,
+Never stop now.
+\endverse
+\beginverse
+Sing, cuckoo, now; sing, cuckoo;
+Sing, cuckoo; sing, cuckoo, now!
+\endverse
+\endsong
