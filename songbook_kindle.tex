@@ -26,35 +26,32 @@
 \usepackage[scaled]{helvet}
 \renewcommand{\familydefault}{\sfdefault}
 \usepackage{graphicx}
-
 \usepackage[bookmarks]{hyperref}
 \usepackage[lyric]{songs}
-
-% \includeonlysongs{2}
-
-%\setlength{\oddsidemargin}{0in}
-%\setlength{\evensidemargin}{0in}
-%\setlength{\textwidth}{6.5in}
-%\setlength{\topmargin}{0in}
-%\setlength{\topskip}{0in}
-%\setlength{\headheight}{0in}
-%\setlength{\headsep}{0in}
-%\setlength{\textheight}{9.1in}
-%\settowidth{\versenumwidth}{1.\ }
-%\pagestyle{empty}
 
 \newindex{titleidx}{lbtitle}
 \newauthorindex{authidx}{lbauth}
 
 \input{title_page.txt}
+
 \begin{document}
-\titleGP % This command includes the title page
-\showindex[1]{Index of Songs}{titleidx}
+
+% include the title page
+\titleGP 
+
+% include the introduction
+\input{introduction.txt}
+
+% then the song index
+\showindex[1]{Song List}{titleidx}
+
+% then the songs
 \songcolumns{1}
 \begin{songs}{titleidx,authidx}
 \input{songs.sbd}
 \end{songs}
 
+% author list at the end
 \showindex[1]{Index of Authors}{authidx}
 
 \end{document}

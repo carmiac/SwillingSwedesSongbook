@@ -23,8 +23,6 @@
 \usepackage[lyric]{songs}
 \usepackage{graphicx}
 
-% \includeonlysongs{2}
-
 \setlength{\oddsidemargin}{0in}
 \setlength{\evensidemargin}{0in}
 \setlength{\textwidth}{6.5in}
@@ -38,23 +36,28 @@
 
 \newindex{titleidx}{lbtitle}
 \newauthorindex{authidx}{lbauth}
-\newscripindex{scripidx}{lbscrip}
 
 \renewcommand*{\familydefault}{\sfdefault}
 \input{title_page.txt}
-\begin{document}
-\titleGP % This command includes the title page
 
+\begin{document}
+
+% include the title page
+\titleGP 
+
+% include the introduction
 \input{introduction.txt}
 
-\showindex{Complete Index of Songs}{titleidx}
+% then the song index
+\showindex{Song List}{titleidx}
 
-\begin{songs}{titleidx,authidx,scripidx}
+% then the songs
+\begin{songs}{titleidx,authidx}
 \input{songs.sbd}
 \end{songs}
 
+% author list at the end
 \showindex{Index of Authors}{authidx}
-%\showindex{Index of Scripture}{scripidx}
 
 \end{document}
 
