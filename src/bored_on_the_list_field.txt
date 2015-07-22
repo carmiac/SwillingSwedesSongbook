@@ -1,0 +1,66 @@
+\beginsong{Bored on the List Field}[
+    by={Andrew Scarhart, Othar Morganson},
+%    cr={Public domain},
+%    index = {Some obvious line},
+    tune = {Born on the List Field}
+]
+\textnote{With apologies to Ivar Battleskald }
+\beginverse
+Once came a warrior, 
+Fresh from the bar; 
+Reeling, before his king he came; 
+When he had risen, he was still drunk 
+And these words he slurred unto his king: 
+\endverse
+\beginchorus
+I was bored on the list field, 
+I got smashed at the war 
+And the booze has been flowing all night; 
+Though some say my wits will grow rusted and dull, 
+I will drink like a mad dog tonight. 
+\endchorus
+\beginverse
+The king's men were pissed off, 
+They all drew their swords, 
+Ready to beat up this rude knight, 
+But the king wouldn't let them, 'cause he was drunk too 
+And these words he said unto his men: 
+\endverse
+\beginchorus
+You were bored on the list field, 
+You got smashed at the war 
+And the booze will be flowing all night; 
+Though some say your wits will grow rusted and dull, 
+You must party like mad dogs tonight. 
+\endchorus
+\beginverse
+The king's men were rallied, 
+They all drained their cups; 
+Calling for more, they soon were drunk; 
+When off in the distance 
+They heard their ladies' call 
+And they sang this song as they did flee: 
+\endverse
+\beginchorus
+We were bored on the list field, 
+We got smashed at the war 
+And the booze has been flowing all night; 
+Though some say our wits will grow rusted and dull, 
+We will drink all the Mad Dog tonight. 
+\endchorus
+\beginverse
+All through the night, then, 
+The king's men did drink; 
+By dawn, they looked distinctly green; 
+Though their bodies were on the list field, 
+Their heads were spinning round 
+And they groaned this song as they did hurl: 
+\endverse
+\beginchorus
+We were bored on the list field, 
+We got smashed at the war 
+And the booze (it) kept flowing all night; 
+Though it's true our wits have grown rusted and dull, 
+We partied like good knights last night.
+\endchorus
+\endsong

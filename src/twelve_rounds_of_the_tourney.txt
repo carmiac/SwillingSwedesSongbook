@@ -16,7 +16,7 @@ and…
 \beginverse
 On the third round of the tourney,
 My true love said to me,
-“Don’t mess up the favor!”
+“Don't mess up the favor!”
 “I want a Tudor Step-up!”
 and…
 “I…. Want to be Queen!”
@@ -26,15 +26,15 @@ and…
 On the twelfth round of the tourney,
 My true love said to me,
 “Is Commondopolous the best you can do?”
-“I can’t stand the pressure!”
-“We’ll banish him at Twelfth Night.”
-“Princess would’ve been nicer.”
-“My membership’s in question.”
-“Merchant’s Row’s still open!”
-“What’s a Guildmarion?”
-“It’s only a scratch!”
+“I can't stand the pressure!”
+“We'll banish him at Twelfth Night.”
+“Princess would've been nicer.”
+“My membership's in question.”
+“Merchant's Row's still open!”
+“What's a Guildmarion?”
+“It's only a scratch!”
 “I missed your forth round fight.”
-“Don’t mess up the favor!”
+“Don't mess up the favor!”
 “I want a Tudor Step-up!”
 and…
 “I... Want to be Queen!”
@@ -42,6 +42,6 @@ and…
 \beginverse
 On the ride homeward,
 My true love said to me,
-“We’ll get ‘em at the March Crown!”
+“We'll get ‘em at the March Crown!”
 \endverse
 \endsong

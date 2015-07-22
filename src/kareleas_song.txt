@@ -1,4 +1,4 @@
-\beginsong{Karelea’s Song}[by={Iolo fitz Owen}]
+\beginsong{Karelea's Song}[by={Iolo fitz Owen}]
 \beginverse
 Now, the Baron of the East March's fair sorcerous daughter
 Was enamored, unseemly with the fool of her Lord.

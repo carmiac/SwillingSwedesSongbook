@@ -4,7 +4,7 @@
 AS I was walking all alane,	
 I heard twa corbies making a mane:	
 The tane unto the tither did say,	
-‘Whar sall we gang and dine the day?’	
+‘Whar sall we gang and dine the day?'	
 \endverse
 \beginverse
 ‘—In behint yon auld fail dyke	        
@@ -15,19 +15,19 @@ But his hawk, his hound, and his lady fair.
 \beginverse
 ‘His hound is to the hunting gane,	
 His hawk to fetch the wild-fowl hame,	        
-His lady’s ta’en anither mate,	
-So we may mak’ our dinner sweet.	
+His lady's ta'en anither mate,	
+So we may mak' our dinner sweet.	
 \endverse
 \beginverse
-‘Ye’ll sit on his white hause-bane,	
-And I’ll pike out his bonny blue e’en:	
-Wi’ ae lock o’ his gowden hair	        
-We’ll theek our nest when it grows bare.	
+‘Ye'll sit on his white hause-bane,	
+And I'll pike out his bonny blue e'en:	
+Wi' ae lock o' his gowden hair	        
+We'll theek our nest when it grows bare.	
 \endverse
 \beginverse
 ‘Mony a one for him maks mane,	
 But nane sall ken whar he is gane:	
-O’er his white banes, when they are bare,	
+O'er his white banes, when they are bare,	
 The wind sall blaw for evermair.
 \endverse
 \endsong

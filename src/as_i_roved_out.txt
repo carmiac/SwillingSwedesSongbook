@@ -1,0 +1,76 @@
+\beginsong{As I Roved Out}[
+    by={Traditional},
+%    cr={Public domain},
+%    index = {Some obvious line},
+%    tune = {The Filked Song}
+]
+\beginverse
+And who are you, me pretty fair maid 
+And who are you, me honey? 
+And who are you, me pretty fair maid 
+And who are you, me honey? 
+She answered me quite modestly, "I am me mother's darling." 
+\endverse
+\beginchorus
+With me too-ry-ay 
+Fol-de-diddle-day 
+Di-re fol-de-diddle 
+Dai-rie oh. 
+\endchorus
+\beginverse
+And will you come to me mother's house, 
+When the sun is shining clearly?
+And will you come to me mother's house, 
+When the sun is shining clearly?
+I'll open the door and I'll let you in 
+And divil 'o one would hear us. 
+\endverse
+\beginverse
+So I went to her house in the middle of the night, 
+When the moon was shining clearly.
+So I went to her house in the middle of the night, 
+When the moon was shining clearly.
+Shc opened the door and she let me in 
+And divil the one did hear us. 
+\endverse
+\beginverse
+She took me horse by the bridle and the bit, 
+And she led him to the stable.
+She took me horse by the bridle and the bit, 
+And she led him to the stable.
+Saying "There's plenty of oats for a soldier's horse, 
+To eat it if he's able." 
+\endverse
+\beginverse
+Then she took me by the lily-white hand, 
+And she led me to the table. 
+Then she took me by the lily-white hand, 
+And she led me to the table. 
+Saying "There's plenty of wine for a soldier boy, 
+To drink it if you're able." 
+\endverse
+\beginverse
+Then I got up and made the bed, 
+And I made it nice and aisy, 
+Then I got up and made the bed, 
+And I made it nice and aisy, 
+Then I got up and laid her down 
+Saying "Lassie, are you able?" 
+\endverse
+\beginverse
+And there we lay till the break of day, 
+And divil a one did hear us. 
+And there we lay till the break of day, 
+And divil a one did hear us. 
+Then I arose and put on me clothes 
+Saying "Lassie, I must leave you." 
+\endverse
+\beginverse
+And when will you return again?
+And when will we get married?
+And when will you return again?
+And when will we get married?
+When broken shells make Christmas bells 
+We might well get married. 
+\endverse
+\endsong

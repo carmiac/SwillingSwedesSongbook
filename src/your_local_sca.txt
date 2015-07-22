@@ -6,7 +6,7 @@
 ]
 \beginverse
 Arrest these merry gentles, nay, it would be so unkind
-If you’ll just wait a moment, sir, we will relieve your mind.
+If you'll just wait a moment, sir, we will relieve your mind.
 We are not escaped lunatics, so kindly us unbind,
 \endverse
 \beginchorus
@@ -14,7 +14,7 @@ For we are your local SCA, SCA
 For we are your local SCA.
 \endchorus
 \beginverse
-These men aren’t wearing dresses, sir, those are not pantyhose
+These men aren't wearing dresses, sir, those are not pantyhose
 No, those are tights and tunics, sir, they are medieval clothes
 And men were really macho then, as everybody knows,
 So please do not look upon us that way, that way,
@@ -22,7 +22,7 @@ For we are your local SCA.
 \endverse
 \beginverse
 We recreate past ages, sir, and that is all we do.
-Please give our swords and knives to us, we’d like our axes too.
+Please give our swords and knives to us, we'd like our axes too.
 Return us all our weapons, sir, the act you will not rue,
 For we mostly use them for display, display,
 \endverse
@@ -34,7 +34,7 @@ Then drive four hundred miles the next day, the next day,
 \endverse
 \beginverse
 We have a King and Queen who do, our loyalty command.
-We’re the College of St. Golias, the finest in the land,
+We're the College of St. Golias, the finest in the land,
 And we are on our way to court, but not the one you planned.
 Oh, please let us go upon our way, our way,
 \endverse

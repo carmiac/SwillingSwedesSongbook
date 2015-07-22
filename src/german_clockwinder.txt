@@ -1,0 +1,43 @@
+\beginsong{A German Clockwinder}[
+%    by={A. Author, B. Authour},
+%    cr={Public domain},
+%    index = {Some obvious line},
+%    tune = {The Filked Song}
+]
+\beginverse
+A German clockwinder to Dublin once came
+Benjamin Fuchs was the old German's name
+And as he was winding his way 'round the strand
+He played on his flute and the music was grand
+\endverse
+\beginchorus
+Too-ra-lam-a-lam-a, Too-ra-lam-a-lam-a Too-ra-li-ay
+Too-ra-li Oo-ra-li Oo-ra-li-ay
+Too-ra-lam-a-lam-a, Too-ra-lam-a-lam-a Too-ra-li-ay
+Too-ra-li Oo-ra-li Oo-ra-li-ay
+\endchorus
+\beginverse
+There was a young lady from Grovenor Square
+Who said that her clock was in need of repair
+In walked the German and to her delight
+In less than five minutes, he had her clock right 
+\endverse
+\beginverse
+And as they were sitting right down on the floor
+There came a very loud knock on the door
+In walked her husband and great was his shock
+To see the old German wind up his wife's clock
+\endverse
+\beginverse
+Then says her husband, "Look here Mary Ann,
+Don't that old German come in here again.
+He wound up your clock and left mine on the shelf.
+If your old clock needs winding I'll do it myself!" 
+\endverse
+\beginverse
+Then says the German, "Sure I meant you no harm,
+But the spring wouldn't work in your old wife's alarm.
+I pulled out me oil can and I gave it a squirt;
+If you keep it well-oiled, your wife's clock will work!"
+\endverse
+\endsong

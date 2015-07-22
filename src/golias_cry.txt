@@ -12,14 +12,14 @@ Golias has risen and echoed the call,
 With footsteps of thunder, a blue painted wall!
 \endverse
 \beginchorus
-Here’s one for our College here, one for our King!
-Here’s one for the Outlands, and for our Queen!
+Here's one for our College here, one for our King!
+Here's one for the Outlands, and for our Queen!
 We raise up the standard, sound out the Cry,
 It goes up together, echoes on high, it echoes on high.
 \endchorus
 \beginverse
 We fight with the goblets and sword on our shield, 
-We fight with the spear and the glaive that won’t yield.
+We fight with the spear and the glaive that won't yield.
 We form with a line that will stand to the end,
 We fight every battle down to the last man!
 \endverse
@@ -28,7 +28,7 @@ We fight every battle down to the last man!
 Our rapiers, they flash in the noon-day sun,
 Through the field of battle, the cry to Lay On!
 We labor and sweat through the dust of the Keep,
-Our bodies they’re struck, in a pile so deep!
+Our bodies they're struck, in a pile so deep!
 \endverse
 \textnote{Chorus x2}
 \endsong

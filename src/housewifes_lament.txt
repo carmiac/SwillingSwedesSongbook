@@ -1,4 +1,4 @@
-\beginsong{The Housewife’s Lament}[by={Traditional Irish}]
+\beginsong{The Housewife's Lament}[by={Traditional Irish}]
 \beginverse
 One day I was walking, I heard a complaining,
 And saw an old woman, the picture of gloom.

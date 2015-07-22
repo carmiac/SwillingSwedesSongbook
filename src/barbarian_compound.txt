@@ -1,7 +1,7 @@
 \beginsong{Barbarian Compound}[by={Kondrad von Bohmen},
                      tune = {Lily the Pink},
                      ]
-\textnote{Llwyd Emrys O’ Arth (aka Joe God) has filled every office at St. Golias}
+\textnote{Llwyd Emrys O' Arth (aka Joe God) has filled every office at St. Golias}
 \beginchorus
 Oh we think, we think, we think
 That Llwyd's a fink, a fink, a fink
@@ -13,7 +13,7 @@ The results are plain to see!
 Oh Lord Llwyd, our fearless leader
 A mighty Welshman to the hilt
 Rules the men folk, through barbarian compound
-The ladies with what’s beneath his kilt
+The ladies with what's beneath his kilt
 \endverse
 \beginverse
 Oh Lord Hiroshi, a bit of a ninja
@@ -31,7 +31,7 @@ See him smashing himself in his face.
 Oh Rhiogan, a terrible Scotsman
 Fells both man and beast with fear
 Drank 2 bottles of barbarian compound
-And his footsteps sheep can’t hear
+And his footsteps sheep can't hear
 \endverse
 \beginverse
 Lady Anthea, our Roman matron
@@ -43,7 +43,7 @@ And made all the men forget the feast
 Lord Jagonam, our Frankish warrior
 A holy man until the end
 Took a drink of barbarian compound
-And his staff a horse couldn’t bend
+And his staff a horse couldn't bend
 \endverse
 \beginverse
 Aldric MacGlynn, a Scottish fighter
@@ -61,7 +61,7 @@ Now a flagpole he could wave.
 Oh Zone Trooper, bunny fur chaser
 He drinks only Mountain Dew
 Mixed in some barbarian compound
-All that’s left of him is his shoe
+All that's left of him is his shoe
 \endverse
 \beginverse
 Ravenous Cedric, the Saxon hobbit
@@ -79,7 +79,7 @@ Now chases girls with black gloves
 Oh Erick Saanvik, Norwegian hero
 Cuts his foes down like a weed
 Swilled a case of barbarian compound
-Has nightmares that he’s a Swede
+Has nightmares that he's a Swede
 \endverse
 \beginverse
 Elen Redfox, was a timid Welsh Lady

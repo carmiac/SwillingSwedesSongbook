@@ -1,4 +1,4 @@
-\beginsong{Jabal al-Samira's Mercenary Band}[tune = {St. Pepper’s Lonely Hearts Club Band}]
+\beginsong{Jabal al-Samira's Mercenary Band}[tune = {St. Pepper's Lonely Hearts Club Band}]
 \beginverse
 We're Jabal al-Samira's Mercenary Band.
 We hope you will enjoy our show.

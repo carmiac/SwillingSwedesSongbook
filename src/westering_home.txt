@@ -2,7 +2,7 @@
     by={Traditional},
 %    cr={Public domain},
 %    index = {Some obvious line},
-    tune = {Muckin’ O’ Geordie’s Byre}
+    tune = {Muckin' O' Geordie's Byre}
 ]
 \beginchorus
 Westering home with a song in the air

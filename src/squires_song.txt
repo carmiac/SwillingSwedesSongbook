@@ -1,0 +1,38 @@
+\beginsong{A Squire's Song}[
+    by={Andrew Scarhart },
+%    cr={Public domain},
+%    index = {Some obvious line},
+%    tune = {The Filked Song}
+]
+\textnote{Written for his squire brother, Christopher d'Armand, A.S. XXVIII}
+\beginverse
+I stand here now before you 
+A shy and modest man, 
+A simple song to sing you 
+As chivalry demands; 
+But I find the place uncommon, 
+Before a crowd to sing, 
+For I am a simple 
+Soldier of the king. 
+\endverse
+\beginverse
+There are some among my siblings 
+Who tell a wondrous tale 
+Of brave deeds and maidens 
+And heroes where they fell. 
+Their stories are beguiling, 
+(And) Wisdom from them springs; 
+And I am a simple 
+Soldier of the king. 
+\endverse
+\beginverse
+Others of my siblings, 
+Their voices fill the night: 
+Dancing tunes and fancy, 
+Their songs of pure delight. 
+But though my song is quiet, 
+The words ring no less true: 
+From my heart, eternal springs 
+The love I have for you. 
+\endverse
+\endsong

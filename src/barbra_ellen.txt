@@ -1,69 +1,69 @@
 \beginsong{Barb'ra Ellen}
 \beginverse
 In scarlet town where I was born,
-There was a fair maid dwellin’;
-Made ev’ry youth cry, Well-a-day!
-And her name was Barb’ra Ellen,
+There was a fair maid dwellin';
+Made ev'ry youth cry, Well-a-day!
+And her name was Barb'ra Ellen,
 \endverse
 \beginverse
 ‘Twas in the merry month of May,
-When green buds they were swellin’.
+When green buds they were swellin'.
 Sweet William on this deathbed lay
-For the love of Barb’ra Ellen
+For the love of Barb'ra Ellen
 \endverse
 \beginverse
 He sent a servant to the town,
-To the place where she was dwellin’.
-"My master’s sick and he bids you come
-If your name be Barb’ra Ellen.
+To the place where she was dwellin'.
+"My master's sick and he bids you come
+If your name be Barb'ra Ellen.
 \endverse
 \beginverse
 Then slowly, slowly she got up,
 And slowly she went nigh him;
 And as she drew the curtain back:
-"Young man, I think you’re dyin!"
+"Young man, I think you're dyin!"
 \endverse
 \beginverse
 "O, ken you not in yonder town,
-In the place where we were dwellin’,
+In the place where we were dwellin',
 You gave a health to the ladies all,
 But you slighted Barb'ra Ellen."
 \endverse
 \beginverse
 "O, yes I ken. I ken it well.
-In the place where we were dwellin’,
+In the place where we were dwellin',
 I gave a health to the ladies all,
-But my love to Barb’ra Ellen."
+But my love to Barb'ra Ellen."
 \endverse
 \beginverse
 Then slowly went she down the stairs.
 He trembled like an aspen.
 "Be kind, good friends and neighbors all,
-Be kind to Barb’ra Ellen."
+Be kind to Barb'ra Ellen."
 \endverse
 \beginverse
-And as she cross’d the wooded fields,
-She heard his deathbell knellin’,
-And ev’ry stroke, it spoke her name
-"Hard-hearted Barb’ra Ellen."
+And as she cross'd the wooded fields,
+She heard his deathbell knellin',
+And ev'ry stroke, it spoke her name
+"Hard-hearted Barb'ra Ellen."
 \endverse
 \beginverse
-She look’d to the east, she looked to the west.
-She saw his corpse a comin’.
+She look'd to the east, she looked to the west.
+She saw his corpse a comin'.
 "O bearers, bearers, lay him down,
-For I think I too am dying’."
+For I think I too am dying'."
 \endverse
 \beginverse
 "O, Mother, Mother, make my bed,
 And make it long and narrow.
 Sweet William died for the love of me;
-I’ll die for him of sorrow!"
+I'll die for him of sorrow!"
 \endverse
 \beginverse
 "O, Father, Father, dig my grave,
 And dig it deep and narrow.
 Sweet William died for me today.
-I’ll die for him tomorrow."
+I'll die for him tomorrow."
 \endverse
 \beginverse
 They buried her in the old churchyard.
@@ -72,9 +72,9 @@ And from his heart grew a red, red rose,
 And from her heart a briar.
 \endverse
 \beginverse
-They climb’d right up the old church wall
-Till they couldn’t climb no higher.
-They tied themselves in a true lovers’ know;
+They climb'd right up the old church wall
+Till they couldn't climb no higher.
+They tied themselves in a true lovers' know;
 The red rose ‘round the briar. 
 \endverse
 \endsong

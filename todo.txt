@@ -1,25 +1,47 @@
 Book Layout
 ===========
 - add front and back cover placeholders
+    - only for kindle version?
+    - lulu wants you to use their cover builder system
+        - but I probably just want a clear cover?
 - write better intro page content
-- get page alternating offsets for binding working
+- clean up authors index
 
 Songs
 =====
 - Celtic Lass's Retort (aka Viking Man II)
-- galens stuff
-- Born on the List Field
 
 Songs That Need 2nd Round Copyediting
 =====================================
+- As I Roved Out
+- Banks of the Lee
+- Barrett's Privateers
+- Bored on the List Field
+- Born on the List Field
+- Ce Fut en Mai
+- Dream Warrior
+- Estrella VIII
+- A German Clockwinder
+- The Helmsman
+- It's So Big
+- Leave Her Johnny
+- Maid On The Shore
+- The Parting Glass
+- Rearguards Lament
+- Red Haired Mary
+- A Squire's Song
+
 
 Infrastructure
 ==============
+- commit to github
+    - add documentation for github
+- make website
 - build in *nix
     - install tex live in ubuntu vm
     - install songs 
     - make build script work
-        - possibly write new cross platform build script that does away with .bat files in windows
+        - possibly write new cross platform build script that does away with .bat files in windows?
 - ebook version
     - kindle pdf for now
     - must do in linux
@@ -31,6 +53,4 @@ Infrastructure
     - install latex2html
     - make it build
     - check in browser
-- add documentation for github
-    - commit to github
-- make website
+

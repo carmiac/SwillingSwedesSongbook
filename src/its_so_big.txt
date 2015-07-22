@@ -1,0 +1,91 @@
+\beginsong{It's So Big}[
+    by={Sherri Burmeister},
+    cr={Sherri Burmeister, 1996},
+%    index = {Some obvious line},
+%    tune = {The Filked Song}
+]
+\beginverse
+A cup, a cup, 
+My kingdom for a cup. 
+Two lords a goin' to the field. 
+Without protection had to yield. 
+Lord Taran offered his cup; 
+The first lord picked it up. 
+He went away to try it on, 
+To his dismay the size was wrong. 
+\endverse
+\beginchorus
+It's so big; 
+It's so incredibly big. 
+Can't believe my eyes, 
+A magnificent size! 
+I'll never fill it up; 
+And neither will my friend; 
+Or the two of us...together! 
+\endchorus
+\beginverse
+A cup, a cup, 
+My kingdom for a cup. 
+The feast was ready to be served; 
+Without the bowl that it deserved. 
+Lord Taran offered his cup; 
+A lady picked it up. 
+A ladle full she did put in, 
+And then the floor did meet her chin. 
+\endverse
+\beginchorus
+It's so big; 
+It's so incredibly big. 
+Can't believe my eyes, 
+A magnificent size! 
+I'll never fill it up. 
+There's not enough soup at the feast, 
+Or the village! 
+\endchorus
+\beginverse
+A cup, a cup, 
+My kingdom for a cup. 
+A toast the King did wish to make. 
+Without a goblet hard to fake. 
+Lord Taran offered his cup; 
+The King he picked it up. 
+Discreetly poured his drink inside, 
+And then looked like he nearly died. 
+\endverse
+\beginchorus
+It's so big, 
+It's so incredibly big. 
+Can't believe my eyes, 
+A magnificent size! 
+I'll never fill it up. 
+Whatta' you think I am? 
+I only brought one bottle! 
+\endchorus
+\beginverse
+A cup, a cup, 
+My kingdom for a cup. 
+Lord Taran was all suited up. 
+The one thing missing was his cup. 
+A page he found the cup; 
+Lord Taran picked it up. 
+He went inside to put it on; 
+And every lady's eye was drawn. 
+\endverse
+\beginchorus
+It's so big, 
+It's so incredibly big. 
+Can't believe my eyes, 
+A magnificent size! 
+I hope he fills it up; 
+He better fill it up... 
+He's got a legend to live up to now. 
+\endchorus
+\beginchorus
+It's so big; 
+It's so incredibly big. 
+Can't believe my eyes, 
+A magnificent size! 
+I hope he fills it up. 
+I hope...he fills...it up.
+\endchorus
+\endsong

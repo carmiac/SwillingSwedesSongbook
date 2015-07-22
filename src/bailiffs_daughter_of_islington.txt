@@ -1,7 +1,7 @@
 \beginsong{The Bailiff's Daughter of Islington}[by={Traditional}]
 \beginverse
 There was a youth and a well beloved youth
-And he was a squire’s son;
+And he was a squire's son;
 He loved the bailiff's daughter dear,
 That lived in Islington.
 \endverse
@@ -75,6 +75,6 @@ And ready to be thy bride."
 Oh, farewell grief and welcome joy
 Ten thousand times therefore;
 For now I have found my own true love,
-Whom I tho’t I never should see more." 
+Whom I tho't I never should see more." 
 \endverse
 \endsong

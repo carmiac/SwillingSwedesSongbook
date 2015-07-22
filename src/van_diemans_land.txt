@@ -1,4 +1,4 @@
-\beginsong{Van Dieman’s Land}[
+\beginsong{Van Dieman's Land}[
     by={Traditional},
 %    cr={Public domain},
 %    index = {Some obvious line},

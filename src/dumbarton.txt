@@ -1,0 +1,31 @@
+\beginsong{Dumbarton}[
+    by={Traditional Scottish},
+%    cr={Public domain},
+%    index = {Some obvious line},
+%    tune = {The Filked Song}
+]
+\beginverse
+Dumbarton's drums, they sound so bonnie
+When they remind me of my Johnny
+What fond delight can steal upon me
+when Johnny kneels and kisses me
+\endverse
+\beginverse
+Across the fields of bounding heather
+Dumbarton tolls the hour of pleasure
+a song of love that has no measure
+When Johnny kneels and sings to me
+\endverse
+\beginverse
+Tis he alone that can delight me
+His graceful eye, it doth invite me
+And when his tender arms enfold me
+The blackest night doth turn and dee
+\endverse
+\beginverse
+My love he is a handsome laddie
+And tho he is Dumbarton's caddie
+Someday I'll be a captain's lady
+When Johnny tends his vows to me
+\endverse
+\endsong
