@@ -1,5 +1,5 @@
 \beginsong{Maid On The Shore}[
-    by={Traditional, Stan Rogers},
+    by={Stan Rogers},
 %    cr={Public domain},
 %    index = {Some obvious line},
 %    tune = {The Filked Song}

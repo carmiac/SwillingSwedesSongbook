@@ -1,5 +1,5 @@
 \beginsong{Dumbarton}[
-    by={Traditional Scottish},
+    by={Scottish Traditional},
 %    cr={Public domain},
 %    index = {Some obvious line},
 %    tune = {The Filked Song}
