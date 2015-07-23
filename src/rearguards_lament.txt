@@ -1,7 +1,7 @@
 \beginsong{Rearguard's Lament}[
     by={Ajed of Meridies},
 %    cr={Public domain},
-%    index = {Some obvious line},
+    index = {Fly Lady Fly},
 %    tune = {The Filked Song}
 ]
 \beginverse

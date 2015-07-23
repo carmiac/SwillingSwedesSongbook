@@ -6,6 +6,7 @@ Book Layout
         - but I probably just want a clear cover?
 - write better intro page content
 - clean up authors index
+    - figure out what to do about odd names
 
 Songs
 =====
