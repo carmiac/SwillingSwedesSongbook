@@ -6,7 +6,7 @@
 ]
 \textnote{Middle English}
 \beginverse
-Svmer is icumen in
+Sumer is icumen in
 Lhude sing cuccu
 Groweþ sed
 and bloweþ med

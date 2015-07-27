@@ -3,6 +3,7 @@
                 {\def\tuneof{Tune: #1\par}}
                 
 \renewcommand{\extendprelude}{
+ %{\itshape\normalsize}
   \showrefs\showauthors
-  {\bfseries\tuneof}
+  {\itshape\normalsize\tuneof}
 }

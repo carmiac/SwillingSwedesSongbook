@@ -1,4 +1,4 @@
-\beginsong{Whiskey in the Jar}
+\beginsong{Whiskey in the Jar}[
 %    by={A. Author, B. Authour},
 %    cr={Public domain},
 %    index = {Some obvious line},

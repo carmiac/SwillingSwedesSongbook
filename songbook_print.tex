@@ -40,6 +40,9 @@
 \renewcommand*{\familydefault}{\sfdefault}
 \input{title_page.txt}
 
+\usepackage{etoolbox}
+\patchcmd{\showauthors}{\bfseries}{\itshape\normalsize}{}{}
+
 \begin{document}
 
 % include the title page
