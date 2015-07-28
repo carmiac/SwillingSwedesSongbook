@@ -1,13 +1,15 @@
 Book Layout
 ===========
-- add front and back cover placeholders
-    - only for kindle version?
-    - lulu wants you to use their cover builder system
-        - but I probably just want a clear cover?
+- add front and back cover images
 - write better intro page content
 - clean up authors index
     - figure out what to do about odd names
-
+- print options
+    - local shops
+        - several good reviews on yelp
+    - lulu.com
+    - http://www.docucopies.com    
+        - cheap!
 Songs
 =====
 - Celtic Lass's Retort (aka Viking Man II)
@@ -38,20 +40,5 @@ Infrastructure
 - commit to github
     - add documentation for github
 - make website
-- build in *nix
-    - install tex live in ubuntu vm
-    - install songs 
-    - make build script work
-        - possibly write new cross platform build script that does away with .bat files in windows?
-- ebook version
-    - kindle pdf for now
-    - must do in linux
-    - install tex4ebook
-    - make it build
-    - check in kindle previewer
-- html version
-    - must do in linux
-    - install latex2html
-    - make it build
-    - check in browser
+
 
