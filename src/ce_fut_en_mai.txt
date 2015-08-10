@@ -4,7 +4,7 @@
 %    index = {It Was In May},
 %    tune = {The Filked Song}
 ]
-\textnote{13th Century French, in translation }
+\textnote{13th Century French, in translation}
 \beginverse
 In early May, when skies are gay 
 And green the plains and mountains, 
@@ -36,7 +36,7 @@ Bemused and sad because I had
 No joy in love to please me. 
 \endverse
 \beginverse                                       
-Then one of those I'd seen there rose 
+Then one of those I'd seen their rose 
 And from afar off speaking, 
 He questioned me, who I might be, 
 And what I came there seeking. 
@@ -48,21 +48,21 @@ Who all my days my heart obeys,
 Full faithfully and steady. 
 \endverse
 \beginverse
- Though still I bore a grief so sore 
- In losing one so lovely, 
- That surely I would come to die 
- Unless she deigned to love me. 
+Though still I bore a grief so sore 
+In losing one so lovely, 
+That surely I would come to die 
+Unless she deigned to love me. 
 \endverse
 \beginverse
-  With wisdom rare, with tactful air 
-  They counseled and relieved me. 
-  They said their prayer was God might spare 
-  Some joy in love that grieved me. 
+With wisdom rare, with tactful air 
+They counselled and relieved me. 
+They said their prayer was God might spare 
+Some joy in love that grieved me. 
 \endverse
 \beginverse
-  Where all my gain was loss and pain 
-  So I in turn extended 
-  My thanks sincere, with many a tear, 
-  And them to God commended. 
+Where all my gain was loss and pain 
+So I in turn extended 
+My thanks sincere, with many a tear, 
+And them to God commended. 
 \endverse
 \endsong

@@ -14,27 +14,6 @@ Songs
 =====
 - Celtic Lass's Retort (aka Viking Man II)
 
-Songs That Need 2nd Round Copyediting
-=====================================
-- As I Roved Out
-- Banks of the Lee
-- Barrett's Privateers
-- Bored on the List Field
-- Born on the List Field
-- Ce Fut en Mai
-- Dream Warrior
-- Estrella VIII
-- A German Clockwinder
-- The Helmsman
-- It's So Big
-- Leave Her Johnny
-- Maid On The Shore
-- The Parting Glass
-- Rearguards Lament
-- Red Haired Mary
-- A Squire's Song
-
-
 Infrastructure
 ==============
 - commit to github

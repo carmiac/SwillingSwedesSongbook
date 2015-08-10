@@ -1,37 +1,101 @@
 \beginsong{God Rest Ye Frantic Autocrat}[by={Master Tivar Moondragon },
                      tune = {God Rest Ye Merry Gentlemen}]
 \beginverse
-God rest ye frantic autocrat, let nothing you dismay,
-Remember that the great event is still a month a way,
-Don't panic yet, there's lots of time, and don't get swept away. 
+God rest ye frantic autocrat, 
+let nothing you dismay,
+Remember that the great event 
+is still a month a way,
+Don't panic yet, there's lots of time, 
+and don't get swept away. 
 \endverse
 \beginchorus
-And sing ye in chorus: " Never again, never again,"
-And sing ye in chorus: " Ne'er again!" 
+And sing ye in chorus: "Never again, never again,"
+And sing ye in chorus: "Ne'er again!" 
 \endchorus
 \beginverse
-God rest ye frantic autocrat, let nothing you dismay,
-Remember that the great event is still two weeks away.
-The site is grand, though if it rains, it just might walk away.
+God rest ye frantic autocrat,
+let nothing you dismay,
+Remember that the great event
+is still a week away,
+The music's fine if only they
+remember how to play.
 \endverse
 \beginverse
-God rest ye frantic autocrat, let nothing you dismay,
-Remember that the great event is still a week away,
-The music' s fine if only they remember how to play.
+God rest ye frantic autocrat,
+let nothing you dismay,
+Remember that the great event
+is still three days away.
+The feast is planned, the food's been bought,
+though God knows how you' ll pay.
 \endverse
 \beginverse
-God rest ye frantic autocrat, let nothing you dismay,
-Remember that the great event is still three days away.
-The feast is planned, the food' s been bought, though God knows how you'll pay.
+God rest ye frantic autocrat,
+let nothing you dismay,
+Remember that the great event
+is scheduled for today.
+The tourney's grand, the rain won't last
+for very long, they say.
 \endverse
 \beginverse
-God rest ye frantic autocrat, let nothing you dismay,
-Remember that the great event is scheduled for today.
-The tourney' s grand, the rain won't last for very long, they say.
+God rest ye frantic autocrat,
+let nothing you dismay,
+Despite the fact that everything
+is going wrong today.
+The King and Queen came unannounced
+and God knows who else may.
 \endverse
 \beginverse
-God rest ye frantic autocrat, let nothing you dismay,
-Remember that the great event, Can' t even cry " Oyez."
-The list field' s under water; a tornado's on the way. 
+God rest ye frantic autocrat,
+let nothing you dismay,
+The herald's lost his voice and
+he can't even cry "Oyez."
+The list field's under water;
+a tornado's on the way.
 \endverse
+\beginverse
+God rest ye frantic autocrat,
+let nothing you dismay,
+The ants have eaten half your food
+and dragged your tent away
+Some mundane called the cops
+and they took all the knights away.
+\endverse
+\beginverse
+God rest ye frantic autocrat,
+let nothing you dismay,
+It's getting cold, it just might snow.
+You'd better start to pray.
+The fire won't start, the food will spoil,
+so serve it anyway
+\endverse
+\beginverse
+God rest ye frantic autocrat,
+let nothing you dismay,
+The feast was grand, though half the court
+is dying of the plague
+The revel would have been great
+but the tavern blew away
+\endverse
+\beginverse
+God help ye, frantic autocrat
+you'd better run away
+The Queen is mad – her tent and King
+have both been washed away.
+It might be wise to change your name
+and quit the SCA
+\endverse
+\beginverse
+God help ye, frantic autocrat
+now hide ye while ye may
+The gentry loved that damned
+event that ended yesterday
+They're asking for another one,
+the King hopes you'll obey.
+\endverse
+\beginchorus
+And they're singing in chorus
+"Do it again, do it again!"
+And they're singing in chorus
+"Do it again!"
+\endchorus
 \endsong

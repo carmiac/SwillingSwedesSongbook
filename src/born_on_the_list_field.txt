@@ -1,10 +1,10 @@
-\beginsong{Born on the Listfield}[
+\beginsong{Born on the List Field}[
 %    by={Ivar Battleskald},
 %    cr={Public domain},
 %    index = {Some obvious line},
 %    tune = {The Filked Song}
 ]
-\textnote{Originally written by the late Ivar Battleskald, he asked that it not be written down and instead passed through oral tradition. He lifted the ban before he passed.}
+\textnote{Originally written by the late Ivar Battleskald, he asked that it not be written down and instead passed through oral tradition. He lifted the ban before he passed. This is one version.}
 \beginverse
 There once was a warrior
 Fresh from the field
