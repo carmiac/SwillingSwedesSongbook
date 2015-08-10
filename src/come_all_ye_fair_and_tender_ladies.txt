@@ -1,7 +1,7 @@
 \beginsong{Come All Ye Fair and Tender Ladies}
 \beginverse
 Come all ye fair and tender ladies,
-Take warnin'how you court young men.
+Take warnin' how you court young men.
 They're like a star on a summers morning.
 First they'll appear then they're gone.
 \endverse

@@ -1,12 +1,12 @@
 Book Layout
 ===========
 - add front and back cover images
-- write better intro page content
 - clean up authors index
     - figure out what to do about odd names
 - print options
     - local shops
         - several good reviews on yelp
+        - any owned by sca members?
     - lulu.com
     - http://www.docucopies.com    
         - cheap!

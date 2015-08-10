@@ -1,12 +1,20 @@
 \vspace*{\baselineskip}
 
-Some of my best memories include singing around the campfire. This book is dedicated to everyone who has lent their voice while holding a book such as this.\\
+Some of my best memories include singing around the camp fire. This book is dedicated to everyone who has lent their voice while holding a book such as this.\\
 
 This book is not for sale under any circumstances, it can only be given away.\\
 
+Thanks to Amy, Joshua, Kelly, Lauren and Mandy. Without you this never would have been made. \\
+
 I have included credits and copyright information for each song, as far as known to me. If you have updated information please contact me at  \href{mailto:carmiac@gmail.org}{carmiac@gmail.org}\\
 
+Layout created using the Songs LaTeX package   \href{http://songs.sourceforge.net/}{http://songs.sourceforge.net/}\\
+\\
+\\
 
-Version 0.5
+\center
+Version 0.5 \\
+
+\today \\
 
 \clearpage
