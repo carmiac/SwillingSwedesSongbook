@@ -1,4 +1,4 @@
-\beginsong{Grounds for War}[tune = {Greensleeves?}]
+\beginsong{Grounds for War}[tune = {Jamacia Farewell - Harry Belafonte}]
 \beginverse
 And the fog clings wetly to pavilion tops
 I packed my flagon in my tourney dragon

@@ -13,26 +13,26 @@ And he won the heart of a lady.
 \textnote{Each chorus follows similarly}
 \endchorus
 \beginverse
-She left her father' s castle gate,
+She left her father's castle gate,
 She left her own true lover;
 She left her servants and her estate,
 To follow the gypsy rover. 
 \endverse
 \beginverse
 Her father saddled his fastest steed,
-He roam' d the valley all over;
+He roam'd the valley all over;
 He sought his daughter at great speed,
 And the whistling gypsy rover. 
 \endverse
 \beginverse
 He came at last to a mansion fine,
-Down by the River Claydee;
+Down by the river Claydee;
 And there was music, and there was wine,
 For the gypsy and his lady. 
 \endverse
 \beginverse
-" O, father he' s no gypsy free,
-But lord of lands all over;
+"O, father he's no gypsy free,
+But lord of these lands all over;
 And I will stay till my dying day,
 With my whistling gypsy rover." 
 \endverse

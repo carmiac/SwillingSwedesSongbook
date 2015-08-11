@@ -3,6 +3,7 @@ Book Layout
 - add front and back cover images
 - clean up authors index
     - figure out what to do about odd names
+- finish proof reading
 - print options
     - local shops
         - several good reviews on yelp
@@ -18,6 +19,7 @@ Infrastructure
 ==============
 - commit to github
     - add documentation for github
+- make build in *nix
 - make website
 
 

@@ -1,11 +1,11 @@
 \beginsong{The Heralds Said to Me}[by={ Ioseph of Locksley, Cherie Ruadh of Locksley },
                      tune={12 Days of Christmas}]
 \beginverse
-The first time I sent my device the Heralds said to me:
+The first time I sent my device the heralds said to me:
 It violates the Rule of Three 
 \endverse
 \beginverse
-The next time I tried it, the Heralds said to me:
+The next time I tried it, the heralds said to me:
 We changed the forms, and 
 It violates the Rule of Three!
 \endverse

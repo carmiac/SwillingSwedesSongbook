@@ -1,4 +1,4 @@
-\beginsong{White Stage On Green}[
+\beginsong{White Stag On Green}[
     by={Rhiogan ap Heilyn},
 %    cr={Public domain},
 %    index = {Some obvious line},

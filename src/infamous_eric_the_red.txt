@@ -9,7 +9,7 @@ is infamous Eric the Red
 \endverse
 \beginverse
 Heroes on board, that's the Norse
-axes-and banners held high, of course
+axes and banners held high, of course
 Always good plunder, never a blunder
 with infamous Eric the Red
 \endverse
@@ -40,7 +40,7 @@ with infamous Eric the Red
 \beginverse
 End of the world? that's a sight!
 Ragnarok's the god's twilight
-With Valkryes we'll drink each night
+With Valkyries we'll drink each night
 and infamous Eric the Red 
 \endverse
 \endsong

@@ -35,6 +35,6 @@ You'll hold the line...
 Oh, I am an old man, a gray-bearded knight
 But I stood with young Harry on Agincourt's field
 My arm is still strong and my eye is still bright
-And Baron or bandit, to no man I'll yield
+And baron or bandit, to no man I'll yield
 \endverse
 \endsong

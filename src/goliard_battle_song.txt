@@ -36,9 +36,9 @@ We're really beat, it's time to eat
 Our armor stinks, it's time for drinks
 \endverse
 \beginverse
-We've dropped our gear, now where's the Beer
+We've dropped our gear, now where's the beer?
 \endverse
 \beginverse
-We're strong and hearty, it's time to party 
+We're strong and hearty, it's time to party! 
 \endverse
 \endsong
