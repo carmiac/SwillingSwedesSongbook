@@ -15,12 +15,12 @@ Oh I am stuck with Leprosy
 Why I have to rot, I know not
 I cannot say
 Gangrene is better but
-I an stuck, with Leprosy
+I am stuck, with Leprosy
 \endchorus
 \beginverse
 Leprosy,
 All my clothes are dirty rags you see
-Thats why all the people stare at me
+That's why all the people stare at me
 Oh why do I have Leprosy
 \endverse
 \beginchorus
@@ -32,7 +32,7 @@ I am stuck with Leprosy
 \beginverse
 Leprosy,
 I'm not half the man I used to be
-Thats 'cause half of me is dead you see
+That's 'cause half of me is dead you see
 Oh I am plagued with Leprosy 
 \endverse
 \textnote{What do you call a leper in a sauna......Stew}

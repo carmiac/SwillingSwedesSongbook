@@ -1,6 +1,6 @@
 \beginsong{Lullaby to the Cat's Babe}
 \beginverse
-Hush, little mountain cat, Sleep in your den,
+Hush, little mountain cat, sleep in your den,
 I'll sing of your mother who cradled fair Jen.
 I'll sing of your mother who covered Jen's skin.
 Flesh of your flesh did sweet Jenna lie in. 
@@ -8,7 +8,7 @@ Flesh of your flesh did sweet Jenna lie in.
 \beginverse
 Sleep, little catkin,
 Perchance you shall dream
-Of rabbit and pheasant. And trout in the stream.
+Of rabbit and pheasant, and trout in the stream.
 But Jenna will dream of the dark and the light.
 Your mother will shelter her from the cold night. 
 \endverse

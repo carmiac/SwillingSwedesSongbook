@@ -1,4 +1,4 @@
-\beginsong{Johnny be Fair}[by={Buffy St. Marie}]
+\beginsong{Johnny Be Fair}[by={Buffy St. Marie}]
 \beginverse
 O Johnny be fair and Johnny be fine and wants me for to wed,
 And I would marry Johnny, but me father up and said:
@@ -21,6 +21,6 @@ So I should run to mother and complain to her of this!
 Now haven't I told you daughter to forgive and to forget?
 For though your father's sown his wild oats, you needn't fret,
 He may have sired every single lad in town, but still,
-He's not the one you sired YOU so marry who you will!
+He's not the one who sired YOU so marry who you will!
 \endverse
 \endsong

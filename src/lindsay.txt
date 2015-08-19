@@ -1,9 +1,9 @@
 \beginsong{Lindsay}
 \beginverse
 Now Lindsay he has taken to the road, straight to the North he'll steer
-With his face and a fiddle in his pack, he'll make a living its clear
+With his face and a fiddle in his pack, he'll make a living it's clear
 He's well met with a peddler group, and a chance to a chance at the Inn
-He' called to the rail, and he's taken the fife, and he's careful to stick to the tune
+He's called to the rail, and he's taken the fife, and he's careful to stick to the tune
 \endverse
 \beginverse
 Now all through the night they fiddle and fife, for the dancers have taken to the floor
@@ -14,7 +14,7 @@ And there they met Black Janet De'Willie, who sang as she rattled a drum
 \beginverse
 Now Lindsay's asked Black Janet to dance, and ye never saw so bonny a pair
 She has taken him firm by the hand, and she's kicked to the top of the stair
-"Here" she said "is a fine feather bed, where a man be weary or creel
+"Here", she said, "is a fine feather bed, where a man be weary or creel
 May step for me against Strathspey, Wi' me lute and the tune in his ears
 \endverse
 \beginverse

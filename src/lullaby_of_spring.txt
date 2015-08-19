@@ -1,8 +1,9 @@
 \beginsong{Lullaby of Spring}
 \beginverse
 Rain has showered far her drip
-Splash and trickle running Plant has flowered in the sun
-Shell and pebble sunnning 
+Splash and trickle running 
+Plant has flowered in the sun
+Shell and pebble sunning 
 \endverse
 \beginchorus
 So begins another spring

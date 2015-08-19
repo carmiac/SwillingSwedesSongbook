@@ -1,6 +1,6 @@
 \beginsong{Mary Mac}[by={Jake Mitchell}]
 \beginverse
-There's a nice wee lass and her name is Mary Mack
+There's a nice wee lass and her name is Mary Mac
 Make no mistake, she's the miss I'm goin' tae tak
 There's a lot of other chaps who would get up on her track
 But I'm thinking they'll have to getup early
@@ -19,13 +19,13 @@ So I'd be a silly ass to let the matter pass
 Her father thinks she suits me fairly.
 \endverse
 \beginverse
-Now Mary and her Mother gain an awful lot together
+Now Mary and her mother gain an awful lot together
 In fact you never see the one or the one without the other
 And the fellows often wonder if it's Mary or her mother
 Or the both of them together that I'm courtin'
 \endverse
 \beginverse
-Now the wedding day's on Wednesday and everything's arranged
+Now the wedding day's on Wednesday and every thing's arranged
 Her name will soon be changed to mine unless her mind be changed
 And we're making the arrangements and I'm just a bit deranged
 For marriage is an awful undertakin'

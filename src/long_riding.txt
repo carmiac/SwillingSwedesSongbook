@@ -1,7 +1,7 @@
 \beginsong{The Long Riding}
 \beginverse
 Into the valley
-Come riding, Come riding,
+Come riding, come riding,
 Into the meadow and into the dell,
 Into the moonlight where shadows are gliding, 
 \endverse

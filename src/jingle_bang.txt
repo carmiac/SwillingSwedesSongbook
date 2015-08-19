@@ -11,7 +11,7 @@ With a jingle bang jingle bang jingle bang jingle
 With a jingle bang jingle bang jingle hi-ho 
 \endchorus
 \beginverse
-I will said the smith and they went off together
+I will said the smith, and they went off together
 Along to the young damsels forge they did go
 They stripped to go to it, 'twas hot work and hot weather
 She kindled a fire, and she soon made him glow
@@ -19,7 +19,7 @@ She kindled a fire, and she soon made him glow
 \beginverse
 Her husband, she said, no good work could afford her
 His strength and his tool were worn out long ago
-The smith said well mine are in very good order
+The smith said, well mine are in very good order
 And now I am ready my skill for to show
 \endverse
 \beginverse
