@@ -15,7 +15,7 @@ To see waters gliding, hear the nightingales sing.
 They had not been standing but a moment or two
 When out of his knapsack a fiddle he drew
 And the tune that he played made the valleys to ring
-"Hark! Hark!" cried the lady, "hear the nigntingales sing."
+"Hark! Hark!" cried the lady, "hear the nightingales sing."
 \endverse
 \beginverse
 "Pretty lady, pretty lady, it's time to give o'er"
