@@ -4,22 +4,22 @@
 \beginverse  
 On the first round of the tourney,
 My true love said to me,
-“I…. Want to be Queen!”
+“I... Want to be Queen!”
 \endverse
 \beginverse
 On the second round of the tourney,
 My true love said to me,
 “I want a Tudor Step-up!”
-and…
-“I… want to be Queen!”
+and
+“I... want to be Queen!”
 \endverse
 \beginverse
 On the third round of the tourney,
 My true love said to me,
 “Don't mess up the favor!”
 “I want a Tudor Step-up!”
-and…
-“I…. Want to be Queen!”
+and...
+“I.. Want to be Queen!”
 \endverse
 \beginverse
 \textnote{...to save space...}
@@ -36,7 +36,7 @@ My true love said to me,
 “I missed your forth round fight.”
 “Don't mess up the favor!”
 “I want a Tudor Step-up!”
-and…
+and...
 “I... Want to be Queen!”
 \endverse
 \beginverse

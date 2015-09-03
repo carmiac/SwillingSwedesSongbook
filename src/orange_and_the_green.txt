@@ -1,7 +1,7 @@
 \beginsong{The Orange and The Green}[by={Anthony Murphy}]
 \beginchorus
 Oh it was the biggest mix-up that you have ever seen
-My father he was Orange, and me Mother she was Green 
+My Father he was Orange, and me Mother she was Green 
 \endchorus
 \beginverse
 Oh my father was an Ulsterman, proud Protestant was he

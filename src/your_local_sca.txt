@@ -2,7 +2,7 @@
 %    by={A. Author, B. Authour},
 %    cr={Public domain},
 %    index = {Some obvious line},
-%    tune = {God Rest Ye Merry Gentlemen}
+    tune = {God Rest Ye Merry Gentlemen}
 ]
 \beginverse
 Arrest these merry gentles, nay, it would be so unkind

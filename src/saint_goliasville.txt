@@ -1,6 +1,6 @@
 \beginsong{Saint Golias-ville }[tune = {Margaritaville - Jimmy Buffet}]
 \beginverse
-Livin on poundcake, watchin the sun bake
+Livin on poundcake, watchin' the sun bake
 All of those fighters covered in armor
 Beatin' my baudraun, by the pavilion
 Smell of the steaks out there on the fire 
@@ -8,7 +8,7 @@ Smell of the steaks out there on the fire
 \beginchorus
 Wastin' away again in St Golias
 Lookin' for my lost bottle of scotch
-And some people claim, that theres a woman to blame
+And some people claim, that there's a woman to blame
 But I know, It's nobody's fault 
 \endchorus
 \beginverse
@@ -26,7 +26,7 @@ But I think, Hell it could be my fault
 \beginverse
 Stepped in a chuck hole, blew out a buckle
 Tore up my leg, had to cruise on back home
-But theres beer in the cooler, though it could be cooler
+But there's beer in the cooler, though it could be cooler
 That golden liquid that helps me hang on 
 \endverse
 \beginchorus

@@ -13,7 +13,7 @@ A witch she was, though trim and neat with comely head held high
 It did not seem that one as she with Satan so would vie
 And when in court when the afflicted ones proclaimed her evil ways
 She laughed aloud and boldly then
-Met Cotton Mathers gaze
+Met Cotton Mather's gaze
 \endverse
 \beginverse
 "Who hath bewitched these maids," he asked, and strong was her reply
@@ -24,8 +24,7 @@ So none could doubt 'twas there
 \endverse
 \beginverse
 The neighbors 'round swore to the truth of her Satanic powers
-That she could fly o'er land and stream and come dry shod through
-showers
+That she could fly o'er land and stream and come dry shod through showers
 At night, twas said, she had appeared a cat of fearsome mien
 "Avoid she-devil,"they had cried
 To keep their spirits clean
