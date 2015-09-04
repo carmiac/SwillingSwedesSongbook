@@ -51,22 +51,22 @@ Catching hold of his bridle rein;
 "Before I give you one penny fair maid,
 Pray tell me where you were born."
 "At Islington, kind sir," said she,
+"Where I have had many a scorn.
 \endverse
 \beginverse
-"Where I have had many a scorn.
 If that be so, I prithee, fair maid,
 Oh, tell me whether you know
 The bailiff's daughter of Islington?"
+"She is dead, sir, long ago."
 \endverse
 \beginverse
-"She is dead, sir, long ago."
 "If she be dead, then take my horse,
 My saddle and bridle also;
 For I will into some far country
+Where no man shall me know.
 \endverse
 \beginverse
-Where no man shall me know.
-"oh stay, oh stay, thou goodly youth,
+"Oh stay, oh stay, thou goodly youth,
 She standeth by thy side;
 She is hear alive, she is
 And ready to be thy bride."

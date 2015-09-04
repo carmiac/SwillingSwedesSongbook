@@ -52,9 +52,9 @@ So come all ye jolly young fellows,
 I'll have ye take warning from me.
 Whenever you're out on the liquor,
 Beware of them pretty colleens.
-They'll treat you to whiskey and porter,
 \endverse
 \beginverse
+They'll treat you to whiskey and porter,
 Till you are not able to stand;
 And the very next thing that you know, my lads,
 You'll end up in Van Dieman's land. 

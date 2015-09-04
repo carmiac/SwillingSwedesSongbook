@@ -1,7 +1,7 @@
 \beginsong{Donald, Where's Yuir Trowsers?}[by={Traditional}]
 \beginchorus
 Let the winds blow high, let the winds blow low
-Through the street in me Kilt I go
+Through the street in me kilt I go
 All the lassies say hello
 Donald where's yuir trowsers? 
 \endchorus

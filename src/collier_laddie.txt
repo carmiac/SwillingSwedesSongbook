@@ -9,7 +9,7 @@ She was following a collier laddie.
 " Oh where live ye my bonnie lass?
 And tell me what they ca'ye?"
 " Bonnier Jeanie Gordon is my name,
-And I'm following my Collier laddie."
+And I'm following my collier laddie."
 \endverse
 \beginverse
 " O, see ye not yon hills and dales

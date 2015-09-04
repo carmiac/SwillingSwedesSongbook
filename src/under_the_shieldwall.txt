@@ -1,5 +1,5 @@
 \beginsong{Under the Shieldwall}[
-    by={Chidiock~the~Younger, Andrixos~Seljukroctonis},
+    by={Chidiock~the~Younger, Andrixios~Seljukroctonis},
 %    cr={Public domain},
 %    index = {Some obvious line},
     tune = {Under the Boardwalk}

@@ -1,8 +1,7 @@
 \beginsong{Anna at the Turning}
 \beginverse
 Gray in the moonlight, and green in the sun,
-Dark in the evening,
-Bright in the dawn,
+Dark in the evening, bright in the dawn,
 Ever the meadow goes endlessly on,
 And Anna at each turning.
 \endverse
@@ -16,6 +15,6 @@ And Anna at each turning.
 Look to the meadows and look to the hills,
 Look to the rocks where the swift river spills,
 Look to the farmland the farmer still tills
-For Anna is Returning. 
+For Anna is returning. 
 \endverse
 \endsong

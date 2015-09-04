@@ -19,7 +19,7 @@ though some day my sword may grow rusty and old
 I must live by my oath until I die
 \endchorus
 \beginverse
-Great grew the knight, and his fame *he/she* did win
+Great grew the knight, and his fame he did win
 And never before a foe would yield
 great were the numbers, he ne'er called defeat
 and he sang this song behind his shield.
@@ -45,7 +45,7 @@ I must live by my oath until I die.
 \beginverse
 War tore the country and the king was in flight
 His knights, they could not win the day
-Onto the field rode that *old ag-ed/brave lady* knight
+Onto the field rode that old ag-ed knight
 and some swear they heard him say.
 \endverse
 \beginchorus
@@ -58,7 +58,7 @@ You must live by my oaths until I die.
 The king's men they rallied, and they slew all their foes
 \textnote{slowly}
 They began to count their hurt and dead.
-They found that *ag-ed/lady* knight ringed round by slain foes
+They found that ag-ed knight ringed round by slain foes
 And unto his king this oath he gave.
 \endverse
 \beginchorus

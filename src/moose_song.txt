@@ -1,4 +1,4 @@
-\beginsong{The Moose Song}[by={Thomas~Payton, Anonymous},
+\beginsong{The Moose Song}[by={Thomas~Payton,Anonymous},
                      tune = {Betsy From Pike}]
 \beginverse
 When I was a young girl I used to like boys,

@@ -1,4 +1,4 @@
-\beginsong{The Gallant Forty Twa}
+\beginsong{The Gallant Forty Twa}[tune = {Pat of Mullingar}]
 \beginverse
 You may talk about your lancers, or your Irish Fusiliers,
 The Aberdeen Militia or the Queen's Own Volunteers;

@@ -11,7 +11,7 @@ All alone in the lailey O',
 The two bonniest babes that ever were born.
 Down in the bonny green Osireo.
 \endverse
-\textnote{SImilarly}
+\textnote{Similarly}
 \beginverse
 She's gone back to her fathers castle hall,
 She was the smallest maid of them all.

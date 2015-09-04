@@ -4,7 +4,7 @@
 \beginverse
 Well, come sit ye down, and I'll tell you a tale
 It concerns what goes on 'tween lads and lasses
-'tis a good thing to learn for any canny lass
+'Tis a good thing to learn for any canny lass
 And when I am done you will thank me.
 \endverse
 \beginchorus
@@ -21,7 +21,7 @@ But 'twas then that I made my great blunder.
 \endverse
 \beginverse
 "Oh, Johnnie, my love, your lovin' has no peer"
-and truer words were never spoken
+And truer words were never spoken
 But Robbie's the name of my duly wedded lord
 And John is the name of my lover.
 \endverse

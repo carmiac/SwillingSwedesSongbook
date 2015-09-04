@@ -1,9 +1,9 @@
-\beginsong{Have You Seen the Army?}[by={Mikal~the~Ram}]
+\beginsong{Have You Seen the Army?}[by={Mikal~Hrafspa}]
 \beginverse
 Have ye heard the story from the land of Calontir?
 With sword and axe a-swinging fit to make a grown man fear?
 The barons called for taxes, the people answered "Nay!"
-"And if you come collecting, there' ll be hell to pay!
+"And if you come collecting, there'll be hell to pay!
 \endverse
 \beginchorus
 Have you seen the army, it was here a while ago,
