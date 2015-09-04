@@ -1,8 +1,6 @@
 Book Layout
 ===========
 - add front and back cover images
-- clean up authors index
-    - just a few odd ones left
 - finish proof reading
     - just my final pass
 - print options
@@ -20,7 +18,8 @@ Infrastructure
 ==============
 - commit to github
     - add documentation for github
-- make build in *nix
+- make build in OSX
+    - to get html output working
 - make website
 
 
