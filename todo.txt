@@ -16,9 +16,12 @@ Songs
 
 Infrastructure
 ==============
-- commit to github
-    - add documentation for github
-- make build in OSX
+- add documentation for github
+    - prereqs
+    - build instructions
+    - license
+    - better README
+- make build in OSX work
     - to get html output working
 - make website
 
