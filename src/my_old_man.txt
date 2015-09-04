@@ -1,4 +1,4 @@
-\beginsong{My Old Man}[by={Uncle Justininian, Roger of York, Othar Morganson, Muire Ultach}]
+\beginsong{My Old Man}[by={Uncle~Justininian, Roger~of~York, Othar~Morganson, Muire~Ultach}]
 \beginverse
 My old man's a fighter. 
 What do you think about that?

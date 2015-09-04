@@ -1,4 +1,4 @@
-\beginsong{Gone is the Sailor}[by={Ivor Cutler}]
+\beginsong{Gone is the Sailor}[by={Ivor~Cutler}]
 \beginverse
 Home is the sailor, home from the docks
 Bringing home the groceries, and the smell of tar 

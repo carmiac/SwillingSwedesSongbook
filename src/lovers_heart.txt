@@ -1,4 +1,4 @@
-\beginsong{Lovers Heart}[by={Andy Stewart, Phil Cunningham}]
+\beginsong{Lovers Heart}[by={Andy~Stewart, Phil~Cunningham}]
 \beginverse
 She was in the flowery garden, when first she caught my eye
 And I just a marching soldier; she smiled as I passed by

@@ -1,4 +1,4 @@
-\beginsong{The Champion}[by={Baldwin of Erebor}]
+\beginsong{The Champion}[by={Baldwin~of~Erebor}]
 \beginverse
 The champion he is brave
 and the champion he is bold.

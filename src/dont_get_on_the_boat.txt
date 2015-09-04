@@ -1,5 +1,5 @@
 \beginsong{Don't Get on the Boat!}[
-    by={Pendar the Bard},
+    by={Pendar~the~Bard},
 %    cr={Public domain},
 %    index = {Some obvious line},
 %    tune = {The Filked Song}

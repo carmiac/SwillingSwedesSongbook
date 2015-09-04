@@ -1,4 +1,4 @@
-\beginsong{Mighty Casey}[by={Edmound Bernhard }]
+\beginsong{Mighty Casey}[by={Edmound~Bernhard }]
 \beginverse
 The field was terribly vicious
 For the tourney list that day

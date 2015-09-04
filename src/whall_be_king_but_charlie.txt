@@ -1,5 +1,5 @@
 \beginsong{Wha'll Be King But Charlie}[
-    by={Lady Carolina Nairne},
+    by={Lady Carolina~Nairne},
 %    cr={Public domain},
 %    index = {Some obvious line},
     tune = {Tidy Woman}

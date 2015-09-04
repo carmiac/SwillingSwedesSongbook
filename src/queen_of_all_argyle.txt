@@ -1,4 +1,4 @@
-\beginsong{The Queen of Argyll}[by={Andy Stewart}]
+\beginsong{The Queen of Argyll}[by={Andy~Stewart}]
 \beginverse
 Gentlemen, it is my duty to inform you of one beauty
 Though I'd ask of you a favor, no to seek her for a while

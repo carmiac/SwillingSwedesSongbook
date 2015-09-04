@@ -1,4 +1,4 @@
-\beginsong{De Limpin Jock }[by={Adellind le Quintain },
+\beginsong{De Limpin Jock }[by={Adellind~le~Quintain },
                      tune = {Limbo Rock by Chubby Checker}]
 \beginverse
 First you take a crazy mon

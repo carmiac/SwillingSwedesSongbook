@@ -1,5 +1,5 @@
 \beginsong{A Cautionary Tale}[
-  by={Adellind le Quintain},
+  by={Adellind~le~Quintain},
   tune={Red is the Rose}]
 \beginverse
 Well, come sit ye down, and I'll tell you a tale

@@ -1,4 +1,4 @@
-\beginsong{Derry}[by={Bobby Sands },
+\beginsong{Derry}[by={Bobby~Sands },
                      index = {Back Home in Derry}]
 \beginverse
 In 1803 we set out to sea,

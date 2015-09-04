@@ -1,4 +1,4 @@
-\beginsong{Saint Crispians Day}[by={William Shakespeare },
+\beginsong{Saint Crispians Day}[by={William~Shakespeare },
                      index = {The Soliloquy of King Henry V}]
 \beginverse
 Proclaim it Westmoreland, through my host,

@@ -1,5 +1,5 @@
 \beginsong{The Helmsman}[
-    by={Mikal Hrafspa},
+    by={Mikal~Hrafspa},
 %    cr={Public domain},
 %    index = {Some obvious line},
 %    tune = {The Filked Song}

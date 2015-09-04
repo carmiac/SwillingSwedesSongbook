@@ -1,5 +1,5 @@
 \beginsong{The Witch of the West-Mer-Lands}[
-    by={Archie Fisher},
+    by={Archie~Fisher},
 %    cr={Public domain},
 %    index = {Some obvious line},
 %    tune = {The Filked Song}

@@ -1,5 +1,5 @@
 \beginsong{The Streets of Ann Arbor}[
-    by={W. J. Bethancourt III },
+    by={W.J.~Bethancourt~III },
     tune = {Streets of Laredo}
 ]
 \beginverse

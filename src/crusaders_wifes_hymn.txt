@@ -1,4 +1,4 @@
-\beginsong{Crusader's Wife's Hymn}[by={Mistress Alison Mac Kieran Dhu },
+\beginsong{Crusader's Wife's Hymn}[by={Mistress Alison~Mac~Kieran~Dhu},
                      tune = {On top of Old Smokey }]
 \beginverse
 O, I am a lady, my husband's a lord.

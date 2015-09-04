@@ -1,4 +1,4 @@
-\beginsong{A Fine Friggin' Song}[by={Ewan Keith (editor)},
+\beginsong{A Fine Friggin' Song}[by={Ewan~Keith~(editor)},
                      ]
 \beginverse
 I went out to take a friggin' walk by the friggin pier

@@ -1,4 +1,4 @@
-\beginsong{Hame Hame Hame}[by={Traditional, Andy Stewart}]
+\beginsong{Hame Hame Hame}[by={Traditional, Andy~Stewart}]
 \beginverse
 Hame, hame, hame, hameward I be
 Hame, hame, hame, in my ain country

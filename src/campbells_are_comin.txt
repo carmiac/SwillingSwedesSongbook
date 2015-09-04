@@ -1,4 +1,4 @@
-\beginsong{The Campbell's are Comin'}[by={Robert Burns}]
+\beginsong{The Campbell's are Comin'}[by={Robert~Burns}]
 \beginchorus
 The Campbell's are comin, Oho! Oho!
 The Campbell's are comin, Oho! Oho!

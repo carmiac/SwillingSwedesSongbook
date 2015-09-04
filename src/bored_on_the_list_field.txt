@@ -1,5 +1,5 @@
 \beginsong{Bored on the List Field}[
-    by={Andrew Scarhart, Othar Morganson},
+    by={Andrew~Scarhart, Othar~Morganson},
 %    cr={Public domain},
 %    index = {Some obvious line},
     tune = {Born on the List Field}

@@ -1,4 +1,4 @@
-\beginsong{I'm a Freeborn Man}[by={Ewan MacColl},
+\beginsong{I'm a Freeborn Man}[by={Ewan~MacColl},
                             index = {Freeborn Man of the Traveling People}]
 \beginverse
 I am a freeborn man of the traveling people

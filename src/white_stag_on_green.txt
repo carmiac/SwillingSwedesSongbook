@@ -1,5 +1,5 @@
 \beginsong{White Stag On Green}[
-    by={Rhiogan ap Heilyn},
+    by={Rhiogan~ap~Heilyn},
 %    cr={Public domain},
 %    index = {Some obvious line},
 %    tune = {The Filked Song}

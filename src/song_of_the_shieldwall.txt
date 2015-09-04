@@ -1,4 +1,4 @@
-\beginsong{Song of the Shield-Wall}[by={Lady Malkin Grey, Lady Peregrynne Windrider }]
+\beginsong{Song of the Shield-Wall}[by={Lady Malkin~Grey, Lady Peregrynne~Windrider }]
 \beginverse
 Hasten, oh sea-steed, over the swan-road,
 Foamy-necked ship oer the froth of the sea,

@@ -1,5 +1,5 @@
 \beginsong{Worms of the Earth}[
-    by={Clam Chowder},
+    by={Clam~Chowder},
 %    cr={Public domain},
 %    index = {Some obvious line},
 %    tune = {The Filked Song}

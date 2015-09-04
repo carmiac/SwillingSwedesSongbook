@@ -1,4 +1,4 @@
-\beginsong{Boulavogue}[by={P.J. McCall}]
+\beginsong{Boulavogue}[by={P.J.~McCall}]
 \beginverse
 At Boulavogue, as the sun was setting
 O'er the bright May meadows of Shalmaleer

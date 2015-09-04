@@ -1,4 +1,4 @@
-\beginsong{Chivalrous Shark}[by={Wallace Irwin}]
+\beginsong{Chivalrous Shark}[by={Wallace~Irwin}]
 \beginverse
 The most chivalrous fish of the ocean,
 To ladies forbearing and mild,

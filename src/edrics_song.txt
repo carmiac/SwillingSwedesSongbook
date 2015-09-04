@@ -1,4 +1,4 @@
-\beginsong{Edrics Song}[by={Edmound Bernhard },
+\beginsong{Edrics Song}[by={Edmound~Bernhard },
                      tune = {The Bucket Song}]
 \beginverse
 Will you drink with us Edric,

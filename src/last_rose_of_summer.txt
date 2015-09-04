@@ -1,4 +1,4 @@
-\beginsong{The Last Rose of Summer}[by={Thomas Moore}]
+\beginsong{The Last Rose of Summer}[by={Thomas~Moore}]
 \beginverse
 ''Tis the last rose of summer, left blooming all alone
 All her lovely companions are faded and gone.

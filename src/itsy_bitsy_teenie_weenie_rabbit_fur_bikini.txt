@@ -1,4 +1,4 @@
-\beginsong{Itsy Bitsy Teenie Weenie Little Rabbit Fur Bikini}[by={W.J.Bethancourt III},
+\beginsong{Itsy Bitsy Teenie Weenie Little Rabbit Fur Bikini}[by={W.J.~Bethancourt~III},
                      cr={Public domain},
                      index = {Rabbit Fur Bikini},
                      tune = {Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini},

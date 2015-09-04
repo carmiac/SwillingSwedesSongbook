@@ -1,4 +1,4 @@
-\beginsong{The Highwayman}[by={Alfred Noyes }]
+\beginsong{The Highwayman}[by={Alfred~Noyes }]
 \beginverse
 The wind was a torrent of darkness among the gusty trees,
 The moon was a ghostly galleon tossed upon cloudy seas

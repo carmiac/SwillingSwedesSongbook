@@ -1,5 +1,5 @@
 \beginsong{Hotspur}[
-%    by={Andrew Lyon of Wolvenwood},
+%    by={Andrew~Lyon~of~Wolvenwood},
 %    cr={Public domain},
 %    index = {Some obvious line},
 %    tune = {The Filked Song}

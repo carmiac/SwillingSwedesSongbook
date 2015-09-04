@@ -1,4 +1,4 @@
-\beginsong{Anne Boleyn}[by={R.L. Weston,  Bert Lee}]
+\beginsong{Anne Boleyn}[by={R.L.~Weston, Bert~Lee}]
 \beginverse
 In the Tower of London, large as life,
 The ghost of Anne Boleyn walks, they declare.

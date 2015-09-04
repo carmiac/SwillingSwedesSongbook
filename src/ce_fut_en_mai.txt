@@ -1,5 +1,5 @@
 \beginsong{Ce Fut en Mai}[
-    by={Traditional French},
+    by={French Traditional},
 %    cr={Public domain},
 %    index = {It Was In May},
 %    tune = {The Filked Song}

@@ -1,4 +1,4 @@
-\beginsong{The Isla Waters}[by={Andy Stewart, Martin Hadden}]
+\beginsong{The Isla Waters}[by={Andy~Stewart, Martin~Hadden}]
 \beginverse
 I hae' friends, they buy me whisky
 Bonnie friends they call my name

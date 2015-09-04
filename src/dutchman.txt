@@ -1,4 +1,4 @@
-\beginsong{The Dutchman}[by={Michael Smith }]
+\beginsong{The Dutchman}[by={Michael~Smith }]
 \beginverse
 The Dutchman's not the kind of man
 Who keeps his thumb jammed in the dam

@@ -1,5 +1,5 @@
 \beginsong{Dream Warrior}[
-    by={Rathflaed DuNoir},
+    by={Rathflaed~DuNoir},
 %    cr={Public domain},
 %    index = {Some obvious line},
 %    tune = {The Filked Song}

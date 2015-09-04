@@ -1,4 +1,4 @@
-\beginsong{A Grazing Mace}[by={Skald-Brandr Toralfsson, Anonymous},
+\beginsong{A Grazing Mace}[by={Skald-Brandr~Toralfsson, Anonymous},
                      tune = {Amazing Grace},
                      ]
 \beginverse

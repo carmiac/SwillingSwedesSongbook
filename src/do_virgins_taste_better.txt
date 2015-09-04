@@ -1,5 +1,5 @@
 \beginsong{Do Virgins Taste Better?}[
-    by={R. Farran },
+    by={R.~Farran },
 %    cr={Public domain},
     index = {An Old Cliche Revisited},
     tune = {The Irish Washerwoman}

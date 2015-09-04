@@ -1,4 +1,4 @@
-\beginsong{Scotland the Brave }[by={Cliff Hanley}]
+\beginsong{Scotland the Brave }[by={Cliff~Hanley}]
 \beginverse
 Hark when the night is fallin', hear, hear the pipes a-callin'
 Loudly and proudly callin' down thru the glen

@@ -1,4 +1,4 @@
-\beginsong{Scotlands Depraved }[by={Anonymous},
+\beginsong{Scotlands Depraved }[by={Anonymous~Scots~of~Many~Nations},
                      tune = {Scotland the Brave}]
 \beginverse
 Bring out the whiskey mother

@@ -1,5 +1,5 @@
 \beginsong{The River Driver}[
-    by={Great Big Sea},
+    by={Great~Big~Sea},
 %    cr={Public domain},
 %    index = {Some obvious line},
 %    tune = {The Filked Song}

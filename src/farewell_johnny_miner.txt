@@ -1,4 +1,4 @@
-\beginsong{Farewell Johnny Miner}[by={Ed Pickford}]
+\beginsong{Farewell Johnny Miner}[by={Ed~Pickford}]
 \beginverse
 Johnny Miner, you were born
 Never to see the rising dawn,

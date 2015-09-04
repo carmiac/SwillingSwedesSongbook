@@ -1,4 +1,4 @@
-\beginsong{The Outlands Song}[by={Master Richard Gilchrest}]
+\beginsong{The Outlands Song}[by={Master Richard~Gilchrest}]
 \beginverse
 'Twas on a dark and starry night
 The King did come to me

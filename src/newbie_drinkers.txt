@@ -1,4 +1,4 @@
-\beginsong{Newbie Drinkers }[by={Edmound Bernhard},
+\beginsong{Newbie Drinkers }[by={Edmound~Bernhard},
                      tune = {Greensleeves}]
 \beginverse
 My lady love please come to me,  

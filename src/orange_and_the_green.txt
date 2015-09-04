@@ -1,4 +1,4 @@
-\beginsong{The Orange and The Green}[by={Anthony Murphy}]
+\beginsong{The Orange and The Green}[by={Anthony~Murphy}]
 \beginchorus
 Oh it was the biggest mix-up that you have ever seen
 My Father he was Orange, and me Mother she was Green 

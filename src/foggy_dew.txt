@@ -1,4 +1,4 @@
-\beginsong{The Foggy Dew }[by={Charles O'Neill }]
+\beginsong{The Foggy Dew }[by={Charles~O'Neill }]
 \beginverse
 'Twas down the glen one Easter morn
 To a city fair rode I.

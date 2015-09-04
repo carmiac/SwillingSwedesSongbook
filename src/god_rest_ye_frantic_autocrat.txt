@@ -1,4 +1,4 @@
-\beginsong{God Rest Ye Frantic Autocrat}[by={Master Tivar Moondragon },
+\beginsong{God Rest Ye Frantic Autocrat}[by={Master Tivar~Moondragon },
                      tune = {God Rest Ye Merry Gentlemen}]
 \beginverse
 God rest ye frantic autocrat, 

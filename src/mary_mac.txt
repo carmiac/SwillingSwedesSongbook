@@ -1,4 +1,4 @@
-\beginsong{Mary Mac}[by={Jake Mitchell}]
+\beginsong{Mary Mac}[by={Jake~Mitchell}]
 \beginverse
 There's a nice wee lass and her name is Mary Mac
 Make no mistake, she's the miss I'm goin' tae tak

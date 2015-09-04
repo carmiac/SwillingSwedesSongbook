@@ -1,5 +1,5 @@
 \beginsong{It's So Big}[
-    by={Sherri Burmeister},
+    by={Sherri~Burmeister},
     cr={Sherri Burmeister, 1996},
 %    index = {Some obvious line},
 %    tune = {The Filked Song}

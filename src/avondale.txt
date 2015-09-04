@@ -1,4 +1,4 @@
-\beginsong{Avondale}[by={Dominic Behan}]
+\beginsong{Avondale}[by={Dominic~Behan}]
 \beginchorus
 Oh have you been to Avondale
 And wandered in the lovely vale

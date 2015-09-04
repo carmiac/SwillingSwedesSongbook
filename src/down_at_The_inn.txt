@@ -1,4 +1,4 @@
-\beginsong{Down at the Inn}[by={Francis of Saxony }]
+\beginsong{Down at the Inn}[by={Francis~of~Saxony }]
 \beginverse
 Hey, digga din, Hey, digga din, down at the inn,
 Down at the inn, Down at the inn,

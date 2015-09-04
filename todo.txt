@@ -2,8 +2,9 @@ Book Layout
 ===========
 - add front and back cover images
 - clean up authors index
-    - figure out what to do about odd names
+    - just a few odd ones left
 - finish proof reading
+    - just my final pass
 - print options
     - local shops
         - several good reviews on yelp

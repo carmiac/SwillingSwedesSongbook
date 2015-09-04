@@ -1,4 +1,4 @@
-\beginsong{Flower O'Scotland}[by={Roy MB Williamson}]
+\beginsong{Flower O'Scotland}[by={Roy~MB~Williamson}]
 \beginverse
 O Flower of Scotland
 When will we see

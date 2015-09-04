@@ -1,4 +1,4 @@
-\beginsong{The Heralds Said to Me}[by={ Ioseph of Locksley, Cherie Ruadh of Locksley },
+\beginsong{The Heralds Said to Me}[by={ Ioseph~of~Locksley, Cherie~Ruadh~of~Locksley },
                      tune={12 Days of Christmas}]
 \beginverse
 The first time I sent my device the heralds said to me:

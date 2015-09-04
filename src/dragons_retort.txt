@@ -1,4 +1,4 @@
-\beginsong{The Dragon's Retort }[by={Claire Stephens},
+\beginsong{The Dragon's Retort }[by={Claire~Stephens},
                      index = {Do Virgins Taste Better Two},
                      tune = {Irish Washerwoman}]
 \beginverse

@@ -1,4 +1,4 @@
-\beginsong{Black Widows in the Privy}[by={Keridwen on Mynydd Gwyadd}]
+\beginsong{Black Widows in the Privy}[by={Keridwen~on~Mynydd~Gwyadd}]
 \beginverse
 Everyone knows someone we'd be better off without,
 But best not mention names for we don't know who's about

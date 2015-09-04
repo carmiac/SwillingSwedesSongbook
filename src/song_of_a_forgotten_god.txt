@@ -1,4 +1,4 @@
-\beginsong{Song of a Forgotten God }[by={Tawnee Darkfalcon, Scarhart}]
+\beginsong{Song of a Forgotten God }[by={Tawnee~Darkfalcon, Scarhart}]
 \beginverse
 Where have all my children gone?
 It didn't seem I'd slept so long.

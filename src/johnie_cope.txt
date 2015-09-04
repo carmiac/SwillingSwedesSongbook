@@ -1,4 +1,4 @@
-\beginsong{Johnnie Cope}[by={Adam Skirving}]
+\beginsong{Johnnie Cope}[by={Adam~Skirving}]
 \beginverse
 Hey, Johnnie Cope, are you wauking yet?
 Or are your drums a-beating yet?

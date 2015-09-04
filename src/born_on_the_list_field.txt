@@ -1,5 +1,5 @@
 \beginsong{Born on the List Field}[
-%    by={Ivar Battleskald},
+%    by={Ivar~Battleskald},
 %    cr={Public domain},
 %    index = {Some obvious line},
 %    tune = {The Filked Song}

@@ -1,4 +1,4 @@
-\beginsong{Johnny Be Fair}[by={Buffy St. Marie}]
+\beginsong{Johnny Be Fair}[by={Buffy~St.~Marie}]
 \beginverse
 O Johnny be fair and Johnny be fine and wants me for to wed,
 And I would marry Johnny, but me father up and said:

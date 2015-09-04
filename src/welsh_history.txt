@@ -1,5 +1,5 @@
 \beginsong{Welsh History 101}[
-    by={Heather Rose Jones },
+    by={Heather~Rose~Jones },
 %    cr={Public domain},
 %    index = {Some obvious line},
     tune = {Ash Grove}

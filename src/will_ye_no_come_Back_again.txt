@@ -1,5 +1,5 @@
 \beginsong{Will Ye No Come Back Again?}[
-    by={Lady Carolina Oliphant},
+    by={Lady Carolina~Oliphant},
 %    cr={Public domain},
 %    index = {Some obvious line},
 %    tune = {The Filked Song}

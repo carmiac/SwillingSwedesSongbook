@@ -1,5 +1,5 @@
 \beginsong{We Be Soldiers Three}[
-%    by={A. Author, B. Authour},
+    by={Traditional},
 %    cr={Public domain},
 %    index = {Some obvious line},
 %    tune = {The Filked Song}

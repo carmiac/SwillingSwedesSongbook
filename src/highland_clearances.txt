@@ -1,4 +1,4 @@
-\beginsong{The Highland Clearances }[by={Andy Stewart}]
+\beginsong{The Highland Clearances }[by={Andy~Stewart}]
 \beginverse
 Ah, for the glens are lyin' bare,
 And the wee bit farm deserted,

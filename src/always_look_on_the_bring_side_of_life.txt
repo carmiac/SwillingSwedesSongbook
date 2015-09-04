@@ -1,4 +1,4 @@
-\beginsong{Always Look On The Bright Side Of Life }[by={Monty Python}
+\beginsong{Always Look On The Bright Side Of Life }[by={Monty~Python}
                      ]
 \beginverse
 Cheer up, Brian. You know what they say.

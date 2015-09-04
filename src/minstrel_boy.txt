@@ -1,4 +1,4 @@
-\beginsong{The Minstrel Boy}[by={Thomas Moore}]
+\beginsong{The Minstrel Boy}[by={Thomas~Moore}]
 \beginverse
 The minstrel boy to the war is gone
 In the ranks of death you'll find him.

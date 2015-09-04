@@ -1,5 +1,5 @@
 \beginsong{Untitled}[
-    by={Edmound Bernhard},
+    by={Edmound~Bernhard},
 %    cr={Public domain},
     index = {Our King has called us out to war},
     tune = {Lillie of the West - Peter Paul And Mary}

@@ -1,4 +1,4 @@
-\beginsong{An Irish Ballad}[by={Tom Lerher}]
+\beginsong{An Irish Ballad}[by={Tom~Lerher}]
 \beginverse
 About a maid I sing a song
 Sing rickety tickety tin

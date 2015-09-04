@@ -1,5 +1,5 @@
 \beginsong{Such a Parcel of Rouges }[
-    by={Robert Burns },
+    by={Robert~Burns },
 ]
 \beginverse
 Fareweel to a' our Scottish fame

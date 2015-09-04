@@ -1,4 +1,4 @@
-\beginsong{Ramblin' Rover}[by={Andy Stewart}]
+\beginsong{Ramblin' Rover}[by={Andy~Stewart}]
 \beginchorus
 Oh, there're sober men in plenty,
 And drunkards barely twenty,

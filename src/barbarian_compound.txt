@@ -1,4 +1,4 @@
-\beginsong{Barbarian Compound}[by={Kondrad von Bohmen},
+\beginsong{Barbarian Compound}[by={Kondrad~von~Bohmen},
                      tune = {Lily the Pink},
                      ]
 \textnote{Llwyd Emrys O' Arth (aka Joe God) has filled every office at St. Golias}

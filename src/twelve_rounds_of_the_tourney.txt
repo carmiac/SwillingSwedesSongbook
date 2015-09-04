@@ -1,5 +1,5 @@
 \beginsong{The Twelve Rounds of the Tourney \\ I want to be Queen}[
-  by={Arron Reynard},
+  by={Arron~Reynard},
   tune={12 Days of Christmas}]
 \beginverse  
 On the first round of the tourney,

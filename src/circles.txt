@@ -1,4 +1,4 @@
-\beginsong{Circles}[by={Gwen Zak Moore},
+\beginsong{Circles}[by={Gwen~Zak~Moore},
                      tune = {Windmills by Alan Bell}]
 \beginverse
 In the days gone by, when the world was much younger,

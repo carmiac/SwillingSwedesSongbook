@@ -1,5 +1,5 @@
 \beginsong{Golias Cry}[
-    by={L. Antonius Valerius},
+    by={L.~Antonius~Valerius},
 %    cr={Public domain},
 %    index = {Some obvious line},
 %    tune = {The Filked Song}

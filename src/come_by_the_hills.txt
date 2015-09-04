@@ -1,4 +1,4 @@
-\beginsong{Come by the Hills}[by={Gordon Smith}]
+\beginsong{Come by the Hills}[by={Gordon~Smith}]
 \beginverse
 Come by the hills to the land where fancy is free
 And stand where the peaks meet the sky and the lochs meet the sea

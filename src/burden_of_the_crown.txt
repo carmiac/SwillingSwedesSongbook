@@ -1,5 +1,5 @@
 \beginsong{The Burden of the Crown}[
-    by={Baldwin of Erebor},
+    by={Baldwin~of~Erebor},
 %    cr={Public domain},
 %    index = {Some obvious line},
 %    tune = {The Filked Song}

@@ -1,4 +1,4 @@
-\beginsong{Infamous Eric the Red}[by={Enricco D'Oriaa},
+\beginsong{Infamous Eric the Red}[by={Enricco~D'Oriaa},
                                     index = {Eric the Red},
                                     tune = {Mister Ed}]
 \beginverse

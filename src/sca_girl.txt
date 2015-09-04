@@ -1,4 +1,4 @@
-\beginsong{SCA Girl}[by={Edmound Bernhard},
+\beginsong{SCA Girl}[by={Edmound~Bernhard},
                      tune = {Eurotrash Girl - Cracker}]
 \beginverse
 Well I went down to Citadel

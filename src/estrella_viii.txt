@@ -1,5 +1,5 @@
 \beginsong{Estrella VIII}[
-    by={Rathflaed DuNoir},
+    by={Rathflaed~DuNoir},
 %    cr={Public domain},
 %    index = {Some obvious line},
     tune = {Pat of Mullingar}

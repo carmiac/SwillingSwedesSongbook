@@ -1,5 +1,5 @@
 \beginsong{To the Queen}[
-    by={James the Namer},
+    by={James~the~Namer},
 ]
 \beginverse
 No belt have I, nor chain, nor crown

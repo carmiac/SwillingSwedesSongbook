@@ -1,4 +1,4 @@
-\beginsong{Long Distance Squire}[by={Galen of Bristol, Genvieve McCullum du Caen},
+\beginsong{Long Distance Squire}[by={Galen~of~Bristol, Genvieve McCullum~du~Caen},
                      tune = {Cats in the Cradle}]
 \beginverse
 Squired a lad just the other day

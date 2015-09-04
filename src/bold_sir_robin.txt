@@ -1,4 +1,4 @@
-\beginsong{Bold Sir Robin}[by={Monty Python}]
+\beginsong{Bold Sir Robin}[by={Monty~Python}]
 \beginverse
 Bravely bold Sir Robin
 Brought forth from Camelot

@@ -1,4 +1,4 @@
-\beginsong{The Hamster Song}[by={Chrystofer Kensor, Andrixios Seljukroctonis },
+\beginsong{The Hamster Song}[by={Chrystofer~Kensor, Andrixios~Seljukroctonis },
                      index = {The Fighting Hamsters of Calontir },
                      tune = {Ballad of the Green Berets}]
 \beginverse

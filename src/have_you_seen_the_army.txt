@@ -1,4 +1,4 @@
-\beginsong{Have You Seen the Army?}[by={Mikal the Ram}]
+\beginsong{Have You Seen the Army?}[by={Mikal~the~Ram}]
 \beginverse
 Have ye heard the story from the land of Calontir?
 With sword and axe a-swinging fit to make a grown man fear?

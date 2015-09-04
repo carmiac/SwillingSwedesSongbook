@@ -1,4 +1,4 @@
-\beginsong{The Outlands Marches Off to War}[by={James the Namer},
+\beginsong{The Outlands Marches Off to War}[by={James~the~Namer},
                      tune = {The Ants go Marching}]
 \beginverse
 The Outlands marches off to war

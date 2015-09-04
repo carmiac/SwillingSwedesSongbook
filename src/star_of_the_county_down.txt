@@ -1,4 +1,4 @@
-\beginsong{Star of The County Down}[by={Cathal McGarvey}]
+\beginsong{Star of The County Down}[by={Cathal~McGarvey}]
 \beginverse
 Bainbridge Town in the County Down
 One mornin' last July

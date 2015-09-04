@@ -1,4 +1,4 @@
-\beginsong{Let Erin Remember}[by={Thomas Moore}]
+\beginsong{Let Erin Remember}[by={Thomas~Moore}]
 \beginverse
 Let Erin remember the days of old,
 Ere her faithless sons betray'd her,

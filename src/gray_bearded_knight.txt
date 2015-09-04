@@ -1,5 +1,5 @@
 \beginsong{The Gray-Bearded Knight}[
-    by={Thomas Winterbourne of Ghent},
+    by={Thomas~Winterbourne~of~Ghent},
 %    cr={Public domain},
 %    index = {Some obvious line},
 %    tune = {The Filked Song}

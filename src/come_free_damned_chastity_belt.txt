@@ -1,4 +1,4 @@
-\beginsong{Come Free, Damned Chastity Belt}[by={ Odd Celts of St. Golias},
+\beginsong{Come Free, Damned Chastity Belt}[by={ Odd~Celts~of St.~Golias},
                      tune = {Swing Low Sweet Chariot}]
 \beginchorus
 Come free, damned chastity belt

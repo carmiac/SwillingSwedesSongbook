@@ -1,5 +1,5 @@
 \beginsong{A Squire's Song}[
-    by={Andrew Scarhart },
+    by={Andrew~Scarhart },
 %    cr={Public domain},
 %    index = {Some obvious line},
 %    tune = {The Filked Song}

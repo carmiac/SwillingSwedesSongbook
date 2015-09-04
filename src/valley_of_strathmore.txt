@@ -1,5 +1,5 @@
 \beginsong{The Valley of Strathmore}[
-    by={Andy Stewart},
+    by={Andy~Stewart},
 %    cr={Public domain},
 %    index = {Some obvious line},
 %    tune = {The Filked Song}

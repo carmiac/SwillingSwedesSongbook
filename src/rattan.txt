@@ -1,4 +1,4 @@
-\beginsong{Rattan}[by={Arron Reynard},
+\beginsong{Rattan}[by={Arron~Reynard},
                      tune = {People are Strange - The Doors}]
 \textnote{Chorus every two verses}
 \beginverse

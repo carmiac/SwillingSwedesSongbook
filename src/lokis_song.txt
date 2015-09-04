@@ -1,4 +1,4 @@
-\beginsong{Loki's Song}[by={Mikal Hrafspa}]
+\beginsong{Loki's Song}[by={Mikal~Hrafspa}]
 \beginverse
 I was born in battle's fire
 But when that storm god you all praise

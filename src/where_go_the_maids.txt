@@ -1,5 +1,5 @@
 \beginsong{Where Go The Maids}[
-    by={Mikal Hrafspa},
+    by={Mikal~Hrafspa},
 %    cr={Public domain},
 %    index = {Some obvious line},
     tune = {Girls Just Wanna Have Fun - ish}

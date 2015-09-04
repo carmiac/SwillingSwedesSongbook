@@ -1,4 +1,4 @@
-\beginsong{Golden, Golden}[by={Andy Stewart}]
+\beginsong{Golden, Golden}[by={Andy~Stewart}]
 \beginverse
 Slowly, slowly, walk the path,
 And you might never stumble or fall

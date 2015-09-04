@@ -1,4 +1,4 @@
-\beginsong{Molly Malone II}[by={Ioseph of Locksley},
+\beginsong{Molly Malone II}[by={Ioseph~of~Locksley},
                      tune = {Molly Malone}]
 \beginverse
 In Dublin's fair city, where the girls have no titties

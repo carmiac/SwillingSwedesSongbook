@@ -1,4 +1,4 @@
-\beginsong{A Pict Song}[by={Rudyard Kipling}]
+\beginsong{A Pict Song}[by={Rudyard~Kipling}]
 \beginverse
 Rome never heeds where she treads.
 Always the heavy hooves fall

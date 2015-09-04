@@ -1,4 +1,4 @@
-\beginsong{Auld Lang Syne}[by={Robert Burns}]
+\beginsong{Auld Lang Syne}[by={Robert~Burns}]
 \beginverse
 Should auld acquaintance be forgot,
 And never brought to mind?
