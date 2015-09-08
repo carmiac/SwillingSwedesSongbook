@@ -4,39 +4,47 @@ They rode into town
 On the thirteenth of Spring.
 She have him her hand
 And he gave her his ring.
+\endverse
+\beginchorus
 She gave him her heart
 And he gave her his crown,
 But they never, no never
 Went down derry down derry down.
-\endverse
+\endchorus
 \beginverse
 Her horse was pure white
 And his horse was gray
 She wanted to go
 But he asked her to stay.
+\endverse
+\beginchorus
 She gave him her heart
 And he gave her his crown,
 But they never, no never
 Went down derry down derry down.
-\endverse
+\endchorus
 \beginverse
 Her eyes were pure black
 And his eyes were so blue.
 She wanted him strong
 And he wanted her true.
+\endverse
+\beginchorus
 She gave him her heart
 And he gave her his crown,
 But they never, no never
 Went down derry down derry down.
-\endverse
+\endchorus
 \beginverse
 Come all ye fair maidens,
 And listen to me,
 If you want your young man
 To be strong and free
+\endverse
+\beginchorus
 Just give him your heart
-And he' ll give you his crown
+And he'll give you his crown
 Just as long as you never
 Go down derry down derry down. 
-\endverse
+\endchorus
 \endsong

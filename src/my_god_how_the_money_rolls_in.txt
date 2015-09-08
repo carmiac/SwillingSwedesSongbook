@@ -1,4 +1,4 @@
-\beginsong{My God How the Money Rolls In! }[by={Anonymous},
+\beginsong{My God How the Money Rolls In! }[by={Anonymous, Ioseph~of~Locksley},
                     tune = {My Bonnie Lies over the Ocean}]
 \beginverse
 My cousin sells shields to the Tuchux

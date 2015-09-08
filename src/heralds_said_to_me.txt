@@ -11,7 +11,7 @@ It violates the Rule of Three!
 \endverse
 \textnote{...to save space...}
 \beginverse
-The LAST time I sent my device, the Heralds said to me:
+The LAST time I sent my device, the heralds said to me:
 Someone else has got it, 
 We changed the rules again,
 It's not a period design, 
