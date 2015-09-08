@@ -1,7 +1,7 @@
 \beginsong{The Twa Corbies}[
 ]
 \beginverse
-AS I was walking all alane,	
+As I was walking all alane,	
 I heard twa corbies making a mane:	
 The tane unto the tither did say,	
 ‘Whar sall we gang and dine the day?'	

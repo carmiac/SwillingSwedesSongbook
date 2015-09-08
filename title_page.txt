@@ -23,7 +23,7 @@
 %----------------------------------------------------------------------------------------
 %	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
 %----------------------------------------------------------------------------------------
-
+\graphicspath{ {./img/} }
 \newcommand*{\plogo}{\includegraphics[width=2.0cm]{celtic}} % Generic publisher logo
 
 %----------------------------------------------------------------------------------------
@@ -46,7 +46,9 @@
 A collection of SONGS \\ % Tagline(s) or further description
 humbly presented for your amusement \\
 preferably around a CAMPFIRE \\
-while drinking MEAD, SCOTCH, BEER, OR RUM. \\[\baselineskip] % Tagline(s) or further description
+while drinking MEAD, SCOTCH, BEER, OR RUM \\
+and surrounded by good COMPANY.
+\\[\baselineskip] % Tagline(s) or further description
 \par % Location and year
 
 \vspace*{2\baselineskip} % Whitespace between location/year and editors

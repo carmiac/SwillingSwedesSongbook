@@ -8,13 +8,13 @@
 We will sing the songs of Scotland
 Now that we are gathered here
 We will sing the songs of Scotland,
-oh this land we hold so dear
+Oh this land we hold so dear
 \endchorus
 \beginchorus
 Of the Hielan's and the Lowlands,
-we will sing them all and then
+We will sing them all and then
 Just because we love them,
-we will sing them all again
+We will sing them all again
 \endchorus
 \beginverse
 There are stirring, spirit songs of war
@@ -32,12 +32,12 @@ And they all belong to you
 We will sing the songs of Scotland
 Now that we are gathered here
 We will sing the songs of Scotland,
-oh this land we hold so dear
+Oh this land we hold so dear
 \endchorus
 \beginchorus
 Of the Hielan's and the Lowlands,
-we will sing them all and then
+We will sing them all and then
 Just because we love them,
-we will sing them all again
+We will sing them all again
 \endchorus
 \endsong

@@ -65,6 +65,6 @@ This I carry to battle this day
 \endverse
 \beginchorus
 Alone by the fire, a warrior I knew
-Told me this tale, and I pray it is true ..... 
+Told me this tale, and I pray it is true.
 \endchorus
 \endsong
