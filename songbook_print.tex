@@ -45,9 +45,13 @@
 
 % include the title page
 \titleGP 
+% and make the back of it blank
+\newpage\mbox{}\newpage
 
 % include the introduction
 \input{introduction.txt}
+% and make the back of it blank
+\newpage\mbox{}\newpage
 
 % then the song index
 \showindex{Song List}{titleidx}
@@ -59,10 +63,10 @@
 
 % author list at the end
 \showindex{Index of Authors}{authidx}
-
 % and make the back of it blank
-%\newpage\mbox{}\newpage
+\newpage\mbox{}\newpage
 % include the back cover
+\newpage\mbox{}\newpage %optional to make the page line up right
 \input{backcover.txt}
 
 \end{document}
