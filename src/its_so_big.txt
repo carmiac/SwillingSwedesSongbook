@@ -89,3 +89,6 @@ I hope he fills it up.
 I hope...he fills...it up.
 \endchorus
 \endsong
+\begin{intersong}
+\includegraphics[width=6.25cm]{tankard}
+\end{intersong}

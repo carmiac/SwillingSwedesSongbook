@@ -51,3 +51,9 @@ His scepter was the royal bone
 With which he bitched the Bastard King of England.
 \endchorus
 \endsong
+
+\begin{intersong}
+\includegraphics[width=6.25cm]{lion}
+\includegraphics[width=6.25cm]{lion}
+\includegraphics[width=6.25cm]{lion}
+\end{intersong}

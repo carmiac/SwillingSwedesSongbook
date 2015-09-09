@@ -24,3 +24,6 @@ But whoever treasures freedom
 Like the swallow must learn to fly. 
 \endverse
 \endsong
+\begin{intersong}
+\includegraphics[width=6.25cm]{polyhedra}
+\end{intersong}

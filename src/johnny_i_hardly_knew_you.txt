@@ -33,3 +33,10 @@ All from the island of Ceylon
 So low in the flesh, so high in the bone 
 \endverse
 \endsong
+\begin{intersong}
+\vfill
+\includegraphics[width=6.25cm]{knight}
+\includegraphics[width=6.25cm]{knight}
+\includegraphics[width=6.25cm]{knight}
+\includegraphics[width=6.25cm]{knight}
+\end{intersong}

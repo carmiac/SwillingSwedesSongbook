@@ -27,3 +27,6 @@ Brought sorrow and joy for me,
 Sorrow and joy for me. 
 \endverse
 \endsong
+\begin{intersong}
+\includegraphics[width=6.25cm]{bird}
+\end{intersong}

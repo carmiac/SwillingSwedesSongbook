@@ -78,3 +78,8 @@ Then I'll come down to earth again and say, "Marry me."
 For I have never seen such persistency.
 \endverse
 \endsong
+\begin{intersong}
+\includegraphics[width=6.25cm]{knight2}
+\includegraphics[width=6.25cm]{knight2}
+\includegraphics[width=6.25cm]{knight2}
+\end{intersong}

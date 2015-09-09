@@ -18,3 +18,6 @@ When true hearts lie wither'd and fond ones are flown
 Oh! who would inhabit this bleak world alone! 
 \endverse
 \endsong
+\begin{intersong}
+\includegraphics[width=6.25cm]{rose}
+\end{intersong}

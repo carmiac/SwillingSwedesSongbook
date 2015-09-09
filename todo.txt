@@ -1,17 +1,7 @@
 Book Layout
 ===========
 - add front and back cover images
-- add spacing images/quotes after:
-    - bastard king of england
-        - also, new search for lyrics...
-    - dona
-    - girl i left behind me
-    - its so big
-    - johnny i hardly knew you
-    - last rose of summer
-    - magpie
-    - Metamorphosis
-    - willie archer
+- suppress intersongs for ebook version
 - print options
     - local shops
         - several good reviews on yelp

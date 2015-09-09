@@ -30,3 +30,10 @@ That he might have more grief than joy
 For leaving me behind him. 
 \endverse
 \endsong
+\begin{intersong}
+\vfill
+\includegraphics[width=6.25cm]{greek}
+\includegraphics[width=6.25cm]{greek}
+\includegraphics[width=6.25cm]{greek}
+\includegraphics[width=6.25cm]{greek}
+\end{intersong}
