@@ -1,0 +1,14 @@
+\vspace*{\baselineskip}
+
+
+\vfill
+{\centering
+\Huge The Swilling Sweedes Songbook\par
+}
+\normalsize
+\vfill
+\includegraphics[width=\textwidth]{front}
+\vfill
+\vfill
+\clearpage
+\normalsize

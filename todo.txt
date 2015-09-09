@@ -1,7 +1,5 @@
 Book Layout
 ===========
-- add front and back cover images
-- suppress intersongs for ebook version
 - print options
     - local shops
         - several good reviews on yelp
@@ -9,11 +7,15 @@ Book Layout
     - lulu.com
     - http://www.docucopies.com    
         - cheap!
+- add covers to ebook
+- suppress intersongs for ebook version
+- get ebook song links to work right
+
 Songs
 =====
 - Celtic Lass's Retort (aka Viking Man II)
-
 Infrastructure
+
 ==============
 - add documentation for github
     - prereqs

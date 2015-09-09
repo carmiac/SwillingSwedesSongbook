@@ -22,7 +22,7 @@
 \usepackage[bookmarks]{hyperref}
 \usepackage[lyric]{songs}
 \usepackage{graphicx}
-
+\graphicspath{ {./img/} }
 \usepackage[top=2cm, bottom=2cm, inner=4cm, outer = 2cm]{geometry}
 \settowidth{\versenumwidth}{1.\ }
 \pagestyle{empty}
@@ -37,6 +37,11 @@
 \patchcmd{\showauthors}{\bfseries}{\itshape\normalsize}{}{}
 
 \begin{document}
+
+% include the front cover
+\input{frontcover.txt}
+% and make the back of it blank
+\newpage\mbox{}\newpage
 
 % include the title page
 \titleGP 
@@ -54,6 +59,11 @@
 
 % author list at the end
 \showindex{Index of Authors}{authidx}
+
+% and make the back of it blank
+%\newpage\mbox{}\newpage
+% include the back cover
+\input{backcover.txt}
 
 \end{document}
 
