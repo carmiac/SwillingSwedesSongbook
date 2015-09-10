@@ -19,5 +19,7 @@ Oh! who would inhabit this bleak world alone!
 \endverse
 \endsong
 \begin{intersong}
+\vfill
 \includegraphics[width=6.25cm]{rose}
+\vfill
 \end{intersong}

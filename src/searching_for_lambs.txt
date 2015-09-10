@@ -36,3 +36,8 @@ We'll join our hands in wedded bands
 And a-married we will be." 
 \endverse
 \endsong
+\begin{intersong}
+\vfill
+\includegraphics[width=6.25cm]{cotton}
+\vfill
+\end{intersong}

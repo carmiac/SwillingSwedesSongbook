@@ -21,7 +21,7 @@ Layout created using the Songs package for \LaTeX
 \\
 
 \center
-Proof Printing \\
+First Printing \\
 
 \today \\
 

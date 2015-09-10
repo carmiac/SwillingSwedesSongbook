@@ -36,7 +36,11 @@ So low in the flesh, so high in the bone
 \begin{intersong}
 \vfill
 \includegraphics[width=6.25cm]{knight}
+\vfill
 \includegraphics[width=6.25cm]{knight}
+\vfill
 \includegraphics[width=6.25cm]{knight}
+\vfill
 \includegraphics[width=6.25cm]{knight}
+\vfill
 \end{intersong}

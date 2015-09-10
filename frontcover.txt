@@ -3,11 +3,12 @@
 
 \vfill
 {\centering
-\Huge The Swilling Sweedes Songbook\par
+\fontfamily{pzc}\selectfont
+\Huge The Swilling Swede's Songbook\par
 }
 \normalsize
 \vfill
-\includegraphics[width=\textwidth]{front}
+\includegraphics[width=\textwidth]{longship}
 \vfill
 \vfill
 \clearpage

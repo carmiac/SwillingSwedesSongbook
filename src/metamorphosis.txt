@@ -79,7 +79,11 @@ For I have never seen such persistency.
 \endverse
 \endsong
 \begin{intersong}
-\includegraphics[width=6.25cm]{knight2}
-\includegraphics[width=6.25cm]{knight2}
-\includegraphics[width=6.25cm]{knight2}
+\vfill
+\includegraphics[width=6.25cm]{polyhedra}
+\vfill
+\includegraphics[width=6.25cm]{polyhedra}
+\vfill
+\includegraphics[width=6.25cm]{polyhedra}
+\vfill
 \end{intersong}

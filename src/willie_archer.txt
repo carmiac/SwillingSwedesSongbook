@@ -37,8 +37,7 @@ Or you'll meet with Willie Archer on the banks of the Bann.
 \endverse
 \endsong
 \begin{intersong}
-\includegraphics[width=6.25cm]{ship}
-\includegraphics[width=6.25cm]{ship}
-\includegraphics[width=6.25cm]{ship}
-\includegraphics[width=6.25cm]{ship}
+\vfill
+\includegraphics[width=6.25cm]{tam_lin}
+\vfill
 \end{intersong}

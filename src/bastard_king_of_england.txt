@@ -53,7 +53,11 @@ With which he bitched the Bastard King of England.
 \endsong
 
 \begin{intersong}
-\includegraphics[width=6.25cm]{lion}
-\includegraphics[width=6.25cm]{lion}
-\includegraphics[width=6.25cm]{lion}
+\vfill
+\includegraphics[width=6cm]{lion}
+\vfill
+\includegraphics[width=6cm]{lion}
+\vfill
+\includegraphics[width=6cm]{lion}
+\vfill
 \end{intersong}

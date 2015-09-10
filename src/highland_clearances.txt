@@ -24,3 +24,10 @@ And the woods of Germany
 Grows on rows o'er the broken hearted. 
 \endverse
 \endsong
+\begin{intersong}
+\vfill
+\includegraphics[width=6.25cm]{knotwork1}
+\vfill
+\includegraphics[width=6.25cm]{knotwork1}
+\vfill
+\end{intersong}

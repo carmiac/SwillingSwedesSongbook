@@ -23,7 +23,7 @@
 %----------------------------------------------------------------------------------------
 %	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
 %----------------------------------------------------------------------------------------
-\newcommand*{\plogo}{\includegraphics[width=2.0cm]{celtic}} % Generic publisher logo
+\newcommand*{\plogo}{\includegraphics[width=2.0cm]{beer_mug}} % Generic publisher logo
 
 %----------------------------------------------------------------------------------------
 %	TITLE PAGE

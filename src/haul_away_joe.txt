@@ -38,3 +38,10 @@ Now way haul away, we're bound for better weather Tammy.
 Way haul away, we'll haul away Joe. 
 \endverse
 \endsong
+\begin{intersong}
+\vfill
+\includegraphics[width=6.25cm]{ship}
+\vfill
+\includegraphics[width=6.25cm]{ship}
+\vfill
+\end{intersong}

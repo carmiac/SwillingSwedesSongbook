@@ -1,11 +1,5 @@
 Book Layout
-===========
-- print options
-    - local shops
-        - several good reviews on yelp
-        - any owned by sca members?
-    - http://www.docucopies.com    
-        - cheap!
+===========  
 - add covers to ebook
 - suppress intersongs for ebook version
 - get ebook song links to work right

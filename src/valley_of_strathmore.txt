@@ -35,3 +35,12 @@ But I try no to think on my loss
 For the old days will ne'er come again 
 \endverse
 \endsong
+\begin{intersong}
+\vfill
+\includegraphics[width=6.25cm]{knotwork3}
+\vfill
+\includegraphics[width=6.25cm]{knotwork3}
+\vfill
+\includegraphics[width=6.25cm]{knotwork3}
+\vfill
+\end{intersong}

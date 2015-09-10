@@ -25,5 +25,7 @@ Like the swallow must learn to fly.
 \endverse
 \endsong
 \begin{intersong}
-\includegraphics[width=6.25cm]{polyhedra}
+\vfill
+\includegraphics[width=6.25cm]{celtic_birds2}
+\vfill
 \end{intersong}

@@ -31,3 +31,10 @@ O'er his white banes, when they are bare,
 The wind sall blaw for evermair.
 \endverse
 \endsong
+\begin{intersong}
+\vfill
+\includegraphics[width=6.25cm]{knotwork2}
+\vfill
+\includegraphics[width=6.25cm]{knotwork2}
+\vfill
+\end{intersong}

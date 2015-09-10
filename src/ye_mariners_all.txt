@@ -35,3 +35,10 @@ Transform me then into a fish
 And let me swim in a jug of this
 \endverse
 \endsong
+\begin{intersong}
+\vfill
+\includegraphics[width=6.25cm]{celtic}
+\vfill
+\includegraphics[width=6.25cm]{celtic}
+\vfill
+\end{intersong}

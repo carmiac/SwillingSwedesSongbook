@@ -37,3 +37,8 @@ I'm a duke thrice over, give me my due.
 I can beat Duke Paul and I can beat you too.
 \endverse
 \endsong
+\begin{intersong}
+\vfill
+\includegraphics[width=6.25cm]{helm}
+\vfill
+\end{intersong}

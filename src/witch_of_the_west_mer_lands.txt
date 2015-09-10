@@ -119,3 +119,10 @@ There's nane can harm a knight wha's lain
 With the Witch of the West-mer-land.
 \endverse
 \endsong
+\begin{intersong}
+\vfill
+\includegraphics[width=6.25cm]{knight2}
+\vfill
+\includegraphics[width=6.25cm]{knight2}
+\vfill
+\end{intersong}

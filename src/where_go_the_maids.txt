@@ -34,3 +34,12 @@ For lords may ken to battle's run
 But a lady too will have her fun
 \endverse
 \endsong
+\begin{intersong}
+\vfill
+\includegraphics[width=6.25cm]{knotwork}
+\vfill
+\includegraphics[width=6.25cm]{knotwork}
+\vfill
+\includegraphics[width=6.25cm]{knotwork}
+\vfill
+\end{intersong}

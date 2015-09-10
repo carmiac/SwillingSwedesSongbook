@@ -33,7 +33,9 @@ For leaving me behind him.
 \begin{intersong}
 \vfill
 \includegraphics[width=6.25cm]{greek}
+\vfill
 \includegraphics[width=6.25cm]{greek}
+\vfill
 \includegraphics[width=6.25cm]{greek}
-\includegraphics[width=6.25cm]{greek}
+\vfill
 \end{intersong}

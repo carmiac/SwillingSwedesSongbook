@@ -28,5 +28,7 @@ Sorrow and joy for me.
 \endverse
 \endsong
 \begin{intersong}
+\vfill
 \includegraphics[width=6.25cm]{bird}
+\vfill
 \end{intersong}
