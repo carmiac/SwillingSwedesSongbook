@@ -1,8 +1,6 @@
 Book Layout
 ===========  
-- add covers to ebook
-- suppress intersongs for ebook version
-- get ebook song links to work right
+
 
 Songs
 =====
@@ -16,6 +14,8 @@ Infrastructure
     - license
     - better README
 - make build in OSX work
+    - clean up makebook.py to be crossplatform
+        - fix quick path hacks
     - to get html output working
 - make website
 

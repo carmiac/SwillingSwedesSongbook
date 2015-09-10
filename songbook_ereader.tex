@@ -30,12 +30,22 @@
 \usepackage[scaled]{helvet}
 \renewcommand{\familydefault}{\sfdefault}
 
+% suppress intersong stuff
+% which is just images for the printable version
+\usepackage{environ}
+\NewEnviron{killcontents}{}
+\let\intersong\killcontents
+\let\endintersong\endkillcontents
+
 \newindex{titleidx}{lbtitle}
 \newauthorindex{authidx}{lbauth}
 
 \input{title_page.txt}
 
 \begin{document}
+
+% include the front cover
+\input{frontcover.txt}
 
 % include the title page
 \titleGP 
@@ -55,5 +65,7 @@
 % author list at the end
 \showindex[1]{Index of Authors}{authidx}
 
+% include the back cover
+\input{backcover.txt}
 \end{document}
 
