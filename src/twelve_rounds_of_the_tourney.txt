@@ -1,47 +1,47 @@
 \beginsong{The Twelve Rounds of the Tourney \\ I want to be Queen}[
   by={Arron~Reynard},
   tune={12 Days of Christmas}]
-\beginverse  
+\beginverse
 On the first round of the tourney,
 My true love said to me,
-“I... Want to be Queen!”
+I... Want to be Queen!Ã®
 \endverse
 \beginverse
 On the second round of the tourney,
 My true love said to me,
-“I want a Tudor Step-up!”
+I want a Tudor Step-up!Ã®
 and
-“I... want to be Queen!”
+I... want to be Queen!Ã®
 \endverse
 \beginverse
 On the third round of the tourney,
 My true love said to me,
-“Don't mess up the favor!”
-“I want a Tudor Step-up!”
+Don't mess up the favor!Ã®
+I want a Tudor Step-up!Ã®
 and...
-“I.. Want to be Queen!”
+I.. Want to be Queen!Ã®
 \endverse
 \beginverse
 \textnote{...to save space...}
 On the twelfth round of the tourney,
 My true love said to me,
-“Is Commondopolous the best you can do?”
-“I can't stand the pressure!”
-“We'll banish him at Twelfth Night.”
-“Princess would've been nicer.”
-“My membership's in question.”
-“Merchant's Row's still open!”
-“What's a Guildmarion?”
-“It's only a scratch!”
-“I missed your forth round fight.”
-“Don't mess up the favor!”
-“I want a Tudor Step-up!”
+Is Commondopolous the best you can do?Ã®
+I can't stand the pressure!Ã®
+We'll banish him at Twelfth Night.Ã®
+Princess would've been nicer.Ã®
+My membership's in question.Ã®
+Merchant's Row's still open!Ã®
+What's a Guildmarion?Ã®
+It's only a scratch!Ã®
+I missed your forth round fight.Ã®
+Don't mess up the favor!Ã®
+I want a Tudor Step-up!Ã®
 and...
-“I... Want to be Queen!”
+I... Want to be Queen!Ã®
 \endverse
 \beginverse
 On the ride homeward,
 My true love said to me,
-“We'll get ‘em at the March Crown!”
+We'll get Ã«em at the March Crown!Ã®
 \endverse
 \endsong

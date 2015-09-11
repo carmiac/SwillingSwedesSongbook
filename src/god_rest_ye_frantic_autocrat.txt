@@ -1,16 +1,16 @@
 \beginsong{God Rest Ye Frantic Autocrat}[by={Master Tivar~Moondragon },
                      tune = {God Rest Ye Merry Gentlemen}]
 \beginverse
-God rest ye frantic autocrat, 
+God rest ye frantic autocrat,
 let nothing you dismay,
-Remember that the great event 
+Remember that the great event
 is still a month a way,
-Don't panic yet, there's lots of time, 
-and don't get swept away. 
+Don't panic yet, there's lots of time,
+and don't get swept away.
 \endverse
 \beginchorus
 And sing ye in chorus: "Never again, never again,"
-And sing ye in chorus: "Ne'er again!" 
+And sing ye in chorus: "Ne'er again!"
 \endchorus
 \beginverse
 God rest ye frantic autocrat,
@@ -79,7 +79,7 @@ but the tavern blew away
 \beginverse
 God help ye, frantic autocrat
 you'd better run away
-The Queen is mad – her tent and King
+The Queen is mad Ã± her tent and King
 have both been washed away.
 It might be wise to change your name
 and quit the SCA
