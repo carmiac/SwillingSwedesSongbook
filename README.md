@@ -16,6 +16,7 @@ If you want to be able to build it yourself, keep reading. It it tested in Windo
     * Install songs in single user mode
     
 **Building**
-1) Clone into the top songs directory, alongside ./src and ./Sample 
-2) python makebook.py
-3) Sing with gusto!
+
+1. Clone into the top songs directory, alongside ./src and ./Sample 
+2. python makebook.py
+3. Sing with gusto!
