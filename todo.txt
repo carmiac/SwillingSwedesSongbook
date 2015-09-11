@@ -1,5 +1,5 @@
 Book Layout
-===========  
+===========
 
 
 Songs
@@ -13,10 +13,7 @@ Infrastructure
     - build instructions
     - license
     - better README
-- make build in OSX work
-    - clean up makebook.py to be crossplatform
-        - fix quick path hacks
-    - to get html output working
+- get html output working
 - make website
 
 
