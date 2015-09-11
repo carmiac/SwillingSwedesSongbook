@@ -1,0 +1,65 @@
+% Copyright (C) 2013 Kevin W. Hamlen
+%
+% This program is free software; you can redistribute it and/or
+% modify it under the terms of the GNU General Public License
+% as published by the Free Software Foundation; either version 2
+% of the License, or (at your option) any later version.
+%
+% This program is distributed in the hope that it will be useful,
+% but WITHOUT ANY WARRANTY; without even the implied warranty of
+% MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+% GNU General Public License for more details.
+%
+% You should have received a copy of the GNU General Public License
+% along with this program; if not, write to the Free Software
+% Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+% MA  02110-1301, USA.
+%
+% The latest version of this program can be obtained from
+% http://songs.sourceforge.net.
+
+\documentclass[letterpaper, twoside]{book}
+\usepackage[bookmarks]{hyperref}
+\usepackage[lyric]{songs}
+\usepackage{graphicx}
+\graphicspath{ {./img/} }
+\usepackage[top=2cm, bottom=2cm, inner=3cm, outer = 3cm]{geometry}
+\settowidth{\versenumwidth}{1.\ }
+\pagestyle{empty}
+
+\newindex{titleidx}{lbtitle}
+\newauthorindex{authidx}{lbauth}
+
+\renewcommand*{\familydefault}{\sfdefault}
+\input{title_page.txt}
+
+\usepackage{etoolbox}
+\patchcmd{\showauthors}{\bfseries}{\itshape\normalsize}{}{}
+
+\begin{document}
+
+% include the front cover
+\input{frontcover.txt}
+
+% include the title page
+\titleGP 
+
+% include the introduction
+\input{introduction.txt}
+
+% then the song index
+\showindex{Song List}{titleidx}
+
+% then the songs
+\begin{songs}{titleidx,authidx}
+\input{songs.sbd}
+\end{songs}
+
+% author list at the end
+\showindex{Index of Authors}{authidx}
+
+% include the back cover
+\input{backcover.txt}
+
+\end{document}
+

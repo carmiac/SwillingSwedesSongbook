@@ -1,19 +1,13 @@
 Book Layout
 ===========
-- done!
+
 
 Songs
 =====
 - Celtic Lass's Retort (aka Viking Man II)
 
 Infrastructure
-==============
-- add documentation for github
-    - prereqs
-    - build instructions
-    - license
-    - better README
-- get html output working
+==============   
 - make website
 
 

@@ -16,13 +16,19 @@ sbd_header = "header.txt"
 sbd_out = "songs.sbd"
 # some os specific paths
 if platform.system() == 'Windows':
-    songidx = '..\src\songidx.exe'
+    songidx = '..\src\songidx\songidx.exe'
     bible = '..\src\songidx\bible.can'
-    pdflatex = 'C:\Program Files (x86)\MiKTeX 2.9\miktex\bin\pdflatex.exe'
+    pdflatex = os.sep.join(['C:\Program Files (x86)\MiKTeX 2.9','miktex','bin', 'pdflatex.exe'])
+    auxdir = 'temp'
+    auxcmd = '='.join(['-aux-directory', auxdir])
+    if not os.path.exists(auxdir):
+        os.makedirs(auxdir)
 else: # must be *nix
     songidx = '../src/songidx/songidx'
     bible = '../src/songidx/bible.can'
     pdflatex = 'pdflatex'
+    auxdir = '.'
+    auxcmd = ''
     # copy over the songs style file 
     shutil.copy2('../src/songs/songs.sty', './songs.sty')
 
@@ -44,9 +50,9 @@ texfiles = glob.glob('*.tex')
 # process all .tex files, all index files, then all .tex files again
 for tex in texfiles:
     print(tex, " Pass 1")
-    subprocess.call([pdflatex, tex])
+    subprocess.call([pdflatex, auxcmd, tex])
     print(tex, " Generating indices")
-    for sxd in glob.glob('*.sxd'):
+    for sxd in glob.glob(os.sep.join([auxdir, '*.sxd'])):
         subprocess.call([songidx, '-b', bible, sxd])
     print(tex, " Pass 2")
-    subprocess.call([pdflatex, tex])
+    subprocess.call([pdflatex, auxcmd, tex])
