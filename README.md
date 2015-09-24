@@ -11,12 +11,19 @@ If you want to be able to build it yourself, keep reading. It it tested in Windo
 **Prereqs**
 
 * Python 3, from http://www.python.org
-* Songs package for LaTeX from http://songs.sourceforge.net/
-    * And its prereqs, described on the Downloads page
-    * Install songs in single user mode
+* Windows 
+   * MiKTeX, from http://www.miktex.org/
+   * Complete songs package for LaTeX from http://songs.sourceforge.net/
+* OSX 
+   * MacTeX, from http://www.tug.org/mactex/
+   * raw songs style file, from http://songs.sourceforge.net/downloads.html
+* Linux (untested, but it should work)
+   * TeX Live, from http://www.tug.org/texlive/
+   * raw songs style file, from http://songs.sourceforge.net/downloads.html
     
 **Building**
 
-1. Clone into the top songs directory, alongside ./src and ./Sample 
-2. python makebook.py
-3. Sing with gusto!
+1. Clone
+2. (OSX and Linux only) Copy songs.sty into the working directory
+3. python makebook.py -i src/*.txt -d header.txt
+4. Sing with gusto!
