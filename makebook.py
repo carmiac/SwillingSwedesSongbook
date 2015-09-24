@@ -7,6 +7,8 @@ import subprocess
 import platform
 import shutil
 import argparse
+import re
+from collections import OrderedDict
 
 # create the song file, with optional header and sorting
 def make_songfile(infiles, outfile, header = False, sort = False):
@@ -21,7 +23,7 @@ def make_songfile(infiles, outfile, header = False, sort = False):
         for line in fileinput.input(infiles):
             fout.write(line)
 
-def make_index(indexfile):
+def make_index(indexfile, bible):
     # create the outfile name
     outfile = os.path.splitext(indexfile)[0] + '.sbx'
     # open index_file
@@ -33,6 +35,8 @@ def make_index(indexfile):
         make_author_index(indexfile, outfile)
     elif type == 'TITLE INDEX DATA FILE':
         make_title_index(indexfile, outfile)
+    elif type == 'SCRIPTURE INDEX DATA FILE':
+        make_verse_index(indexfile, outfile, bible)
     else:
         print('{} : UNKNOWN file type : {}'.format(indexfile, type))
         
@@ -43,14 +47,14 @@ def _make_author_dictionary(infile):
         typeline = f.readline() # skip the first line that is just used for file typing
         while True:
             # read 3 line song entry, stripping excess whitespace 
-            author = f.readline().strip() # this may be a comma-delimited list of authors
+            author = f.readline().strip() 
             songnum = f.readline().strip()
             link = f.readline().strip()
             if not link: break  # EOF
-            # process list of authors into a good entry format
-            # lastname, all other names
-            # '~' may have been used to replace spaces to prevent name breaking
-            for name in author.split(','):
+            # process list of authors into entry format
+            # this may be ',' , 'and' and/or ';' delimited
+            # '~' or '\ ' may have been used to replace spaces to prevent name breaking
+            for name in [x for x in re.split(' and |[^a-zA-Z~. ]+', author.replace('\\ ','~')) if x != '']:
                 try:
                     first, last = name.rsplit(maxsplit=1)
                 except: # only one word in name
@@ -157,10 +161,61 @@ def make_title_index(infile, outfile, letterblock = True):
         if letterblock:
             f.write(endsection.format()) # close out final block
 
-# def make_verse_index(infile, outfile, bible):
-#     pass
-#
-
+def _make_book_dictionary(infile, bible):
+    # parse bible into an ordered dictionary of books
+    books = OrderedDict()
+    altnames = {} # 
+    for line in fileinput.input(bible):
+        # skip lines beginning with '#' or '0'
+        if(line[0] not in ['#', '0']):
+            # split along the | symbol, and only use the first one
+            try:
+                name, *alt = line.split('|')
+            except ValueError:
+                name = line.strip()
+            else:
+                for each in alt:
+                    altnames[each.strip()] = name.strip()
+            books[name.strip()] = []
+    # process infile:
+    with open(infile, 'r') as f:
+        typeline = f.readline() # skip the first line that is just used for file typing
+        while True:
+            # read 3 line song entry, stripping excess whitespace 
+            verses = f.readline().strip()
+            songnum = f.readline().strip()
+            link = f.readline().strip()
+            if not link: break  # EOF
+            # split verses by semicolon
+            for verse in verses.split(';'):
+                # split into book and verse list
+                try:
+                    b, v = verse.strip().rsplit(maxsplit=1) 
+                except ValueError:
+                    v = verse.strip()
+                # add song verse list, songnum and link as additional entry for book
+                if b in altnames:
+                    b = altnames[b]
+                books[b].append({'verses': v, 'songnum': songnum, 'link': link})
+    return books
+    
+def make_verse_index(infile, outfile, bible):
+    books = _make_book_dictionary(infile, bible)
+   
+    beginsection = '\\begin{{idxblock}}{{{}}}\n'
+    endsection = '\\end{{idxblock}}\n'
+    entry = '\\idxentry{{{verse}}}{{\\songlink{{{link}}}{{{songnum}}}}}\n'
+    # write out the index file
+    with open(outfile, 'w') as f:
+        for b in [x for x in books if len(books[x]) > 0]:
+            # write beginning block
+            f.write(beginsection.format(b))
+            # write each song entry
+            for song in sorted(books[b], key = lambda k: int(k['verses'].split(':')[0])):
+                f.write(entry.format(verse = song['verses'], songnum = song['songnum'], link = song['link']))
+            # write end block
+            f.write(endsection.format())
+        
 if __name__ == "__main__":
     # some os specific things
     if platform.system() == 'Windows':
@@ -174,26 +229,26 @@ if __name__ == "__main__":
 
     # create the argument parser and config defaults
     parser = argparse.ArgumentParser(description="Makes songbooks based on tex files")
-    parser.add_argument("-i", "--infile", nargs='*', default=[os.sep.join(['src','*.txt'])], help="Song file(s) to include, wildcards supported. ( default %(default)s)")
-    parser.add_argument("-d", "--header", default='header.txt', help="Header for the entire songbook (default %(default)s)")
-    parser.add_argument("-b", "--bible", default=os.sep.join(['..','src','songidx','bible.can']), help="Location of bible file (default %(default)s)")
+    parser.add_argument("-i", "--infile", nargs='*', default=['songs.sbd'], help="Song file(s) to include, wildcards supported. ( default %(default)s)")
+    parser.add_argument("-d", "--header", default='', help="Header for the entire songbook (default %(default)s)")
+    parser.add_argument("-b", "--bible", default='bible.can', help="Location of bible file (default %(default)s)")
     parser.add_argument("-t", "--tex", nargs='*', default=['*.tex'], help="tex file(s) to process, wildcards supported. (default %(default)s)")
     parser.add_argument("-p", "--pdflatex", default=pdflatex, help="command to call pdflatex (default %(default)s )")
-    parser.add_argument("-o", "--outfile", default = 'songs.sbd', help="File of songs created from infile(s) and referenced in tex files. Must not be the same as infile. (default %(default)s)")
+    parser.add_argument("-o", "--outfile", default = 'songs.sbd', help="File of songs created from infile(s) and referenced in tex files. If infile = outfile, the header is not used. (default %(default)s)")
     parser.add_argument("-s", "--sort", default=True, help="sort the list of infiles (default %(default)s)")
     args = parser.parse_args()
 
     # make the working song file
-    infiles = [item for sublist in [glob.glob(x) for x in args.infile] for item in sublist]   
-    make_songfile(infiles, args.outfile, args.header, args.sort)
+    infiles = [item for sublist in [glob.glob(x) for x in args.infile] for item in sublist]
+    if infiles[0] != args.outfile:
+        make_songfile(infiles, args.outfile, args.header, args.sort)
 
     # process all tex files to generate indexed pdfs
     texfiles = [item for sublist in [glob.glob(x) for x in args.tex] for item in sublist]
     for tex in texfiles:
         subprocess.call([args.pdflatex, tex])
         for sxd in glob.glob('*.sxd'):
-            make_index(sxd)
-            #subprocess.call([songidx, '-b', args.bible, sxd])
+            make_index(sxd, args.bible)
         subprocess.call([args.pdflatex, tex])
 
 
