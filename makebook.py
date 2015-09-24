@@ -220,9 +220,7 @@ if __name__ == "__main__":
     # some os specific things
     if platform.system() == 'Windows':
         pdflatex = os.sep.join(['C:\Program Files (x86)\MiKTeX 2.9','miktex','bin', 'pdflatex.exe'])
-        songidx = '..\src\songidx\songidx.exe'
     else: # must be *nix
-        songidx = '../src/songidx/songidx'
         pdflatex = 'pdflatex'
         # copy over the songs style file
         shutil.copy2('../src/songs/songs.sty', './songs.sty')

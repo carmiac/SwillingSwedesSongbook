@@ -8,3 +8,5 @@ Songs
 
 Infrastructure
 ==============   
+- fix handling of songs.sty file in *nix
+- check that it all works in *nix
