@@ -222,8 +222,6 @@ if __name__ == "__main__":
         pdflatex = os.sep.join(['C:\Program Files (x86)\MiKTeX 2.9','miktex','bin', 'pdflatex.exe'])
     else: # must be *nix
         pdflatex = 'pdflatex'
-        # copy over the songs style file
-        shutil.copy2('../src/songs/songs.sty', './songs.sty')
 
     # create the argument parser and config defaults
     parser = argparse.ArgumentParser(description="Makes songbooks based on tex files")
