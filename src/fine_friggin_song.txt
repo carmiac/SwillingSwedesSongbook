@@ -1,4 +1,4 @@
-\beginsong{A Fine Friggin' Song}[by={Ewan~Keith~(editor)},
+\beginsong{A Fine Friggin' Song}[by={Ewan~Keith},
                      ]
 \beginverse
 I went out to take a friggin' walk by the friggin pier
@@ -58,6 +58,6 @@ so they don't kick no dogs around nor beat up on their wives
 'Cause there ain't no use to miracles like walkin' on the sea,
 They crucified the Son of God, but they don't muck with me!
 'Cause I leave the friggin blind alone, the dyin' and the dead,
-but every day at four o'clock I wash me friggin head! 
+but every day at four o'clock I wash me friggin head!
 \endverse
 \endsong

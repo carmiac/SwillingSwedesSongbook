@@ -1,0 +1,62 @@
+\beginsong{Crusader's Song}[
+    by={Conn~MacNeill},
+%    cr={Public domain},
+%    index = {Some obvious line},
+%    tune = {The Filked Song}
+]
+\beginchorus
+I'm for the Holy Land sailing
+To win back Jerusalem's walls
+I'm for the Holy Land sailing.
+And I'll win a fortune or a martyr I'll fall.
+\endchorus
+\beginverse
+As my ship sails out I watch the far coastline.
+For leaving of kinsmen my heart is full pain.
+And I've traded all for this cross on my shoulder
+No land for a third son, so I'm away.
+\endverse
+\beginverse
+As I look around me at the men on the benches
+Their eyes are like mine, so I know their heart's pain.
+I sing them a song of bravery in battle
+And now their eyes shine like their keen polished blades.
+\endverse
+\beginverse
+I followed King Richard to Sicily island.
+Johanna's dowry 'gainst Tancred prevailed.
+Now a fortune in silver and a new wife hath Richard
+And I've a swift horse and a fine coat of mail.
+\endverse
+\beginverse
+At landfall in Cypress they refused Berengaria.
+Richard in anger has answered in steel.
+Now the crown of Cypress he's added to England's
+And I've added Knighthood's gold spurs to my heels.
+\endverse
+\beginverse
+I followed the banner to battle at Acre.
+And held it aloft when its bearer was slain.
+Now we've given Richard a tower of the city.
+He's given me rank and a full Captain's pay.
+\endverse
+\beginverse
+At Arsouf on the coastline we met with the Paynim.
+We won the battle though many men fell.
+One was a Baron with lands that need tending
+Now they are mine and I'll tend them well.
+\endverse
+\beginverse
+Now I sit in court over Christian and Moslem
+And I've a strong keep and soldiers ten score.
+King Richard's army has sailed back to England
+I bid them farewell, for I'll see them nay more.
+\endverse
+\textnote{Spoken: You see...}
+\beginchorus
+I'm in the Holy Land staying.
+To guard my own castle walls.
+I'm in the Holy Land staying.
+Now I've won my fortune, so farewell to all!
+\endchorus
+\endsong

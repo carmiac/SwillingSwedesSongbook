@@ -39,15 +39,15 @@ def make_index(indexfile, bible):
         make_verse_index(indexfile, outfile, bible)
     else:
         print('{} : UNKNOWN file type : {}'.format(indexfile, type))
-        
+
 def _make_author_dictionary(infile):
     authors = {}
-    # read each 3 line song entry 
+    # read each 3 line song entry
     with open(infile, 'r') as f:
         typeline = f.readline() # skip the first line that is just used for file typing
         while True:
-            # read 3 line song entry, stripping excess whitespace 
-            author = f.readline().strip() 
+            # read 3 line song entry, stripping excess whitespace
+            author = f.readline().strip()
             songnum = f.readline().strip()
             link = f.readline().strip()
             if not link: break  # EOF
@@ -68,7 +68,7 @@ def _make_author_dictionary(infile):
                 except KeyError:
                     authors[entry] = [{'songnum': songnum, 'link': link}]
     return authors
-    
+
 def make_author_index(infile, outfile):
     # get a dict of authors and their songs
     authors = _make_author_dictionary(infile)
@@ -78,7 +78,7 @@ def make_author_index(infile, outfile):
     endsection = '\\end{{idxblock}}\n'
     auth_entry = '\\idxentry{{{author}}}{{'
     song_entry = '\\songlink{{{link}}}{{{songnum}}}'
-    
+
     # write the author index
     with open(outfile, 'w') as f:
         f.write(beginsection.format())
@@ -102,7 +102,7 @@ def _make_title_list(infile):
     with open(infile, 'r') as f:
         typeline = f.readline() # skip the first line that is just used for file typing
         while True:
-            # read 3 line song entry, stripping excess whitespace 
+            # read 3 line song entry, stripping excess whitespace
             title = f.readline().strip()
             songnum = f.readline().strip()
             link = f.readline().strip()
@@ -112,7 +112,7 @@ def _make_title_list(infile):
                 title = title.lstrip('*')
                 alt = True
             else:
-                alt = False    
+                alt = False
             # move beginning 'a', 'an', and 'the' to the end of the title and remove leading whitespace
             try:
                 begin, end = title.split(maxsplit=1)
@@ -122,12 +122,12 @@ def _make_title_list(infile):
                 if begin in ['a', 'an', 'the', 'A', 'An', 'The']:
                     title = ', '.join([end, begin])
             # capitalize just the first letter of the first word
-            title = title[0].upper() + title[1:]            
+            title = title[0].upper() + title[1:]
             # make into a dictionary and add the song to the song list
             titles.append({'title': title, 'songnum': songnum, 'link': link, 'alt':alt})
 
     return titles
-    
+
 def make_title_index(infile, outfile, letterblock = True):
     # get the list of song titles and sort it
     titles = _make_title_list(infile)
@@ -137,7 +137,7 @@ def make_title_index(infile, outfile, letterblock = True):
     beginsection = '\\begin{{idxblock}}{{{}}}\n'
     endsection = '\\end{{idxblock}}\n'
     entry = '\\{linktype}{{{title}}}{{\\songlink{{{link}}}{{{songnum}}}}}\n'
-        
+
     # write out the index file
     with open(outfile, 'w') as f:
         if letterblock:
@@ -154,9 +154,9 @@ def make_title_index(infile, outfile, letterblock = True):
             else:
                 linktype = 'idxentry'
             f.write(entry.format(
-                linktype = linktype, 
-                title = song['title'], 
-                link = song['link'], 
+                linktype = linktype,
+                title = song['title'],
+                link = song['link'],
                 songnum = song['songnum']))
         if letterblock:
             f.write(endsection.format()) # close out final block
@@ -164,7 +164,7 @@ def make_title_index(infile, outfile, letterblock = True):
 def _make_book_dictionary(infile, bible):
     # parse bible into an ordered dictionary of books
     books = OrderedDict()
-    altnames = {} # 
+    altnames = {} #
     for line in fileinput.input(bible):
         # skip lines beginning with '#' or '0'
         if(line[0] not in ['#', '0']):
@@ -181,7 +181,7 @@ def _make_book_dictionary(infile, bible):
     with open(infile, 'r') as f:
         typeline = f.readline() # skip the first line that is just used for file typing
         while True:
-            # read 3 line song entry, stripping excess whitespace 
+            # read 3 line song entry, stripping excess whitespace
             verses = f.readline().strip()
             songnum = f.readline().strip()
             link = f.readline().strip()
@@ -190,7 +190,7 @@ def _make_book_dictionary(infile, bible):
             for verse in verses.split(';'):
                 # split into book and verse list
                 try:
-                    b, v = verse.strip().rsplit(maxsplit=1) 
+                    b, v = verse.strip().rsplit(maxsplit=1)
                 except ValueError:
                     v = verse.strip()
                 # add song verse list, songnum and link as additional entry for book
@@ -198,10 +198,10 @@ def _make_book_dictionary(infile, bible):
                     b = altnames[b]
                 books[b].append({'verses': v, 'songnum': songnum, 'link': link})
     return books
-    
+
 def make_verse_index(infile, outfile, bible):
     books = _make_book_dictionary(infile, bible)
-   
+
     beginsection = '\\begin{{idxblock}}{{{}}}\n'
     endsection = '\\end{{idxblock}}\n'
     entry = '\\idxentry{{{verse}}}{{\\songlink{{{link}}}{{{songnum}}}}}\n'
@@ -215,13 +215,8 @@ def make_verse_index(infile, outfile, bible):
                 f.write(entry.format(verse = song['verses'], songnum = song['songnum'], link = song['link']))
             # write end block
             f.write(endsection.format())
-        
+
 if __name__ == "__main__":
-    # some os specific things
-    if platform.system() == 'Windows':
-        pdflatex = os.sep.join(['C:\Program Files (x86)\MiKTeX 2.9','miktex','bin', 'pdflatex.exe'])
-    else: # must be *nix
-        pdflatex = 'pdflatex'
 
     # create the argument parser and config defaults
     parser = argparse.ArgumentParser(description="Makes songbooks based on tex files")
@@ -229,7 +224,7 @@ if __name__ == "__main__":
     parser.add_argument("-d", "--header", default='', help="Header for the entire songbook (default %(default)s)")
     parser.add_argument("-b", "--bible", default='bible.can', help="Location of bible file (default %(default)s)")
     parser.add_argument("-t", "--tex", nargs='*', default=['*.tex'], help="tex file(s) to process, wildcards supported. (default %(default)s)")
-    parser.add_argument("-p", "--pdflatex", default=pdflatex, help="command to call pdflatex (default %(default)s )")
+    parser.add_argument("-p", "--pdflatex", default='pdflatex', help="command to call pdflatex (default %(default)s )")
     parser.add_argument("-o", "--outfile", default = 'songs.sbd', help="File of songs created from infile(s) and referenced in tex files. If infile = outfile, the header is not used. (default %(default)s)")
     parser.add_argument("-s", "--sort", default=True, help="sort the list of infiles (default %(default)s)")
     args = parser.parse_args()
@@ -246,5 +241,3 @@ if __name__ == "__main__":
         for sxd in glob.glob('*.sxd'):
             make_index(sxd, args.bible)
         subprocess.call([args.pdflatex, tex])
-
-

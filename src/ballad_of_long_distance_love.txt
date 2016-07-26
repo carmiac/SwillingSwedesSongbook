@@ -1,5 +1,5 @@
 \beginsong{A Ballad of Long-Distance Love}[
-    by={A'isha},
+    by={Aisha},
 %    cr={Public domain},
     index = {Oh my lady is fair as the morning},
     tune = {Red River Valley}

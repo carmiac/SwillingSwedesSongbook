@@ -1,0 +1,28 @@
+\beginsong{Rose Rose}[by={Traditional},
+                     ]
+\textnote{As a round, or not}
+\beginverse
+Hey Ho, nobody home.
+No meat, nor drink,
+Nor money have I none.
+Still I will be very merry.
+\endverse
+\beginverse
+Rose, rose, rose, rose
+Will I ever see thee wed?
+I will marry at thy will, sire
+At thy will
+\endverse
+\beginverse
+Ding dong, ding dong
+Wedding bells on an April morn
+Carve your name on a moss covered stone
+On a moss covered stone
+\endverse
+\beginverse
+Ah poor bird.
+Take thy flight
+High above the sorrows
+Of this sad night.
+\endverse
+\endsong

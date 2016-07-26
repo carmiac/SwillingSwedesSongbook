@@ -1,0 +1,51 @@
+\beginsong{Echoes}[
+   by={Conn~MacNeill},
+%    cr={Public domain},
+%    index = {Some obvious line},
+%    tune = {The Filked Song}
+]
+\beginverse
+When I was a young lad a shining dream I had
+Of sword and lance, of banner and destrier;
+Mail-clad, armed with a blade bright and keen,
+For honor's sake went we.
+And the forest would echo
+With the sound of steel on steel.
+And so was my sleep filled with chivalrous deeds
+In this dream so real.
+\endverse
+\beginverse
+When I was a young lad a shining dream I had
+Of a lady fair, both beauteous and gentle.
+Her servant, I, for a look or a smile;
+A sign of favor won.
+And the chamber would echo
+With my lady's words so dear.
+And so was my sleep filled with beauty and love
+In this dream so clear.
+\endverse
+\beginverse
+When I was a young lad a shining dream I had
+Of merry nobles who hearkened a table
+While bards unequaled sang light and gay
+Of mighty legend's woe
+And the great hall would echo
+With laughter, story, and song.
+And so was my sleep filled with friendship and joy
+In this dream so strong.
+\endverse
+\beginverse
+I now a young man live what I dreamed then.
+I feast a table with merry nobles;
+Ladies peerless in beauty and grace
+And warriors mailed and strong.
+And the hillsides now echo
+With the sounds of my boyhood dreams.
+My waking hours are filled with delights.
+My dream came true it seems.
+And the valleys now echo
+With the call to join us and see
+Still chivalry lives. Still honor is bright
+Your dream's realities.
+\endverse
+\endsong
