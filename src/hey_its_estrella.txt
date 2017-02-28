@@ -1,0 +1,77 @@
+\beginsong{Hey It's Estrella}[
+    by={Merick the Jew},
+%    cr={Public domain},
+%    index = {Some obvious line},
+    tune = {Hey There Delilah - Plain White T's}
+]
+\beginverse
+Hey it's Estrella
+Let's build a medieval City
+It's another year away
+But the sunsets are so pretty
+Things to do
+Filled with friends both old and new
+Stardust for you
+\endverse
+\beginverse
+Hey it's Estrella
+Don't you worry about the distance
+It's right there when you get lonely
+Search your heart start reminiscin'
+Close your eyes
+Listen to the drums, the beat will rise
+You're fireside
+\endverse
+\beginchorus
+Oh it's the comradery [x4]
+The comradery
+\endchorus
+\beginverse
+Hey it's Estrella
+I know the knights are hitting hard
+But just believe me, squire
+Someday your renown will travel far
+Like it should
+Fulfilled by friends and brotherhood
+It will be good
+\endverse
+\beginverse
+Hey it's Estrella
+I've got artworks to display
+If every cotehardie I made for you
+Would take your breath away
+I'd make it all
+I'd do a research overhaul
+I will enthrall
+\endverse
+\beginchorus
+Oh it's the comradery [x4]
+The comradery
+\endchorus
+\beginverse
+A thousand miles seems pretty far
+But Joel the Brewer brought his bar
+We'll stumble home until we find the way
+Our friends would all make fun of us
+And we'll just laugh along because we know
+That all of them have felt this way
+Estrella I can promise you
+When we finally get to you
+Your heart will never ever be the same
+You're all to blame
+\endverse
+\beginverse
+Goodbye Estrella
+You be good and don't you miss me
+One more year and we'll be back to you
+And we'll recreating history like we do
+You'll know it's all because of you
+We can do whatever we want to
+Hey there Estrella here's to you
+This one's for you
+\endverse
+\beginchorus
+Oh it's the comradery [x4]
+The comradery
+\endchorus
+\endsong
