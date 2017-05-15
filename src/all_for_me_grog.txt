@@ -2,7 +2,7 @@
                      ]
 \textnote{Alternate choruses between verses}
 \beginchorus
-And it's all for me grog. me jolly, jolly grog
+And it's all for me grog, me jolly, jolly grog
 All for my beer and tobacco
 Well, I spent all me tin with the lasses drinkin' gin
 Far across the Western Ocean I must wander 
@@ -14,7 +14,7 @@ I've seen centipedes and snakes and me head is full of aches
 And I have to take a path for way out yonder 
 \endverse
 \beginchorus
-And it's all for me grog. Me jolly, jolly grog
+And it's all for me grog, me jolly, jolly grog
 All for me beer and tobacco
 Well, I spent all me loot in a house of ill repute
 And I think I'll have to go back there tomorrow. 
