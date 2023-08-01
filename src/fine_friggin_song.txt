@@ -1,10 +1,10 @@
 \beginsong{A Fine Friggin' Song}[by={Ewan~Keith},
                      ]
 \beginverse
-I went out to take a friggin' walk by the friggin pier
-a-wishin for a friggin coin to buy a friggin beer
-my head it was a-achin and my throat was parched and dry
-and so I sent a little prayer a-wingin to the sky
+I went out to take a friggin' walk by the friggin' pier
+a-wishin' for a friggin' coin to buy a friggin' beer
+my head it was a-achin' and my throat was parched and dry
+and so I sent a little prayer a-wingin' to the sky
 \endverse
 \beginverse
 And there came a friggin' falcon and he walked upon the waves
@@ -16,7 +16,7 @@ The friggin' bird took to the air and spattered me with dung
 I fell upon my friggin knees and bowed my friggin head,
 and said three friggin Aves for all my friggin dead
 and then I got upon my feet and said another ten
-the Friggin bird burst into flame - and spattered me again
+the friggin' bird burst into flame - and spattered me again
 \endverse
 \beginverse
 The Burnin' bird hung in the sky just like a friggin sun

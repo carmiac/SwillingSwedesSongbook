@@ -1,7 +1,4 @@
 \beginsong{Your Local SCA}[
-%    by={A. Author, B. Authour},
-%    cr={Public domain},
-%    index = {Some obvious line},
     tune = {God Rest Ye Merry Gentlemen}
 ]
 \beginverse

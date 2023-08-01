@@ -1,9 +1,9 @@
-\beginsong{The Campbell's are Comin'}[by={Robert~Burns}]
+\beginsong{The Campbells are Comin'}[by={Robert~Burns}]
 \beginchorus
-The Campbell's are comin, Oho! Oho!
-The Campbell's are comin, Oho! Oho!
-The Campbell's are comin to bonnie Lochleven,
-The Campbell's are comin Oho! Oho!
+The Campbells are comin', Oho! Oho!
+The Campbells are comin', Oho! Oho!
+The Campbells are comin' to bonnie Lochleven,
+The Campbells are comin', Oho! Oho!
 \endchorus
 \beginverse
 Upon the Lomonds I lay, I lay,
@@ -15,7 +15,7 @@ And saw three bonnie perches play
 Great Argyle he goes before,
 He makes his cannons and guns to roar,
 Wi' sound o trumpet, pipe and drum
-The Campbell's are comin Oho, Oho!
+The Campbell's are comin' Oho, Oho!
 \endverse
 \beginverse
 The Campbell's they are a'in arms

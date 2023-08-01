@@ -1,6 +1,6 @@
 \beginsong{Karelea's Song}[by={Iolo~fitz~Owen}]
 \beginverse
-Now, the Baron of the East March's fair sorcerous daughter
+Now, the Baron of the East March's fair sorceress daughter
 Was enamored, unseemly with the fool of her Lord.
 Now her Duke was deemed handsome, he'd a soul vain and petty
 And a dark mind as empty as last summer's gourd.
@@ -24,14 +24,14 @@ And she's kept him there softly for two days bright dawnings
 While the servants all gossiped in wonder and awe.
 \endverse
 \beginverse
-Now, the fool died in madness, saying he was ensorcelled
+Now, the fool died in madness, saying he was ensorceled
 And the Duke only smiled him a sad secret smile.
 Now, the Duke rules his people in wit and good humor
 And he sings for his Lady like the nightingales' song.
 \endverse
 \beginverse
 And she's born him five children, two sons and three daughters
-And they've grown straight and handsome and sorcerous all.
+And they've grown straight and handsome and sorcerers all.
 And they dance in the garden and sing in the moonlight
 Like nightingales singing in a green forest hall. 
 \endverse

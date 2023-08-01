@@ -5,7 +5,7 @@
 %    tune = {The Filked Song}
 ]
 \beginverse
-He stood on a battlefield in a tabbard of green
+He stood on a battlefield in a tabard of green
 White stag leaping high on his breast
 Two gold cups on his shield
 And a field of blue o'er the rest

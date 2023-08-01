@@ -1,7 +1,7 @@
 \beginsong{Barbarian Compound}[by={Kondrad~von~Bohmen},
                      tune = {Lily the Pink},
                      ]
-\textnote{Llwyd Emrys O' Arth (aka Joe God) has filled every office at St. Golias}
+\textnote{Llwyd Emrys O'Arth (aka Joe God) has filled every office at St. Golias}
 \beginchorus
 Oh we think, we think, we think
 That Llwyd's a fink, a fink, a fink
