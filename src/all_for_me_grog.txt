@@ -2,22 +2,10 @@
                      ]
 \textnote{Alternate choruses between verses}
 \beginchorus
-And it's all for me grog, me jolly, jolly grog
-All for my beer and tobacco
-Well, I spent all me tin with the lasses drinkin' gin
+Well it's all for me grog, me jolly, jolly grog
+It's all for my beer and tobacco
+For I spent all me tin with the lasses drinkin' gin
 Far across the Western Ocean I must wander 
-\endchorus
-\beginverse
-I'm sick in the head and I haven't been to bed
-Since first I came ashore with me plunder
-I've seen centipedes and snakes and me head is full of aches
-And I have to take a path for way out yonder 
-\endverse
-\beginchorus
-And it's all for me grog, me jolly, jolly grog
-All for me beer and tobacco
-Well, I spent all me loot in a house of ill repute
-And I think I'll have to go back there tomorrow. 
 \endchorus
 \beginverse
 Where are me boots, me noggin', noggin' boots
@@ -42,5 +30,11 @@ Where is me bed, me noggin', noggin' bed
 It's all sold for beer and tobacco
 You see I sold it to the girls until the springs were all in twirls
 And the sheets they're lookin' out for better weather
+\endverse
+\beginverse
+I'm sick in the head and I haven't been to bed
+Since first I came ashore with me plunder
+I've seen centipedes and snakes and me head is full of aches
+And I have to take a path for way out yonder 
 \endverse
 \endsong
