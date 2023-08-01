@@ -1,12 +1,3 @@
-Book Layout
-===========
-
-
 Songs
 =====
-- Celtic Lass's Retort (aka Viking Man II)
-
-Infrastructure
-==============   
-- fix handling of songs.sty file in *nix
-- check that it all works in *nix
+- Celtic Lass' Retort (aka Viking Man II)

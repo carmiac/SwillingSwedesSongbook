@@ -4,11 +4,9 @@ import glob
 import os
 import fileinput
 import subprocess
-import platform
 import shutil
 import argparse
 import re
-from collections import OrderedDict
 
 # create the song file, with optional header and sorting
 def make_songfile(infiles, outfile, header=False, sort=False):
