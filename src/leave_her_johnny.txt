@@ -1,5 +1,5 @@
 \beginsong{Leave Her Johnny}[
-%    by={A. Author, B. Authour},
+    by={A. Author, B. Authour},
 %    cr={Public domain},
 %    index = {Some obvious line},
 %    tune = {The Filked Song}

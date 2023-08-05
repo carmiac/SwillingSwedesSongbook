@@ -1,0 +1,47 @@
+\beginsong{The Old Black Rum}[
+    by={Great~Big~Sea},
+%    cr={Public domain},
+%    index = {Some obvious line},
+%    tune = {The Filked Song}
+]
+\beginverse
+I drank 16 doubles for the price of one
+Tryin to find the courage to talk to the one
+I asked her for a dance, not a second glance
+My night had just begun
+\endverse
+\beginverse
+Well I'd drink to the father or the holy ghost
+I'm kneeling at the altar of my nightly post
+So I'll raise a glass, not the first or last
+Come join me in this toast
+\endverse
+\beginchorus
+Because the old black rum's got a hold on me
+Like a dog wrapped 'round my leg
+And the old black rum's got a hold on me
+Will I live for another day(heyyyyy)will I live for another day
+\endchorus
+\beginverse
+Well the queen of George Street just went walkin' on by
+Walkin' on by with some guy who don't care
+That she stood in line since half past nine
+And spent three hours on her hair
+  (on her hair!)
+\endverse
+\beginverse
+Her friend is lookin' at me with an evil grin
+I think a bloody racket might soon begin
+I must have said something to the George Street queen
+Her boys are joining in
+\endverse
+\textnote{Chorus}
+\beginverse
+So I drank all of my money and I slept out in the rain
+Everyday is different, but the nights they're all the same
+You never see the sun on the old black rum
+But I know I'm gonna do it again
+\endverse
+\textnote{Chorus x2}
+Will I live for another day
+\endsong

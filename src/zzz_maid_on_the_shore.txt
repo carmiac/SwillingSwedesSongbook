@@ -1,0 +1,70 @@
+\beginsong{Maid on the Shore}[
+    by={Stan Rogers},
+%    cr={Public domain},
+%    index = {Some obvious line},
+%    tune = {The Filked Song}
+]
+\beginverse
+There is a young maiden who lives all alone
+She lives all alone on the shore-o
+There's nothin' she can find to comfort her mind
+But to roam all alone on the shore shore shore
+But to roam all alone on the shore
+\endverse
+\beginverse
+T'was of the young captain who sailed the salt sea
+Let the wind blow high blow loow
+"I will die, I will die" the young captain did cry
+If I don't have that maid on the shore shore shore
+If I don't have that maid on the shore
+\endverse
+\beginverse
+Well I have lots of silver I have lots of gold
+I have lots of costly ware-o
+I'll divide I'll divide with my jolly ship's crew
+If they row me that maid on the shore shore shore
+If they row me that maid on the shore
+\endverse
+\beginverse
+After much persuasion they got her aboard
+Let the wind blow high blow loow
+They replaced her away in his cabin below
+Here's adieu to all sorrow and care care care
+Here's adieu to all sorrow and care
+\endverse
+\beginverse
+They replaced her away in his cabin below
+Let the wind blow high blow loow
+She's so pretty and neat she's so sweet and complete
+She sung captain and sailors to sleep sleep sleep
+She sung captain and sailors to sleep
+\endverse
+\beginverse
+Then she robbed him o' silver she robbed him o' gold
+She robbed him o' costly ware-o
+Then took his broadsword instead of an oar
+And paddled her way to the shore shore shore
+And paddled her way to the shore
+\endverse
+\beginverse
+"Well me men must be crazy me men must be mad
+Me men must be deep in despair-o
+For to let you away from my cabin so gay
+And to paddle your way to the shore shore shore
+And to paddle your way to the shore"
+\endverse
+\beginverse
+"Well your men was not crazy your men was not mad
+Your men was not deep in despair-o
+I deluded your sailors as well as yourself
+I'm a maiden again on the shore shore shore
+I'm a maiden again on the shore"
+\endverse
+\beginverse
+Well, there is a young maiden she lives all alone
+She lives all alone on the shore-o
+There's nothin' she can find to comfort her mind
+But to roam all alone on the shore shore shore
+But to roam all alone on the shore
+\endverse
+\endsong

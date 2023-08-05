@@ -1,5 +1,5 @@
 \beginsong{Rollin' Down to Old Maui}[
-%    by={A. Author, B. Authour},
+    by={Stan Rogers},
 %    cr={Public domain},
 %    index = {Some obvious line},
 %    tune = {The Filked Song}
@@ -21,7 +21,7 @@ We're homeward bound from the Arctic Ground
 Rolling down to Old Maui
 \endchorus
 \beginverse
-Once more we sail the Northerly gale
+Once more we sail with the Northerly gale
 Towards our Island home
 Our mainmast sprung, our whaling done
 And we ain't got far to roam

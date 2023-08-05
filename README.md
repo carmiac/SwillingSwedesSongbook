@@ -16,14 +16,11 @@ If you want to be able to build it yourself, keep reading. It is tested in Windo
    * Complete songs package for LaTeX from http://songs.sourceforge.net/
 * OSX
    * MacTeX, from http://www.tug.org/mactex/
-   * raw songs style file, from http://songs.sourceforge.net/downloads.html
 * Linux (untested, but it should work)
    * TeX Live, from http://www.tug.org/texlive/
-   * raw songs style file, from http://songs.sourceforge.net/downloads.html
 
 **Building**
 
 1. Clone
-2. (OSX and Linux only) Copy songs.sty into the working directory
-3. python makebook.py -i src/*.txt -d header.txt
-4. Sing with gusto!
+2. python makebook.py -i src/*.txt -d header.txt
+3. Sing with gusto!

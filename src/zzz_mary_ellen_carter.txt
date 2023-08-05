@@ -1,5 +1,5 @@
-\beginsong{Some Song}[
-%    by={A. Author, B. Authour},
+\beginsong{Mary Ellen Carter}[
+    by={Stan Rogers},
 %    cr={Public domain},
 %    index = {Some obvious line},
 %    tune = {The Filked Song}
