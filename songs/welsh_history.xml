@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Welsh History 101</title>
+    </titles>
+    <authors>
+      <author>Heather~Rose~Jones </author>
+    </authors>
+    <tune>Ash Grove</tune>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+If ever you wander out by the Welsh border
+Come stop by and see me and all of my kin
+I'm Morgan ap Daffyd ap Gwion ap Hywell
+Ap Ifor ap Madoc ap Rhodri ap Gwyn
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+We'll feast you on mutton and harp for your pleasure
+And give you a place to sleep out of the cold
+Or maybe we'll meet you out on the dark roadway
+And rob you of horses and weapons and gold
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+My neighbor from England has come across raiding
+Slain six of my kinsmen and burned down my hall
+It cannot be borne this offense and injustice
+I've only killed four of his, last I recall
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+I'll send for my neighbors, Llewellyn and Owain
+We'll cut him down as for the border he rides
+But yesterday Owain stole three of my cattle
+And first I'll retake them and three more besides
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+We need a strong prince to direct our resistance
+Heroic, impartial, of noble degree
+My brother's wife's fourth cousin's foster-son, Gruffydd
+Is best for the job as I'm sure you'll agree
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+What matter that Rhys is the old prince's nephew
+He's exiled to Ireland and will not return
+I know this for every time boats he is building
+I send my spies money to see that they burn
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+Last evening my brother and I were at war
+Over two feet of land on a boundary we share
+But early this morning, I hear he's been murdered
+I'll not rest until I avenge him, I swear
+</lines>
+    </verse>
+    <verse name="v8">
+      <lines>
+Yes, we are just plain folk who mind our own business
+Honest and loyal and full of good cheer
+So if you should wander our by the Welsh border
+Come stop by and meet all the friendly folk here
+</lines>
+    </verse>
+  </lyrics>
+</song>

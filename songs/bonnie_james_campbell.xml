@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Bonnie James Campbell</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+High upon highlands and low upon Tay
+Bonny James Campbell rode out on a day
+He saddled, he bridled, how gallant rode he
+Home came his good horse but never came he
+Home came his good horse but never came he
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Out came his mother, weeping full sore
+Out came his new bride, a-tearing her hair
+&quot;My meadow lies green and my corn is unshorn,
+My barn is to build and my baby unborn,
+My barn is to build and my baby unborn.&quot;
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Saddled and bridled and booted rode he,
+A plume in his helmet, a sword at his knee
+His hounds running by him, his hawk flying free
+Home came his good horse but never came he
+Home came his good horse but never came he
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Empty the saddle, all bloody to see...
+Home came his good horse but never came he
+Home came his good horse but never came he
+</lines>
+    </verse>
+  </lyrics>
+</song>

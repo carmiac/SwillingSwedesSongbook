@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Fighters Lament</title>
+    </titles>
+    <tune>Norwegian Wood</tune>
+    <keywords>
+      <keyword>I once had a sword </keyword>
+    </keywords>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+I once had a sword
+Or should I say, it once had me
+I just picked it up
+Oh what a sword
+It was plus three
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Its ego was twelve
+A fact of which I wasn't aware
+I tried to leave
+And I found that the sword didn't care
+Oh, oh, oh
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+I walked through the halls
+Wasting my time
+Nothing to find
+Then I turned around
+And then I said
+&quot;Oh no, undead&quot;
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+The thirty two knights saw me coming
+And started to laugh
+I closed my eyes
+As my sword started hewing a path
+Oh, oh, oh
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+And when I awoke
+I was alone
+That sword had flown
+Now I use a club
+Isn't it good
+No-Ego wood
+</lines>
+    </verse>
+  </lyrics>
+</song>

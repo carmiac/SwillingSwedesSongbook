@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Kings Sailor</title>
+    </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Early early in the spring
+I shipped on board to serve my king
+I left my dearest, my dear behind
+She oft times swore, that her heart was mine
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Now all the time that sailed the seas
+I could not find a moments ease
+For thinking of my dearest dear
+But never a word of my love did hear
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+At last I sailed into Glasgow town
+I searched the streets, both up and down
+Inquiring for my dearest dear
+But never a word of love did hear
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+I went straight way to her fathers hall
+And loudly for my love did call
+He said she's married now, she's a rich man's wife
+Went to another, for a better full life
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Well curse you both, curse the cinder truth
+And curse the girl, that won't prove true
+And the followers, who did break
+Who went to another, for riches sake
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+But the girl is married, the tide is come
+And I will stay, on land no more
+I'll sail the seas, till the day I die
+Breaking through the waves, rolling mountain high
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+Early early in the spring
+I shipped onboard, to serve my king
+I left my dearest, my dear behind
+She oft time swore that her heart was mine
+</lines>
+    </verse>
+  </lyrics>
+</song>

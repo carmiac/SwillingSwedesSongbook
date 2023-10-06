@@ -1,4 +1,4 @@
-\beginsong{Here's a Health}[by={Traditional}, index = {Kind friends and companions},]
+\beginsong{Here's a Health}[by={Traditional}, index = {Kind friends and companions}]
 \beginverse
 Kind friends and companions, come join me in rhyme
 Come lift up your voices in chorus with mine

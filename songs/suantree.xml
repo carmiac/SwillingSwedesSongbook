@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Suantree</title>
+    </titles>
+    <keywords>
+      <keyword>Hush Song</keyword>
+    </keywords>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Sweet babe, a golden cradle holds thee;
+Soft a snow white fleece enfolds thee;
+Fairest flow'rs are strewn before thee;
+Sweet birds warble o'er thee:
+Sho heen sho lo! Shoe Heen sho lo lo!
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Oh! Sleep, my baby, free from sorrow,
+Bright thou'lt open thine eyes tomorrow;
+Sleep while o'er thy smiling slumbers
+Angels chant their numbers:
+Shoheen Sho lo!
+</lines>
+    </verse>
+  </lyrics>
+</song>

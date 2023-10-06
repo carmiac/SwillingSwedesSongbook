@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Ce Fut en Mai</title>
+    </titles>
+    <authors>
+      <author>French Traditional</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+  </properties>
+  <comment>13th Century French, in translation</comment>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+In early May, when skies are gay
+And green the plains and mountains,
+At break of day I rose to play
+Beside a little fountain.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+In garden close where shone the rose
+I heard a fiddle played, then
+A handsome knight that charmed my sight,
+Was dancing with a maiden.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Both fair of face, they turned with grace
+To tread their May-time measure.
+The flowering place, their close embrace:
+Their kisses brought them pleasure.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+But shortly they had slipped away
+To stroll among the bowers.
+To ease their heart, each played his part
+In love's games on the flowers.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+I crept ahead, all chill with dread,
+Lest someone there should see me.
+Bemused and sad because I had
+No joy in love to please me.
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+Then one of those I'd seen their rose
+And from afar off speaking,
+He questioned me, who I might be,
+And what I came there seeking.
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+I stepped their way to sadly say
+How long I'd loved a lady,
+Who all my days my heart obeys,
+Full faithfully and steady.
+</lines>
+    </verse>
+    <verse name="v8">
+      <lines>
+Though still I bore a grief so sore
+In losing one so lovely,
+That surely I would come to die
+Unless she deigned to love me.
+</lines>
+    </verse>
+    <verse name="v9">
+      <lines>
+With wisdom rare, with tactful air
+They counselled and relieved me.
+They said their prayer was God might spare
+Some joy in love that grieved me.
+</lines>
+    </verse>
+    <verse name="v10">
+      <lines>
+Where all my gain was loss and pain
+So I in turn extended
+My thanks sincere, with many a tear,
+And them to God commended.
+</lines>
+    </verse>
+  </lyrics>
+</song>

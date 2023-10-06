@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Paisteen Fionn</title>
+    </titles>
+    <keywords>
+      <keyword>The Fair Haired Child</keyword>
+    </keywords>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+My Paisteen Fionn is my soul's delight
+Her heart laughs out in her blue eyes bright,
+The bloom of the apple her bosom white,
+Her neck like the March swan's in whiteness
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Oh you are my dear, my dear, my dear;
+Oh! You are my dear and my fair love!
+You are my own dear and my fondest hope here,
+And oh that my cottage you'd share, love.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Love of my bosom, my fair Paisteen,
+Whose cheek is red like the roses' sheen;
+My thoughts of the maiden are pure, I ween,
+Save toasting her health in my lightness!
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+From kinsfolk and friends, my fair, I'd flee
+From all the beautiful maids that be;
+But I'll never leave you sweet gramachree,
+Till death in your service o'er takes me!
+</lines>
+    </verse>
+  </lyrics>
+</song>

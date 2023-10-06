@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Black Swan Rising</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+We came as strangers to this land with nothing but our wills;
+Our hands were open, and deeds were put therein.
+Stone surrendered to our skill, sweat made barrens yield our fill,
+We wrought in ice and fire, a home to win!
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Now the black swan rises and she spreads her wings
+O'er the hearths of heroes and the halls of kings.
+By the valley's richness, by the mountain's snow,
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+This is our Cynagua - we have made it so!
+Blood and spirit bind us to the hills and to the soil
+Our hands were open to do and not just try.
+Faint hearts never won the spoil - boldness makes the cauldron boil.
+We'll feast with fate and dare her to reply!
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Welcome, stranger, to our home, the feasting board is laid.
+Our hands are open to all who come as friends.
+Share our pride in what we've made, but come not with the foeman's blade,
+For what the swan has built, the swan defends.
+</lines>
+    </verse>
+  </lyrics>
+</song>

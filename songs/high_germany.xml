@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>High Germany</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+One day as I was walking, and a walkin' all alone
+I heard a young couple, a' makin' their moan
+Said the older one to the sunder one, &quot;Bonnie lass I must away:
+For the King he has commanded us, and His orders I must obey
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Oh first of all your promises when first you were my love
+Was to keep me ever at your side however far you should rove
+Pity only take do not me forsake, for great is my love
+Through France and Spain, Bonnie Ireland, along with you I'll go.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+I fear the treacherous journey, bitter cold, and burning heat
+Rough cold, and stony mountains, they will wound your tender feet
+And to your kinsman to you would prove untrue, if from them you go
+For maids must bide at their parent's side, while men do fight the foe
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+I fear no parent's anger, nor any daring foe
+Since I have resolved along with you to go
+Through the rain and snow, and through weal or woe, I'll prove hard you'll see
+For the drums do beat, and the drum that sound, and the wars of High Germany
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+One day as I was walking, and a walkin' all alone
+I heard a young couple, a' makin' their moan
+Said the older one to the sunder one, &quot;Bonnie lass I must away:
+For the King he has commanded us, and His orders I must obey
+</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Don't Get on the Boat!</title>
+    </titles>
+    <authors>
+      <author>Pendar~the~Bard</author>
+    </authors>
+    <verseOrder>v1 c1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+There's a lesson in ballads that oft is ignored
+Though the warning is quite plain to me
+Young lovers will find that their future is doomed
+Whenever they take to the sea.
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Don't get on the boat! Don't get on the boat!
+No one's seen this more times than me.
+As a bard I sing often of ill-fated loves
+And many are claimed by the sea.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+A young highland lad told his lass he must go
+To fight in the wars for his King.
+He got on a boat, and never returned
+Now the ghost of his lass waits and sings:
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Captain Jack was a young man when he went to sea
+Left behind him a young fiancee
+He married a mermaid and his young lady love
+Was down on the docks heard to say:
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+A man sailed away from the banks of the Lea
+And his lass waited late at the moor.
+She died in the darkness, and the grieving young man
+Pulls her roses and cries evermore:
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Roy Neal and his bride sought out a new home
+Took a boat from their sweet Dublin Bay.
+They'd been on the water for only three days
+When the storm came and swept them away.
+<comment>2 -  &quot;My Love's Far Away&quot; by Velada of Isenfir</comment>
+<comment>3 -  &quot;Captain Jack and the Mermaid&quot; by Meg Davis</comment>
+<comment>4 -  &quot;Banks of the Lea&quot; by Silly Wizard/Andy M. Stewart</comment>
+<comment>5 -  &quot;Dublin Bay&quot; by Silly Wizard/Andy M. Stewart</comment>
+</lines>
+    </verse>
+  </lyrics>
+</song>

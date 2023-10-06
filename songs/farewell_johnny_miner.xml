@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Farewell Johnny Miner</title>
+    </titles>
+    <authors>
+      <author>Ed~Pickford</author>
+    </authors>
+    <verseOrder>v1 c1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Johnny Miner, you were born
+Never to see the rising dawn,
+Now it's time that you were gone,
+So farewell, Johnny Miner.
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Farewell Durham, Yorkshire, too,
+Nottingham, the same to you
+Scotland, South Wales, bid adieu,
+And farewell, Johnny Miner.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+You struggled hard with slate and shale,
+Lungs turned black and faces pale,
+Now your body's up for sale,
+And farewell, Johnny Miner.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+They promised you the earth some time
+To work down in their stinkin' mine,
+Now the justice for their crime
+Is farewell, Johnny Miner.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Cheer up John, it won't be bad:
+Unemployment isn't hard -
+They'll treat you well in the knacker's yard,
+So farewell, Johnny Miner.
+</lines>
+    </verse>
+  </lyrics>
+</song>

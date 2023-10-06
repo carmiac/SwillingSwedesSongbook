@@ -43,5 +43,7 @@ You never see the sun on the old black rum
 But I know I'm gonna do it again
 \endverse
 \textnote{Chorus x2}
+\beginverse
 Will I live for another day
+\endverse
 \endsong

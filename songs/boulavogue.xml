@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Boulavogue</title>
+    </titles>
+    <authors>
+      <author>P.J.~McCall</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+At Boulavogue, as the sun was setting
+O'er the bright May meadows of Shalmaleer
+A rebel hand set the heather blazing
+And brought the neighbors from far and near.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Then Father Murphy, from old Kilcormac,
+Spurred up the rocks with a warning cry.
+&quot;Arm, Arm.&quot; He cried, &quot;For I've come to lead you
+For Ireland's freedom we'll fight or die.&quot;
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+He leads us on 'gains the coming soldiers,
+The cowardly yeomen we put to flight.
+'Twas at the Hara, the boys of Wexford showed
+Bougie's regiment old men could fight.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Look out for hirelings King George of England,
+Search every Kingdom that breeds a slave
+For Father Murphy, from County Wexford,
+Sweeps o'er the land like a mighty wave.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+At Vinegar Hill o'er the Pleasant Slane,
+Our heroes bravely stood back to back.
+And the Youls at Tulla took Father Murphy
+And burned his body upon the rack.
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+God grant you glory Father Murphy
+And open heaven to all your men,
+For the cause that called you,
+May call tomorrow in another fight for the green again.
+</lines>
+    </verse>
+  </lyrics>
+</song>

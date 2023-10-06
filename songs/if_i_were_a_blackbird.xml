@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>If I Were a Blackbird</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+I am a young sailor, my story is sad
+Though once I was carefree, and a brave sailor lad
+I courted a lassie, by night and by day
+Ah, but now she has left me and sailed far away
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Oh, if I was a blackbird, could whistle and sing
+I'd follow the vessel my true love sails in
+An' in the top riggin, I would there build my nest
+And I'd flutter my wings o'er her lily white breast
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Or if was a scholar, and could handle the pen
+One secret love letter my true love I'd send
+I'd tell of my sorrow, my grief, and my pain
+Since she's sailed over the ocean, to yon flowery glen
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+I sailed o'er the ocean, my fortune to seek
+Though I'd miss her caress, and her kiss on my cheek
+I sailed back to tell her my love was still warm
+But she turned away lightly, and great was her scorn
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+I promised to take her to Donnybrooke faire
+To buy her fine ribbons, to tie up her hair
+I promised to marry, and to stay by her side
+But she says in the mornin', she sails with the tide
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+My parents, they chide me, an' will no' agree
+Sayin' that me and my false love, married will never be
+Ah, but let them deprive, oh let them do what they will
+While there's breath in my body, she's the one that I love still
+</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Trees They Do Grow High</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+The trees they do grow high,
+And the leaves they do grow green,
+But the time is gone and past, my love,
+That you and I have see.
+It's a cold winter's night, my love,
+And here I must abide alone.
+My bonny lad was young, but a growing.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+&quot;O, Father, dearest Father,
+I fear you've done me wrong,
+For you've married me to a bonny boy,
+But I fear he is too young.&quot;
+&quot;O, my daughter, dearest daughter,
+If you stay at home a time with me,
+A lady you shall be, while he is growing?&quot;
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+&quot;We'll send him to a college,
+But for a year or two,
+And then perhaps in time, my love,
+Into a man he'll grow.
+I will buy you a ribbon blue
+To tie about his bonny waist,
+To let the ladies know that he's married.&quot;
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+At the age of sixteen,
+He was a married man,
+And at the age of seventeen,
+He was father of a son,
+And at the age of eighteen,
+His grave it was growing green,
+And that did put an end to his growing.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+She made her love a shroud
+Of the holland, O so fine,
+And ev'ry stitch she put in it,
+Her tears came trickling down.
+&quot;O, once I had a sweetheart,
+But now I have got never a one,
+So fare you well my true love for ever.&quot;
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+The trees they do grow high,
+And the leaves they do grow green,
+But the time is gone and past, my love,
+That you and I have see.
+It's a cold winter's night, my love,
+And here I must abide alone.
+My bonny lad was young, but a growing.
+</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>I Know Where I'm goin'</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+I know where I'm goin',
+And I know who's a goin' with me,
+I know who I love
+But the dear knows who I'll marry!
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+I have stockings of silk,
+Shoes of fine green leather,
+Combs to buckle my hair,
+And a ring for every finger.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Some say he's black,
+But I say he's bonny,
+The fairest of them all
+My handsome, winsome Johnny.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Feather beds are soft,
+And painted rooms are bonny,
+But I would leave them all
+To go with my love Johnny.
+</lines>
+    </verse>
+  </lyrics>
+</song>

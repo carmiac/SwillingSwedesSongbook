@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Death of the Cat</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+The trees were growing high
+And the wind was in the west
+When a hunter aimed his arrow
+Into the Cat's broad chest.
+And she died, she died.
+Against her lover's breast
+And we laid her in the earth
+So long and narrow.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+It was early, so early
+In the graying of the morn,
+When we sang of the days
+Before the Cat was born.
+And how from her mother
+She was so shiftily torn,
+As we laid her in the earth
+So long and narrow.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Come all ye young fighting men
+And listen unto me.
+Do not place you affections
+Upon a girl so free.
+For she'll take the mortal wound
+Another meant for thee,
+And you'll lay her in the earth
+So long and narrow.
+</lines>
+    </verse>
+  </lyrics>
+</song>

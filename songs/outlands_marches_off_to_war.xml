@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Outlands Marches Off to War</title>
+    </titles>
+    <authors>
+      <author>James~the~Namer</author>
+    </authors>
+    <tune>The Ants go Marching</tune>
+    <verseOrder>v1 c1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+The Outlands marches off to war
+Huzzah, huzzah
+At least a hundred men or more
+Huzzah, huzzah
+The Outlands marches off to war
+The King and Queen march in the fore
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+And we all go marching down
+To the war, in Atenveldt, Oh...
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+The Outlands marches off to fight
+Fifty spear points in the light
+The Outlands marches off to fight
+A hundred helmets shining bright
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+The Outlands marches off to war
+With grand Caid just like before
+The Outlands marches off to war
+With our Caid brothers from afar
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+The Outlands marches off to fight
+A Calontir Fyrdman to our right
+The Outlands marches off to fight
+The Calontir Fyrdsman ready to strike
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+The Outlands marches off to war
+To face the Aten shields galore
+The Outlands marches off to war
+To fill the Aten fields with gore
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+The Outlands marches off to fight
+To take our toll on Atens might
+The Outlands marches off to fight
+Us each an Aten helm to smite
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+The Outlands won the war that day
+Huzzah, huzzah
+It's friends we're fighting anyway
+Huzzah, huzzah
+(slowly)
+The Outlands won the war that day
+Then we went off to drink and play
+With our good friends from the west
+In the land, of Atenveldt, oh
+</lines>
+    </verse>
+  </lyrics>
+</song>

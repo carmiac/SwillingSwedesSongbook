@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Ta Mo Chleamhnas Deanta</title>
+    </titles>
+    <keywords>
+      <keyword>My Match Is Made</keyword>
+    </keywords>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <comment>In Gaelic</comment>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Ta mo chleamhnhas deanta o athru areir
+S'ni mo na go dtaithnionn an bhean liom fein
+Ach fagfaidh me i mo dhiaidh i
+'Gus imeoidh me liom fein
+Ar fud na gcoillte craobhach
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Shiuil mise thoir agus shiuil mise thiar
+Shiuil mise corcaigh 'gus sraide Bh'l'ath Cliath
+Ach samhail de mo chailin deas ni fhaca mise riamh
+'si an bhean dubh a dhfhag mo chroi craite
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+D'eirigh me ar maidin dha uair roimh an la
+'Gus fuair me litir o mo mhile ghra
+Chuala me an smoilin 's an londubh a ra
+Gur ealiagh mo ghra thar saile
+<comment>Or in English</comment>
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+My match it was made here last night
+To a girl I neither love or like
+But I'll take my own advice
+And leave her behind
+And go roaming the wild woods all over
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+I walked up, and I walked down
+I walked Cork, and Dublin, and Belfast Towns
+But no equal to my true love could I find
+She's the wee lass that's left my heart broken
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+I got up two hours before day
+And I got a letter from my true love
+I heard the blackbird and the linnet say
+That my love had crossed the ocean
+</lines>
+    </verse>
+  </lyrics>
+</song>

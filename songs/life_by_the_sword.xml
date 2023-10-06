@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Life By The Sword</title>
+    </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+William in his castle lay, sword and shield beside him
+A lovely lady at his side, but alas he lay there dying
+Far away the sounds were heard, the screams of men and fighting
+The ring of steel rang through the air, his castle lay in ruins
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Closing his eyes he lay back his head, clutching his lady to him
+And he dreamed a last dream of an age that might come
+When the sword would be laid down for good
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+His lady washed away the dirt, on his face, from the dust of battle
+But even her tender gentleness, did ought to soothe her sorrow
+In the courtyard below, the enemy swarmed, in droves of hundreds to thousands
+Destroying resistance wherever it came, the battle would soon be over
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Life by the sword is noble at best, but higher is the price you pay
+And the one who will win is the one who's named Death
+Till the sword is laid down for good
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Now all that stands of his castle today, is a pile of stones and rubble
+The bones of the men have long since decayed, their glories been forgotten
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+Life by the sword is noble at best, but higher is the price you pay
+And the one who will win is the one who's named Death
+Till the sword is laid down for good
+</lines>
+    </verse>
+  </lyrics>
+</song>

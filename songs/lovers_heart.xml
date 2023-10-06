@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Lovers Heart</title>
+    </titles>
+    <authors>
+      <author>Andy~Stewart</author>
+      <author>Phil~Cunningham</author>
+    </authors>
+    <verseOrder>v1 c1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+She was in the flowery garden, when first she caught my eye
+And I just a marching soldier; she smiled as I passed by
+The flowers she held were fresh an' fair, her lips were full and red
+And as I passed that shady bower, she turned to me and said
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Last night we spoke of love
+Now we're forced to part
+You leave to the sound of a marching drum
+And the beat of a lover's heart
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+She was by the shore in the evening, when next I saw my dear
+Running barefoot by the waterside, she called as I drew near
+The sunlight glanced at the waters edge, makin' fire of her auburn hair
+My young heart danced at her parting words that hung in the evening air
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+She was on the Strand next morning when orders came to sail
+And as we slipped our ropes away I watched her from the rail
+She threw me a rose which fell between us, and floated in the bay
+And as our ship pulled from the shore, I heard her call and say
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Now the soldiers life won't suit me, sweet music is my trade
+For I'd rather melt the heardest heart, than pierce it with a blade
+Let the time be short 'til I return to my home in the north of Skye
+And the loving girl who stole my heart, with these words as I passed by
+</lines>
+    </verse>
+  </lyrics>
+</song>

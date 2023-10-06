@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Echoes</title>
+    </titles>
+    <authors>
+      <author>Conn~MacNeill</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+When I was a young lad a shining dream I had
+Of sword and lance, of banner and destrier;
+Mail-clad, armed with a blade bright and keen,
+For honor's sake went we.
+And the forest would echo
+With the sound of steel on steel.
+And so was my sleep filled with chivalrous deeds
+In this dream so real.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+When I was a young lad a shining dream I had
+Of a lady fair, both beauteous and gentle.
+Her servant, I, for a look or a smile;
+A sign of favor won.
+And the chamber would echo
+With my lady's words so dear.
+And so was my sleep filled with beauty and love
+In this dream so clear.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+When I was a young lad a shining dream I had
+Of merry nobles who hearkened a table
+While bards unequaled sang light and gay
+Of mighty legend's woe
+And the great hall would echo
+With laughter, story, and song.
+And so was my sleep filled with friendship and joy
+In this dream so strong.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+I now a young man live what I dreamed then.
+I feast a table with merry nobles;
+Ladies peerless in beauty and grace
+And warriors mailed and strong.
+And the hillsides now echo
+With the sounds of my boyhood dreams.
+My waking hours are filled with delights.
+My dream came true it seems.
+And the valleys now echo
+With the call to join us and see
+Still chivalry lives. Still honor is bright
+Your dream's realities.
+</lines>
+    </verse>
+  </lyrics>
+</song>

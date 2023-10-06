@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Seeds of Love</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+I sowed the seeds of love,
+And I sowed them in the spring.
+I gathered them up in the morning so soon,
+While the small birds so sweetly sing.
+While the small birds so sweetly sing.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+My garden was planted well
+With flowers ev'ry where,
+But I had not the liberty to choose for my self
+Of the flow'rs that I loved so dear,
+Of the flow'rs that I loved so dear,
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+The gard'ner was standing by,
+And I asked him to choose for me.
+He chose for me the violet, the lily, and the pink,
+But those I refused all three.
+But those I refused all three.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+The violet I did not like
+Because it bloomed so soon.
+The lily and the pink I really over think,
+So I vowed I would wait `til June.
+So I vowed I would wait `til June.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+In June there was a red rose bud,
+And that is the flow'r for me.
+I often time have pluck'd that red rose bud
+Till I gain'd the willow tree.
+Till I gain'd the willow tree.
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+The willow tree will twist,
+And the willow tree will twine.
+I often time have wished I were in that young man's arms
+That once had the heart of mine.
+That once had the heart of mine.
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+Come all you false young men.
+Do not leave me here to complain,
+For the grass that has often time been trampled under foot,
+Give it time. It will rise again.
+Give it time. It will rise again.
+</lines>
+    </verse>
+  </lyrics>
+</song>

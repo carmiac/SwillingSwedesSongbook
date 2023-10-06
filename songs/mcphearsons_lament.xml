@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>McPherson's Lament</title>
+    </titles>
+    <authors>
+      <author>Irish Traditional</author>
+    </authors>
+    <verseOrder>v1 c1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Farewell ye dungeons dark and strong.
+Farewell, farewell to thee;
+McPherson's life will not be long
+On yonder gallows tree.
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Sae rantingly, sae wantonly, and sae dauntingly gaed he;
+He played a tune and he danced around below the gallows tree.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Take off these bands from off my hands
+And give to me my sword,
+For there's not a man in all Scotland
+But I'd brave him at his word.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+There's some come here for to see me hung,
+And some to buy my fiddle;
+But before that I do part with her,
+I'll break her through the middle
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+He took his fiddle in both his hands,
+And he broke it o'er a stove,
+Saying, there's nay ither hand shall play on thee
+When I am dead and gone.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+The reprieve was coming o'er the Brig of Baniff,
+For to set McPherson free;
+But they put the clock a quarter before,
+And they hanged him from a tree.
+</lines>
+    </verse>
+  </lyrics>
+</song>

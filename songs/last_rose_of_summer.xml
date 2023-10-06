@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Last Rose of Summer</title>
+    </titles>
+    <authors>
+      <author>Thomas~Moore</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+''Tis the last rose of summer, left blooming all alone
+All her lovely companions are faded and gone.
+No flower of her kindred, no rose bud is nigh
+To reflect back her blushes and give sigh for sigh.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+I'll not leave thee, thou lone one, to pine on the stem.
+Since the lovely are sleeping, go sleep thou with them.
+'Thus kindly I scatter thy leaves o'er the bed
+Where thy mates of the garden lie scentless and dead.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+So soon may I follow, when friendships decay
+And from love's shining circle the gems drop away
+When true hearts lie wither'd and fond ones are flown
+Oh! who would inhabit this bleak world alone!
+</lines>
+    </verse>
+  </lyrics>
+</song>

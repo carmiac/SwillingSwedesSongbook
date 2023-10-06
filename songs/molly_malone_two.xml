@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Molly Malone II</title>
+    </titles>
+    <authors>
+      <author>Ioseph~of~Locksley</author>
+    </authors>
+    <tune>Molly Malone</tune>
+    <verseOrder>v1 c1 v2 v3 c2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+In Dublin's fair city, where the girls have no titties
+'Twas there that I first met sweet Molly Malone
+You could have her for a penny, and be one of many,
+But for sixpence she would act alive, alive-o!
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Alive, alive-o! Alive alive-o!
+But for sixpence she would act alive, alive-o!
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+She was a street walker, and sure 'twas no wonder
+For so were her mother and grandmother too,
+With a mattress on the barrow, thru streets broad and narrow,
+And for sixpence they would act alive, alive-o!
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+She died of a fever, and no one could save her;
+It was caught from a folkie from Ontario,
+Now her ghost wheels the barrow thru streets broad and narrow
+But a ghost can't be had that's alive, alive-o!
+</lines>
+    </verse>
+    <verse name="c2">
+      <lines>
+Alive, alive-o! Alive alive-o!
+But a ghost can't be had that's alive, alive-o!
+</lines>
+    </verse>
+  </lyrics>
+</song>

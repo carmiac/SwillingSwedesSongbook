@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Estrella VIII</title>
+    </titles>
+    <authors>
+      <author>Rathflaed~DuNoir</author>
+    </authors>
+    <tune>Pat of Mullingar</tune>
+    <verseOrder>v1 c1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+You may talk and sing and boast about your Pennsic Wars and Floods,
+And how the fields of Atenveldt at wars are filled with blood,
+But I'll sing to you a story of a destiny filled date,
+How we took the field against the winds at last Estrella VIII.
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+The winds and gales they blew and kept on coming,
+The tents they flew and people started running,
+And when we got back to our camp, we found it was too late,
+For the winds had taken everything at last Estrella VIII.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+We came with tents and armored knights, we came with all we could;
+We came with spirit and with sword, we came with flesh and blood,
+We came with everything we might, the kitchen sink we brought,
+But the winds were just a little bit stronger than we thought.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Now the last thing that I noticed, that gave to me great hope,
+And inspired all the people round, who'd reached the end of rope,
+Was a view of such tremendous strength, so glorious and bright,
+Aye the stronghold was a flyin' on a ninety-nine foot kite!
+</lines>
+    </verse>
+  </lyrics>
+</song>

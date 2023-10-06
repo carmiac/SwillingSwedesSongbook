@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Sally, My Dear</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Oh Sally my dear, I would I could woo you,
+Oh Sally my dear, I would I could woo you,
+She laughed and replied, &quot;would then wooing undo you?&quot;
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Sing fol the diddle di-do
+Sing whack fol the diddle day.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Oh Sally my dear, your cheek I would kiss it,
+Oh Sally my dear, your cheek I would kiss it,
+She laughed and replied, &quot;If you did, would you miss it?&quot;
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+If the young girls were fish, that swim in the water,
+If the young girls were fish, that swim in the water,
+Then all the young men would go and swim after.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+If all the young girls were linnets and thrushes,
+If all the young girls were linnets and thrushes,
+Then all the young men would go beating the bushes.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Oh Sally my dear, 'tis the season for mating,
+Oh Sally my dear, 'tis the season for mating,
+She laughed and replied, &quot;Why then are you waiting?&quot;
+</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Crusader's Song</title>
+    </titles>
+    <authors>
+      <author>Conn~MacNeill</author>
+    </authors>
+    <verseOrder>c1 v1 v2 v3 v4 v5 v6 v7 c2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>
+I'm for the Holy Land sailing
+To win back Jerusalem's walls
+I'm for the Holy Land sailing.
+And I'll win a fortune or a martyr I'll fall.
+</lines>
+    </verse>
+    <verse name="v1">
+      <lines>
+As my ship sails out I watch the far coastline.
+For leaving of kinsmen my heart is full pain.
+And I've traded all for this cross on my shoulder
+No land for a third son, so I'm away.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+As I look around me at the men on the benches
+Their eyes are like mine, so I know their heart's pain.
+I sing them a song of bravery in battle
+And now their eyes shine like their keen polished blades.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+I followed King Richard to Sicily island.
+Johanna's dowry 'gainst Tancred prevailed.
+Now a fortune in silver and a new wife hath Richard
+And I've a swift horse and a fine coat of mail.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+At landfall in Cypress they refused Berengaria.
+Richard in anger has answered in steel.
+Now the crown of Cypress he's added to England's
+And I've added Knighthood's gold spurs to my heels.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+I followed the banner to battle at Acre.
+And held it aloft when its bearer was slain.
+Now we've given Richard a tower of the city.
+He's given me rank and a full Captain's pay.
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+At Arsouf on the coastline we met with the Paynim.
+We won the battle though many men fell.
+One was a Baron with lands that need tending
+Now they are mine and I'll tend them well.
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+Now I sit in court over Christian and Moslem
+And I've a strong keep and soldiers ten score.
+King Richard's army has sailed back to England
+I bid them farewell, for I'll see them nay more.
+<comment>Spoken: You see...</comment>
+</lines>
+    </verse>
+    <verse name="c2">
+      <lines>
+I'm in the Holy Land staying.
+To guard my own castle walls.
+I'm in the Holy Land staying.
+Now I've won my fortune, so farewell to all!
+</lines>
+    </verse>
+  </lyrics>
+</song>

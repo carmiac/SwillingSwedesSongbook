@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Anna at the Turning</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Gray in the moonlight, and green in the sun,
+Dark in the evening, bright in the dawn,
+Ever the meadow goes endlessly on,
+And Anna at each turning.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Sweet in the springtide, sour in fall,
+Winter casts snow, a white velvet caul.
+Passage in summer is swiftest of all
+And Anna at each turning.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Look to the meadows and look to the hills,
+Look to the rocks where the swift river spills,
+Look to the farmland the farmer still tills
+For Anna is returning.
+</lines>
+    </verse>
+  </lyrics>
+</song>

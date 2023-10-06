@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>A Pict Song</title>
+    </titles>
+    <authors>
+      <author>Rudyard~Kipling</author>
+    </authors>
+    <verseOrder>v1 c1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Rome never heeds where she treads.
+Always the heavy hooves fall
+On our stomachs, our hearts and our heads.
+And Rome never heeds when we bawl.
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+We are the little folk, we.
+Too little to love or to hate.
+But leave us alone and you'll see
+Just how we can drag down the State.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+The sentries pass on, that is all.
+And we gather behind them in hordes,
+And plot to reconquer the Wall
+With only our tongues for our swords.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+We are the worm in the wood,
+We are the rot at the root,
+We are the taint in the blood,
+We are the thorn in the foot!
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Mistletoe choking an oak,
+Rats gnawing cables in two,
+Moths making holes in a cloak,
+How they must love what they do.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Yes, and we little folk too!
+We are as busy as they,
+Working our works out of view.
+But watch, and you'll see them someday.
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+No, indeed we are not strong.
+But we know people who are!
+And we, we will guide them along
+To crush and destroy you in war.
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+Yes, we have always been slaves,
+And, yes, we will still be their slaves.
+But you, you will die of the shame.
+And then we will dance on your graves.
+</lines>
+    </verse>
+  </lyrics>
+</song>

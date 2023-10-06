@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Odin Loves the Little Vikings</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Odin loves the little Vikings
+All the Vikings of the world
+Whether drunk on ale or mead
+In a boat or on a steed
+Odin loves the little Vikings of the world.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Odin loves the little Vikings
+All the Vikings of the world
+If you're drunk and thrown in jail
+Odin - and your axe! - are bail
+Odin loves the little Vikings of the world.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Odin loves the little Vikings
+All the Vikings of the world
+Offer up an ox or two
+And he'll be in debt to you.
+Odin loves the little Vikings of the world.
+</lines>
+    </verse>
+  </lyrics>
+</song>

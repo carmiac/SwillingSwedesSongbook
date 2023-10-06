@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Molly Malone</title>
+    </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <verseOrder>v1 c1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+In Dublin's fair city where girls are so pretty
+'Twas there that I first met sweet Molly Malone
+As she wheeled her wheelbarrow
+Through street broad and narrow
+Crying, &quot;Cockles and mussels, alive, alive oh&quot;
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Alive, alive oh, alive, alive oh,
+Crying, &quot;Cockles and mussels, alive, alive oh&quot;
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Now she was a fishmonger and sure 'twas no wonder
+For so were her mother and father before
+And they each wheeled their barrows
+Through streets broad and narrow
+Crying, &quot;Cockles and mussels, alive, alive oh&quot;
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+She died of a fever and no one could save her
+And that was the end of sweet Molly Malone
+Now her ghost wheels her barrow
+Through streets broad and narrow
+Crying, &quot;Cockles and mussels, alive, alive oh&quot;
+</lines>
+    </verse>
+  </lyrics>
+</song>

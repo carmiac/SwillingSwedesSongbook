@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Odin</title>
+    </titles>
+    <tune>Mercedes Benz - Janis Joplin</tune>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <comment>Now here's a song of great religious and historical import'.</comment>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+O-din won't you bring me a long bastard sword
+I've killed 60 Normans, I deserve a reward
+My tribe all use pole arms but I'm getting bored
+O-din won't you give me a long bastard sword
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+O-din won't you give me a red 12 course lute
+When I sing a capella they give me the boot
+I really like salad and I'd sing for my curt-ons
+O-din won't you give me a red 12 course lute
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+O-din won't you give me a flagon of mead
+I'm dry and I'm parched and I'm really in need
+Can't face the day sober and I'm all out of weed
+O-din won't you give me a flagon of mead
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+O-din won't you give me a warm cuddly Knight
+A cold lonely bed always gives me a fright
+A Duke on my left and an Earl on my right
+O-din won't you give me a warm cuddly Knight
+</lines>
+    </verse>
+  </lyrics>
+</song>

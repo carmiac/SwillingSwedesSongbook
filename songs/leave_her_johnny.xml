@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Leave Her Johnny</title>
+    </titles>
+    <authors>
+      <author>A. Author</author>
+      <author>B. Authour</author>
+    </authors>
+    <verseOrder>v1 c1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14 v15</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+O the times are hard and the wages low,
+Leave her, Johnny, leave her!
+I think it's time for us to go!
+An' it's time for us to leave her!
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Leave her, Johnny, leave her!
+Oh, leave her, Johnny, leave her!
+For the voyage is done an' the winds don't blow,
+An' it's time for us to leave her!
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+O I thought I heard the old man say,
+Tomorrow ye will get your pay!
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+It's Liverpool Pat with his tarpaulin hat,
+It's Yankee John the packet rat.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+It's rotten beef an' weev'ly bread,
+It's pump or drown the old man said.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+The wind was foul an' the sea ran high,
+She shipped it green an' none went by.
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+We'd be better off in a nice clean gaol,
+With all night in an' plenty o' ale!
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+The mate was a bucko an' the old man a Turk,
+The bosun was a beggar with the middle name o' work!
+</lines>
+    </verse>
+    <verse name="v8">
+      <lines>
+It's growl yer may an' go yer must,
+It matters not whether yer last or first!
+</lines>
+    </verse>
+    <verse name="v9">
+      <lines>
+The cook's a drunk, he likes to booze,
+'tween him an' the mate there's little to choose!
+</lines>
+    </verse>
+    <verse name="v10">
+      <lines>
+I hate to sail on this rotten tub,
+No grog allowed and rotten grub!
+</lines>
+    </verse>
+    <verse name="v11">
+      <lines>
+The ship won't steer, or stay, or wear,
+An' so us shellbacks learnt to swear.
+</lines>
+    </verse>
+    <verse name="v12">
+      <lines>
+No Liverpool bread, nor rotten crackerhash,
+No dandyfunk, nor cold an' sloppy hash.
+</lines>
+    </verse>
+    <verse name="v13">
+      <lines>
+The old man shouts, the pumps stand by,
+Oh, we can never suck her dry.
+</lines>
+    </verse>
+    <verse name="v14">
+      <lines>
+Now I thought I hear the old man say,
+Just one more pull an' then belay.
+</lines>
+    </verse>
+    <verse name="v15">
+      <lines>
+We swear by rote for want o' more,
+But now we're through so we'll go on shore.
+</lines>
+    </verse>
+  </lyrics>
+</song>

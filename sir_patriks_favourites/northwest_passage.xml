@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Northwest Passage</title>
+    </titles>
+    <authors>
+      <author>Stan Rogers</author>
+    </authors>
+    <verseOrder>c1 v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>
+Ah, for just one time
+I would take the Northwest Passage
+To find the hand of Franklin
+Reaching for the Beaufort Sea
+Tracing one warm line
+Through a land so wild and savage
+And make a Northwest Passage to the sea
+</lines>
+    </verse>
+    <verse name="v1">
+      <lines>
+Westward from the Davis Strait
+'Tis there 'twas said to lie
+The sea route to the Orient
+For which so many died
+Seeking gold and glory,
+Leaving weathered, broken bones
+And a long-forgotten lonely cairn of stones
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Three centuries thereafter
+I take passage overland
+In the footsteps of brave Kelso
+Where his &quot;sea of flowers&quot; began
+Watching cities rise before me
+Then behind me sink again
+This tardiest explorer
+Driving hard across the plain
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+And through the night, behind the wheel
+The mileage clicking west
+I think upon Mackenzie,
+David Thompson and the rest
+Who cracked the mountain ramparts
+And did show a path for me
+To race the roaring Fraser to the sea
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+How then am I so different
+From the first men through this way?
+Like them, I left a settled life
+I threw it all away
+To seek a Northwest Passage
+At the call of many men
+To find there but the road back home again
+</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>White Sand and Grey Sand</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <comment>As a round</comment>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+White sand and grey sand,
+Who will buy my white sand?
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+White sand and grey sand,
+Who will buy my grey sand?
+</lines>
+    </verse>
+  </lyrics>
+</song>

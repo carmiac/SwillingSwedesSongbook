@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Great Silkie</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+An earthly nurse sits and sings,
+And aye, she sings by lily wean,
+Sayin &quot;little ken I my bairn's father,
+Far less the land where he dwells in.&quot;
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+For he came on night to her bed feet,
+And a grumbly guest, I'm sure was he,
+Saying &quot;Here am I, thy bairn's father,
+Although I be not comely.&quot;
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+&quot;I am a man upon the land,
+I am a silkie on the sea,
+And when I'm far and far frae land,
+My home it is in Sule Skerrie.&quot;
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+And he had ta'en a purse of gold
+And he had placed it upon her knee,
+Saying, &quot;Give to me my little young son,
+And take thee up thy nurse's fee.&quot;
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+&quot;And it shall come to pass on a summer's day,
+When the sun shines bright on every stane,
+I'll come and fetch my little young son,
+And teach him how to swim the faem.&quot;
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+&quot;And ye shall marry a gunner good,
+And a right fine gunner I'm sure he'll be,
+And the very first shot that e'er he shoots
+Will kill both my young son and me.&quot;
+</lines>
+    </verse>
+  </lyrics>
+</song>

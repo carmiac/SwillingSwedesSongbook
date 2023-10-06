@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Long Distance Squire</title>
+    </titles>
+    <authors>
+      <author>Galen~of~Bristol</author>
+      <author>Genvieve~McCullum~du~Caen</author>
+    </authors>
+    <tune>Cats in the Cradle</tune>
+    <verseOrder>v1 c1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Squired a lad just the other day
+Gave him his belt in the usual way
+But there were wars to fight, and men to slay
+He made his sword while I was away
+And he was fighting 'fore I knew it, and as he grew
+He'd say &quot;I'm going to be like you, Sir
+You know I'm going to be like you&quot;
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+And the cats in the cradle, and the silver spoon
+Little Squire boy, and the Man in the Moon
+When you coming home, Sir? I don't know when
+But we'll get together then, Squire
+You know we'll have a good fight then
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+He became a lord just the other day
+He said &quot;Thanks for the shield, Sir, come on, let's play
+Can you teach me to kill?&quot; I said &quot;Not today
+I got a lot to do.&quot; He said &quot;That's okay&quot;
+And he walked away, but his smile never dimmed
+He said &quot;I'm going to be like him, yeah
+You know I'm going to be like him&quot;
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+He came from Pennsic just the other day
+So much like a Knight I just had to say
+&quot;Squire I'm proud of you, can you fight for a while?&quot;
+He shook his head and he said with a smile
+&quot;What I'd really like, Sir, is to borrow your tent please
+See you later, will you leave us in peace?&quot;
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+He's long been a knight, he's traveled far away
+I saw him here just the other day
+&quot;I'd like to learn that snap blow, if you don't mind?&quot;
+He said &quot;I'd teach you, Sir, if I could find the time
+But see the new Crown's a hassle, and the squires are new
+But it's been nice sparring with you&quot;
+And as the King walked away, it occurred to me
+He'd grown up just like me. My Squire was just like me
+</lines>
+    </verse>
+  </lyrics>
+</song>

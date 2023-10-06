@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Jingle Bang</title>
+    </titles>
+    <authors>
+      <author>Modern Traditional</author>
+    </authors>
+    <keywords>
+      <keyword>Lusty Young Smith</keyword>
+    </keywords>
+    <verseOrder>v1 c1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+A lusty young smith at his vice stood a'filing
+His hammer lay by but his forge still aglow
+When to him a buxom young damsel came smiling
+And asked him to work at her forge he would go
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+With a jingle bang jingle bang jingle bang jingle
+With a jingle bang jingle bang jingle hi-ho
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+I will said the smith, and they went off together
+Along to the young damsels forge they did go
+They stripped to go to it, 'twas hot work and hot weather
+She kindled a fire, and she soon made him glow
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Her husband, she said, no good work could afford her
+His strength and his tool were worn out long ago
+The smith said, well mine are in very good order
+And now I am ready my skill for to show
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Red hot grew his iron as both did desire
+But he was too wise not to strike while 'twas so
+Said she, What I get I get out of the fire,
+So with it strike home and redouble the blow
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Six times did his iron through vigorous heating
+Grow soft in the forge in a minute or so
+And often would harden still beating and beating
+But the more it did soften did harden more slow
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+At last went the smith, 'towards the dame full of sorrow
+Oh what I would give could my husband do so
+Good lad with your hammer come hither tomorrow
+But pray could you use it once more 'ere you go?
+</lines>
+    </verse>
+  </lyrics>
+</song>

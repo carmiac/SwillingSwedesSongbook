@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Dragon's Retort </title>
+    </titles>
+    <authors>
+      <author>Claire~Stephens</author>
+    </authors>
+    <tune>Irish Washerwoman</tune>
+    <keywords>
+      <keyword>Do Virgins Taste Better Two</keyword>
+    </keywords>
+    <verseOrder>v1 v2 c1 v3 v4 c1 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Now, I am a dragon, please listen to me
+For I'm misunderstood to a dreadful degree;
+This ecology needs me and I know me place,
+But I'm fighting extinction with all of my race.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Oh, I came to this village to better my health
+Which is shockingly poor despite all my wealth,
+But I get no assistance and no sympathy,
+Just impertinent questioning shouted at me.
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Yes, virgins taste better than those who are not,
+But my favorite snack food with peril is fraught:
+For my teeth will decay and my trim go to pot;
+Yes, virgins taste better than those who are not.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Well, I'm really quite kind almost all through the year
+Vegetarian ways are now mine out of fear,
+But a birthday needs sweets as I'm sure you'll agree
+And barbecued wench tastes like candy to me.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+As it happens our interests are almost the same.
+You see I'm really quite skilful at managing game.
+If I ate just your men, would your excess decline?
+Of course not, the rest would just make better time.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Now, the number of babies a woman can bear
+Has limits and that's why my pruning's done there.
+Yet an orphan's a sad sight and so when I munch
+I'm careful to eat only virgins for lunch
+</lines>
+    </verse>
+  </lyrics>
+</song>

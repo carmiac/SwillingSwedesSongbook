@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Green Hills of Tyrol</title>
+    </titles>
+    <keywords>
+      <keyword>Scottish Soldier</keyword>
+    </keywords>
+    <verseOrder>v1 c1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+There was a soldier, a Scottish soldier
+Who wandered far away and soldiered far away
+There was none bolder, with good broad shoulder
+He's fought in many a fray, and fought and won.
+He'd seen the glory and told the story
+Of battles glorious and deeds nefarious
+But now he's sighing, his heart is crying
+To leave these green hills of Tyrol.
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Because these green hills are not highland hills
+Or the island hills, they're not my land's hills
+And fair as these green foreign hills may be
+They are not the hills of home.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+And now this soldier, this Scottish soldier
+Who wandered far away and soldiered far away
+Sees leaves are falling and death is calling
+And he will fade away, in that far land.
+He called his piper, his trusty piper
+And bade him sound a lay. a pibroch sad to play
+Upon a hillside, a Scottish hillside
+Not on these green hills of Tyrol.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+And so this soldier, this Scottish soldier
+Will wander far no more and soldier far no more
+And on a hillside, a Scottish hillside
+You'll see a piper play his soldier home.
+He'd seen the glory, he'd told his story
+Of battles glorious and deeds victorious
+The bugles cease now, he is at peace now
+Far from those green hills of Tyrol.
+</lines>
+    </verse>
+  </lyrics>
+</song>

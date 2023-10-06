@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Flower O'Scotland</title>
+    </titles>
+    <authors>
+      <author>Roy~MB~Williamson</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+O Flower of Scotland
+When will we see
+Your like again,
+That fought and died for
+Your wee bit hill and glen
+And stood against him
+Proud Edward's Army,
+And sent him homeward
+Tae think again.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+The hills are bare now
+And autumn leaves lie thick and still
+O'er land that is lost now
+Which those so dearly held
+That stood against him
+Proud Edward's Army
+And sent him homeward
+Tae think again.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Those days are past now
+And in the past they must remain
+But we can still rise now
+And be the nation again
+That stood against him
+Proud Edward's Army
+And sent him homeward,
+Tae think again.
+</lines>
+    </verse>
+  </lyrics>
+</song>

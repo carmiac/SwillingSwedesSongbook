@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Shan Van Vocht</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+&quot;Oh' the French are on the say,&quot;
+says the Shan Van Vocht,
+&quot;Oh' the French are on the say,&quot;
+Says the Shan Van Vocht.
+&quot;Oh! The French are in the bay
+They'll be here at break of day,
+and the orange will decay.&quot;
+Says the Shan Van Vocht,
+&quot;And the orange will decay,&quot;
+Says the Shan Van Vocht.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+&quot;And where will they have their camp?&quot;
+Says the Shan Van Vocht;
+&quot;And where will they have their camp?&quot;
+Says the Shan Van Vocht;
+&quot;On the Curragh of Kildare,
+And the boys will all be there,
+With their pikes in good repair,&quot;
+Says the Shan Van Vocht;
+&quot;With their pikes in good repair,&quot;
+Says the Shan Van Vocht;
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+&quot;And what colour will be seen?&quot;
+Says the Shan Van Vocht;
+&quot;And what colour will be seen?&quot;
+Says the Shan Van Vocht.
+&quot;What colour will should be seen
+Where our fathers' homes have been
+But our own immortal green,&quot;
+Says the Shan Van Vocht.
+&quot;But our own immortal green,&quot;
+Says the Shan Van Vocht.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+&quot;Will old Ireland then be free?&quot;
+Says the Shan Van Vocht;
+&quot;Will old Ireland then be free?&quot;
+Says the Shan Van Vocht.
+&quot;Old Ireland shall be free,
+From the centre to the sea
+Then hurrah for liberty!&quot;
+Says the Shan Van Vocht;
+&quot;Then hurrah for liberty!&quot;
+Says the Shan Van Vocht.
+</lines>
+    </verse>
+  </lyrics>
+</song>

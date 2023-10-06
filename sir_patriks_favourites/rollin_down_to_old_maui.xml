@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Rollin' Down to Old Maui</title>
+    </titles>
+    <authors>
+      <author>Stan Rogers</author>
+    </authors>
+    <verseOrder>v1 c1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+It's a damn tough life full of toil and strife
+We whalermen undergo
+And we don't give a damn when the gale is done
+ How hard the winds do blow
+We're homeward bound from the Arctic Sound
+ With a good ship taut and free
+And we don't give a damn when we drink our rum
+ With the girls of Old Maui
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Rolling down to Old Maui, me boys
+Rolling down to Old Maui
+We're homeward bound from the Arctic Ground
+Rolling down to Old Maui
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Once more we sail with the Northerly gale
+Towards our Island home
+Our mainmast sprung, our whaling done
+And we ain't got far to roam
+Our stans'l booms is carried away
+What care we for that sound
+A living gale after us
+Thank God we're homeward bound
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+How soft the breeze through the island trees
+Now the ice is far astern
+Them native maids, them tropical glades
+Is awaiting our return
+Even now their big, brown eyes look out
+Hoping some fine to see
+Our baggy sails running 'fore the gales
+Rolling down to Old Maui
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+We'll heave the lead where old Diamond Head
+Looms up on old Wahu
+Our masts and yards are sheathed with ice
+And our desks are hid from view
+The horrid ice of the sea-caked isles
+That deck the Arctic sea
+Are miles behind in the frozen wind
+Since we steered for Old Maui
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+And now we're anchoured in the bay
+With the Kanakas all around
+With chants and soft aloha-oos
+They greet us homeward bound
+And now ashore we'll have good fun
+We'll paint them beaches red
+Awakening in the arms of an island maid
+With a big fat aching head
+</lines>
+    </verse>
+  </lyrics>
+</song>

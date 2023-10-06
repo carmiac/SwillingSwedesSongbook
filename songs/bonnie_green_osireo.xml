@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Bonnie Green Osireo</title>
+    </titles>
+    <keywords>
+      <keyword>The Cruel Mother</keyword>
+    </keywords>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+She's leaned her back against an oak,
+All alone in the lailey O',
+She's pushed, and she's pushed till her backs near broke.
+Down in the bonny green Osireo.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+She's leaned her head against a thorn,
+All alone in the lailey O',
+The two bonniest babes that ever were born.
+Down in the bonny green Osireo.
+<comment>Similarly</comment>
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+She's gone back to her fathers castle hall,
+She was the smallest maid of them all.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+She looks over her father's castle wall,
+She sees two babes a' playin' at the ball.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+O, bonny babes if you were mine,
+I'd give you bread, and I'd give you wine.
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+Mother Dear Mother, when we were thine,
+Around our necks you pulled the twine.
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+Now we are in the heaven so High,
+And in hells fires you shall die.
+</lines>
+    </verse>
+  </lyrics>
+</song>

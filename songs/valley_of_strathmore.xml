@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Valley of Strathmore</title>
+    </titles>
+    <authors>
+      <author>Andy~Stewart</author>
+    </authors>
+    <verseOrder>v1 c1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+By the clear and winding streams
+Of the valley of Strathmore
+Where my love and I have been
+Where we wander nevermore
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+But if time were a thing man could buy
+All the money that I have in store
+I would give for one day by her side
+In the Valley of Strathmore
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+From the glen of the golden an' green
+I have left for a land far away
+Where sadness has ne'er been seen
+And joy only costs a day's pay
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+In Strathmore theres a long workin' day
+For the man who lays hands on the hill
+But it's work I'd be happy to do
+If at night I was lyin' with you
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+As I take a long draught from my glass
+I am drinkin' the Long Hill again
+But I try no to think on my loss
+For the old days will ne'er come again
+</lines>
+    </verse>
+  </lyrics>
+</song>

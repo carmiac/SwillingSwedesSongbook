@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Boozin' in the Glen</title>
+    </titles>
+    <tune>Blowin' in the Wind</tune>
+    <verseOrder>v1 c1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+How many foes must a warrior mow down before he proves he's a man?
+How many newbies must a white belt fall before he's knocked to the sand?
+How many strikes must a rhino shrug off before they admit that one lands?
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+To tell you the truth my friend
+I really do not care, cuz
+I'm busy boozin' in the glen.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+How many times must a site be dry but still require a fee?
+How many times must a bard protest that wasn't me in the &quot;yonder lee&quot;?
+How many gallons must Beerslayer hose before he flows to the sea?
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+How many times must a man look up before he gets bombed in the eye?
+How many years does one moron need before he understands bugger off and die?
+How many folks will get puking drunk tonight while veterans just shake their heads and sigh?
+</lines>
+    </verse>
+  </lyrics>
+</song>

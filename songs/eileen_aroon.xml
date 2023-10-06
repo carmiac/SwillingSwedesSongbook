@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Eileen Aroon </title>
+    </titles>
+    <authors>
+      <author>Irish Traditional</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+When, like the dawning day, Eileen Aroon
+Love sends his early ray, Eileen Aroon
+What makes his dawning glow
+Only the constant know, Eileen Aroon.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+When, like the early rose, Eileen Aroon
+Beauty in childhood blows, Eileen Aroon
+When like a diadem buds blush around the stem
+Which is the fairest gem Eileen Aroon.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+I know a valley fair, Eileen Aroon
+I know a cottage there, Eileen Aroon
+Far in the valley shade I know a tender maid
+Flow'r of the hazel glade, Eileen Aroon.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Who in the song so sweet, Eileen Aroon
+Who in the dance so fleet, Eileen Aroon
+Dear are her charms to me, dearer her laughter free
+Dearest her constancy, Eileen Aroon.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Is it the laughing eye, Eileen Aroon
+Is it the timid sigh, Eileen Aroon
+Is it the tender tone, soft as the stringed harps note
+Oh, it is truth alone, Eileen Aroon.
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+When like the rising day, Eileen Aroon
+Love sends her early ray, Eileen Aroon
+What makes her dawning gleam, changeless through joy or woe
+Only the constant know, Eileen Aroon.
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+Were she no longer true, Eileen Aroon
+What would her lover do, Eileen Aroon
+Fly with a broken chain, far o'er the sounding main
+Never to love again, Eileen Aroon.
+</lines>
+    </verse>
+    <verse name="v8">
+      <lines>
+Youth will in time decay, Eileen Aroon
+Beauty must fade away, Eileen Aroon
+Castles are sacked in war, chieftains are scattered far
+Truth is a fixed star, Eileen Aroon.
+</lines>
+    </verse>
+  </lyrics>
+</song>

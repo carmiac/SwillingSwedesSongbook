@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Thank you, Ma'am says Dan</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+&quot;What brought you into my room, to my room, to my room,
+What brought you into my room?&quot; said the mistress unto Dan.
+&quot;I came to court your daughter, Ma'am I thought it no great harm, Ma'am!&quot;
+&quot;Oh Dan me dear, you're welcome here!&quot;
+&quot;Thank you ma'am,&quot; says Dan.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+&quot;How came you to know my daughter, my daughter, my daughter,
+How came you to know my daughter?&quot; says the mistress unto Dan.
+&quot;Going to the well for water, Ma'am, to raise the can I taught her, Ma'am!&quot;
+&quot;Oh Dan, 'tis you're the handy man!&quot;
+&quot;Thank you, Ma'am,&quot; says Dan.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+&quot;Oh, you can have my daughter, my daughter, my daughter,
+Yes you can have my daughter,&quot; says the mistress unto Dan,
+&quot;But when you take my daughter, Dan, of course you'll take me also, Dan!
+Oh, Dan me dear, you're welcome here!&quot;
+&quot;Thank you, Ma'am,&quot; says Dan.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+This couple they got married, got married, got married,
+This couple they got married, Miss Elizabeth and Dan;
+And now he keeps her mother and her father, and her brother and Dan.
+&quot;Oh, Dan, 'tis you're the lucky man!&quot;
+&quot;Thank you, Ma'am,&quot; says Dan.
+</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Hey Jutes</title>
+    </titles>
+    <tune>Hey Jude - The Beatles</tune>
+    <verseOrder>c1 c2 v1 c3 v2 c4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>
+Hey Jutes, don't make it bad
+Take a Saxon and make him deader
+Remember to knock off all of his kin
+Then you begin to get better
+</lines>
+    </verse>
+    <verse name="c2">
+      <lines>
+Hey Jutes, don't be afraid
+There is Briton go out and get her
+The minute the Angles let you in
+Then you begin to set the fetters
+</lines>
+    </verse>
+    <verse name="v1">
+      <lines>
+And any time you felt the strain, Hey Jutes, refrain
+Don't carry the wounded on your shoulders
+And well you know that it's a rule, Hey Jutes, be cool
+Just wait 'til the weather's a little colder
+Na Na Na Na Na Na Na Na Na
+</lines>
+    </verse>
+    <verse name="c3">
+      <lines>
+Hey Jutes, don't let me down
+You have found her, now go and wed her
+Remember to put her into your cart
+Then you can start to bed her.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Even though that you're just Danes, Hey Jutes, remain
+The country is yours until the Normans come
+And don't you know that it's just you, Hey Jutes, you'll do
+They're waiting for someone to control them
+Na Na Na Na Na Na Na Na Na
+</lines>
+    </verse>
+    <verse name="c4">
+      <lines>
+Hey Jutes, don't make it bad
+Take a Saxon and make him deader
+Remember to flay off all of his skin
+Then you begin to get better
+Better, better, better, better owwww!
+Na Na Na Na Na Na Na Na Na
+</lines>
+    </verse>
+  </lyrics>
+</song>

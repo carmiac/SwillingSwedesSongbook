@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Edric's Song</title>
+    </titles>
+    <authors>
+      <author>Edmound~Bernhard </author>
+    </authors>
+    <tune>The Bucket Song</tune>
+    <verseOrder>v1 c1 v2 v3 v4 v5 c2 v6 c3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Will you drink with us Edric,
+Squire Edric, Squire Edric
+Will you drink with us Edric,
+Squire Edric my dear?
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+I cannot said Edric, said Edric, said Edric
+I cannot said Edric,
+I've had too much Beer
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+We drink to the Outlands,
+Squire Edric, Squire Edric,
+We drink to the Outlands,
+Will you drink with us now?
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+We drink to the King, etc...
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+We drink to the Queen, etc...
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+(Well Then!)
+We Drink To The Queens Brown Eyes,
+Squire Edric, Squire Edric,
+We Drink To The Queens Brown Eyes,
+WILL YOU DRINK WITH US NOW?
+</lines>
+    </verse>
+    <verse name="c2">
+      <lines>
+(Well, if I gotta....)
+I'll drink to the Queens Brown Eyes, said Edric, said Edric
+I'll drink to the Queens Brown Eyes, said Edric the dear
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+Don't drink so fast Edric, Squire Edric, Squire Edric,
+Don't drink so fast Edric,
+you've had too much beer
+</lines>
+    </verse>
+    <verse name="c3">
+      <lines>
+BLEEARRRGGGH, said Edric, said Edric, said Edric,
+BLEEARRRGGGH, said Edric, Squire Edric, Our Dear
+</lines>
+    </verse>
+  </lyrics>
+</song>

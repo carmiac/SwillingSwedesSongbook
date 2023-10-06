@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Four Letter Words</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>
+Four letter words, four letter words
+That never say quite what they mean
+I'd rather be known for my hypocrite ways
+Than as vulgar, impure, and obscene
+</lines>
+    </verse>
+    <verse name="v1">
+      <lines>
+When dinner is hearty with onions and beans
+With garlic, and carrots, and bacon, and greens
+Your bowels get busy distilling a gas
+That nature insists be permitted to pass
+You're very polite, you try to exhale
+Without noise or perfume, but you frequently fail
+Expecting no noise, you give it a start
+When it booms all the boys will agree its a
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+You may speak of a movement, or sit on the seat
+Have a passage or stool, or just simply excrete
+Or say to the others I'm going out back
+And then groan in pure joy in a little wood shack
+You may go lay a cable, or do number two
+Or sit on the toidy, or make a do-do
+But ladies and men who are socially fit
+Under no provocation will go take a
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+While strolling around in your best pair of boots
+When often you'll tread on these dung colored lumps
+Some call them droppings, some say manure
+These certain rank objects are found in the sewer
+Cows leave meadow muffins, horseflies leave specks
+Seagulls oft let go on the backs of your necks
+But though euphemisms may seem quite absurd
+Whatever you do never call it a
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Its a cavern of joy you are thinking of now
+A warm tender field just awaiting the plow
+A quivering pigeon in the palm of your hand
+Or the national anthem that makes us all stand
+Or perhaps it's a valley, a grot or a well
+The hope of the world or a velvety hell
+But friends take my warning, beware the affront
+Never try Anglo-Saxon and call it a
+</lines>
+    </verse>
+  </lyrics>
+</song>

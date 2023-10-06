@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Blow the Man Down</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+  </properties>
+  <comment>Alternate chorus lines after each verse line</comment>
+  <lyrics>
+    <verse name="c1">
+      <lines>
+To me, way hey, blow the man down
+Give me some time to blow the man down
+</lines>
+    </verse>
+    <verse name="v1">
+      <lines>
+Come all ye young fellows that follows the sea
+Now please pay attention and listen to me
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+I'm a deep water sailor just come from Hong Kong
+You give me some whiskey, I'll sing you a song
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+When a trim Black Ball liner preparing for sea
+You'll split your sides laughing such sights you would see
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+There's tinkers and tailors, shoemakers and all
+They're all shipped for sailors aboard the Black Ball
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+When a big Black Ball liner's a-leaving her dock
+The boys and the girls on the pier-head do flock
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+Now, when the big liner, she's clear of land
+Our bosun he roars out the word of command
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+Come quickly, lay aft to the break of the poop
+Or I'll help you along with the toe of me boot
+</lines>
+    </verse>
+    <verse name="v8">
+      <lines>
+Pay attention to orders, now, you one and all
+For see high above there flies the Black Ball
+</lines>
+    </verse>
+    <verse name="v9">
+      <lines>
+'Tis larboard and starboard, on deck you will sprawl
+For kicking Jack Rogers commands the Black Ball
+</lines>
+    </verse>
+  </lyrics>
+</song>

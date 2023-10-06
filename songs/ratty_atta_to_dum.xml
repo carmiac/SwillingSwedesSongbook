@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Ratty Atta To Dum</title>
+    </titles>
+    <authors>
+      <author>Traditional </author>
+    </authors>
+    <verseOrder>v1 v2 c1 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <comment>Chorus every two verses</comment>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+As I rode out to Galway City
+At the hour of twelve at night
+Who should I see but a handsome damsel
+Combin' her hair by candlelight
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Lassie I have gold and silver
+Lassie I have houses and lands
+Lassie I have ships on the ocean
+They'll be all at your command
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Ratty atta to dum to dum to dum
+Ratty atta to dum to dum day
+Ratty atta to dum to dum to dum
+Ratty atta to dum to dum day
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+So to me you came a courtin
+My fine favor for to win
+But would gi' me the greatest pleasure
+If you never did call again
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+What would I do when I go a walkin'
+Walkin' out in the mornin dew
+What would I do when I go a walkin'
+Walkin out wi' a lad like you
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Lassie I have gold and silver
+Lassie I have houses and lands
+Lassie I have ships on the ocean
+They'll be all at your command
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+What do I care for your ships on the ocean
+What do I care for your houses and lands
+What do I care for your gold and silver
+All I want is a handsome man
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+Did you ever see the grass in the mornin'
+All bedecked wi' jewels a rare
+Ever see a handsome lassie
+Diamonds sparklin in her hair
+</lines>
+    </verse>
+    <verse name="v8">
+      <lines>
+Ever see a copper kettle
+Mended wi' an old tin can
+Ever see a handsome lassie
+Married off to an ugly man
+</lines>
+    </verse>
+  </lyrics>
+</song>

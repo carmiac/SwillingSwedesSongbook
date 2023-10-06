@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Dream Warrior</title>
+    </titles>
+    <authors>
+      <author>Rathflaed~DuNoir</author>
+    </authors>
+    <verseOrder>v1 v2 c1 v3 v4 c1 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+He gets up every morning and he goes to work each day,
+He sees his friends and family, he works and then he plays,
+But they never get to see the one he keeps so deep inside,
+The one he really wants to be he feels that he must hide.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+He works in an assembly line in a downtown factory,
+He does his job the best he can, but it's not where he wants to be,
+Outside the gate, his charger waits! but only he can see,
+So it's back to the grind for another day, oh when will he be free?
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+He's a dream warrior, he rides across the lands.
+He's a dream warrior, there's magic in his hands,
+And yet he fears the people near, he's afraid that they won't see
+So he hides away within himself, with his pride, and his chivalry
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Now the day is done and it's home from work, to see his kids and wife.
+To him she is a princess, she's led a sheltered life.
+In a tower of blue he pays his dues, his lady captured waits,
+Then he turns into his driveway past the mailbox and the gate.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+He tells his kids a bedtime tale, his daughter and his son,
+Of wizards and knights, and mighty kings, and battles fought and won,
+Then it's off to sleep, and he dreams so deep, as in his bed he lays,
+So he fights tonight! because he knows that tomorrow, is a busy day.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+His honor still comes first to him but it gets harder every day,
+To see the ones around him breaking promises they've made.
+So he keeps his own, and like a stone, in him they'll never know,
+The way he really lives his life, the way he'll never show.
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+Because he'll never quit the cause, he'll never give up his dreams,
+And he'll live his life all by himself, or so to him it seems,
+Because they might think he's crazy and they might think it's just a whim,
+So he wonders if he'll ever meet someone who's just like him.
+</lines>
+    </verse>
+  </lyrics>
+</song>

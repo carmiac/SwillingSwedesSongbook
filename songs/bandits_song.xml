@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Bandits Song</title>
+    </titles>
+    <authors>
+      <author>Modern Traditional</author>
+    </authors>
+    <tune>Red River Valley</tune>
+    <copyright>Public domain</copyright>
+    <keywords>
+      <keyword>Adventurers Song</keyword>
+    </keywords>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+From this valley they say you are leaving
+We will miss your bright swords and strong arms
+For they say you are taking as plunder
+All the food we have stored in our barns
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Oh leave us some things for the winter
+Take not all we implore with a sob
+Or when you return in the springtime
+You will not find a peasant to rob
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+You have gotten our dear daughters pregnant
+You have cut up our cows for your stew
+Oh we hired you for our protection
+But we needed protection from you
+</lines>
+    </verse>
+  </lyrics>
+</song>

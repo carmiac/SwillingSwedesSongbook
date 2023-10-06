@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Never Wed an Old Man</title>
+    </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <keywords>
+      <keyword>Maids when you're young</keyword>
+    </keywords>
+    <verseOrder>v1 c1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+An old man came courtin'me
+Hi ding durham di
+An old man came courtin'me, me bein'young
+An old man came courtin'me, askin'to marry me
+Maids when you're young, never wed an old man
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+He's got no fallorum, Fie diddle nie durham die
+He's got no fallorum, Fie diddle aye a'
+He's got no fallorum, he's lost his ding durham
+Maids when you're young never wed an old man
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+And when we went to tea
+Hi ding durham die
+And when we went to tea, me bein'young
+And when we went to tea, he started strokin'me
+Maids when you're young never wed an old man
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+And when we went to church
+Hi ding durham die
+And when we went to church, me bein'young
+And when we went to church, he left me in the lurch
+Maids when you're young never wed an old man
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+And when we went to bed
+Hi ding durham die
+And when we went to bed, me bein'young
+And when we went to bed, he lay there as if were dead
+Maids when you're young never we an old man
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+And when he went to sleep
+Hi ding durham die
+And when he went to sleep, me bein'young
+And when he went to sleep, out of bed I did creep
+Into the arms of a virile young lad
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+Guess what?
+I found my fallorum, hie diddle lie durham die
+I found my fallorum, Hie diddle aye a'
+I found my fallorum, I've got my ding durham
+Maids when you're young never wed an old man
+</lines>
+    </verse>
+  </lyrics>
+</song>

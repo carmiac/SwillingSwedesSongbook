@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Ballad of the Twelve Sisters</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+There were twelve sisters by a lake,
+Rosemary, bayberry, thistle and thorn,
+A handsome sailor one did take,
+And that day a child was born.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+A handsome sailor one did wed,
+Rosemary, bayberry, thistle and thorn,
+The other sisters wished her dead
+On the day the child was born.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+&quot;Oh, sister, give me your right hand,&quot;
+Rosemary, bayberry, thistle and thorn,
+Eleven to the one demand
+On the day the child was born.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+They laid her down upon the hill,
+Rosemary, bayberry, thistle and thorn,
+And took her babe against her will
+On the day the child was born.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+They left her on the cold hillside,
+Rosemary, bayberry, thistle and thorn,
+Convinced that her new babe had died
+On the day the child was born.
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+She wept red tears, and she wept gray,
+Rosemary, bayberry, thistle and thorn,
+Till she had wept her life away,
+On the day her child was born.
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+The sailor's heart it broke in two,
+Rosemary, bayberry, thistle and thorn,
+The sisters all their act did rue
+From the day the child was born.
+</lines>
+    </verse>
+    <verse name="v8">
+      <lines>
+And from their graves grew rose and briar,
+Rosemary, bayberry, thistle and thorn,
+Twined till they could grow no higher,
+From the day the child was born.
+</lines>
+    </verse>
+  </lyrics>
+</song>

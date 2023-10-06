@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Itsy Bitsy Teenie Weenie Little Rabbit Fur Bikini</title>
+    </titles>
+    <authors>
+      <author>W.J.~Bethancourt~III</author>
+    </authors>
+    <tune>Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini</tune>
+    <copyright>Public domain</copyright>
+    <keywords>
+      <keyword>Rabbit Fur Bikini</keyword>
+    </keywords>
+    <verseOrder>v1 c1 v2 c2 v3 c3 v4 c4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+She was afraid to come out to the Tourney
+She was worried that &quot;something might show..&quot;
+She was afraid to come out to the Tourney
+And the poor thing did NOT want to go...
+<comment>2 - 3 - 4, tell the people what she wore!</comment>
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+It was an itsy bitsy teeny weenie little rabbit fur bikini
+That she wore, for the first time, that day.
+An itsy bitsy teenie weenie little rabbit fur bikini
+And in her apartment she wanted to stay!
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+One day in the Kingdom of the Middle
+It happened at a Tourney one day:
+The Mongols invaded the Middle
+But the Middle did not want to play...
+<comment>eins - zwei - drei, but the Dark Horde wouldn't die!</comment>
+</lines>
+    </verse>
+    <verse name="c2">
+      <lines>
+It was an itsy bitsy tiny teenie Nauseating Mongol weenie
+That they saw, for the first time, that day.
+An itsy bitsy tiny teenie Nauseating Mongol weenie
+And the Mongols did NOT go away!
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Now the Heralds made up a new Rulebook
+And to read it is some kind of gas!
+It's a bureaucrat's dream, this new Rulebook
+Now NOBODY'S blazon can pass!
+<comment>Win - Place - Show, tell the Heralds where to go!</comment>
+</lines>
+    </verse>
+    <verse name="c3">
+      <lines>
+I want an itsy bitsy teenie weenie little rabbit fur bikini
+On my shield, as my blazon, today!
+An itsy bitsy teenie weenie little rabbit fur bikini
+But &quot;that's offensive&quot; the Heralds all say!
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+I sat down at the Revel last evening
+To a feast of green meat, and Rat Pie...
+It was cold, and disgusting, and greasy
+And I just want to upchuck and die!
+<comment>6 - 7 - 8, tell them what was on your plate!</comment>
+</lines>
+    </verse>
+    <verse name="c4">
+      <lines>
+It was an itsy bitsy teenie weenie little rabbit fur bikini
+With a side dish of cold cabbage pie!
+An itsy bitsy teenie weenie little rabbit fur bikini
+With the fur on, and NOTHING inside!
+</lines>
+    </verse>
+  </lyrics>
+</song>

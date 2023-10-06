@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>SCA Girl</title>
+    </titles>
+    <authors>
+      <author>Edmound~Bernhard</author>
+    </authors>
+    <tune>Eurotrash Girl - Cracker</tune>
+    <verseOrder>v1 c1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Well I went down to Citadel
+And I slept in a park
+Went on up to Caer Mithen
+For a tourney in the dark
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+And I'll search the world over
+For my Lady in Garb
+Yeah, I'll search the world over
+For an SCA Girl
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Cruised on out to Outlandish
+Nearly blew me away
+Yeah, the wind there was awful
+But I stayed anyway
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Got drunk at St. Golias
+They put me up for the night
+Now I always have liked them
+The way they drink, and they fight
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Called my Knight from a pay phone
+Said I'm down to my last
+He said &quot;I gave you your armor
+Now go call your dad&quot;
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+And the Duchess that he married
+Well she hung up the phone
+No she never did like me
+But I can stand on my own
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+Sold my armor at Pennsic
+Spent it all in one night
+Buyin' drinks in a tavern
+For a guy who don't fight
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+Cruised on out to Estrella
+Atens piped on the field
+Yeah they still lost the war though
+Never had time to yield
+</lines>
+    </verse>
+  </lyrics>
+</song>

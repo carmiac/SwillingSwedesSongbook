@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Fairy's Love Song</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Why should I sit and sigh, pulling bracken, pulling bracken?
+Why should I sit and sigh on the hillside dreary?
+When I see the plover rising
+Or the curlew wheeling,
+Then I trow my mortal lover
+Back to me is stealing.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Tha mi sgith ' s mi leam fhin buain a rainich, buain a rainich?
+Tha mi sgith ' s mi leam fhin buaain a rainich daonnan?
+Sul an tomain braigh an tomain
+Cul an tomain bhoidhich,
+Cul an tomain braigh an tomain
+Huile latha m' onar.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Ah! But there is something wanting.
+Oh! But I am weary.
+Come, my blithe and bonnie lad,
+Come over the knoll to cheer me.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Cul an tomain braigh an tomain
+Cul an tomain bhoidhich,
+Cul an tomain braigh an tomain
+Huile latha m' onar.
+</lines>
+    </verse>
+  </lyrics>
+</song>

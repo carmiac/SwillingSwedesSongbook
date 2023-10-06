@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Seven Days of Sewing Hell</title>
+    </titles>
+    <authors>
+      <author>Lady Anwyn</author>
+    </authors>
+    <tune>12 Days of Christmas</tune>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Seven days before 12th Night my true love bade of me,
+&quot;Make me a tabard that is red and yellow parti&quot;
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Six days before 12th Night my true love bade of me,
+&quot;Pray make a banner just like the tabard that is red and yellow parti&quot;
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Five days before 12th Night my daughter came to me,
+&quot;Make me a corset, don't forget the banner, just like the tabard that is
+Red and yellow parti&quot;
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Four days before 12th Night my son asked of me,
+&quot;Make me a tunic, finish my corset, hurry with the banner, that is just
+Like the tabard that is red and yellow parti&quot;
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Three days before 12th Night my best friend bade of me,
+&quot;I need 5 gates of hell! Before you do the tunic, after you finish the
+corset, while you make the banner that is just like the tabard that is
+red and yellow parti&quot;
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+Two days before 12th Night my neighbor asked of me,
+&quot;One dagged sleeved hupalon, 2 linen wimples, 5 gates of Hell!, when you
+do the tunic, after the corset, when you finish the banner that is just
+like the tabard, that is red and yellow parti&quot;
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+On the day of 12th Night my sister bade of me,
+&quot;A 4 layer velvet Tudor, after you start the dagged sleeved hupalon, I'll
+take over the wimples, almost done on the 5 gates of Hell, forget about
+the tunic, but finish up the corset, don't forget the banner that is just
+like the tabard that is red and yellow parti&quot;
+</lines>
+    </verse>
+    <verse name="v8">
+      <lines>
+<comment>SING SLOW AND DIRGE LIKE</comment>
+On the day after 12th Night- there was 1 velvet Tudor, 1 dagged
+sleeved hupalon, 2 linen wimples, 5 gates of Hell!, 1 full length tunic,
+a steel boned corset, 1 thread bare banner just like the tabard that all
+ended up in Gold Key!
+</lines>
+    </verse>
+  </lyrics>
+</song>

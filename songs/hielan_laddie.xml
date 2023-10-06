@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Hielan Laddie</title>
+    </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <verseOrder>v1 c1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+As I came o'er the Cairney Mount
+An' doon anang the bloomin' heather
+The Heilan' laddie drew his dirk
+And sheathed it in my wanton leather
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Oh my bonnie Heilan' laddie
+Ma handsome bonnie Heilan' laddie
+When I'm sick an like tae dee
+He'll row me in his tartan plaidee
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Wi me he played his warlike pranks
+An on me boldly did adventure
+He did attack me on baith flanks
+an pushed me firecely in the center
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+A furious ficht we did maintain
+Wi equal courage an desire
+Although he charged me three tae one
+I stood ma ground an took his fire
+</lines>
+    </verse>
+  </lyrics>
+</song>

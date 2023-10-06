@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Rosin the Beau</title>
+    </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <verseOrder>v1 c1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+I've traveled all over this world
+And now to another I go
+And I know that good quarters are waiting
+To welcome old Rosin the Beau
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+To welcome old Rosin the Beau
+To welcome old Rosin the Beau
+And I know that good quarters are waiting
+To welcome old Rosin the Beau
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+When I'm dead and laid out on the counter
+A voice you will hear from below
+Saying send down a hogshead of whiskey
+To drink with old Rosin the Beau
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Then get a half dozen stout fellas
+And stack them all up in a row
+Let them drink outta half-gallon bottles
+To the memory of Rosin the Beau
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Then get this half dozen stout fellas
+And let them all stagger and go
+And dig a great hole in the meadow
+And in it put Rosin the Beau
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Then get ye a couple of bottles
+Put one at me head and me toe
+With a diamond ring scratch upon it
+The name of old Rosin the Beau
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+I hear that old tyrant approaching
+That cruel remorseless old foe
+And I lift up me glass in his honor
+Take a drink with old the Rosin the Beau
+</lines>
+    </verse>
+  </lyrics>
+</song>

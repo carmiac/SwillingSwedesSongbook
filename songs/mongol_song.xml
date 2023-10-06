@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Mongol Song</title>
+    </titles>
+    <authors>
+      <author>Modern Traditional</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+When I was a young girl, and very protected
+I thought that a Mongol was to be decried
+But now I am older and I have different values
+And I've learned that a Mongol cannot be denied
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+And I say to myself, this is not what I planned
+All this burning and looting, and pillaging towns
+I might have been Queen, but things turned out different
+And if you've got knives you've no need for a Crown
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+One day as I went walking alone by the river
+I came on a Mongol who there changed my life
+He had me, I had him, and we had each other
+I bore him a son, and he took me to wife (in that order!)
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+And I say to myself, as I dress for the wars
+In my leathers and furs, with my braids hanging down
+My life may be strange, but its never been boring
+And if you've got knives, you've no need for a Crown
+</lines>
+    </verse>
+  </lyrics>
+</song>

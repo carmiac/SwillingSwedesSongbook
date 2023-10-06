@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Girl I Left Behind Me</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Come all ye handsome comely maids
+That live near Carlow dwelling
+Beware of young men's flatt'ring tongue
+When love to you they' re telling.
+Beware of the kind words they say,
+Be wise and do not mind them,
+For if they were talking till they die
+They' d leave you all behind them.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+In Carlow town I lived I own
+All free from dept and danger.
+Till Colonel Reilly listed me
+To join the Wicklow Rangers.
+They dressed me up in scarlet red
+And they used me very kindly
+But still I thought my heart would bread
+For the girl I left behind me.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+I was scarcely fourteen years of age
+When I was broken hearted,
+For I'm in love these two long years
+Since from my love I parted.
+These maidens wonder how I moan
+And bid me not to mind him
+That he might have more grief than joy
+For leaving me behind him.
+</lines>
+    </verse>
+  </lyrics>
+</song>

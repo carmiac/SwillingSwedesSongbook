@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Blackbird Of Sweet Avondale</title>
+    </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+By the sweet bay of Dublin, while carelessly strolling
+I sat myself down by a green myrtle shade
+Reclined on the beach, as the wild waves were rolling
+In sorrowful condoning, I saw a fair maid
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Her robes changed to mourning, that once were so glorious
+I stood in amazement to hear her sad wail
+Her heartstrings burst forth with wild ascent uproarious
+Saying, &quot;Where, where is my Blackbird of sweet Avondale?&quot;
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+&quot;In the fair counties Meath, Wexford, Cork, and Tipperary,
+The rights of Old Ireland, my Blackbird did sing
+Ah, but woe to the hour, with heart light and airy
+Away from my arms, to Dublin took wing&quot;
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+&quot;The fowlers waylaid him in hopes to ensnare him
+While I here in sorrow, his absence bewail
+Oh, it grieves me to think that the walls of Kilmainham
+Surround my dear Blackbird of sweet Avondale&quot;
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+&quot;Oh, Ireland, my country, awake from your slumbers
+And give back my Blackbird, so dear unto me
+And let everyone know, by the strength of your numbers
+That we, as a nation, would wish to be free&quot;
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+&quot;The cold prison dungeons is no habitation
+For one, to his country, was loyal and true
+Then give him his freedom, without hesitation
+And remember he fought hard for freedom and you&quot;
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+&quot;Oh, Heaven, give ear to my consultation
+And strengthen the bold sons of Old Granuaile
+And God grant that my country will soon be a nation
+And bring back the Blackbird to sweet Avondale&quot;
+</lines>
+    </verse>
+  </lyrics>
+</song>

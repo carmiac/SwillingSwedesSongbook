@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Greensleeves II</title>
+    </titles>
+    <tune>Greensleeves</tune>
+    <verseOrder>v1 c1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Alas, my lady you've done me dirt
+You`ve sewn green sleeves to my purple shirt
+And then you've done me worse than that
+You've made me go out and wear it
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Oh, Oh, what a dismal fate
+To be seen at events in this terrible state
+Oh, how I wish I could come late
+Say, seven days/week/years after it's over
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Alas, my lady I'm born to lose
+You've sewn pink bows to my purple shoes
+You've done my hair up in waves and curls
+My mother thinks I'm a girl
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Alas, my lady why did you think
+My cloak would look nice in that shade of pink
+You've decked me over in bobbins and lace
+My costume's become a disgrace
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Alas, my lady I've been bereaved
+Someone's just slandered my beautiful sleeve
+He's questioned my taste in every way
+My God, he said, I must be gay
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Alas, my lady you've done me wrong
+You've made my tunic much too long
+You've made it seven feet, ten inches, or more....
+It drags across the floor!
+</lines>
+    </verse>
+  </lyrics>
+</song>

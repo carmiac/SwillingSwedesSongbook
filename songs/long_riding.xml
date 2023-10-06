@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Long Riding</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Into the valley
+Come riding, come riding,
+Into the meadow and into the dell,
+Into the moonlight where shadows are gliding,
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Into the forest where enemies hiding,
+Riding riding,
+Three come a riding
+Three come a riding
+Into the mouth of hell.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Into the village,
+Come riding, come riding,
+Into the hames where the sweet women dwell,
+Into the rests where the men are a biding.
+</lines>
+    </verse>
+  </lyrics>
+</song>

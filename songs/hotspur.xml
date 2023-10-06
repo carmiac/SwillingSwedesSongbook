@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Hotspur</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Squire, bring my armor, my sword and my destrier.
+I've raised an army to break Henry's power.
+South from the Humber, we've marched to the Severn,
+With Douglas of Scotland, to join with Glendower.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+So ready your weapons, and don warlike harness,
+The King rides to greet us at Shrewsbury town.
+He'll pay what he owes me, or fight on the morrow.
+The Blue Lion of Percy will bloody the ground.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Hal Prince of Wales has brought forth an army,
+To halt us he's planning, he bars naught to me.
+Yon rides his father, a king made by Percy,
+His host in the thousands, a hard fight will be.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+So let loose your clothyards my stout Cheshire yeoman,
+The hiss of your bowstrings, tis soft as a sigh.
+Now King's knights you've halted, so up roar the horsemen,
+We charge for the center, brave Douglas and I.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Lay low a sergeant, and then slay his master,
+Rend through the armor, and hew clear a way.
+There by the banner, the King rides before me,
+I swear by my honor, tis his final day.
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+But Prince Hal has broken my right wing of battle,
+And he's for his father, a whirlin' around.
+Now one of his yeomen has sent me an arrow,
+The Blue Lion of Percy is pulled to the ground.
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+<comment>softly</comment>
+Squire bring my armor, my sword and destrier.
+I'll live forever to spite Bolingbroke!
+Know then of Hotspur who died by the Severn,
+And list what was heard when Lord Percy spoke:
+</lines>
+    </verse>
+    <verse name="v8">
+      <lines>
+Ready your weapons, and don warlike harness,
+The King rides to greet us at Shrewsbury town.
+He'll pay what he owes me, or fight on the morrow,
+The Blue Lion of Percy will bloody the ground.
+</lines>
+    </verse>
+  </lyrics>
+</song>

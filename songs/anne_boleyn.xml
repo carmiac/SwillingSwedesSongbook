@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Anne Boleyn</title>
+    </titles>
+    <authors>
+      <author>R.L.~Weston</author>
+      <author>Bert~Lee</author>
+    </authors>
+    <verseOrder>v1 c1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+In the Tower of London, large as life,
+The ghost of Anne Boleyn walks, they declare.
+For Anne Boleyn was once King Henry's wife,
+Until he had the axe man bob her hair.
+Oh, yes, he did it long, long years ago,
+And she comes back at night to tell him so.
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+With her head tucked underneath her arm,
+She walks the bloody Tower,
+With her head tucked underneath her arm,
+At the midnight hour.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+She comes to haunt King Henry, she means giving him what-for
+Gadzooks, she's going to tell him off, for spilling of her gore.
+And just in case the axe man wants to give her encore,
+She has her head tucked underneath her arm.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Now sometimes old King Henry gives a spread,
+For all his pals and gals, a ghastly crew,
+The axe man carves the joint and cuts the bread,
+When in comes Anne Boleyn to spoil the mood.
+She holds her head up with a wild war whoop,
+And Henry cries, &quot;don't drop it in the soup!&quot;
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+She walks the endless corridors, for miles and miles she goes,
+She often catches cold, poor dear, it's drafty when it blows,
+And it's awfully, awfully awkward for the queen to blow her nose,
+With her head tucked underneath her arm.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+The sentries think that it's a football that she carries in,
+And when they've had a few they shout, &quot;Is Army going to win?&quot;
+They think that it's Red Grange instead of poor old Anne Boleyn
+With her head tucked underneath her arm.
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+One night she caught King Henry, he was in the canteen bar,
+He said, &quot;Are you Jane Seymour, Anne Boleyn, or Catherine Parr?
+Now how the heck am I supposed to know just who you are?
+With your head tucked underneath your arm?
+</lines>
+    </verse>
+  </lyrics>
+</song>

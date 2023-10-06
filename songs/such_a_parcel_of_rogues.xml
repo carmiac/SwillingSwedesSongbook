@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Such a Parcel of Rouges </title>
+    </titles>
+    <authors>
+      <author>Robert~Burns </author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Fareweel to a' our Scottish fame
+Fareweel our ancient glory
+Fareweel ev'n to the Scottish name
+Sae famed in martial story
+Now Sarkrins o'er the Solway sands
+An' Tweed runs to the ocean
+To mark where England's province stands
+Such a parcel of rogues in a nation
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+What force or guile could not subdue
+Thro' many warlike ages
+Is wrought now by a coward few
+For hireling traitor's wages
+The English steel we could disdain
+Secure in valors station;
+But English gold has been our bane-
+Such a parcel of rogues in a nation
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+O, would, or had I seen the day
+That Treason thus could sell us
+My auld grey head had lien in clay
+Wi' Bruce and loyal Wallace
+But pith and power, till my last hour
+I'll make this declaration-
+&quot;We were bought and sold for English gold&quot;
+Such a parcel of rogues in a nation
+</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>John Barleycorn</title>
+    </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+There were three men come out of the West
+Their fortunes for to try,
+And these three men made a solemn vow:
+John Barleycorn should die!
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+They plowed, they sowed, they harrowed him in,
+Threw clods upon his head,
+And these three men made a solemn vow:
+John Barleycorn was dead!
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+They let him lie for a very long time
+'Til the rain from Heaven did fall,
+Then Little Sir John sprung up his head,
+And so amazed them all!
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+They let him stand 'til Midsummer tide,
+'Til he grew both pale and wan,
+Then Little Sir John he grew a long beard,
+And so became a man!
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+They hired men with the scythes so sharp
+To cut him off at the knee
+They rolled him and tied him about the waist,
+And used him barbarously!
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+They hired men with the sharp pitchforks
+To pierce him to the heart,
+And the loader he served him worse than that,
+For he tied him in a cart!
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+They wheeled him around and around the field,
+'Til they came to a barn,
+And there they made a solemn mow
+Of poor John Barleycorn,
+</lines>
+    </verse>
+    <verse name="v8">
+      <lines>
+They hired men with the crab-tree sticks
+To strip him skin from bone
+And the Miller he served him worse than that:
+For he ground him between two stones!
+</lines>
+    </verse>
+    <verse name="v9">
+      <lines>
+Here's Little Sir John in a nut-brown bowl,
+And brandy in a glass!
+And Little Sir John in the nut-brown bowl
+Proved the stronger man at last!
+</lines>
+    </verse>
+    <verse name="v10">
+      <lines>
+For the huntsman he can't hunt the fox
+Nor loudly blow his horn,
+And the tinker can't mend kettles nor pots
+Without John Barleycorn!
+</lines>
+    </verse>
+  </lyrics>
+</song>

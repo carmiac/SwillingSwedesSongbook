@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Fields of Black and Gold</title>
+    </titles>
+    <authors>
+      <author>Thomas~Winterbourne~of~Ghent</author>
+    </authors>
+    <verseOrder>c1 v1 c2 v2 c3 v3 c4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>
+On the fields of black and gold far beneath the mountains high
+Where the air is biting cold 'neath the wild, white winter sky
+Where the fairest and the bold from the days that were thought gone
+Are on the fields of black and gold, on the fields of al-Barran
+</lines>
+    </verse>
+    <verse name="v1">
+      <lines>
+There in the hall the fire is burning
+There in the hall the people sing
+The feast is laid out and the night is turning
+Hearken to the sound of the Tynkers ...dancing
+To the beat of the doumbek drum
+As it echoes through the autumn night
+Ah, the people know where the music goes
+On the fields of black and gold
+</lines>
+    </verse>
+    <verse name="c2">
+      <lines>
+On the fields of black and gold far beneath the mountains high
+Where the air is sharp and clean 'neath the warming springtime sky
+Where the fairest and the bold from the days that were thought gone
+Are on the fields of black and gold, on the fields of al-Barran
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+There from the west is the war-drum sounding
+Raised is the banner of our king
+Here on the fields no man is doubting
+Hearken to the sound of the shield wall... marching
+To the beat of the Baron's word
+His smile is bright and cold
+For the Baron knows where the war-drums go
+Are the spears of black and gold
+</lines>
+    </verse>
+    <verse name="c3">
+      <lines>
+On the fields of black and gold far beneath the mountains high
+Where the air is dry and hot 'neath a copper summer sky
+Where the fairest and the bold from the days that were thought gone
+Are on the fields of black and gold, on the fields of al-Barran
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+There is the man all dressed in Crimson
+Strong of arm and keen of sight
+There is the man in black and silver
+Bathed in the glow of Martin's...holy light
+And the man of steel and blood
+Sing hail to the brotherhood
+Ah, the people know where the warriors go
+On the fields of black and gold
+</lines>
+    </verse>
+    <verse name="c4">
+      <lines>
+<comment>Slowly</comment>
+On the fields of black and gold far beneath the mountains high
+Where the air is biting cold 'neath the wild, white, winter sky
+Where the fairest and the bold from the days that were thought gone
+Are on the fields of black and gold, on the fields of al-Barran
+</lines>
+    </verse>
+  </lyrics>
+</song>

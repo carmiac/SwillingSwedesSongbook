@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Housewife's Lament</title>
+    </titles>
+    <authors>
+      <author>Irish Traditional</author>
+    </authors>
+    <verseOrder>v1 c1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+One day I was walking, I heard a complaining,
+And saw an old woman, the picture of gloom.
+She gazed at the mud on her doorstep ('twas raining).
+And this was her song as she wielded her broom:
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Oh, Life is a toil, and love is a trouble,
+Beauty will fade and riches'll flee.
+Pleasures they dwindle and prices they double,
+And nothing is as I would wish it to be.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+There's too much of worriement goes to a bonnet,
+There's too much ironing goes to a shirt.
+There's nothing that pays for the time you waste on it;
+There's nothing that lasts us but trouble and dirt.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+In March it is mud, it is slush in December;
+The midsummer breezes are loaded with dust.
+In fall the leaves litter. In muddy September,
+The wallpaper rots and the candlesticks rust.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+There are worms on the cherries and slugs on the roses,
+And ants in the sugar and mice in the pies.
+The rubbish of spiders no mortal supposes;
+And ravaging roaches and damaging flies.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+It's sweeping at six and it's dusting at seven.
+It's victuals at eight and it's dishes at nine.
+It's potting and panning from ten to eleven;
+We scarce break our fast till we plan how to dine.
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+With grease and with grime, from corner to center,
+Forever at war and forever alert.
+No rest for a day lest the enemy enter;
+I spend my whole life in struggle with dirt.
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+Last night in my dreams I was stationed forever
+On a far little rock in the midst of the sea.
+My one chance of life was a ceaseless endeavour
+To sweep off the waves as they swept over me.
+</lines>
+    </verse>
+    <verse name="v8">
+      <lines>
+Alas! 'Twas no dream; ahead I behold it.
+I see I am helpless my fate to avert.
+She lay down her broom, her apron she folded,
+She lay down and died and was buried in dirt.
+</lines>
+    </verse>
+  </lyrics>
+</song>

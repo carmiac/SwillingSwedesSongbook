@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Gypsy Rover</title>
+    </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <verseOrder>v1 c1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+The gypsy rover came over the hill,
+Bound through the valley so shady;
+He whistled and he sang till the green woods rang,
+And he won the heart of a lady.
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Lah-Dee-o, Lah-Dee-O-ah-day,
+Lay-dee-o, Lah dee ay dee.
+He whistled and he sang until the green woods rang,
+And he won the heart of a lady.
+<comment>Each chorus follows similarly</comment>
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+She left her father's castle gate,
+She left her own true lover;
+She left her servants and her estate,
+To follow the gypsy rover.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Her father saddled his fastest steed,
+He roam'd the valley all over;
+He sought his daughter at great speed,
+And the whistling gypsy rover.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+He came at last to a mansion fine,
+Down by the river Claydee;
+And there was music, and there was wine,
+For the gypsy and his lady.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+&quot;O, father he's no gypsy free,
+But lord of these lands all over;
+And I will stay till my dying day,
+With my whistling gypsy rover.&quot;
+</lines>
+    </verse>
+  </lyrics>
+</song>

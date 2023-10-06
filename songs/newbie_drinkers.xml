@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Newbie Drinkers </title>
+    </titles>
+    <authors>
+      <author>Edmound~Bernhard</author>
+    </authors>
+    <tune>Greensleeves</tune>
+    <verseOrder>v1 c1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+My lady love please come to me,
+The Newbie Drinkers have gone to sleep
+Though they were loud they have gone away
+And now we no longer must hear them
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Newbie Drinkers you cannot see
+Newbie Drinker don't puke on me
+The bottle is dry this cannot be
+For now we must open another
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+We went to bed for our lawful rest
+But now we face an awful test
+The Newbie Drinkers are retching loud,
+We may not be able to sleep
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Poor Lorie dear it was her first time
+To mix the Vodka and Scotch so fine
+To her the Vodka it had no taste
+But the Scotch it did make her to heave
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+And Doug dear Doug the Experienced man
+Who could not drink with just one hand
+He stumbled back, and he stumbled forth
+Until he could no longer walk
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Bob, dear Mom, and Loreena too
+Could not turn backs to these Newbie few
+Yes they would come to the rescue
+Of these Newbie Drinkers
+</lines>
+    </verse>
+  </lyrics>
+</song>

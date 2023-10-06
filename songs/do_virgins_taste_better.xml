@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Do Virgins Taste Better?</title>
+    </titles>
+    <authors>
+      <author>R.~Farran </author>
+    </authors>
+    <tune>The Irish Washerwoman</tune>
+    <keywords>
+      <keyword>An Old Cliche Revisited</keyword>
+    </keywords>
+    <verseOrder>v1 v2 c1 v3 v4 c1 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+A dragon has come to our village today.
+We've asked him to leave, but he won't go away.
+Now he's talked to our king and they worked out a deal.
+No homes will he burn and no crops will he steal.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Now there is but one catch, we dislike it a bunch.
+Twice a year he invites him a virgin to lunch.
+Well, we've no other choice, so the deal we'll respect.
+But we can't help but wonder and pause to reflect.
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Do virgins taste better than those who are not?
+Are they salty, or sweeter, more juicy or what?
+Do you savor them slowly or gulp them down on the spot?
+Do virgins taste better than those who are not?
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Now we'd like to be rid you, and many have tried.
+But no one can get through your thick scaly hide.
+We hope that some day, some brave knight will come by.
+'Cause we can't wait around 'til you're too fat to fly.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Now you have such good taste in your women for sure,
+They always are pretty, they always are pure.
+Bid your notion of dining, it makes us all flinch,
+For your favorite entree is barbecued wench.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Now we've found a solution, it works out so neat,
+If you insist on nothing but virgins to eat.
+No more will our number ever grow small,
+Well simply make sure there's no virgins at all!
+</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Infamous Eric the Red</title>
+    </titles>
+    <authors>
+      <author>Enricco~D'Oriaa</author>
+    </authors>
+    <tune>Mister Ed</tune>
+    <keywords>
+      <keyword>Eric the Red</keyword>
+    </keywords>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+A Norse is a Norse, of course, of course
+nobody raids like a Norse, of course
+Unless, of course, the raiding Norse
+is infamous Eric the Red
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Heroes on board, that's the Norse
+axes and banners held high, of course
+Always good plunder, never a blunder
+with infamous Eric the Red
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Gone a'viking? but, of course!
+Byzantium to Vinland have gone the Norse
+Longboats to sea, always on course
+with infamous Eric the Red
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Heroes aplenty, that's the Norse
+Huscarls, Berserkers and Bondi, of course
+Together as a raiding force
+with infamous Eric the Red
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Ashore now, let's get the flock
+burn the town for extra shock
+By Thor, we'll be at Ragnarok
+with infamous Eric the Red
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+The skald sings of our mighty deed
+the chief gives us his wisest rede
+From horns we'll drink the sweetest mead
+with infamous Eric the Red
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+End of the world? that's a sight!
+Ragnarok's the god's twilight
+With Valkyries we'll drink each night
+and infamous Eric the Red
+</lines>
+    </verse>
+  </lyrics>
+</song>

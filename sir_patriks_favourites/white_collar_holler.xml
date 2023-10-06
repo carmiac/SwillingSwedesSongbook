@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>White Collar Holler</title>
+    </titles>
+    <authors>
+      <author>Stan Rogers</author>
+    </authors>
+    <verseOrder>v1 c1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Well, I rise up every morning at a quarter to eight
+Some woman who's my wife tells me not to be late
+I kiss the kids goodbye, I can't remember their names
+And week after week, it's always the same
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+And it's Ho, boys, can't you code it, and program it right
+Nothing ever happens in the life of mine
+I'm hauling up the data on the Xerox line
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Then it's code in the data, give the keyboard a punch
+Then cross-correlate and break for some lunch
+Correlate, tabulate, process and screen
+Program, printout, regress to the mean
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Then it's home again, eat again, watch some TV
+Make love to my woman at ten-fifty-three
+I dream the same dream when I'm sleeping at night
+I'm soaring over hills like an eagle in flight
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Someday I'm gonna give up all the buttons and things
+I'll punch that time clock till it can't ring
+Burn up my necktie and set myself free
+Cause no one's gonna fold, bend or mutilate me
+</lines>
+    </verse>
+  </lyrics>
+</song>

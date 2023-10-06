@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Campbells are Comin'</title>
+    </titles>
+    <authors>
+      <author>Robert~Burns</author>
+    </authors>
+    <verseOrder>c1 v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>
+The Campbells are comin', Oho! Oho!
+The Campbells are comin', Oho! Oho!
+The Campbells are comin' to bonnie Lochleven,
+The Campbells are comin', Oho! Oho!
+</lines>
+    </verse>
+    <verse name="v1">
+      <lines>
+Upon the Lomonds I lay, I lay,
+Upon the Lomonds I lay, I lay,
+I looked down to bonnie Lochleven,
+And saw three bonnie perches play
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Great Argyle he goes before,
+He makes his cannons and guns to roar,
+Wi' sound o trumpet, pipe and drum
+The Campbell's are comin' Oho, Oho!
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+The Campbell's they are a'in arms
+Their loyal faith and truth to show,
+Wi banners rattling in the wind
+The Campbell's are comin Oho, Oho!
+</lines>
+    </verse>
+  </lyrics>
+</song>

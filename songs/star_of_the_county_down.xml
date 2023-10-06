@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Star of The County Down</title>
+    </titles>
+    <authors>
+      <author>Cathal~McGarvey</author>
+    </authors>
+    <verseOrder>v1 c1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Bainbridge Town in the County Down
+One mornin' last July
+From a boreen green came a sweet Colleen
+She looked so sweet from her two bare feet
+To the sheen of her nut brown hair
+Such a coaxing elf, sure I shook myself
+For to see I was really there
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+From Bantry Bay up to Derry Quay and
+From Galway to Dublin Town
+No maid I've seen like brown Colleen
+That I met in the County Down
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+As she onward sped, sure I scratched my head
+And I looked with a feelin' rare
+And I says, says I, to a passer by
+Who's the maid with the nut brown hair?
+He smiled at me and he says, says he
+That's the gem of Ireland's crown
+It's Rosie McCann from the banks of the Bann
+She's the star of the County Down
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+At the Harvest Fair she'll be surely there
+And I'll dress in my Sunday clothes
+With my shoes shone bright and my hat cocked
+Right for a smile from my nut brown rose
+No pipe I'll smoke, no horse I'll yoke
+'Till my plow turns rust colored brown
+'Till a smilin' bride, by my own fireside
+Sits the star of the County Down
+</lines>
+    </verse>
+  </lyrics>
+</song>

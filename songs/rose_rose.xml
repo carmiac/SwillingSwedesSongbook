@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Rose Rose</title>
+    </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <comment>As a round, or not</comment>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Hey Ho, nobody home.
+No meat, nor drink,
+Nor money have I none.
+Still I will be very merry.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Rose, rose, rose, rose
+Will I ever see thee wed?
+I will marry at thy will, sire
+At thy will
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Ding dong, ding dong
+Wedding bells on an April morn
+Carve your name on a moss covered stone
+On a moss covered stone
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Ah poor bird.
+Take thy flight
+High above the sorrows
+Of this sad night.
+</lines>
+    </verse>
+  </lyrics>
+</song>

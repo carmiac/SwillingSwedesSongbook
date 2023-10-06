@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Leprehaun</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+In a shady nook one moonlight night
+A leprechaun I spied,
+With scarlet cap and coat of green;
+A cruiskenn by his side.
+'Twas a tick tack tick, his hammer went,
+Upon a tiny shoe,
+And I laughed to think of a purse of gold;
+But the fairy was laughing too!
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+With a tip toe step and beating heart,
+Quite softly I drew nigh:
+There was mischief in his merry face;
+A twinkle in his eye.
+He hammered and sang with tiny voice,
+And drank his mountain dew;
+And I laughed to think he was caught at last:
+But the fairy was laughing too!
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+As quick as thought I seized the elf;
+&quot;Your fairy purse!&quot; I cried;
+&quot;The purse!&quot; he said &quot;'tis in her hand
+&quot;That lady at your side!&quot;
+I turned to look: the elf was off!
+Then what was I to do?
+O, I laughed to think what a fool I'd been;
+And the fairy was laughing too!
+</lines>
+    </verse>
+  </lyrics>
+</song>

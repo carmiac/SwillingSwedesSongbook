@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Well Before the Battle Sister</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Well before the battle, sister
+When the sky is crowned with stars,
+And the world is clean of wounded,
+And the ground is free of scars.
+Well before the battle, sister,
+When content with what we know,
+We will sing the lovely ballads.
+From the long and long ago.
+</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Bianca's Lament</title>
+    </titles>
+    <authors>
+      <author>Bianca</author>
+    </authors>
+    <verseOrder>v1 v2 c1 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+He stood on a battlefield in a tabard of green
+White stag leaping high on his breast
+Two gold cups on his shield
+And a field of blue o'er the rest
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+He called to his comrades &quot;We fight for the King&quot;
+&quot;For our Queen we lay down our lives,&quot;
+&quot;For our ladies' honour we take up our swords&quot;
+&quot;Outlands! Hark to our cry!&quot;
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Forward my warriors, Hark to the horn;
+we go forth to fight and to die.
+Be still sweet lady, 'tis not time to mourn;
+for the white stag, he yet marches high!
+Forward my spearmen, I stand with the shield.
+Forward my swordmen, I call.
+To this angry horde, we never shall yield;
+though to the last man, this day we may fall.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+I looked o'er the battlefield searching long for sword
+And cups of my kinsmen and lord
+Out numbered on the green, the White Stag and his men
+Marched to meet the great foeman horde
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+My lord and my kinsmen stand ready to fight
+Waiting only the call of the King.
+LAY ON! Was the call and Outlands the cry
+And sword on armour did ring
+<comment>Chorus</comment>
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+I stand on a battlefield piled high with the dead
+With a cup for the warriors who live.
+Though blessed cool water I bear to these men
+And to them sweet succor I give,
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+My heart bleeds within me, for my lord lies just there
+Run through for to save his king.
+Long will I remember the battle this day
+Long of its great heroes I'll sing.
+<comment>Chorus</comment>
+</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Red Haired Mary</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+As I was going to the Faire of Dingle,
+One fine morning last July,
+And walking down the road before me,
+A red-haired girl I chanced to spy.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Come ride with me, my red-hair maiden,
+My donkey, he can carry two.
+She looked at me, her eyes a-twinklin'
+And her cheeks a rosy hue.
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Keep your hands off Red Haired Mary,
+Her and I will soon be wed.
+We'll see a priest this very morning,
+Tonight we'll lie in a marriage bed.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Now when we reached the town of Dingle,
+I took her hand to say goodbye.
+When a tinker, he stepped up beside me,
+And belted me in my left eye.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Well I was feelin' kinda peevish,
+My poor old eye felt sad and sore,
+When I tapped him gently with my hobnails
+And he flew back to Murphy's door.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Well he galloped off to find his brothers,
+The tallest men I e'er did meet,
+When he tapped me gently with his knuckles,
+And I was minus two front teeth.
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+Now a pealer, he came round the corner,
+Said, &quot;Young man, you done broke the law.&quot;
+When my donkey kicked him in the kneecaps
+And he fell down and broke his jaw.
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+Well the red hair girl, she kept a'smiling,
+&quot;Young man, I'll come with you,&quot; she said.
+We'll forget the priest this very morning,
+Tonight we'll lie in Murphy's shed.
+</lines>
+    </verse>
+  </lyrics>
+</song>

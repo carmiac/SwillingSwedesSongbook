@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Brennan On The Moor</title>
+    </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <verseOrder>v1 c1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+'Tis of a brave young highwayman, this story I will tell
+His name was Willie Brennan and in Ireland he did dwell
+It was on the Kilwood Mountain that he commenced his wild career
+And many a wealthy nobleman before him shook with fear.
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+It was Brennan on the moor, Brennan on the moor.
+Bold, brave and undaunted, was young Brennan on the moor.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+One day upon the highway as young Willie he went down,
+He met the mayor of Cashiell, a mile outside of town.
+The mayor he knew his features, and he said, &quot;Young man&quot;, said he
+Your name is Willie Brennan, you must come along with me.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Now Brennan's wife had gone to town, provisions for to buy;
+And when she saw her Willie, she commenced to weep and cry.
+He said, &quot;Hand to me that tenpenny&quot;, as soon as Willie spoke,
+She handed him a blunderbuss from underneath her cloak.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Now with this loaded blunderbuss, the truth I will unfold
+He made the mayor to tremble, and he robbed him of his gold.
+One hundred pounds was offered for his apprehension there
+So he, with horse and saddle to the mountains did repair.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Now Brennan being an outlaw, upon the mountains high.
+With cavalry and infantry to take him they did try.
+He laughed at them with scorn until at last 'twas said:
+By a false-hearted woman, he was cruelly betrayed.
+</lines>
+    </verse>
+  </lyrics>
+</song>

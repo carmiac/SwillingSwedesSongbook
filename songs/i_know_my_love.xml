@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>I Know My Love</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+I know my love by his way of walkin',
+And I know my love by his way of talkin',
+And I know my love dressed in a suit of blue,
+And if my love leaves me, what shall I do?
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+And still she cried, &quot;I love him the best,
+And a troubled mind sure can know no rest.&quot;
+And still she cried, &quot;Bonny boys are few,
+And if my love leaves me, what shall I do?&quot;
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+There is a dance house in Maradyke
+And there my true love goes every night.
+He takes a strange one upon his knee
+And don't you think now that vexes me!
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+If my love knew I could wash and wring,
+If my love knew I could weave and spin,
+I'd make a coat all of the finest kind,
+But the want of money leaves me behind.
+</lines>
+    </verse>
+  </lyrics>
+</song>

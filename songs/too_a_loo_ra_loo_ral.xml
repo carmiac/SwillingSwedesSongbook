@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Too-A-Loo-Ra-Loo-Ral</title>
+    </titles>
+    <keywords>
+      <keyword>Irish Lullaby</keyword>
+    </keywords>
+    <verseOrder>v1 c1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Over in Killarney
+Many years ago,
+Me Mither sang a song to me
+In tones so sweet and low.
+Just a simple little ditty,
+In her good ould Irish way,
+And I'd give the world if she could sing
+That song to me this day.
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+&quot;Too-ra-loo-ra-loo-ral, Too-ra-loo-ra-li,
+Too-ra-loo-ra-loo-ral, hush now, don't you cry!
+Too-ra-loo-ra-loo-ral, Too-ra-loo-ra-li,
+Too-ra-loo-ra-loo-ral, that's an Irish lullaby.&quot;
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Oft in dreams I wander
+To that cot again,
+I feel her arms a-huggin' me
+As when she held me then.
+And I hear her voice a-hummin'
+To me as in days of yore,
+When she used to rock me fast asleep
+Outside the cabin door.
+</lines>
+    </verse>
+  </lyrics>
+</song>

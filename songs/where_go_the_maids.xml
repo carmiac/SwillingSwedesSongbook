@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Where Go The Maids</title>
+    </titles>
+    <authors>
+      <author>Mikal~Hrafspa</author>
+    </authors>
+    <tune>Girls Just Wanna Have Fun - ish</tune>
+    <verseOrder>v1 c1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Where go the maids on summer's day
+When the Falcon bears their men away
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Sing willow a willow away hey hey
+Sing willow a willow away
+Sing willow a willow away
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Gone to the hall to step a dance
+While their good lovers break a lance
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+And drink their mead where it is kept
+While their good lovers drink their sweat
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+And trade they kisses with young beaus
+While their good husbands trade at blows
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+And when the Falcon comes to nest
+They welcome their good men to rest
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+For lords may ken to battle's run
+But a lady too will have her fun
+</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Leprosy</title>
+    </titles>
+    <tune>Yesterday - The Beatles</tune>
+    <verseOrder>v1 v2 c1 v3 c2 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Leprosy,
+All my skin is falling off of me
+And it's simple, very plain to see
+I've got a case of Leprosy
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Leprosy,
+Friends and family shy away from me
+And I can't afford a colony
+Oh I am stuck with Leprosy
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Why I have to rot, I know not
+I cannot say
+Gangrene is better but
+I am stuck, with Leprosy
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Leprosy,
+All my clothes are dirty rags you see
+That's why all the people stare at me
+Oh why do I have Leprosy
+</lines>
+    </verse>
+    <verse name="c2">
+      <lines>
+Why I have to rot, I know not
+I cannot say
+Gangrene is better but
+I am stuck with Leprosy
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Leprosy,
+I'm not half the man I used to be
+That's 'cause half of me is dead you see
+Oh I am plagued with Leprosy
+<comment>What do you call a leper in a sauna......Stew</comment>
+</lines>
+    </verse>
+  </lyrics>
+</song>

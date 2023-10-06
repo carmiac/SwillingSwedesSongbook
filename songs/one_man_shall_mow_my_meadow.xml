@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>One Man Shall Mow My Meadow</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+One man shall mow my meadow
+Two men shall gather it together
+Two men and one more
+Shall shear my lambs and ewes and rams
+And gather my gold together
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Three men shall mow my meadow
+Four men shall gather it together
+Four men, three men, two men and one more
+Shall shear my lambs and ewes and rams
+And gather my gold together
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Five men shall mow my meadow
+Six men shall gather it together
+Six men, five men, four men, three men, two men and one more
+Shall shear my lambs and ewes and rams
+And gather my gold together
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Seven men shall mow my meadow
+Eight men shall gather it together
+Eight men, seven men, six men, five men, four men, three men,
+  two men and one more
+Shall shear my lambs and ewes and rams
+And gather my gold together
+</lines>
+    </verse>
+  </lyrics>
+</song>

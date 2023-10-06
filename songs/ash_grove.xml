@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Ash Grove</title>
+    </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Down yonder green valley where streamlets meander,
+When twilight is fading I pensively rove,
+Or at the bright noontide in solitude wander
+Amid the dark shades of the lonely ash grove.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+'Tis there where the blackbird is cheerfully singing
+Each warbler enchants with his note from the tree
+Ah, then little think I of sorrow or sadness
+The ash grove enchanting, spells beauty for me.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+The ash grove, how graceful, how plainly 'tis speaking
+The harp through it playing has language for me
+Whenever the light through its branches is breaking
+A host of kind faces is gazing on me;
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+The friends of my childhood again are before me
+Each step wakes a memory as freely I roam;
+With soft whispers laden its leaves rustle o'er me,
+The ash grove, the ash grove, alone is my home.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+My laughter is over, my step loses lightness,
+Old countryside measures fall soft on my ear.
+Whenever I think on the past and its brightness,
+The dear ones I mourn for again gather here.
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+From out of the shadows their loving looks greet me.
+And wistfully searching the leafy green dome,
+I find other faces, fond, bending to greet me.
+The ash grove, the ash grove, alone is my home.
+</lines>
+    </verse>
+  </lyrics>
+</song>

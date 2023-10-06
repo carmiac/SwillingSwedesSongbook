@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Scots, Wha Hae </title>
+    </titles>
+    <tune>Hey Tuti Tatey </tune>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Scots, wha hae wi' Wallace bled,
+Scots, wham Bruce has often led,
+Welcome to your gory bed,
+Or to victory.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Now's the day, and now's the hour;
+See the front o' battle lour;
+See approach proud Edward's power,
+Chains and slavery.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Wha would be a traitor-knave?
+Wha can fill a coward's grave?
+Wha sae base as be a slave?
+Let him turn and fly:
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Wha for Scotland's king and law,
+Freedom's sword will strongly draw,
+Free-man stand, or free-man fa',
+Let him follow me.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+By oppression's woes and pains!
+By your sons in servile chains!
+We will drain our dearest veins,
+But they shall be free!
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+Lay the proud usurpers low!
+Tyrants fall in every foe!
+Liberty's in every blow!
+Let us do - or die!!!
+</lines>
+    </verse>
+  </lyrics>
+</song>

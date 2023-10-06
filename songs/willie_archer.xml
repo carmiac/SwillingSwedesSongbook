@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Willie Archer</title>
+    </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+O as I was a-walking down by yon mill-town,
+The fair and lovely mountains they did me surround;
+'Twas there I saw a fair maid, and to me she looked grand;
+She was plucking wild roses on the banks of the Bann.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+So I stepped up to this fair one, and to her I did say,
+&quot;Since nature has formed us for to meet on this day --
+Since nature has formed us, won't you give me your hand,
+And we will walk together on the banks of the Bann.&quot;
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Now it being a summer's evening and a fine quiet place,
+I knew by the blushes that appeared on her face,
+We both lay down together unto a bed of sand,
+And she rolled into my arms on the banks of the Bann.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+&quot;O young man, you have wronged me; won't you tell me your name,
+That when my babe is born I may give it the same?&quot;
+&quot;My name is Willie Archer, and I'd have you understand
+That my home and habitation lie close by the Bann.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+&quot;But I cannot marry you, for apprenticed I'm bound
+To the spinning and the weaving in Rathfriland town.
+But when my time is over I will give you my hand
+And we will be married on the banks of the Bann.&quot;
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+So come all you fair maidens, take warning by me:
+Don't go out a-courting at one, two, or three.
+Don't go out a-courting so late if you can,
+Or you'll meet with Willie Archer on the banks of the Bann.
+</lines>
+    </verse>
+  </lyrics>
+</song>

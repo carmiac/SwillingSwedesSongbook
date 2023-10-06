@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>I'm a Freeborn Man</title>
+    </titles>
+    <authors>
+      <author>Ewan~MacColl</author>
+    </authors>
+    <keywords>
+      <keyword>Freeborn Man of the Traveling People</keyword>
+    </keywords>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+I am a freeborn man of the traveling people
+Got no fixed abode, with nomads I am numbered
+Country lanes and byways were always my ways
+Never fancied being lumbered
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+O we knew the woods, all the resting places
+And the small birds sang when wintertime was over
+Then we'd pack our load and be on the road
+They were good old times for the rover
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+There was open ground where a man could linger
+Stay a week or two for time was not your master
+Then away you'd jog with your horse and dog
+Nice and easy, no need to go faster
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Now and then you'd meet up with other travelers
+Hear the news or else swap family information
+At the country fairs, we'd be meeting there
+All the people of the traveling nation
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+All you freeborn men of the traveling people
+Every tinker, rolling stone, or gypsy rover
+Winds of change are blowing, old ways are going
+Your traveling days will soon be over
+</lines>
+    </verse>
+  </lyrics>
+</song>

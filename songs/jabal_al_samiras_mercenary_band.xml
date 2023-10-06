@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Jabal al-Samira's Mercenary Band</title>
+    </titles>
+    <tune>St. Pepper's Lonely Hearts Club Band</tune>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+We're Jabal al-Samira's Mercenary Band.
+We hope you will enjoy our show.
+Jabal al-Samira's Mercenary Band
+We'll help you make your evening go.
+Jabal al-Samira, Jabal al-Samira, Jabal al-Samira
+Mercenary Band.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+It's wonderful to be here,
+It's certainly a thrill,
+You're such a lovely audience,
+Your ransom we'll take home with us,
+Your ransom we'll take home.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+I don't really want to stop the show,
+But we thought you really ought to know,
+To escape us, you must pay a fee,
+Call it ransom money if you please.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Now may I introduce to you,
+The head of our conspiracy,
+al-Samira's Mercenary Band.
+Pay your FEES!
+</lines>
+    </verse>
+  </lyrics>
+</song>

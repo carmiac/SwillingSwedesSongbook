@@ -1,3 +1,0 @@
-% This is a section division file, adding a section for Sir Patrick's Favorites.
-\newpage
-\section*{Sir Patrick's Favorites}

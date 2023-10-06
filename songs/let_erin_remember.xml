@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Let Erin Remember</title>
+    </titles>
+    <authors>
+      <author>Thomas~Moore</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Let Erin remember the days of old,
+Ere her faithless sons betray'd her,
+When Malachi wore the collar of gold,
+Which he won from her proud invader;
+When her kings, with standard of green unfurl'd,
+Led the Red-Branch knights to danger;
+Ere the em'rald gem of the western world
+Was set in the crown of a stranger.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+On Lough Neagh's band, as the fisherman strays,
+When the clear cold eve's declining,
+He sees the round tow'rs of other days
+In the wave beneath him shining!
+Thus shall mem'ry often, in dreams sublime,
+Catch a glimpse of the days that are over;
+Thus sighing, look thro' the waves of Time
+For the long faded glories they cover!
+</lines>
+    </verse>
+  </lyrics>
+</song>

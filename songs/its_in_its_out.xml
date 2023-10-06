@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>It's In, It's Out</title>
+    </titles>
+    <tune>Sunrise, Sunset</tune>
+    <verseOrder>v1 v2 c1 v3 v4 c1 v5 v6 c2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Where is that hero I married?
+Where is that lover that I knew?
+Once we made merry love for hours, all night through.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+I don't remember growing older.
+Somehow the years have slipped away.
+Hormones are raging and I won't wait!
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+It's up. It's down;
+It's in. it's out.
+Then it goes away.
+Done is that fellow (phallus) that I played with,
+Gone is the romping in the hay.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Now he's older, growing older;
+Still there is no way...
+He claims the minutes now are hours,
+timing was never his forte!
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+He's through, I'm not;
+He's cold, I'm hot,
+Sleep would come his way...
+Finish the task my lord, I warn thee,
+Or there'll be bloody hell to pay.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Gently he turns to me and whispers,
+Words that do set my soul aflame;
+Then with a loving smile he takes me,
+Things have changed!
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+Evening is turning into daylight
+Some things will never be the same.
+Now I am begging him for mercy,
+I've been tamed
+</lines>
+    </verse>
+    <verse name="c2">
+      <lines>
+No doubt, it's up.
+It's in, its out,
+And it seems to stay.
+Now it's this lady who needs sleep, dear,
+Later we'll love again and play.
+</lines>
+    </verse>
+  </lyrics>
+</song>

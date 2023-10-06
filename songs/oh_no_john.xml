@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Oh, No John</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+On yonder hill there stands a maiden
+Who she is I do not know;
+I shall court her, for her beauty,
+She must answer yes or no,
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Oh, Oh, no John,
+No John, No John, No.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Madam, on thy face is beauty
+On thy lips wild roses grow,
+Madam, I would be thy lover,
+Madam, answer yes or no,
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Madam, on thy face is beauty,
+At thy bosom lilies grow,
+In your bedroom there is pleasure,
+Shall I view it? Yes or no.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Madam, I will give you jewels
+I will make you rich and free;
+I will give you silk and satins
+Madam, if you lie with me.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+My husband is a Spanish captain,
+Went to sea a month ago.
+First he kissed me, then he left me,
+Bade me always answer &quot;No!&quot;
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+Madam, may I tie your garter
+Just an inch above your knee?
+If my hand should slip a little farther,
+Would you think it ill of me?
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+My love and I went to bed together,
+There we lay till the cocks did crow;
+Open your arms my dearest darling,
+Open your arms and let me go.
+</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Have You Seen the Army?</title>
+    </titles>
+    <authors>
+      <author>Mikal~Hrafspa</author>
+    </authors>
+    <verseOrder>v1 c1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Have ye heard the story from the land of Calontir?
+With sword and axe a-swinging fit to make a grown man fear?
+The barons called for taxes, the people answered &quot;Nay!&quot;
+&quot;And if you come collecting, there'll be hell to pay!
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Have you seen the army, it was here a while ago,
+And do you know who's winning? Have we struck a mortal blow?
+I do not know your armor, but you seem a friend to me,
+Oh have you seen the army marching in Forgotten Sea?
+HMMMMMMMMMMM
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+You should have seen the battle, 'twas a glory to be seen,
+Conveniently the dead were rolled into a deep ravine,
+The bandits followed Halidar into a brushy patch,
+If it hadn't been poison ivy they'd have won without a scratch!
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+'Twas at the bridge they tell me, that they made their final stand,
+But it's hard to win a battle when you're killed by your own man.
+The captain of the guardsmen hit upon a plan so bold,
+With a trick used every tax-time, hide your sacks of gold!
+</lines>
+    </verse>
+  </lyrics>
+</song>

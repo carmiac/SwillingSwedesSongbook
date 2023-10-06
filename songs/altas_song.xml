@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Alta's Song</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+I am a babe, an only babe,
+Fire and water and all,
+Who in my mother's womb was made,
+Great Alta take my soul.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+But from that mother I was torn,
+Fire and water and all,
+And to a hillside I was borne,
+Great Alta take my soul.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+And on that hillside I was laid,
+Fire and water and all,
+And taken up all by a maid,
+Great Alta save my soul.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+And one and two and three we rode?
+Fire and water and all,
+Till others took the heavy load,
+Great Alta take my soul.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Let all good women hark to me,
+Fire and water and all,
+For fostering shall set thee free,
+Great Alta save my soul.
+</lines>
+    </verse>
+  </lyrics>
+</song>

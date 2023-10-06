@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Isty Bitsy Warrior</title>
+    </titles>
+    <tune>Itsy Bitsy Spider</tune>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+The itsy bitsy warrior walked on the tourney field
+Out came the Duke and demanded that he yield
+Out came the Sword and it cut the Duke in twain
+And the itsy bitsy warrior walked off the field again
+</lines>
+    </verse>
+  </lyrics>
+</song>

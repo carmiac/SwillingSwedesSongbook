@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Cruiskeen Lawn</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3 c2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Let the farmer praise his grounds,
+Let the huntsman praise his hounds,
+And the shepherd his sweet scented lambs
+But I, more blest than they,
+Spend each happy night and day with my charming little
+Cruiskeen lawn, lawn, lawn!
+Oh, my charming little Cruiskeen lawn'
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Gram-ma-chree ma Cruiskeen,
+Slain-te geal ma-vour-neen,
+Gra-ma-chree a coolin bawn, bawn bawn!
+Ah, gra-ma-chree a coolin bawn!
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Immortal and divine, great Bacchus, god of wine
+Create me by adoption your son.
+In hopes that you'll comply, That my glass shall ne'er run dry
+Nor my smilin' little
+Cruiskeen lawn, lawn, lawn!
+Oh, my smiling little Cruiskeen lawn'
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+And when grim Death appears, in a few but pleasant years,
+To tell me that my glass has run,
+I'll say, &quot;Begone, you knave! For great Bacchus gave me leave
+To take another
+Cruiskeen lawn, lawn, lawn!
+To take another Cruiskeen lawn'
+</lines>
+    </verse>
+    <verse name="c2">
+      <lines>
+<comment>Translated chorus</comment>
+Little jug, my heart's love,
+Bright health to my own dove;
+Little Jug, my own heart's love, love, love,
+Oh! Little jug, my own heart's love!
+</lines>
+    </verse>
+  </lyrics>
+</song>

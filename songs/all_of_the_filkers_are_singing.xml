@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>All of the Filkers are Singing</title>
+    </titles>
+    <tune>Greensleeves-ish</tune>
+    <verseOrder>v1 c1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+The folks have all gathered under the bright moonlight
+To sing strange tales of dragons in flight
+The laurels overheard us, they've retired for the night
+They can't take the sound of our singing
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+So belt out whatever note suits you
+Join in everyone, in your own key
+It's fare thee well, to all vestige of harmony
+When all of the filkers are singing
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+When sing-a-longs start in this gathering of friends
+The authentic mavens scream, &quot;Dear God when will it end&quot;
+The drunks and the tone deaf add spice to the blend
+Of what we have the gall to call singing
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Our bloodshot eyes clash with the pink morning sun
+It's a hell of a night once the singin's begun
+Yet for some strange reason we claim that it's fun
+When everyone is gathered for singing
+</lines>
+    </verse>
+  </lyrics>
+</song>

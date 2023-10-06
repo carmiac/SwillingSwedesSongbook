@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Scotland the Brave </title>
+    </titles>
+    <authors>
+      <author>Cliff~Hanley</author>
+    </authors>
+    <verseOrder>v1 c1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Hark when the night is fallin', hear, hear the pipes a-callin'
+Loudly and proudly callin' down thru the glen
+There where the hills are sleepin', now feel the blood a-leapin'
+High as the spirits of the old highland men!
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Towering in gallant fame, Scotland the mountain hame!
+High may your proud standards gloriously wave!
+Land of the high endeavour, land of the shining river,
+Land of my heart, forever, Scotland the brave!
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+High in the misty highlands, out by the purple islands,
+Brave are the hearts that beat beneath Scottish skies!
+Wild are the winds to meet you, staunch are the friends that greet you
+Kind as the light that shines from fair maiden's eyes!
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Far-off in sunlit places, sad are the Scottish faces,
+Yearnin' t'feel the kiss of sweet Scottish rain!
+Where tropic skies are beamin', love sets the heart a-dreamin',
+Longin' and dreamin' for the homeland again!
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Hot as a burning ember, flaming in bleak December
+Burning within the hearts of clansmen afar!
+Calling to home and fire, calling the sweet desire,
+Shining a light that beckons from every star!
+</lines>
+    </verse>
+  </lyrics>
+</song>

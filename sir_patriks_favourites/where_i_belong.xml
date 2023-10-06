@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Where I Belong</title>
+    </titles>
+    <authors>
+      <author>Alan Doyle</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Ginny said good-bye this afternoon
+As far as I can tell
+She can't bear the good-bye evenings
+Or the morning afters of farewell
+She says, &quot;Here you are another one to whose back I'm saying cheers. It's like a death in the family and it's been going on for years.&quot;
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+And so I'll cast my leaving shadow
+And I'll be Canadian
+But distance won't decide what matters
+To the Hard Rock's loving son
+And when I'm thinking of St. John's
+I'll bring her closer with a song
+I don't know where I'm going but I know where I belong
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Don't get the old man started
+Or I'll have to hide him from the rum
+If we can keep his mind from '49
+He'll keep having fun
+Oh, it's not the kids he's cursing
+Though I'm his third to leave
+He's mad at Mr. Smallwood
+And it's a parent's right to grieve
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+So let's take a moment's silence for our dear departed souls
+Let's fly our flags at half their mast
+As another young man goes
+The laughter of the children
+Supplanted by the rolling ghosts
+Another tide surrenders
+To a far and foreign coast
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+I told Mom I'd stay closer to the cousins
+Who beat the path from our front door
+One right after the other and they won't be back no more
+But the thing I think I fear the most
+She whispered in my ear
+Is being the last flower in the garden
+With no one left to care
+</lines>
+    </verse>
+  </lyrics>
+</song>

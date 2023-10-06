@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Beggarman</title>
+    </titles>
+    <authors>
+      <author>Traditional </author>
+    </authors>
+    <keywords>
+      <keyword>Johnny Dhu and Little Beggarman </keyword>
+    </keywords>
+    <verseOrder>v1 c1 v2 v3 c1 v4 v5 c1 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Well, I am a little beggarman an' beggin' I have been
+Threescore years and more in this little Isle of Green
+I'm known from the Liffey way down to Killaloe
+And the name that I'm known by is Old Johnny Dhu
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Of all the trades an' callin's, sure, beggin' is the best
+For when a man is weary, he can aye sit down an' rest
+He can beg for his dinner, he has nothin' else to do
+Only toddle around the corner with his old rigadoo
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Well, I slept in a barn way down by Killavone
+On a dark and stormy night and sleepin' all alone
+With holes in the roof and the rain a-comin' through
+And the rats and the mice they were playin' peek-a-boo
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+O, then, who did waken but the woman of the house
+With her white spotty apron and her calico blouse
+She began to cry and when I said: Boo
+O, now, don't you be afraid o' me, it's only Johnny Dhu
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Well, I met a little flaxen-haired girl the other day
+Good morning to you, flaxen-haired girl, I did say
+Good morning, Johnny Beggarman, there's how do ye do?
+With your rags and your bags and your old rigadoo
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Well, I'll buy ye a pair o' trousers, a collar and a tie
+And a nice little lassie then I'll fetch her by an' by
+I'll buy a pair of goggles, and I'll paint them up so blue
+And that nice little lassie, I'll be her lover, too
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+Well, it's over the road, wi' me bag upon me back
+It's over the fields wi' me big haver-sack
+With holes in me shoes and me toes peepin' through
+Singing: Tithery-ump-a-daddy, sure, I'm old Johnny Dhu
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+So now my song is ended and I'll bid you's all good night
+The fires are all raked and it's out with the light
+And now you've heard the story of the old rigadoo
+It's good luck and God be wid you's and to old Johnny, too
+</lines>
+    </verse>
+  </lyrics>
+</song>

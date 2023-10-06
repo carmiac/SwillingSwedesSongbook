@@ -33,4 +33,5 @@ The wind's in the north, there be new moon tonight
 And we have no circle to dance in it's sight
 So light a torch, bring bring the bottle and build the fire bright
 The giant will rise with the moon
+\endverse
 \endsong

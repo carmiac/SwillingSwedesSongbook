@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Gentry Are Sleeping</title>
+    </titles>
+    <tune>The Ants Go Marching</tune>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+The gentry are sleeping one by one, oyez... oyez...,
+The gentry are sleeping one by one, oyez... oyez...,
+The gentry are sleeping one by one,
+And no one is having very much fun,
+And The Gentry are sleeping anywhere they can.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Two by two... It's a terribly period thing to do.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Three by three I think that's MY hand on my knee!
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Four by four On the furniture, on the floor.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Five by five With everybody except their wives.
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+Six by six With (insert name) up to (his/her) usual tricks.
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+Seven by seven I think I've died and gone to heaven.
+</lines>
+    </verse>
+    <verse name="v8">
+      <lines>
+Eight by eight Hurry up (insert name) or you'll be late.
+</lines>
+    </verse>
+    <verse name="v9">
+      <lines>
+Nine by nine I don't know why, it must be the wine.
+</lines>
+    </verse>
+    <verse name="v10">
+      <lines>
+Ten by ten No one's asleep and it's morning again.
+</lines>
+    </verse>
+  </lyrics>
+</song>

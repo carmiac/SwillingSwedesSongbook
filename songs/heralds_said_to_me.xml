@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Heralds Said to Me</title>
+    </titles>
+    <authors>
+      <author> Ioseph~of~Locksley</author>
+      <author>Cherie~Ruadh~of~Locksley </author>
+    </authors>
+    <tune>12 Days of Christmas</tune>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+The first time I sent my device the heralds said to me:
+It violates the Rule of Three
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+The next time I tried it, the heralds said to me:
+We changed the forms, and
+It violates the Rule of Three!
+<comment>...to save space...</comment>
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+The LAST time I sent my device, the heralds said to me:
+Someone else has got it,
+We changed the rules again,
+It's not a period design,
+It's against the Rule of Tincture,
+We changed the rules,
+<comment>In a fast Gregorian Monotone</comment>
+In a decision rendered by the College of Arms
+on August 1'st, A.S. V it was decided that this
+Style of Heraldic Design was not appropriate to
+the aims and intentions of the Corporate Body
+Holy! Holy! Holy!
+<comment>Back to singing</comment>
+We haven't got it,
+We upped the fees,
+We changed the forms, and
+It violates the Rule of Three
+</lines>
+    </verse>
+  </lyrics>
+</song>

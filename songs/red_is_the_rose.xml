@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Red is the Rose</title>
+    </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <verseOrder>v1 c1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Come over the hills, my bonny Irish lass
+Comer over the hills to your darling;
+You choose the rose, love, and I'll make the vow
+And I'll be your true love forever.
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Red is the rose that in yonder garden grows,
+And fair is the lily of the valley;
+Clear is the water that flows from the Boyne
+But my love is fairer than any.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+'Twas down by Killarney's green woods that we strayed
+And the moon and the stars they were shining;
+The moon shone its rays on her locks of golden hair
+And she swore she'd be my love forever.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+It's not for the parting that my sister pains
+It's not for the grief of my mother,
+'Tis all for the loss of my bonny Irish lass
+That my heart is breaking forever.
+</lines>
+    </verse>
+  </lyrics>
+</song>

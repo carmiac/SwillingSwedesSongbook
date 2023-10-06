@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Rearguard's Lament</title>
+    </titles>
+    <authors>
+      <author>Ajed~of~Meridies</author>
+    </authors>
+    <keywords>
+      <keyword>Fly Lady Fly</keyword>
+    </keywords>
+    <verseOrder>v1 v2 c1 v3 v4 c1 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Would there were someone
+To bring me cool water
+Sweet Adam's ale,
+From the ford near to hand.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Would there a priest
+Who could pray me to Heaven
+And tell me milady
+Is safely away.
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Fly Lady fly
+To Castle Caernarvon
+Where the Welsh archers bide
+And thy kin still be strong
+Fly Lady fly
+For the storm's close upon ye
+Think well of the laddie
+Whose life bought ye time
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+My faithful war stallion
+Stands o'er me protective
+To keep away ravens
+And Saracen thieves
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+No more to go hunting
+Or charge into battle
+The service he renders
+The last that I need
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Would there were someone
+To bring me cool water
+Sweet Adam's ale,
+From the ford near to hand.
+</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Gallant Forty Twa</title>
+    </titles>
+    <tune>Pat of Mullingar</tune>
+    <verseOrder>v1 c1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+You may talk about your lancers, or your Irish Fusiliers,
+The Aberdeen Militia or the Queen's Own Volunteers;
+Or any other regiment that's lying far awa'
+Come gie to me the tartan of the gallant Forty Twa.
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+And strolling through the green fields on a summer day
+Watching all the country girls working at the hay,
+I really was delighted and he stole my heart awa'
+When I saw him in the tartan of the gallant Forty Twa.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Oh I never will forget the day his regiment marched past
+The pipes they played a lively tune but my heart was aghast,
+He turned around and smiled farewell and then from far awa'
+He waved at me the tartan of the gallant Forty Twa.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Once again I heard the music of the pipers from afar
+They tramped and tramped, the weary men returning from the war
+And as they nearer drew I brushed a woeful tear awa'
+For me and my braw laddie of the gallant Forty Twa.
+</lines>
+    </verse>
+  </lyrics>
+</song>

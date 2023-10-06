@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Kelly, the Boy from Killanne</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+What's the news? What's the news? O my bold Shelmalier,
+With your long-barrelled gun, from the sea?
+A wind from the south brings a messenger dear
+With a hymn of the dawn for the free?
+&quot;Goodly news, goodly news, do I bring, youth of Forth,
+Goodly news do I bring, Bargy man!
+For the boys march at dawn from the south to the north
+Led by Kelly, the boy from Killanne!&quot;
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Tell me who is the giant with the gold curling hair,
+He who rides at the head of your van
+Seven feet is his height, with some inches to spare
+And he looks like a king in command!
+&quot;Oh, me boys, that's the pride of the bold Shelmaliers,
+&quot;Mongst our greatest of heroes, a man!
+Fling your beavers aloft and your three ringin' cheers
+John Kelly, the boy from Killanne!&quot;
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Enniscorthy's in flames, and old Wexford is won,
+And the Barrow tomorrow we cross.
+On a hill o'er the town we have planted a gun
+That will batter the gateways to Ross!
+All the Forth men and Bargy men march over the heath
+Brave Harvey to lead on the van;
+But the foremost of all in that grim gap of death
+Will be Kelly, the boy from Killanne!
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Now the bold sun of freedom grew darkened at Ross
+And it set by the Slaney's red waves;
+And poor Wexford, stripped naked, hung high on a cross
+With her heart pierced by traitors and slaves!
+Glory O! Glory O! to her brave sons who died
+For the cause of long-down-trodden man!
+Glory O! to mount Leinster's own darling and pride:
+John Kelly, the boy from Killanne!
+</lines>
+    </verse>
+  </lyrics>
+</song>

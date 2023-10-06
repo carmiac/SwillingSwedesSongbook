@@ -1,0 +1,57 @@
+\documentclass[{{papersize}}]{book}
+\usepackage[bookmarks]{hyperref}
+\usepackage[chorded]{songs}
+\usepackage{graphicx}
+\graphicspath{ {./images/} }
+\usepackage[top=2cm, bottom=2cm, inner=3cm, outer = 3cm]{geometry}
+\settowidth{\versenumwidth}{1.\ }
+\pagestyle{empty}
+
+{% for section in sections %}
+\newindex{ {{-section.replace(" ","_")-}}_idx}{ {{-section.replace(" ","_")-}} }
+{% endfor %}
+\newauthorindex{authoridx}{author_index}
+
+\renewcommand*{\familydefault}{\sfdefault}
+
+% Get the titlepage command
+{% if titlepage %}
+\input{ {{-titlepage-}} }
+{% endif %}
+
+\usepackage{etoolbox}
+\patchcmd{\showauthors}{\bfseries}{\itshape\normalsize}{}{}
+
+\begin{document}
+
+% include the front cover
+{% if frontcover %}
+\input{ {{-frontcover-}} }
+{% endif %}
+
+% include the title page
+{% if titlepage %}
+\titleGP 
+{% endif %}
+
+% include the introduction, if there is one configured
+{% if intro %}
+\input{ {{-intro-}} }
+{% endif %}
+
+% then the song indices
+{% for section in sections %}
+\showindex{ {{-section-}} }{ {{-section.replace(" ","_")-}}_idx}
+{% endfor %}
+
+% then the song file
+\input{songfile.sbd}
+
+% author list at the end
+\showindex{Index of Authors}{authoridx}
+
+% include the back cover
+{% if backcover %}
+\input{ {{-backcover-}} }
+{% endif %}
+\end{document}

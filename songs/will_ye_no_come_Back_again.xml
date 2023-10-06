@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Will Ye No Come Back Again?</title>
+    </titles>
+    <authors>
+      <author>Lady Carolina~Oliphant</author>
+    </authors>
+    <verseOrder>v1 c1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Bonnie Charlie's now awa',
+Safely owre the friendly main;
+Mony a heart will break in twa,
+Should he no' come back again.
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Will ye no come back again?
+Will ye no come back again?
+Better lo'ed ye canna be,
+Will ye no come back again?
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Ye trusted in your Hieland men,
+They trusted you, dear Charlie;
+They kent you hiding in the glen.
+Your cleadin' was but barely.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+We watched you in the gloamin' hour,
+We watched thee in the mornin' grey;
+Tho' thirty thousand pounds they'd gie,
+Oh, there was nane that wad betray.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Mony a traitor 'mange the isles
+Brak the band o' nature's laws;
+Mony a traitor wi' his wiles,
+Sought to wear his life awa'.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Many a gallant sodger gaught,
+Mony a gallant chief did fa,
+Death itself were dearly bought,
+A' for Scotland's king and law.
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+Whene'er I hear the blackbird sing,
+Unto the evening sinking down,
+Or merl that makes the wood to ring,
+To me they hae nae other sound.
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+Sweet the lav'rock's note and lang,
+Lilting wildly up the glen;
+And aye the o'er world o' he sang,
+&quot;Will he no' come back again?&quot;
+</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Gone is the Sailor</title>
+    </titles>
+    <authors>
+      <author>Ivor~Cutler</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Home is the sailor, home from the docks
+Bringing home the groceries, and the smell of tar
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Why does the sailor smell of tar, he doesn't drink the bloody stuff?
+Life is full of mysteries, and this is one
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+The sailor is a worried man like everybody else
+Bringing in the washing, and the smell of tar
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+When does the sailor sail his boat, we never see him doing it?
+Life is full of mysteries, and this is two
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Gone is the sailor, gone to the pub
+Ordering a bag of crisps, and a tot of rum
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+Why does the sailor order a bag of crisps, his shaky fingers cannot tear it open
+I've sung about the sailor, and now I'm done
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+Except to sing
+Why does the sailor smell of tar, he doesn't drink the bloody stuff....
+</lines>
+    </verse>
+  </lyrics>
+</song>

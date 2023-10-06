@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>To the Queen</title>
+    </titles>
+    <authors>
+      <author>James~the~Namer</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+No belt have I, nor chain, nor crown
+Nor circlet on my head
+But I seek not for great renown
+Just someplace to lay my head.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+I've raised my swords in wars so vast
+For prizes never seen
+But now I've found a cause at last
+And so my heart does sing
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+I fight these wars because I must
+A fire burns inside
+Sword brothers all, we share a trust
+And so my heart does sing
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+I've fought for friends in wars long past
+Alongside warriors bold
+But true peace has found me at last
+Beneath the Green and Gold
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+The Outlands stands until the end
+Renowned where e'er we're seen
+I fight not just for Glory friends
+I battle for my Queen.
+</lines>
+    </verse>
+  </lyrics>
+</song>

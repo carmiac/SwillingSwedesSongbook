@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Here's a Health</title>
+    </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <keywords>
+      <keyword>Kind friends and companions</keyword>
+    </keywords>
+    <verseOrder>v1 c1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Kind friends and companions, come join me in rhyme
+Come lift up your voices in chorus with mine
+Let's drink and be merry, all grief to refrain
+For we may or might never all meet here again
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Here's a health to the company and one to my lass
+Let's drink and be merry all out of one glass
+Let's drink and be merry, all grief to refrain
+For we may or might never all meet here again
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Here's a health to the wee lass that I love so well
+For kindness and beauty there's none can excel
+She smiles on my countenance as she sits on my knee
+There's no one on this wide world as happy as me
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Our ship lies at anchor, she is ready to dock
+I wish her safe landing without any shock
+And if ever we should meet again, by land or by sea
+I will always remember your kindness to me
+</lines>
+    </verse>
+  </lyrics>
+</song>

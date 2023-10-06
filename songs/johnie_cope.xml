@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Johnnie Cope</title>
+    </titles>
+    <authors>
+      <author>Adam~Skirving</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Hey, Johnnie Cope, are you wauking yet?
+Or are your drums a-beating yet?
+If ye were wauking I wad wait
+To gang to the coals in the morning
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Cope sent a challenge frae Dunbar
+&quot;Charlie meet me an ye daur,
+An I'll learn you the art o' war
+If you'll meet me in the morning&quot;
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+When Charlie looked the letter upon,
+He drew his sword the scabbard from
+&quot;Come follow me, my merry men,
+An' we'll meet Johnnie Cope in the morning!&quot;
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+&quot;Now Johnnie, be as good as your word
+Come, let us try both fire and sword
+And dinna rin like a frightened bird
+That's chased frae it's nest in the morning&quot;
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+When Johnnie Cope he heard of this
+He thought it wad'na be amiss
+To hae his horse in readiness
+To flee awa' in the morning
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+Fly now Johnnie, get up and rin
+The Highlands bagpipes make a din
+It's best to sleep in a hale skin
+For 'Twill be a bluidy morning
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+When Johnnie cope to Dunbar came
+They sneered at him, &quot;Where's a' your men?&quot;
+&quot;The Deil confound me gin I ken
+For I left them a' in the morning
+</lines>
+    </verse>
+    <verse name="v8">
+      <lines>
+Now Johnnie, Troth, ya are na blate
+To come wi' the news o' your ain defeat
+And leave your men in sae a strait
+Sae early in the morning
+</lines>
+    </verse>
+    <verse name="v9">
+      <lines>
+&quot;I' faith&quot; quo Johnnie &quot; I got a fleg
+Wi' their claymores and phillabegs
+If I face them again, Deil break my legs!
+Else I wish you a gud morning&quot;
+</lines>
+    </verse>
+  </lyrics>
+</song>

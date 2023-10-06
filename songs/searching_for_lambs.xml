@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Searching for Lambs</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+As I went out one may morning,
+One may morning betime,
+I met a maid, from home had strayed,
+Just as the sun did shine.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+&quot;What makes you rise so soon, my dear,
+Your journey to pursue?
+Your pretty little feet, they tread so neat.
+Strike off the morning dew.&quot;
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+&quot;I'm going to feed my father's flock,
+His young and tender lambs,
+That over hills and over dales
+Lie waiting for their dams.&quot;
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+&quot;Oh stay, oh stay, you handsome maid,
+And rest a moment here,
+For there is none but you alone
+That I do love so dear.&quot;
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+&quot;How gloriously the sun doth shine,
+How pleasant 'tis the air.
+I'd rather rest on a true love's breast
+Than any other where.&quot;
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+&quot;For I am thine and thou art mine.
+No man shall uncomfort thee.
+We'll join our hands in wedded bands
+And a-married we will be.&quot;
+</lines>
+    </verse>
+  </lyrics>
+</song>

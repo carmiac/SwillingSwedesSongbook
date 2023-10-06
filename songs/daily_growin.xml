@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Daily Growin'</title>
+    </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Trees they grow high, and leaves they do grow green
+Many is the time my true love I've seen
+Many an hour I've watched him run along
+He's young but he's daily growin'
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Father, dear father, you've done me great wrong
+You've married me to a boy who is too young
+'Though I'm twice twelve, he is but fourteen
+He's young but he's daily growin'
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Daughter, dear daughter, I've done you no wrong
+I've married you to a brave lords son
+He'll be a man to you when I'm dead and gone
+He's young but he's daily growin'
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Father, dear father, if you'll see fit
+We'll send my love to college for one year yet
+I'll tie blue ribbons, all around his head
+To let the ladies know, he's mine
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+As I was looking over my fathers castle wall
+Saw the young boys, a playing at the ball
+My own true love was the flower of them all
+He's young but he's daily growin'
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+At the age of fourteen he was a married man
+Age of fifteen he held his son in his hands
+Age of sixteen, on his grave the grass was green
+Cruel Death had put an end to his growin'
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+I make my love a shroud of the Harlan so fine
+Every stitch I put in it the tears come a tricklin' down
+Once I had a true love, but now he is gone
+But I'll watch o'er his son while he's growin'
+</lines>
+    </verse>
+  </lyrics>
+</song>

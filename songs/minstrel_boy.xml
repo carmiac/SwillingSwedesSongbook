@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Minstrel Boy</title>
+    </titles>
+    <authors>
+      <author>Thomas~Moore</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+The minstrel boy to the war is gone
+In the ranks of death you'll find him.
+His father's sword he has girded on
+His wild harp slung behind him.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+&quot;Land of song,&quot; sang the warrior bard,
+&quot;Tho all the world betrays ye,
+One sword at least thy rights shall guard,
+One faithful harp shall praise thee.&quot;
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+The minstrel fell, but the foeman's chains
+could not keep his proud soul under.
+The harp he bore ne'er spoke again
+For he tore its cords asunder...
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+And said &quot;No chains shall sully thee,
+Thou soul of love and bravery,
+Thy songs were made for the pure and free,
+They ne'er shall sound in slavery.&quot;
+</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>A Ballad of Long-Distance Love</title>
+    </titles>
+    <authors>
+      <author>Aisha</author>
+    </authors>
+    <tune>Red River Valley</tune>
+    <keywords>
+      <keyword>Oh my lady is fair as the morning</keyword>
+    </keywords>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Oh my lady is fair as the morning
+oh my lady is sweet as the dew
+But my lady dwells in far Atlantia
+So I'll sleep at Estrella with you
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Oh her smile is as bright as the sunrise
+And her voice like a nightingale's song
+I would fly to her side in an instant
+If the journey were not quite so long
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Oh my lady is gentle and lovely
+Thoughts of her warm my heart, it is true
+But my lady's not here at Outlandish
+So I'll dance by the fire for you
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Oh her laughter is like sweetest music
+And her green eyes like emeralds shine bright
+I am certain that she will be grateful
+That you kept me from freezing last night
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Oh my lady is surely an angel
+Twas pure torture to bid her adieu
+But she could not fly her to this mountain
+So I'll go to the hot springs with you
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+Oh I carry her favor in battle
+For her honor I gladly would die
+But if she can't make it to Pennsic
+I'm not gonna sit down and cry
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+Oh my lady is fair as the morning
+With a voice like a nightingale's song
+I would fly to her side in an instant
+If the journey were not quite so long
+</lines>
+    </verse>
+  </lyrics>
+</song>

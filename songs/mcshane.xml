@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>McShane</title>
+    </titles>
+    <authors>
+      <author>Irish Traditional</author>
+    </authors>
+    <verseOrder>v1 c1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Oh my name is McShane from the plains of Kildare
+Farmer I was, until the last year
+Till I got a notion out by the promotion
+Went over to England to harvest my share
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Rum turalee, rum tur-a-lalley
+Rum turalee, misha tur-a-lie-ay
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+I parted with Molly so blithe and so jolly
+I picked up a stick for a staff in me hand
+To keep myself cheery, for fear I'll grow weary
+I sang as I walked as I marched through the land
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+I landed in England on a bright summers evening
+The lap of the kiltar I held in me hand
+Some of them laughing, and some of them chanting
+And some of them trying to put Paddy away
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+I went to this woman, and I asked her for lodging
+She instantly showed me the bed in the room
+And being so tired and so worn out from walking
+I layed myself down on the bed in the room
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Old Lumpar the Tinker stood up from the corner
+He said &quot;By my soul I will cut off your life&quot;
+Says I &quot;Old Tinker, you know who you're daggin'
+For I'm old McShane from the plains of Kildare&quot;
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+He tried for to fetch me a punch in the stomach
+I instantly nailed him a one in the throat
+He went like a heel over head in the corner
+and cut his old head on a rusty old cot
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+He lay on the floor, like a sheep he was bleeding
+I swore by my soul I would cut off his life
+I lifted him up and sat down for a naggin'
+and me and old Tinker we ended our strife
+</lines>
+    </verse>
+    <verse name="v8">
+      <lines>
+Well my name is McShane from the plains of Kildare
+Farmer I was until the last year
+Till I got a notion out by the promotion
+Went over to England to harvest my share
+</lines>
+    </verse>
+  </lyrics>
+</song>

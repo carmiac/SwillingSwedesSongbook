@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Ye Mariners All</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Ye Mariners all as ye pass by
+Come in and drink if you are dry
+Come spend my lads your money brisk
+And pop your nose in a jug of this
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Oh Mariners all as ye part the ground
+You're welcome all for to sit down
+Come spend my lads your money brisk
+And pop your nose in a jug of this
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Oh Tipplers all as you pass by
+Come in and drink if you are dry
+Come in and drink, think not amiss
+And pop your nose in a jug of this
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+And now I'm old and can scarcely crawl
+I've a long grey beard and a head that's bald
+From my desire, fulfill my bliss
+A pretty girl, and a jug of this
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+And when I'm in my grave and dead
+And all my sorrows have past and fled
+Transform me then into a fish
+And let me swim in a jug of this
+</lines>
+    </verse>
+  </lyrics>
+</song>

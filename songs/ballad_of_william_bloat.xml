@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Ballad of William Bloat</title>
+    </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+In a mean abode on the Skankill Road
+Lived a man named William Bloat;
+He had a wife, the curse of his life,
+Who continually got his goat.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+So one day at dawn, with her nightdress on
+He cut her bloody throat.
+With a razor gash he settled her hash
+Oh never was crime so quick
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+But the drip drip drip on the pillowslip'
+Of her lifeblood made him sick.
+And the pool of gore on the bedroom floor
+Grew clotted and cold and thick.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Now he was glad he had done what he had
+When she lay there stiff and still
+But a sudden awe of the angry law
+Struck his heart with an icy chill.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+So to finish the fun so well begun
+He decided himself to kill.
+He took the sheet from his wife's coul' feet
+And twisted it into a rope
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+And he hanged himself from the pantry shelf,
+'Twas an easy end, let's hope.
+In the face of death with his latest breath
+He solemnly cursed the Pope.
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+But the strangest turn to the whole concern
+Is only just beginning.
+He went to Hell but his wife got well
+And she's still alive and sinning
+For the razor blade was English made
+But the sheet was Belfast linen.
+</lines>
+    </verse>
+  </lyrics>
+</song>

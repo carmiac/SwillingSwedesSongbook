@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Haul Away Joe</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+When I was a little boy,
+so me mother told me, Tammy.
+Way haul away, we'll haul away Joe.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+That if I did not kiss the girls,
+my lips would all grow moldy Tammy
+Way haul away, we'll haul away Joe.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Now way haul away, the good ship now is rolling Tammy
+Way haul away, we'll haul away Joe.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+King Louis was the king of France,
+before the rev-o-lu-shy-ann
+Way haul away, we'll haul away Joe.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+And then he got his head cut off,
+it spoiled his-con-sti-tu-shy-ann.
+Way haul away, we'll haul away Joe.
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+Now first I met a Yankee girl
+and she was fat and lazy, Tammy
+Way haul away, we'll haul away Joe.
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+And then I met an Irish girl,
+she damn near drove me crazy
+Way haul away, we'll haul away Joe.
+</lines>
+    </verse>
+    <verse name="v8">
+      <lines>
+Now way haul away, we're bound for better weather Tammy.
+Way haul away, we'll haul away Joe.
+</lines>
+    </verse>
+  </lyrics>
+</song>

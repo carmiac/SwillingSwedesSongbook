@@ -1,0 +1,9 @@
+\newcommand{\tuneof}{}
+\newsongkey{tune}{\def\tuneof{}}
+                {\def\tuneof{Tune: #1\par}}
+                
+\renewcommand{\extendprelude}{
+ %{\itshape\normalsize}
+  \showrefs\showauthors
+  {\itshape\normalsize\tuneof}
+}

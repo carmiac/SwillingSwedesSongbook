@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Flowers in the Valley</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3 v4 c2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+There was a woman, oh but she was a widow
+Fair as the flowers in the valley
+With a daughter as fair as a fray sunny meadow
+The red and the green and the yellow
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+No harp, no lute, nor pipe nor flute nor cymbal
+As sweet grows the treble violin
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+This maiden so fair and the flower so rare
+Together they grew in the valley
+Oh, then came this knight all dressed in red
+Fair as the flowers in the valley
+&quot;Thou art my bride&quot;, I'll say, &quot;thou as thee said&quot;
+The red and the green and the yellow
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+&quot;Oh no&quot; said she &quot;Oh thou'st never win me&quot;
+As fair as the flowers in the valley
+Oh, then came this knight all dressed in green
+Fair as the flowers in the valley
+&quot;Thou must be, I see thou as my queen&quot;
+The red and the green and the yellow
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+&quot;Oh no&quot; said she &quot;Oh thou'st never win me&quot;
+As fair as the flowers in the valley
+Oh, then came this knight all dressed in yellow
+Fair as the flowers in the valley
+&quot;Thou art my love and my bride&quot; said he
+The red and the green and the yellow
+</lines>
+    </verse>
+    <verse name="c2">
+      <lines>
+&quot;I'll come&quot; said she &quot;I'll go with thee&quot;
+Farewell to the flowers in the valley
+</lines>
+    </verse>
+  </lyrics>
+</song>

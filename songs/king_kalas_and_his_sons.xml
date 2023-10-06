@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>King Kalas and his Sons</title>
+    </titles>
+    <verseOrder>c1 v1 c2 v2 c3 v3 c4 v4 c5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>
+King Kalas had four sons,
+And four sons had he,
+And they rambled around
+In the northern countrie
+And they rambled around
+Without ever a care.
+The Hound and the Bull
+And the Cat and the Bear.
+</lines>
+    </verse>
+    <verse name="v1">
+      <lines>
+The Hound was a hunter,
+The Hound was a spy,
+The Hound could shoot down
+Any bird on the fly.
+The Hound was out hunting
+When brought down was he
+Alone as he rambled
+The northern countrie.
+</lines>
+    </verse>
+    <verse name="c2">
+      <lines>
+King Kalas had three sons,
+And three sons had he,
+And they rambled around
+In the northern countrie
+And they rambled around
+Without ever a care.
+And they were the Bull
+And the Cat and the Bear.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+The Bull was a gorer,
+The Bull was a knight,
+And never a man who would
+Run from a fight.
+The Bull was out fighting
+When brought down was he
+Alone as he rambled
+The northern countrie.
+</lines>
+    </verse>
+    <verse name="c3">
+      <lines>
+King Kalas had two sons,
+And two sons had he,
+And they rambled around
+In the northern countrie
+And they rambled around
+Without ever a care.
+And the names they were called
+Were the Cat and the Bear.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+The Cat was a shadow,
+The Cat was a snare,
+Sometimes you knew not
+When the Cat was right there.
+The Cat was out hiding
+When brought down was he
+Alone as he rambled
+The northern countrie.
+</lines>
+    </verse>
+    <verse name="c4">
+      <lines>
+King Kalas had one son,
+And one son had he,
+And he rambled around in the northern countrie.
+And he rambled around without ever a care,
+And the name he went under
+Was Kalas' Bear.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+The Bear was a bully,
+The Bear was a brag,
+His mouth was brimmed over
+With bluster and swag.
+The Bear was out boasting
+When brought down was he
+Alone as he rambled
+The northern countrie.
+</lines>
+    </verse>
+    <verse name="c5">
+      <lines>
+King Kalas had no sons,
+And no sons had he,
+To ramble around
+In the northern countrie.
+Though late in the evening
+The ghosts are seen there
+Of the Hound and the Bull
+And the Cat and the Bear.
+</lines>
+    </verse>
+  </lyrics>
+</song>

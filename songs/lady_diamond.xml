@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Lady Diamond</title>
+    </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <verseOrder>v1 v2 c1 v3 v4 v5 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+There was a lord who lived in the north country
+He was a man of wealth and fame
+He only had one child, a child but only one
+And Lady Diamond was her name
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+She did not love a lord, she did not love a king
+She loved a kitchen boy and William was his name
+And though he brought her joy, he also brought her shame
+And he gave his heart to Lady Diamond
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+And his hair shined like gold said Lady Diamond
+And his eyes like crystal stone said Lady Diamond
+Bright as the silver moon
+Bright as the sun that shines
+On Lady Diamond
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+It was a winters night, the Lord could get no rest
+To Lady Diamond's room he came
+He sat down on the bed just like a wandering ghost
+Now Lady Diamond tell me plain
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Do you Love a lord, he said, or do you love a king?
+I love a kitchen boy and William is his name
+And better a love that boy then all your well dressed men
+I love his heart, said Lady Diamond
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Where are all my men, he said, that I pay meat and fee
+Go fetch the kitchen boy and bring him here to me
+They dragged him from the house and hung him on a tree
+And they gave his heart to Lady Diamond
+</lines>
+    </verse>
+  </lyrics>
+</song>

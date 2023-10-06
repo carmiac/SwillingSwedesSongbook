@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Bored on the List Field</title>
+    </titles>
+    <authors>
+      <author>Andrew~Scarhart</author>
+      <author>Othar~Morganson</author>
+    </authors>
+    <tune>Born on the List Field</tune>
+    <verseOrder>v1 c1 v2 c2 v3 c3 v4 c4</verseOrder>
+  </properties>
+  <comment>With apologies to Ivar Battleskald</comment>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Once came a warrior,
+Fresh from the bar;
+Reeling, before his king he came;
+When he had risen, he was still drunk
+And these words he slurred unto his king:
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+I was bored on the list field,
+I got smashed at the war
+And the booze has been flowing all night;
+Though some say my wits will grow rusted and dull,
+I will drink like a mad dog tonight.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+The king's men were pissed off,
+They all drew their swords,
+Ready to beat up this rude knight,
+But the king wouldn't let them, 'cause he was drunk too
+And these words he said unto his men:
+</lines>
+    </verse>
+    <verse name="c2">
+      <lines>
+You were bored on the list field,
+You got smashed at the war
+And the booze will be flowing all night;
+Though some say your wits will grow rusted and dull,
+You must party like mad dogs tonight.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+The king's men were rallied,
+They all drained their cups;
+Calling for more, they soon were drunk;
+When off in the distance they heard their ladies' call
+And they sang this song as they did flee:
+</lines>
+    </verse>
+    <verse name="c3">
+      <lines>
+We were bored on the list field,
+We got smashed at the war
+And the booze has been flowing all night;
+Though some say our wits will grow rusted and dull,
+We will drink all the Mad Dog tonight.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+All through the night, then,
+The king's men did drink;
+By dawn, they looked distinctly green;
+Though their bodies were on the list field,
+Their heads were spinning round
+And they groaned this song as they did hurl:
+</lines>
+    </verse>
+    <verse name="c4">
+      <lines>
+We were bored on the list field,
+We got smashed at the war
+And the booze (it) kept flowing all night;
+Though it's true our wits have grown rusted and dull,
+We partied like good knights last night.
+</lines>
+    </verse>
+  </lyrics>
+</song>

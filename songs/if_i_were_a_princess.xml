@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>If I Were A Princess</title>
+    </titles>
+    <tune>If I Were A Rich Man</tune>
+    <verseOrder>c1 v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>
+All day long I'd sit upon my throne,
+Watching all the peasants carry on. Ha.
+</lines>
+    </verse>
+    <verse name="v1">
+      <lines>
+If I were a princess- La Da Da Da Da Da etc.
+There would be a dozen virile knights
+Fighting for my favor and my song.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+They'd come to court and give me all sorts of presents
+Trinkets and lovely things to eat.
+Then they'd bow and curtsey when I pass by.
+They'd work so hard to please me hoping that I would
+Tell them that their lives were now complete.
+But I'd just keep them groveling at my feet. Ha!
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+But since I'm not a princess- La Da Da Da Da Da etc.
+No one ever looks my way,
+I'm the one who toils night and day
+And I'll never hear the gentles say,
+&quot;Oh, your highness have a lovely day.&quot;
+</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Ballad of Langbrow</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+When Langbrow first was made the king,
+Proclaimed by all his men,
+He took to him a goodly wife
+Whose name was Whitsom Jen.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+He took to him a goodly wife,
+Her name it was sweet Jen
+And light her hair, and long her limb,
+And Langbrow was her man,
+And Langbrow was her man.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+When Langbrow first was made the king,
+Proclaimed by all his peers,
+He opened up the prison gates
+That had been closed for years.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+He opened up the prison gates
+With just one little key
+And all the men condemned within
+Straightways were all set free
+Straightways were all set free.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+When Langbrow first was made the king,
+He killed the callous crew
+That tortured many a fine woman
+And slaughtered not a few.
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+That tortured many a fine woman
+And brought them many a shame
+Till Langbrow came to rescue them
+Returning their good name,
+Returning their good name.
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+When Langbrow first was made the king,
+The country did rejoice
+And sang the praises of the king
+With cup and wine and voice.
+We sang the praises of the king
+</lines>
+    </verse>
+    <verse name="v8">
+      <lines>
+And of his Whitsom Jen
+And of the men who followed him,
+And also the women,
+And also the women!
+</lines>
+    </verse>
+  </lyrics>
+</song>

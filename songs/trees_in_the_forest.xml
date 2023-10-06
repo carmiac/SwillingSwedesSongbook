@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Trees in the Forest</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Of all the green jerkin and all in green gown
+The trees in the forest they all bear the crown,
+The trees in the forest are cradle and hall,
+The trees in the forest are fairest of all.
+</lines>
+    </verse>
+  </lyrics>
+</song>

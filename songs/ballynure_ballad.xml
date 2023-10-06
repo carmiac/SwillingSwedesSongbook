@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Ballynure Ballad</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+As I was goin' to Ballynure,
+The day I will remember,
+For to view the lads and lasses on
+The fifth day of November,
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+With a ma-ring-doo-a-day,
+With a ma-ring-a-doo-a-daddy oh!
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+As I was goin' along the road
+When homeward I was walking.
+I hear a wee lad behind a ditch-a
+To his wee lass was talking,
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Said the wee lad to the wee lass,
+&quot;Oh will ye let me kiss ye,
+For it's I have got the cordial eye
+That far exceeds the whiskey.&quot;
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+This cordial that ye talk about
+There's very few o' them gets it,
+For there's nothin' now but crooked combs
+And muslin gowns can catch it.
+</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Wandering Bard</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Chill the wintry winds were blowing,
+Foul the murky night was snowing,
+Through the storm the minstrel, bowing,
+Sought the inn on yonder moor.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+All within was warm and cheery,
+All without was cold and dreary,
+There the wand'rer, old and weary,
+Thought to pass the night secure.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Softly rose his mournful ditty,
+Suiting to his tale of pity;
+But the master, scoffing, witty,
+Check'd Inns strain with scornful jeer:
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+&quot;Hoary vagrant, frequent comer,
+Canst thou guide thy gains of summer?--
+No, thou old intruding thrummer,
+Thou canst have no lodging here.&quot;
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Slow the bard departed, sighing;
+Wounded worth forbade replying;
+One last feeble effort trying,
+Faint he sunk no more to rise.
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+Through his harp the breeze sharp ringing,
+Wild his dying dirge was singing,
+While his soul, from insult springing,
+Sought its mansion in the skies.
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+Now, though wintry winds be blowing,
+Night be foul, with raining, snowing,
+Still the trav'ller, that way going,
+Shuns the inn upon the moor
+</lines>
+    </verse>
+    <verse name="v8">
+      <lines>
+Though within 'tis warm and cheery,
+Though without 'tis cold and dreary,
+Still he minds the minstrel weary,
+Spurn'd from that unfriendly door.
+</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Parting Glass</title>
+    </titles>
+    <authors>
+      <author>Irish Traditional</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Of all the money ere I had, I spent it in good company,
+And all the harm I've ever done, alas was done to none but me
+and all I've done for want of wit, to memory now I can't recall
+so fill me to the parting glass, goodnight and joy be with you all.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Of all the comrades ere I had, they're sorry for my going away,
+and all the sweethearts ere I had, they wish me one more day to stay,
+but since it falls unto my lot that I should go and you should not,
+I'll gently rise and softly call, goodnight and joy be with you all.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+If I had money enough to spend and leisure time to sit awhile
+there is a fair maid in this town who sorely has my heart beguiled.
+Her rosy cheeks and ruby lips, I alone she has my heart in thrall
+so fill me to the parting glass goodnight and joy be with you all.
+</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Harp That Once Through Tara's Halls</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+The harp that once though Tara's halls, the soul of music shed,
+now hangs as mute on Tara's walls as if that soul were fled.
+So speaks the pride of former days, so glory's thrill is o'er
+and hearts that one beat high for praise, now feel that pulse no more.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+No more to chiefs and ladies bright the harp of Tara swells.
+The chord alone that breaks at night its tale of ruin tells.
+Thus freedom now so seldom wakes the only throb she gives,
+is when some heart indignant breaks, to show that still she lives.
+</lines>
+    </verse>
+  </lyrics>
+</song>

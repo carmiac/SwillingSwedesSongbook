@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Chill Eastern Winds</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Prepare you sweet flowers, for winter advances
+And drink well the sunlight that touches your form
+Draw strength from the Earth, and repay her with beauty
+For the dark days are comin', oh, and they'll do y' harm
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+When the chill eastern winds replace summer breezes
+And the long summer days are remembered no more
+Then you'll know how it feels when a woman's love changes
+When at last she has told you she loves you no more
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+I saw her today when she walked with her new love
+In all the fine places that we'd walked before
+They kissed by the rocks where she told me she loved me
+And soon she'll be using those same words once more
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+There's none that could blame me for wanting her beauty
+But it lies like a snowflake in the hands of a child
+When the warmth of my love tried to reach out and hold her
+It's then she was gone, to prove she's still wild
+</lines>
+    </verse>
+  </lyrics>
+</song>

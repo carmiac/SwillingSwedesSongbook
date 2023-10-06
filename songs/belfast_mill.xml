@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Belfast Mill</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+On the east end of town, by the foot of the hill
+There's a chimney so tall, says Belfast Mill
+But there's no smoke at all comin' out of the stack
+For the mill has shut down, and it's never comin' back
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+And the only tune I hear is the sound of the wind
+As she blows through the town, we then spin, we then spin
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+There's no children playin' down the dark lonely streets
+For the mill has shut down, so quiet I can't sleep
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+The mill has shut down, 'twas the only life I know
+Tell me where will I go, tell me where will I go
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Well I'm to old to work, and I'm too young to die
+Tell me where will I go, my family and I
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+At the east end of town, by the foot of the hill
+There's a chimney so tall, says Belfast Mill
+But there's no smoke at all comin' out of the stack
+For the mill has shut down, and it's never comin' back
+</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>My Irish Molly-O</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Molly dear now did you hear, the news that's goin' round?
+Down in a corner of my heart, a love is what you've found. And
+Every time I look into your Irish eyes so blue. They
+seem to whisper 'Darling boy, my love is all for you.' Oh,
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Molly, my Irish Molly, my sweet acushla
+dear I'm fairly off my trolley, my Irish
+Molly, When you are near. Springtime, you know is
+ring time. Come dear and don't be slow,
+Change your name, go out with game,
+Begora wouldn't I do the same
+my Irish Molly O!
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Molly dear now did you hear I furnished up the flat.
+Three little cozy rooms with bath and a 'Welcome' on the mat.
+It's five pounds down and two a week, we'll soon be out of debt.
+It's all complete except, they haven't brought the cradle yet.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Molly dear now did you hear what all the neighbors say.
+About the hundred sovereigns you have safely stowed away.
+They say that's why I love you. Ah but Molly that's a shame
+If you had only ninety-nine I'd love you just the same.
+</lines>
+    </verse>
+  </lyrics>
+</song>

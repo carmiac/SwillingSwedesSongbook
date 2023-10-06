@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Highland Clearances </title>
+    </titles>
+    <authors>
+      <author>Andy~Stewart</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Ah, for the glens are lyin' bare,
+And the wee bit farm deserted,
+And the woods of Germany,
+Grows in rows o'er the broken hearted.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Black is the wood on the roofance was braw
+But blacker still is your heart, Victoria,
+Sent your men untae our glens
+You'll need the Good Lord lookin' o'er ye.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Many hae gane tae Americay
+You burnt their hames and garred them wander
+Gor a' would have stayed wi' the deil himsel'
+As bide an hour wi' the cruel Gillanders.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Ah, for the glens are lyin' bare
+And the wee bit farm deserted
+And the woods of Germany
+Grows on rows o'er the broken hearted.
+</lines>
+    </verse>
+  </lyrics>
+</song>

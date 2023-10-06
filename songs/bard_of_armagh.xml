@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Bard of Armagh</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Oh! List to the lay of a poor Irish Harper
+And scorn not the strains of his old withered hand,
+But remember those fingers they could once move more sharper
+To raise the merry strains of his dear native land.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+It was long before the shamrock, our green isle's loved emblem,
+Was crushed in it's beauty 'neath the Saxon Lion's Paw
+I was called by the colleens of the village and the valley
+Bold Phelim Brady the Bard Of Armagh.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+How I long for to muse on the days of my boyhood,
+Though four score and three years has flitted since then,
+Still it gives sweet reflections, as every young joy should,
+That the merry-hearted boys make the best of old men.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+At a pattern or a fair I could twist my shillelagh
+Or trip through a jig with my brogues bound with straw,
+Whilst all the pretty maidens around me assembled loved
+Bold Phelim Brady the Bard of Armagh.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Although I have traveled this wide world over,
+Yet Eire's my Home and a parent to me,
+Then, oh, Let the ground that my old bones shall cover
+Be cut from the soil that is trod by the free.
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+And when Sergeant Death in his cold arms shall embrace me,
+O, lull me to sleep with sweet Erin go bragh,
+By the side of my Kathleen, my young wife, O place me, then
+Forget Phelim Brady the Bard of Armagh.
+</lines>
+    </verse>
+  </lyrics>
+</song>

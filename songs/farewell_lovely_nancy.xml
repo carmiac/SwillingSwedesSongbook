@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Farewell Lovely Nancy</title>
+    </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Oh, farewell, lovely Nancy, for now I must leave you
+To the south bonny seas I am bound for to go
+And though we are parted, my love be true hearted
+For I will return in the spring as you know
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+And she says, like a sea boy, I will dress and go with you
+In the midst of all your dangers, your friend I'll remain
+And in the cold stormy weather, when the winds they are a' blowin'
+I'll always be ready for to beef your top sail
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Oh you delicate fingers, they can't handle our tackle
+Your delicate feet to our top mast cannot go
+And your lovely behind love, it would freeze in the whiling gale
+I'd have you on shore when the winds they do blow
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+So farewell lovely Nancy, for now I must leave you
+To the south bonny seas my course I do steer
+But though we are parted, my love be true hearted
+For I will return in the spring of the year
+</lines>
+    </verse>
+  </lyrics>
+</song>

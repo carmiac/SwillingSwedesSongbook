@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Wassail All Over The Town</title>
+    </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Wassail and wassail all over the town,
+The cup it is white and the ale it is brown;
+The cup it is made of the good old ashen tree,
+And so is our beer of the best barley.
+To you a wassail!
+Aye, and joy come to our jolly wassail.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+O maid, O maid, with your silver-headed pin,
+Pray open the door and let us all in,
+All for to fill our wassail-bowl and so away again.
+To you a wassail!
+Aye, and joy come to our jolly wassail.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+O maid, O maid, with your glove and your mace,
+Pray come unto this door and show your pretty face,
+For we are truly weary of standing in this place.
+To you a wassail!
+Aye, and joy come to our jolly wassail.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+O master and mistress, if you are so well pleased
+Pray set all on your table your white bread and your cheese,
+And put forth your roast beef, your porridges and your pies.
+To you a wassail!
+Aye, and joy come to our jolly wassail.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+O master and mistress, if we've done any harm,
+Pray pull fast this door and let us pass along,
+And give us hearty thanks for singing of our song.
+To you a wassail!
+Aye, and joy come to our jolly wassail.
+</lines>
+    </verse>
+  </lyrics>
+</song>

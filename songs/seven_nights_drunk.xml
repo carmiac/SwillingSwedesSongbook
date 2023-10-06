@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Seven Nights Drunk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+When I came home on Monday night, as drunk as drunk could be
+I saw a horse outside the door, where my old horse should be
+So I called my wife, (audience shouts: HEY WIFE!)
+And I said to her, would you kindly tell to me
+Who owns that horse outside my door, where my old horse should be?
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Oh, you're drunk, you drunk, you silly old fool,
+Can't you plainly see?
+That's a lovely sow that my mother sent to me
+Well it's many a day I've traveled, a hundred miles or more
+But a saddle on a sow I've never seen before!
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+When I came home on Tuesday night......etc.
+Saw a coat behind the door......etc.
+Who owns that coat.....
+...that's a lovely blanket...
+...But buttons on a blanket....etc.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+When I came home on Wednesday night.....etc.
+I saw a pipe upon the chair, where my old pipe should be...etc.
+....Who owns that pipe.....
+...That's a lovely tin-whistle that my mother sent to me!
+...But tobacco in a tin-whistle I've never seen before!
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+When I came home on Thursday night......etc.
+I saw two boots beneath the bed.......etc.
+...Who owns those boots.......etc.
+...They're two geranium-pots...etc.
+...But laces in geranium-pots....etc.
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+When I came home on Friday night......etc...
+Saw a head upon the bed......etc.
+....Who owns that head.........etc.
+...That's a baby boy...etc.
+...but whiskers on a baby boy...etc.
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+When I came home on Saturday night....etc.
+Saw a rise beneath the sheets.....etc.
+....Who owns that rise......
+...It's nothing but a shillelagh...etc.
+...But knackers on a shillelagh....etc.
+</lines>
+    </verse>
+    <verse name="v8">
+      <lines>
+When I came home on Sunday night...etc.
+I saw a man walk out the door, a little after three! (shout: A.M.!)
+....Who was that man......after three (shout: A.M.!)
+...That's an English tax-man....etc.
+...But an Englishman that could last till three....etc.
+</lines>
+    </verse>
+  </lyrics>
+</song>

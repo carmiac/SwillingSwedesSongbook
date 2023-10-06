@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>King of the Fairies</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Up the airy mountain down the rushy glen
+we darn't go a hunting for fear of little men.
+Wee folk, good folk trooping all together
+green jacket, red cap, and white owl's feather.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+By the craggy hillside through the mosses bare
+they've planted thorn trees for pleasure here and there.
+Is any man so daring as to dig them up in spite
+he'll find their sharpest thorns in his bed at night.
+</lines>
+    </verse>
+  </lyrics>
+</song>

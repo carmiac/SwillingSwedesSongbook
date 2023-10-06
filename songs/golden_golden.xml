@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Golden, Golden</title>
+    </titles>
+    <authors>
+      <author>Andy~Stewart</author>
+    </authors>
+    <verseOrder>v1 c1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Slowly, slowly, walk the path,
+And you might never stumble or fall
+Slowly, slowly walk the path,
+And you might never find love at all
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Golden golden is her hair
+Like the mornin' sun, o'er the fields of corn
+Golden, golden flows her love,
+So sweet, and clean, and warm
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Lonely, lonely, is the heart
+That ne'er another can call it's own
+Lonely, lonely is the heart
+That has to live all alone
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Wildly, wildly, beats the heart
+With a rush of love like a mountain stream
+Wildly, wildly, play your part
+As free as a wild bird dreams
+</lines>
+    </verse>
+  </lyrics>
+</song>

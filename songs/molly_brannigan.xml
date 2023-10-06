@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Molly Brannigan</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Ma'am dear, did ye never hear of pretty Molly Brannigan?
+In troth, then, she's left me and I'll never be a man again.
+Not a spot on my hide will a summer's sun e'er tan again
+Since Molly's gone and left me here alone for to die.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+The place where my heart was you'd aisy rowl a turnip in,
+'Tis large as all Dublin, and from Dublin to the Divil's glen:
+If she'd wish'd to take another, sure she might have left mine back again
+And not have gone and left me here alone for to die.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Ma'am dear, I remember when the milking time was past and gone
+We strolled thro' the meadow, and she swore I was the only one
+That ever she could love, but oh! the base and cruel one,
+For all I that she's left me here alone for to die.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Ma'am dear, I remember when coming home the rain began,
+I wrapt my frieze-coat round her and ne'er a waistcoat had I on
+And my shirt was rather fine-drawn, but oh! the false and cruel one,
+For all that she's left me here alone for to die.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+The left side of my carcase is as weak as water gruel, ma'am,
+There's not a pick upon my bones, since Molly's proved so cruel ma'am
+Oh! if I had a blunder gun, I'd go and fight a duel, ma'am,
+For sure I'd better shoot myself than live here to die.
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+I'm cool an' determined as any salamander, ma'am,
+Won't you come to my wake when I go the long meander, ma'am?
+I'll think myself as valiant as the famous Alexander, ma'am
+When I hear ye cryin' o'er me, &quot;Arrah! why did ye die?&quot;
+</lines>
+    </verse>
+  </lyrics>
+</song>

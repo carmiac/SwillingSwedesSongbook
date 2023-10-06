@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Whiskey in the Jar</title>
+    </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <verseOrder>v1 c1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+As I was going over the far famed Kerry mountains
+I met with Captain Farrell and his money he was counting.
+I first produced my pistol, and then produced my rapier.
+Said stand and deliver, for I am a bold deceiver,
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+musha ring dumma do damma da
+whack for the daddy 'ol
+whack for the daddy 'ol
+there's whiskey in the jar
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+I counted out his money, and it made a pretty penny.
+I put it in my pocket and I took it home to Jenny.
+She said and she swore, that she never would deceive me,
+but the devil take that woman, for she never could be easy
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+I went into my chamber, all for to take a slumber,
+I dreamt of gold and jewels and for sure it was no wonder.
+But Jenny took my charges and she filled them up with water,
+Then sent for Captain Farrel to be ready for the slaughter.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+It was early in the morning, as I rose up for travel,
+The guards were all around me and likewise Captain Farrel.
+I first produced my pistol, for she stole away my rapier,
+But I couldn't shoot the water so a prisoner I was taken.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+If anyone can aid me, it's my brother in the army,
+If I can find his station down in Cork or in Killarney.
+And if he'll come and save me, we'll go roving near Kilkenny,
+And I swear he'll treat me better than me darling sporting Jenny
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+Now some men take delight in the drinking and the roving,
+But others take delight in the gambling and the smoking.
+But I take delight in the juice of the barley,
+And courting pretty fair maids in the morning bright and early
+</lines>
+    </verse>
+  </lyrics>
+</song>

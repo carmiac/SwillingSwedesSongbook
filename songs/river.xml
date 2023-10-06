@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The River</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Quiet days upon the river
+Quiet times in the shipping trade
+No more freighters to deliver
+No more tankers to be made
+Blow of hammer gone forever
+Clash of metal, squeal and din
+No more wailing of the hooter
+Flushing out a thousand men
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+They can't bring back this old shipbuilding
+No returning to your fathers ways
+But these reminders by the water
+Linger on from yesterday
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Rows of slipways stand forgotten
+Empty yards with rotten frames
+Silent quays lie abandoned
+They once were busy in better days
+This old shipbuilding gone forever
+No more flags on launching day
+Days of pride and days of sorrow
+Were they as golden as they say
+</lines>
+    </verse>
+    <verse name="c2">
+      <lines>
+Quiet days upon the river
+Quiet times upon the quay
+High above a seagull passes
+Down the river and out towards the sea
+</lines>
+    </verse>
+  </lyrics>
+</song>

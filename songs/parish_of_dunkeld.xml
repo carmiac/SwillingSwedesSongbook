@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Parish of Dunkeld</title>
+    </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <tune>Bonny Dundee</tune>
+    <verseOrder>c1 v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>
+Oh, what a parish, a terrible parish;
+Oh, what a parish is that at Dunkeld.
+They hangit their minister, drooned the precentot,
+Dang doon the steeple and druken the bell.
+</lines>
+    </verse>
+    <verse name="v1">
+      <lines>
+The steeple was doon but the kirk was still stannin',
+They biggit a lum whar the bell used to hang.
+A still-pot they got and they brewed hielan' whisky;
+On Sunday they drank it and ranted and sang.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+O, had you but seen how graceful they lookit,
+To see the crammed pews so socially joined.
+MacDonell the piper stood up in the pulpit,
+He made the pipes skirl out the music divine.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Wi' whiskey and beer they would curse and they'd swear;
+They'd argue and fecht [wi' ye done] will tell.
+But Geordie and Charlie they [bothered fer] early
+Wi' whiskey they're worse than the devil himsel'.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+When the hairt-cheerin' spirit had mounted their garrets,
+Tae a ball on the green they a' did adjourn.
+The maids wi' coats kilted they skippit and lilted,
+When tired they shook hands and then hame did return.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Wad the kirks a' of Scotland held like social meetings
+Nae warning ye'd need from a far-tinklin' bell,
+For true love and friends would draw you thegether
+Far better than roarin' the horrors o' hell.
+</lines>
+    </verse>
+  </lyrics>
+</song>

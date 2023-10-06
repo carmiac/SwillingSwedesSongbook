@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Heart and the Crown</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+They rode into town
+On the thirteenth of Spring.
+She have him her hand
+And he gave her his ring.
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+She gave him her heart
+And he gave her his crown,
+But they never, no never
+Went down derry down derry down.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Her horse was pure white
+And his horse was gray
+She wanted to go
+But he asked her to stay.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Her eyes were pure black
+And his eyes were so blue.
+She wanted him strong
+And he wanted her true.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Come all ye fair maidens,
+And listen to me,
+If you want your young man
+To be strong and free
+</lines>
+    </verse>
+    <verse name="c2">
+      <lines>
+Just give him your heart
+And he'll give you his crown
+Just as long as you never
+Go down derry down derry down.
+</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>General Taylor</title>
+    </titles>
+    <authors>
+      <author>Great Big Sea</author>
+    </authors>
+    <verseOrder>v1 c1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Well General Taylor gained the day
+Walk him along, John, Carry him along
+Well General Taylor he gained the day
+Carry him to his bury'n ground
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Tell me where you're stormy
+Walk him along, John, carry him along
+Tell me where you're stormy
+Carry him to his bury'n ground
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+We'll dig his grave with a silver spade
+Walk him along, John, Carry him along
+His shroud of the finest silk will be made
+Carry him to his bury'n ground
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+We'll lower him down on a golden chain
+Walk him along, John, Carry him along
+On every inch we'll carve his name
+Carry him to his bury'n ground
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+General Taylor he's all the go
+Walk him along, John, Carry him along
+He's gone where the stormy winds won't blow
+Carry him to his bury'n ground
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+General Taylor he's dead and he's gone
+Walk him along, John, Carry him along
+Well General Taylor he's long dead and gone
+Carry him to his bury'n ground
+<comment>Chorus x2</comment>
+</lines>
+    </verse>
+  </lyrics>
+</song>

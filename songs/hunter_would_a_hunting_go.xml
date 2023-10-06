@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Hunter Would a Hunting Go</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+The keeper would a hunting go,
+And under his coat he carried a bow,
+All for to shoot at the merry little doe,
+Among the leaves so green, O
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Jackie bo! Master? Sing ye well?
+Very well.
+Hey down! Ho down!
+Derry derry down!
+Among the leaves so green, O.
+To my hey down!
+To my ho, down, down!
+Hey down!
+Ho down!
+Derry derry down.
+Among the leaves so green, O!
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+The first doe he shot at he missed
+The second one he trimmed and kissed.
+The third one went where nobody wist,
+Among the leaves so green, O!
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+The forth doe, she did cross the plain
+The keeper fetched her back again.
+Where she is now she may remain,
+Among the leaves so green, O!
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+The fifth doe, she did cross the brook
+The keeper fetched her back with his crook.
+Where she is now, you must go look,
+Among the leaves so green, O!
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+The sixth doe she ran over the plain,
+But he with his hounds did turn her again,
+And it's there he did hunt in a merry, merry vein,
+Among the leaves so green, O!
+</lines>
+    </verse>
+  </lyrics>
+</song>

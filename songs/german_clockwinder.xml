@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>A German Clockwinder</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+A German clockwinder to Dublin once came
+Benjamin Fuchs was the old German's name
+And as he was winding his way 'round the strand
+He played on his flute and the music was grand
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Too-ra-lam-a-lam-a, Too-ra-lam-a-lam-a Too-ra-li-ay
+Too-ra-li Oo-ra-li Oo-ra-li-ay
+Too-ra-lam-a-lam-a, Too-ra-lam-a-lam-a Too-ra-li-ay
+Too-ra-li Oo-ra-li Oo-ra-li-ay
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+There was a young lady from Grovenor Square
+Who said that her clock was in need of repair
+In walked the German and to her delight
+In less than five minutes, he had her clock right
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+And as they were sitting right down on the floor
+There came a very loud knock on the door
+In walked her husband and great was his shock
+To see the old German wind up his wife's clock
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Then says her husband, &quot;Look here Mary Ann,
+Don't let that old German come in here again.
+He wound up your clock and left mine on the shelf.
+If your old clock needs winding I'll do it myself!&quot;
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Then says the German, &quot;Sure I meant you no harm,
+But the spring wouldn't work in your old wife's alarm.
+I pulled out me oil can and I gave it a squirt;
+If you keep it well-oiled, your wife's clock will work!&quot;
+</lines>
+    </verse>
+  </lyrics>
+</song>

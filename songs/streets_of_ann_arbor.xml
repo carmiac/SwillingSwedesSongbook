@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Streets of Ann Arbor</title>
+    </titles>
+    <authors>
+      <author>W.J.~Bethancourt~III </author>
+    </authors>
+    <tune>Streets of Laredo</tune>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+As I walked out thru the streets of Ann Arbor
+As I walked out thru Ann Arbor one day
+I spied a young Mongol all dressed in white linen
+All dressed in white linen and cold as the clay
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+I then spied another, done in on the sidewalk
+Along with just about six dozen more
+Their wounds were all gaping, from mace and from broadsword
+From claymore and cannon, all dripping with gore
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+What caused this grave carnage, I cried to the Mongols
+Oh pray what's the reason for this awful sight
+My answer came slowly from under the corpse-pile
+&quot;It seems that our bark is much worse than our bite.....&quot;
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+The answer continued from pale lips a-shaking
+We sang all our songs and believed them as true
+The Dark Horde could never be beaten in battle
+We thought this was what all good Mongols could do...
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+We went down to Atenveldt all for to plunder
+&quot;Too large to defend&quot; was our song every night
+But Atenveldt's different from East, West or Middle
+There, even the bushes have learned how to bite!
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+The Clann stole our ponies, the Scraelings our foodstuffs
+We ran into axes in Viking hands
+Our maidens ran off with one Richard of Arkham
+And we're all that's left to return to our lands
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+MacChluarains and Monsters, Lockehaven and Foxmoor
+That Kingdom is BIG and its fighters are MEAN!
+We fought and we lost, and fled back to Ann Arbor
+We all came back home with results that you've seen
+</lines>
+    </verse>
+    <verse name="v8">
+      <lines>
+Keep away from that land with its cactus and marshes
+It's no place for Mongols who are bent on War
+They count their blows well, but they strike them yet better
+He crawled into his Yurt, and fell, dead, on the floor.....
+</lines>
+    </verse>
+  </lyrics>
+</song>

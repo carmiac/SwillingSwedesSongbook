@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Queen of Argyll</title>
+    </titles>
+    <authors>
+      <author>Andy~Stewart</author>
+    </authors>
+    <verseOrder>v1 c1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Gentlemen, it is my duty to inform you of one beauty
+Though I'd ask of you a favor, no to seek her for a while
+I own she is a creature of character and feature
+No words can paint the picture of the Queen of all Argyll!
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+And if you could have seen her there!
+Boys, if you had just been there!
+The swan was in her movement and the morning in her smile
+All the roses in the garden they bow and ask her pardon
+For not one could match the beauty of the Queen of all Argyll!
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+On the evening that I mentioned, I passed with light intention
+Through a part of our dear country known for beauty and for style
+Bein' a place of noble thinkers, of scholars and great drinkers
+But above them all for splendor shone the Queen of all Argyll!
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+So, m'lads I needs must leave you, my intention's not to grieve you
+Nor indeed would I deceive you, no, I'll see you in a while
+I must find some way to gain her, to court her and to tame her
+I fear my heart's in danger from the Queen of all Argyll!
+</lines>
+    </verse>
+  </lyrics>
+</song>

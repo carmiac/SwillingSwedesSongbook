@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Sumer Is Icumen In</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <comment>Middle English</comment>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Sumer is icumen in
+Lhude sing cuccu
+Groweth sed
+and bloweth med
+and springth the wde nu
+Sing cuccu
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Awe bleteth after lomb
+lhouth after calue cu
+Bulluc sterteth
+bucke uerteth
+murie sing cuccu
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Cuccu cuccu
+Wel singes thu cuccu
+ne swik thu nauer nu
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Sing cuccu nu
+Sing cuccu
+Sing cuccu
+Sing cuccu nu
+<comment>Modern English</comment>
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Summer is a comin' in,
+Loudly sing, cuckoo!
+The seed is growing
+And the meadow is blooming,
+And the wood is coming into leaf now,
+Sing, cuckoo!
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+The ewe is bleating after her lamb,
+The cow is lowing after her calf;
+The bullock is prancing,
+The billy-goat farting,
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+Sing merrily, cuckoo!
+Cuckoo, cuckoo,
+You sing well, cuckoo,
+Never stop now.
+</lines>
+    </verse>
+    <verse name="v8">
+      <lines>
+Sing, cuckoo, now; sing, cuckoo;
+Sing, cuckoo; sing, cuckoo, now!
+</lines>
+    </verse>
+  </lyrics>
+</song>

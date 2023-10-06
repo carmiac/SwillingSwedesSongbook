@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Magpie</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+The magpie is a most illustrious bird,
+Dwells in a diamond tree,
+One brings sorrow and one brings joy,
+Sorrow and joy for me.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+The magpie is a most royal bird,
+Black and blue as night,
+Would that I had feathers three,
+Black and blue and white.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Two magpies alighted on a rampart ledge,
+Just as the sun broke red,
+The siege is over and my lord returns,
+But my brother in the field lays dead,
+My brother in the field lays dead.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+I saw the gentle magpie birds,
+In dusky yester eve,
+One brought sorrow and one brought joy,
+And sooner than soon did leave,
+Brought sorrow and joy for me,
+Sorrow and joy for me.
+</lines>
+    </verse>
+  </lyrics>
+</song>

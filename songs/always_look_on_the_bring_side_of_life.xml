@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Always Look On The Bright Side Of Life </title>
+    </titles>
+    <authors>
+      <author>Monty~Python</author>
+    </authors>
+    <verseOrder>v1 c1 v2 c2 v3 c3 v4 c4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Cheer up, Brian. You know what they say.
+Some things in life are bad
+They can really make you mad
+Other things just make you swear and curse
+When you're chewing on life's gristle
+Don't grumble, give a whistle
+And this'll help things turn out for the best...
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+And......always look on the bright side of life
+(whistle)
+Always look on the bright side of life...
+(whistle)
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+If life seems jolly rotten
+There's something you've forgotten
+And that's to laugh and smile and dance and sing,
+When you're feeling in the dumps,
+Don't be silly chumps
+Just purse your lips and whistle--that's the thing.
+</lines>
+    </verse>
+    <verse name="c2">
+      <lines>
+And...always look on the bright side of life...
+(whistle)
+Always look on the right side of life...
+(whistle)
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+For life is quite absurd
+And death's the final word
+You must always face the curtain with a bow
+Forget about your sin--give the audiences a grin
+Enjoy it--it's your last chance anyhow.
+</lines>
+    </verse>
+    <verse name="c3">
+      <lines>
+So always look on the bright side of death
+Just before you draw your terminal breath
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Life's a piece of shit
+When you look at it
+Life's a laugh and death's a joke, it's true,
+You'll see it's all a show,
+Keep 'em laughing as you go
+Just remember that the last laugh is on you.
+</lines>
+    </verse>
+    <verse name="c4">
+      <lines>
+And always look on the bright side of life...
+Always look on the right side of life
+</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Pelican's Wing</title>
+    </titles>
+    <authors>
+      <author>Thomas~Winterbourne~of~Ghent</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 c1 v5 v6 v7 v8 c1 v9 v10 v11 v12</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+<comment>Repeat the second and fourth lines for each verse</comment>
+I left home when I was fifteen
+Oh mother now pray for me
+Me and Old Tom took to the sea
+On the good ship Pelican's Wing
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+The days were long but the nights were warm
+And we sailed through the winds of the summer storms
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+First we made for the shores of France
+With a load of silk and a girl who danced
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Then we made for the English land
+We were there three days, then we sailed again
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+She was a swift-sailed trader with a merry crew
+I liked each man and the captain too
+And when the work was done we would laugh and sing
+On the good ship Pelican's Wing
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+We were six days out of Bristol town
+When Davy spied a sail that was bearing down
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+The captain said &quot;Oh lads, I fear
+We've come across the flag of a privateer.&quot;
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+So we raised our mains and we made to run
+We were a peace-time trader and we had few guns
+</lines>
+    </verse>
+    <verse name="v8">
+      <lines>
+But though we flew over the ocean wave
+The other ship caught us in just one day
+</lines>
+    </verse>
+    <verse name="v9">
+      <lines>
+They came at us with dawn's first light
+And we readied ourselves and we made to fight
+</lines>
+    </verse>
+    <verse name="v10">
+      <lines>
+Old Tom died with steel in his hand
+And my other friends followed, nigh to the man
+</lines>
+    </verse>
+    <verse name="v11">
+      <lines>
+But they left me here upon this rock
+With a piece of bread wrapped in old sailcloth
+</lines>
+    </verse>
+    <verse name="v12">
+      <lines>
+But they left me no water for the heat of the day
+And I could hear them laughing as they sailed away
+</lines>
+    </verse>
+  </lyrics>
+</song>

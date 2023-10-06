@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Hamster Song</title>
+    </titles>
+    <authors>
+      <author>Chrystofer~Kensor</author>
+      <author>Andrixios~Seljukroctonis</author>
+    </authors>
+    <tune>Ballad of the Green Berets</tune>
+    <keywords>
+      <keyword>The Fighting Hamsters of Calontir </keyword>
+    </keywords>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Fighting hamsters from the sky
+Some will live and some will die
+Hamsters have nothing to fear
+The fighting hamsters of Calontir
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Silver tape upon their backs
+A broadsword is all they lack
+Fifty hamsters fight a war
+They won't win without fifty more
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Trained by jumping off a roof
+Trained in combat tooth to tooth
+Hamsters fight both far and near
+The fighting hamsters of Calontir
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Riding high upon our helms
+Their war cry it overwhelms
+All opponents become weak
+At their fearsome squeaky squeak
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Back at home Paval waits
+His fighting hamster has met its fate
+He has died while drinking beer
+The fighting hamsters of Calontir
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+Once again its off to war
+This time we number a dozen more
+We will fight for those in need
+so this year it's with Caid
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+Fighting hamsters jump from planes
+Fighting hamsters fall like rain
+Some will live but most will die
+Stupid creatures cannot fly
+</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>I Sing of Dead Bunnies</title>
+    </titles>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+    <tune>Sweet Betsy From Pike</tune>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+I sing of dead bunnies, and burnt baby chicks
+Barbecued squirrels, and hamsters on sticks
+Ducklings in blenders, and frogs off the road
+Opossums on fenders and deep french-fried toad!
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Sliced and diced sparrows, dead dogs on the lawn
+Cats riddled with arrows, and disemboweled faun
+Pickled canaries, and clubbed baby seals
+Mice served in berries, and turtles 'neath wheels
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Minced baby earwigs, koala fillet
+Rat Pie with custard, and cockroach puree
+Fred's little brother, and Mystery Beast:
+These are the things that they served at the Feast!
+</lines>
+    </verse>
+  </lyrics>
+</song>

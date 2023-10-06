@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Come Out Ye Black and Tans</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+I was born on a Dublin street where the Royal drums do beat
+And the loving English feet they tramped all over us
+And each and every night when me father'd come home tight
+He'd invite the neighbors outside with this chorus.
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Oh, come out you black and tans
+Come out and fight me like a man
+Show your wife how you won medals down in Flanders
+Tell them how the IRA made you run like hell away
+From the green and lovely lanes in Killashandra.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Come let me hear you tell how you slammed the great Pernell
+When you fought them well and truly persecuted
+Where are the smears and jeers that you bravely let us hear
+When our heroes of sixteen were executed.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Come tell us how you slew those brave Arabs two by two
+Like the Zulu's they had spears and bows and arrows
+How you bravely slew each one with your sixteen pounder gun
+And you frightened them poor natives to their marrow.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+The day is coming fast and the time is here at last
+When each yeoman will be cast aside before us
+And if there be a need sure my kids will sing God speed
+With a verse or two of Steven Beehan's chorus.
+</lines>
+    </verse>
+  </lyrics>
+</song>

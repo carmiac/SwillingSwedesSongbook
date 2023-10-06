@@ -1,4 +1,4 @@
-# SwillingSweedesSongbook
+# SwillingSwedesSongbook
 
 This is a songbook from my days in the SCA at the College of St. Golias.
 
@@ -16,7 +16,7 @@ If you want to be able to build it yourself, keep reading. It is tested in Windo
    * Complete songs package for LaTeX from http://songs.sourceforge.net/
 * OSX
    * MacTeX, from http://www.tug.org/mactex/
-* Linux (untested, but it should work)
+* Linux 
    * TeX Live, from http://www.tug.org/texlive/
 
 **Building**

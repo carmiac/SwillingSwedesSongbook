@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Twelve Rounds of the Tourney \\ I want to be Queen</title>
+    </titles>
+    <authors>
+      <author>Arron~Reynard</author>
+    </authors>
+    <tune>12 Days of Christmas</tune>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+On the first round of the tourney,
+My true love said to me,
+I... Want to be Queen!î
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+On the second round of the tourney,
+My true love said to me,
+I want a Tudor Step-up!î
+and
+I... want to be Queen!î
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+On the third round of the tourney,
+My true love said to me,
+Don't mess up the favor!î
+I want a Tudor Step-up!î
+and...
+I.. Want to be Queen!î
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+<comment>...to save space...</comment>
+On the twelfth round of the tourney,
+My true love said to me,
+Is Commondopolous the best you can do?î
+I can't stand the pressure!î
+We'll banish him at Twelfth Night.î
+Princess would've been nicer.î
+My membership's in question.î
+Merchant's Row's still open!î
+What's a Guildmarion?î
+It's only a scratch!î
+I missed your forth round fight.î
+Don't mess up the favor!î
+I want a Tudor Step-up!î
+and...
+I... Want to be Queen!î
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+On the ride homeward,
+My true love said to me,
+We'll get ëem at the March Crown!î
+</lines>
+    </verse>
+  </lyrics>
+</song>

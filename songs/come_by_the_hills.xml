@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Come by the Hills</title>
+    </titles>
+    <authors>
+      <author>Gordon~Smith</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Come by the hills to the land where fancy is free
+And stand where the peaks meet the sky and the lochs meet the sea
+Where the rivers run clear and the bracken is gold in the sun
+Ah, the cares of to-morrow can wait 'til this day is done
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Oh, come by the hills to the land where life is a song
+And sing while the birds fill the air with their joy all day long
+Where the trees sway in time and even the wind sings in tune
+Ah, the cares of to-morrow can wait 'til this day is done
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Come by the hills to the land where legend re-mains
+Where stories of old fill the heart and may yet come a-gain
+Where our past has been lost and the future has still to be won
+Ah, the cares of to-morrow can wait 'til this day is done
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Come by the hills to the land where fancy is free
+And stand where the peaks meet the sky and the lochs meet the sea
+Where the rivers run clear and the bracken is gold in the sun
+Ah, the cares of to-morrow can wait 'til this day is done
+</lines>
+    </verse>
+  </lyrics>
+</song>

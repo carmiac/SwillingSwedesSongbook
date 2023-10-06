@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Three Jolly Coachmen</title>
+    </titles>
+    <authors>
+      <author>Modern Traditional</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Three jolly coachmen sat in an English Tavern
+Three jolly coachmen sat in an English Tavern
+And they decided, and they decided, and they decided
+To have another flagon
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Landlord fill the flowing bowl until it doth run over
+Landlord fill the flowing bowl until it doth run over
+For tonight we'll merry be, for tonight we'll merry be, for tonight we'll merry be
+Tomorrow we'll be sober
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Here's to the man who drinks water pure and goes to bed quite sober
+Here's to the man who drinks water pure and goes to bed quite sober
+Falls as the leaves do fall, falls as the leaves do fall, falls as the leaves do fall
+He'll die before October
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Here's to the man who drinks dark ale and goes to bed quite mellow
+Here's to the man who drinks dark ale and goes to bed quite mellow
+Lives as he ought to live, lives as he ought to live, lives as he ought to live
+And dies a jolly good fellow
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Here's to the maid who steals a kiss and runs to tell her mother
+Here's to the maid who steals a kiss and runs to tell her mother
+She's a foolish foolish girl, she's a foolish foolish girl, she's a foolish foolish girl
+For she'll not get another
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+Here's to the maid who steals a kiss and stays to steal another
+Here's to the maid who steals a kiss and stays to steal another
+She's a boon to all mankind, she's a boon to all mankind, she's a boon to all mankind
+For she'll soon be a mother
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+Here's to the man who goes to battle wearing lots of armor
+Here's to the man who goes to battle wearing lots of armor
+Sweats as the pigs do sweat, sweats as the pigs do sweat, sweats as the pigs do sweat
+To ladies he's no charmer
+</lines>
+    </verse>
+    <verse name="v8">
+      <lines>
+Here's to the man who goes to fight with nothing but his woad on
+Here's to the man who goes to fight with nothing but his woad on
+He's a sight for all to see, he's a sight for all to see, he's a sight for all to see
+For he's got nothing sewed on!
+</lines>
+    </verse>
+  </lyrics>
+</song>

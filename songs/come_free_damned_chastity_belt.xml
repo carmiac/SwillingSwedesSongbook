@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Come Free, Damned Chastity Belt</title>
+    </titles>
+    <authors>
+      <author> Odd~Celts~of St.~Golias</author>
+    </authors>
+    <tune>Swing Low Sweet Chariot</tune>
+    <verseOrder>c1 v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>
+Come free, damned chastity belt
+Keepin' me from where I wanna go
+Come free, damned chastity belt
+Quick before her husband comes home
+</lines>
+    </verse>
+    <verse name="v1">
+      <lines>
+I gazed at her body, an' what did I see
+Keepin me from where I wanna be
+That cruel contraption lookin' back at me
+Where did he hide that key!
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+I searched high and low for that damned key
+Where in the hell could it be?
+I've got a hard on stiff as a tree
+I've got to get that damned thing free!!
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+I looked out the window and over the lea
+Past the cliff out leagues three
+Her husbands vessel comin' in from sea
+Pretty soon I'll have to flee
+</lines>
+    </verse>
+  </lyrics>
+</song>

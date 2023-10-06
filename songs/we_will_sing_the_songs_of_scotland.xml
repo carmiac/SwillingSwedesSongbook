@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>We Will Sing the Songs of Scotland</title>
+    </titles>
+    <verseOrder>c1 c2 v1 v2 c2 c2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>
+We will sing the songs of Scotland
+Now that we are gathered here
+We will sing the songs of Scotland,
+Oh this land we hold so dear
+</lines>
+    </verse>
+    <verse name="c2">
+      <lines>
+Of the Hielan's and the Lowlands,
+We will sing them all and then
+Just because we love them,
+We will sing them all again
+</lines>
+    </verse>
+    <verse name="v1">
+      <lines>
+There are stirring, spirit songs of war
+Where we march the gallant man
+There are songs of hearth and home
+Of the mountain and the glen
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+There are songs of joy to make us glad
+And song of sadness too
+And sweet the songs of love
+And they all belong to you
+</lines>
+    </verse>
+  </lyrics>
+</song>

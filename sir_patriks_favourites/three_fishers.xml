@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Three Fishers</title>
+    </titles>
+    <authors>
+      <author>Stan Rogers</author>
+    </authors>
+    <verseOrder>v1 c1 v2 c2 v3 c3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Three fishers went sailing out into the west
+Out into the west as the sun went down
+Each thought on the woman that loved him the best, and
+The children stood watching them out of the town
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+For men must work and women must weep
+For there's little to earn and many to keep, and
+The harbour bar be moanin', and
+The harbour bar be moanin'
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Three wives sat up in the lighthouse tower
+They trimmed the lamps as the sun went down, and
+They looked at the squall and they looked at the shower, and
+The night-wrack came rollin' in, ragged and brown
+</lines>
+    </verse>
+    <verse name="c2">
+      <lines>
+For men must work and women must weep
+Though storms be sud - den and the waters be deep, and
+The harbour bar be moanin', and
+The Harbour bar be moanin'
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Three corpses lay out on the shining sand
+In the morning gleam as the tide went down, and
+The women were weepin' and wringin' their hands
+For those who would never come back to the town
+</lines>
+    </verse>
+    <verse name="c3">
+      <lines>
+For men must work and women must weep, and
+The sooner it's over, the sooner to sleep, and
+Good - bye to the bar and its moanin', and
+Good - bye to the bar and it's moanin'
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Oh men must work and women must weep, and
+The sooner it's over, the sooner to sleep, and
+Good - bye to the bar and its moanin', and
+Good - bye to the bar and it's moanin'
+</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Johnny Be Fair</title>
+    </titles>
+    <authors>
+      <author>Buffy~St.~Marie</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+O Johnny be fair and Johnny be fine and wants me for to wed,
+And I would marry Johnny, but me father up and said:
+&quot;I'm sad to tell you daughter what your mother never knew,
+That Johnny is a son of mine and so is kin to you&quot;'.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+O Billy be fair and Billy be fine...
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+O Michael be fair and Michael be fine...
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+You never saw a sorrier lass, or sadder, than I was,
+A-kin to every lad in town, me father is the cause!
+If things should thus continue I will die a single miss,
+So I should run to mother and complain to her of this!
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Now haven't I told you daughter to forgive and to forget?
+For though your father's sown his wild oats, you needn't fret,
+He may have sired every single lad in town, but still,
+He's not the one who sired YOU so marry who you will!
+</lines>
+    </verse>
+  </lyrics>
+</song>

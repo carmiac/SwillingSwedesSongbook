@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Come Ye Women</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+O come ye women of the isles,
+And listen to my song,
+For if ye be but thirteen years ye not be women long.
+And if ye be three score and ten,
+No longer women be,
+Or so say all the merry men
+Who count so cruelly,
+Who count so cruelly.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+But women we be from our birth
+And will be till we die,
+Our count is made so differently
+To give the men that lie.
+O come, ye women of the Isles,
+And listen to my song,
+For we be women all through life,
+Where life and love are long,
+Where life and love are long.
+</lines>
+    </verse>
+  </lyrics>
+</song>

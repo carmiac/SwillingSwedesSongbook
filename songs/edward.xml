@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Edward </title>
+    </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <verseOrder>v1 c1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+What's that blood on your sword Edward?
+It is the blood of my greyhound
+Your greyhound's blood was never that red Edward
+You're telling lies, you're telling lies
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+And the sun will never shine Edward
+And the moon has lost it's light
+And the sun will never shine Edward
+You're telling lies, you're telling lies
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+What's that blood upon your sword Edward?
+It is the blood of my grey mare
+Your grey mare's blood was never that grey Edward
+You're telling lies, you're telling lies
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+What's that blood upon your sword Edward?
+It is the blood of my grey hawk
+Your grey hawk's blood was never that grey Edward
+You're telling lies you're telling lies
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+What's that blood on your sword Edward?
+It is the blood of my brother
+Why did you kill your own brother Edward?
+For telling lies, for telling lies
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+What will you do, where will you go Edward?
+What will you do, how will you die?
+I'll sail away, I'll sail away Mother
+And you'll never see more of me
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+What of your wife, what of your son, Edward?
+And what will you leave your mother dear?
+The curse of Hell to burn her with Mother
+For telling lies, for telling lies
+</lines>
+    </verse>
+  </lyrics>
+</song>

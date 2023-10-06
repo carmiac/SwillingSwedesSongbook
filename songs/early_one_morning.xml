@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Early One Morning</title>
+    </titles>
+    <authors>
+      <author>English Traditional</author>
+    </authors>
+    <verseOrder>v1 c1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Early one morning,
+Just as the sun was rising,
+I heard a maid sing,
+In the valley below.
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Oh, don't deceive me,
+Oh, never leave me,
+How could you use
+A poor maiden so?
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Remember the vows,
+That you made to your Mary,
+Remember the bower,
+Where you vowed to be true,
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Thus sang the poor maiden,
+Her sorrows bewailing,
+Thus sang the poor maid,
+In the valley below.
+</lines>
+    </verse>
+  </lyrics>
+</song>

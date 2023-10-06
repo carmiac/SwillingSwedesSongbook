@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Donald, Where's Yuir Trowsers?</title>
+    </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <verseOrder>c1 v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>
+Let the winds blow high, let the winds blow low
+Through the street in me kilt I go
+All the lassies say hello
+Donald where's yuir trowsers?
+</lines>
+    </verse>
+    <verse name="v1">
+      <lines>
+I just came down from the Isle of Skye
+I'm no very big, and I'm awfully shy
+The lassies say as I go by
+Donald where's yuir trowsers?
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+A lassie took me to a ball
+And it was slippery in the hall
+And I feared that I might fall
+Cause I had on me trowsers!
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Now I went down to London town
+To have some fun on the underground
+The lassies turned their heads around
+Said, Donald where's yuir trowsers?
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Ah wearin' the kilt is mighty light
+It is not wrong I know it's right
+The islanders would get a fright
+If they saw me in my trowsers
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+The lassies love me every one
+They have to catch me if they can
+They can't take the breeks off a Heilan' man
+Sayin' Donald where's yuir trowsers?
+</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Bridget O'Malley</title>
+    </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Oh Bridget O'Malley you left my heart shaken
+With a hopeless desolation I'd have you to know
+It's the wonders of admiration your quiet face has taken
+And your beauty will haunt me wherever I go
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+The white Moon above the pale sands, the pale stars above the thorn tree
+Are cold beside my darling but no purer than she
+I gaze upon the cold moon, till the stars drown in the warm sea
+And the bright eyes of my darling are never on me
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+My Sunday is weary, my Sunday it is grey now
+My heart is a cold thing, my heart is a stone
+All joy is dead in me, my life has gone away now
+Another has taken my love for his own
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+The day it is approaching, when we were to be married
+And it's rather I would die than live only to grieve
+Oh meet me my darling ere the sunsets o'er the barley
+And I'll meet you there on the road to Drumsleey
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Oh Bridget O'Malley you left my heart shaken
+With a hopeless desolation I'd have you to know
+It's the wonders of admiration your quiet face has taken
+And your beauty will haunt me wherever I go
+</lines>
+    </verse>
+  </lyrics>
+</song>

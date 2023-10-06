@@ -38,4 +38,3 @@ But, by jingo, next election I will run for Trinity!
 \endverse
 \textnote{Chorus}
 \endsong
-perl ./install-tl --no-interaction

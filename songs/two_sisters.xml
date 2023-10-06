@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Two Sisters</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+There were two sisters side by side,
+Sing I dum and sing I day.
+There were two sisters side by side,
+The boys are bound for me.
+There were two sisters side by side,
+The eldest for young Johnny cried.
+I'll be true unto my love, if he'll be true to me.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Johnny bought the youngest a gay gold ring,
+Sing I dum and sing I day.
+Johnny bought the youngest a gay gold ring,
+The boys are bound for me.
+Johnny bought the youngest a gay gold ring,
+He never bought the eldest a single thing.
+I'll be true unto my love, if he'll be true to me.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Johnny bought the youngest a beaver hat,
+The eldest didn't think much of that.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+As they were a walkin' by the foamy brim,
+The eldest pushed the youngest in.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Sister, oh, sister give me thy hand,
+And you can have Johnny and all his land.
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+Oh, sister I'll not give you my hand,
+And I'll have Johnny and all his land.
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+So away she sank and away she swam,
+Until she came to the miller's dam.
+</lines>
+    </verse>
+    <verse name="v8">
+      <lines>
+The miller he took her gay gold ring,
+And then he pushed her in again.
+</lines>
+    </verse>
+    <verse name="v9">
+      <lines>
+The miller he was hanged on the mountain head,
+The eldest sister was burned and dead.
+</lines>
+    </verse>
+  </lyrics>
+</song>

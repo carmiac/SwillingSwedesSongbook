@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Bonnie Earl Of Moray</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Ye Hielands and ye lowlands,
+Oh, where hae ye been?
+They have slain the Earl of Moray,
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+And they laid him on the green
+They have slain the Earl of Moray,
+And they laid him on the green.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Now woe be to thee, Huntley!
+And wherefore did you say?
+I bade you bring him wi' you,
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+But forbade you him to slay.
+I bade you bring him wi' you,
+But forbade you him to slay.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+He was a braw gallant,
+And he rode at the ring;
+And the bonny Earl of Moray,
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+Oh, he might have been a king.
+And the bonny Earl of Moray,
+Oh, he might have been a king.
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+He was a graw gallant,
+And he play'd at the ba';
+And the bonny Earl of Moray
+</lines>
+    </verse>
+    <verse name="v8">
+      <lines>
+Was the flower among them a'.
+And the bonny Earl of Moray
+Was the flower among them a'.
+</lines>
+    </verse>
+    <verse name="v9">
+      <lines>
+He was a braw gallant,
+And he play's at the glove;
+And the bonny Earl of Moray,
+</lines>
+    </verse>
+    <verse name="v10">
+      <lines>
+Oh, he was the Queen's love.
+And the bonny Earl of Moray,
+Oh, he was the Queen's love.
+</lines>
+    </verse>
+    <verse name="v11">
+      <lines>
+Oh! Long will his lady
+Look o'er the castle down
+Ere she see the Earl of Moray
+</lines>
+    </verse>
+    <verse name="v12">
+      <lines>
+Come sounding through the town.
+Ere she see the Earl of Moray
+Come sounding through the town.
+</lines>
+    </verse>
+  </lyrics>
+</song>

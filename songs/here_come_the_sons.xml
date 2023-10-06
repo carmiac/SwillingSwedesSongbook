@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Here Come the Sons</title>
+    </titles>
+    <authors>
+      <author>Koshka</author>
+    </authors>
+    <tune>Here Comes the Sun - The Beatles</tune>
+    <verseOrder>c1 v1 c1 v2 c1 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>
+Here comes the Sons, do do do do
+Here come the Sons, And I say - - Let's fight!
+</lines>
+    </verse>
+    <verse name="v1">
+      <lines>
+Count Christian, it' s been a long, cold, lonely winter
+Tiger Lad, it seems like years since we' ve been here
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Obadiah, I see the blood is amply flowing
+Swanman, it feels like years since I killed a peer
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Sons, Sons, Sons, here they come
+Sons, Sons, Sons, here they come
+Sons, Sons, Sons, here they come
+Sons, Sons, Sons, here they come
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Beerslayer, we see that they have been retreating
+Lord Corwin, it seems like years since we've been feared
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Sons, Sons, Sons, here they come
+Sons, Sons, Sons, here they come
+</lines>
+    </verse>
+  </lyrics>
+</song>

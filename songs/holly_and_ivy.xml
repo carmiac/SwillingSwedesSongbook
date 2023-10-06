@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Holly and the Ivy</title>
+    </titles>
+    <authors>
+      <author>English Traditional</author>
+    </authors>
+    <verseOrder>v1 c1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+The holly and the ivy,
+When they are both full grown,
+Of all trees that are in the wood,
+The holly bears the crown
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+O, the rising of the sun,
+And the running of the deer
+The playing of the merry organ,
+Sweet singing in the choir.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+The holly bears a blossom,
+As white as lily flow'r,
+And Mary bore sweet Jesus Christ,
+To be our dear Saviour
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+The holly bears a berry,
+As red as any blood,
+And Mary bore sweet Jesus Christ,
+To do poor sinners good
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+The holly bears a prickle,
+As sharp as any thorn,
+And Mary bore sweet Jesus Christ,
+On Christmas Day in the morn
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+The holly bears a bark,
+As bitter as the gall,
+And Mary bore sweet Jesus Christ,
+For to redeem us all
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+The holly and the ivy,
+When they are both full grown,
+Of all trees that are in the wood,
+The holly bears the crown
+</lines>
+    </verse>
+  </lyrics>
+</song>

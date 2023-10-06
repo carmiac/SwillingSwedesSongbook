@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Song of a Forgotten God </title>
+    </titles>
+    <authors>
+      <author>Tawnee~Darkfalcon</author>
+      <author>Scarhart</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Where have all my children gone?
+It didn't seem I'd slept so long.
+All the beauty's gone away;
+It was here just yesterday.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Butterflies no longer sing,
+Faerie bells no longer ring.
+Gone the dancers of the mist;
+Mortals whom the gods once kissed.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+No more riders in the sky.
+Never more shall dragons fly.
+Stranger can you tell me why
+All I've ever loved has died?
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Who are you who walk this land?
+Death is happy in your hand.
+You pretend that I'm not real,
+Not believing what you feel.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+I'm tempted to strike you down,
+Don again my crystal crown;
+Take you back to yesterday...
+But, instead, I think I'll just go away....
+</lines>
+    </verse>
+  </lyrics>
+</song>

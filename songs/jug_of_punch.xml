@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Jug of Punch</title>
+    </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <verseOrder>v1 c1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+One pleasant evening in the month of June
+As I was sitting with my glass and spoon
+A small bird sat on an ivy bunch
+And the song he sang was the jug of punch
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Too-ra-loo-ra-loo, too-ra-loo-ra-lay
+Too-ra-loo-ra-loo, too-ra-loo-ra-lay
+(Last two lines of verse)
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+What more diversion can a man desire
+Than to sit him down by an ale house fire
+Upon his knee a pretty wench
+Aye, and on the table a jug of punch
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Let the doctors come with all their art
+They'll make no impression upon my heart
+Even the cripple forgets his hunch
+When he's snug outside of a jug of punch
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Well if I get drunk sure the money's me own
+And them don't like me they can leave me alone
+I'll tune my fiddle and I'll rosin my bow
+And I'll be welcome wherever I go
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+And when I'm dead now and in my grave
+No costly tombstone will I crave
+Just lay me down in my native peat
+With a jug of punch at my head and feet
+</lines>
+    </verse>
+  </lyrics>
+</song>

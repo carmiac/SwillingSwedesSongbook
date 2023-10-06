@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>A Touch of Autumn</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+A touch of autumn fill the air
+A tender softness everywhere
+And golden mornings everywhere
+Are calling,
+Can you hear?
+</lines>
+    </verse>
+  </lyrics>
+</song>

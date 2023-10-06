@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>A Cautionary Tale</title>
+    </titles>
+    <authors>
+      <author>Adellind~le~Quintain</author>
+    </authors>
+    <tune>Red is the Rose</tune>
+    <verseOrder>v1 c1 v2 v3 c1 v4 v5 c1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Well, come sit ye down, and I'll tell you a tale
+It concerns what goes on 'tween lads and lasses
+'Tis a good thing to learn for any canny lass
+And when I am done you will thank me.
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Red is yer nose as on yer face it grows
+And red is me face as I sit here
+And red is the hand does the spankin' in this land
+But my arse is redder than any!
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+&quot;Now come to the bed, me bonnie little wife,
+And we'll have a bit of slap-and-tickle.
+And willing I went and well was I served
+But 'twas then that I made my great blunder.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+&quot;Oh, Johnnie, my love, your lovin' has no peer&quot;
+And truer words were never spoken
+But Robbie's the name of my duly wedded lord
+And John is the name of my lover.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Then up from the bed, me husband bolted up
+And great was his rage as he shouted,
+&quot;Now how is it, wife that ye call another's name,
+When I should be all that ye think of?&quot;
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+My tale now is done, as I shift from cheek to cheek
+The lesson I learned is quite simple;
+If ye canna hold your tongue when ye're lyin' with a man,
+'Tis best ye remain ever faithful!
+</lines>
+    </verse>
+  </lyrics>
+</song>

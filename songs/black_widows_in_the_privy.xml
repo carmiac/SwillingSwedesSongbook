@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Black Widows in the Privy</title>
+    </titles>
+    <authors>
+      <author>Keridwen~on~Mynydd~Gwyadd</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Everyone knows someone we'd be better off without,
+But best not mention names for we don't know who's about
+But why commit a murder and risk the fires of hell,
+When black widows in the privy can do it just as well.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Now poison's good, and daggers, and arrows in the back,
+And if you are really desperate you can try a front attack,
+But are they really worthy of the risk of being caught
+When black widows in the privy need not be bribed or bought?
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+So if there's one, of whom you wish most simply to be rid,
+Just wait until dark then point the way to where the widow is hid,
+<comment>spoken:</comment>&quot;I think you'll find that this one is the best.&quot;
+And black widows in the privy will gladly do the rest.
+</lines>
+    </verse>
+  </lyrics>
+</song>

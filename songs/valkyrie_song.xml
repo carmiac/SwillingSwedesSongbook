@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>A Valkyrie Song</title>
+    </titles>
+    <authors>
+      <author>Mikal~Hrafspa</author>
+    </authors>
+    <verseOrder>c1 v1 v2 c2 v3 v4 c2 v5 v6 c2 v7 c2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>
+Alone by the fire, a warrior I knew
+Told me this tale, and I pray it is true.
+</lines>
+    </verse>
+    <verse name="v1">
+      <lines>
+From far Ansteorra our dragon-ship came
+To fight for good Halidar on Lilied plain
+My sword I had lent seeking honor and fame
+Or Odin's great hall in the fray
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+We charged into battle, the sun beating high
+Our battle-horns sounding a victory nigh
+Our spears crossed their arrows like hawks in the sky
+Leaving many men dead on the way
+</lines>
+    </verse>
+    <verse name="c2">
+      <lines>
+Sing me no songs of angels I pray
+For a Valkyrie found me in battle that day
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+The battle was long and the sun was like fire
+The heat drove us down like a funeral pyre
+Though many I'd slain, now my bloodlust did tire
+Struck down by the heat of the day
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+The battle moved onward from where I was laid
+I drew of my helmet to rest in the shade
+When a soft even tread, like the wind in a glade
+Brought a daughter of Asgard my way
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+She gave me cool drink 'till my wits came again
+Be fore I could speak she was gone like the wind
+Had I but died, I could follow her then
+But I lay with the living that day
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+Long I did search, a full year I have mourned
+And told all my brothers this love I have borne
+But she is of Asgard, and I of this shore
+So here with my brothers I stay
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+True to this dream like the tale I have told
+Close to my heart, a small pouch I still hold
+And in it a lock of her hair pure as gold
+This I carry to battle this day
+</lines>
+    </verse>
+  </lyrics>
+</song>

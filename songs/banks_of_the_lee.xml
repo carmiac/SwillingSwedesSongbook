@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Banks of the Lee</title>
+    </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <verseOrder>v1 c1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+When two lovers meet down beside the green bower
+When two lovers meet down beneath the green tree
+When Mary, fond Mary, declared to her lover
+&quot;You have stolen my poor heart from the Banks of the Lee&quot;
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+I loved her very dearly, so true and sincerely
+There was no one in this wide world I loved better than she
+Every bush, every bower, every sweet Irish flower
+Reminds me of my Mary, on the banks of the Lee.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+&quot;Don't stay out late, love, on the moorlands, my Mary
+Don't stay out late, love, on the moorlands from me&quot;
+How little was our notion when we parted on the ocean
+That we were forever parted from the banks of the Lee
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+I will pluck her some roses, some blooming Irish roses
+I will pluck her some roses, the fairest that ever grew
+And I'll leave them on the grave of my own true love Mary
+In that cold and silent churchyard where she sleeps 'neath the dew
+</lines>
+    </verse>
+  </lyrics>
+</song>

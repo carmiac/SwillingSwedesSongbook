@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Broom of the Cowdenknows</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+How blithe was I each morn to see
+My love come o'er the hill.
+I jumped the stream, and she flew to me,
+And met me with good will.
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Oh, the broom, the bonny, bonny broom,
+The broom of the Cowdenknows.
+I wish I was in my own homeland,
+There with my own true love.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+I worried not for ewes or lambs,
+While both our flocks near me lay.
+I gathered in our sheep at night,
+And she cheered me all the day.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+She tuned her harp, and strummed so sweet,
+The birds stood listening by.
+E'en the dull cattle stood and gazed,
+Charmed by her melody.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+While, thus, we spent our time by turns,
+Betwixt our flocks and play,
+I envied not the fairest lad,
+Though ne'er so rich and gay.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+She did oblige me every hour,
+Could I but faithful be?
+She stole my heart, could I refuse,
+What e'er she asked of me?
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+Hard fate that I should banished be,
+Gang heavily with morn,
+Because I loved the dearest lass,
+That ever yet was born.
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+Adieu, ye Cowdenknows adieu,
+Farewell all pleasures there.
+Ye gods restore me to my love
+Is all I want or care.
+</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Crusader's Wife's Hymn</title>
+    </titles>
+    <authors>
+      <author>Mistress Alison~Mac~Kieran~Dhu</author>
+    </authors>
+    <tune>On top of Old Smokey </tune>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+O, I am a lady, my husband's a lord.
+A true knightly warrior, and God! I am bored.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+The knights are called gentle and by birth they are.
+But I prefer minstrels, they're sweeter by far.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+He's fearless in melees, he's first at the chase.
+But when around ladies, falls flat on his face.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+He curses most roundly, and colorfully too.
+But ask him for soft words, he hasn't a clue.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+My lord is a true knight, fights rather than thinks.
+Excepting in battle, his swordsmanship stinks.
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+My lord is crusading, I shall at home stay.
+And I'll not be pining while he is away.
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+But my lord can trust me, I care not to roam.
+The lay of the minstrel will keep me at home!
+</lines>
+    </verse>
+  </lyrics>
+</song>

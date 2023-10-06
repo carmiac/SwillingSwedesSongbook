@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Viking Love Song</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 v4 c2 v5 c2 c2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Oh I'm a sturdy Viking lad with hairy chest and chin,
+To match my furry armor so you can't tell where they end.
+I'm hung just like a horse to keep the ladies satisfied.
+And now I've come down from the north to hunt me up a bride.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+I saw you in your father's fields and knew him to be rich.
+So I cut his legs off at the knees and tossed him in the ditch.
+I plundered all his cattle and took his larder too.
+And now I hie me back to Jaul in hopes to marry you.
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Cuz I'm a man,
+Viking man,
+And what's more,
+I think I'm in love.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+I've lots of wealth to offer and that's truly not a boast.
+For I've all the wealth of half the farms along the eastern coast.
+I slaughtered all your family just to prove to you my heart,
+And by your hair I drug you home so we need not be apart.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+I've have many servants that will also be as yours.
+There's Gertrude and Brunhilde who can help you with the chores
+And there's young Laina who upon a former maid I sired.
+And I bed one down each night so you need not get too tired.
+</lines>
+    </verse>
+    <verse name="c2">
+      <lines>
+Cuz I'm a man,
+Viking man,
+And what's worse,
+I think I'm in love.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Yes I'm a sturdy Viking lad, a fine catch to be sure.
+Though I smell much like an ox, my heart is Viking pure.
+I thank Odin, I thank Frey, for smiling on my life,
+For on, for us, this lucky day you shall become my wife.
+</lines>
+    </verse>
+  </lyrics>
+</song>

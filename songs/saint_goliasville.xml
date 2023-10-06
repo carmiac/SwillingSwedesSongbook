@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Saint Golias-ville </title>
+    </titles>
+    <tune>Margaritaville - Jimmy Buffet</tune>
+    <verseOrder>v1 c1 v2 c2 v3 c3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Livin on poundcake, watchin' the sun bake
+All of those fighters covered in armor
+Beatin' my baudraun, by the pavilion
+Smell of the steaks out there on the fire
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Wastin' away again in St Golias
+Lookin' for my lost bottle of scotch
+And some people claim, that there's a woman to blame
+But I know, It's nobody's fault
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Don't know the reason, I came to this e-vent
+Nothin for sure but this black an' blue bruise
+But it's a real beauty, an armor bite doosey
+How it got here I haven't a clue
+</lines>
+    </verse>
+    <verse name="c2">
+      <lines>
+Wastin' away again in St Golias
+Lookin' for my lost bottle of scotch
+And some people claim, that theres a woman to blame
+But I think, Hell it could be my fault
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Stepped in a chuck hole, blew out a buckle
+Tore up my leg, had to cruise on back home
+But there's beer in the cooler, though it could be cooler
+That golden liquid that helps me hang on
+</lines>
+    </verse>
+    <verse name="c3">
+      <lines>
+Wastin' away again in St Golias
+Lookin' for my lost bottle of scotch
+An' some people claim that theres a woman to blame
+But I know, It's my own damn fault
+Yes and some people calim that theres a woman to blame
+But I'm glad, It's my own damn fault
+</lines>
+    </verse>
+  </lyrics>
+</song>

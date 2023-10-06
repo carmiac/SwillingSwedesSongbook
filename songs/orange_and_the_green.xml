@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Orange and The Green</title>
+    </titles>
+    <authors>
+      <author>Anthony~Murphy</author>
+    </authors>
+    <verseOrder>c1 v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>
+Oh it was the biggest mix-up that you have ever seen
+My Father he was Orange, and me Mother she was Green
+</lines>
+    </verse>
+    <verse name="v1">
+      <lines>
+Oh my father was an Ulsterman, proud Protestant was he
+My mother was a Catholic girl, from County Cork came she
+They were married in two churches, lived happily enough
+Until the day that I was born, Then things got rather tough
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Baptized by Father Iley, I was rushed away by car
+To be made a little Orangeman, me fathers shinin' star
+And I was christened David Anthony, but still in spite of that
+To my father I was William, while my mother called me Pat
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+With mother every Sunday to Mass I'd proudly stroll
+Then after that the Orange Lords would try to save my soul
+Though both sides tried to claim me, but I was smart because
+I'd play the flute, or play the harps, dependin' where I was
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+One day me Ma's relations came round to visit me
+Just ask my fathers kinfolk, we're all sittin' down to tea
+We tried to smooth things over, but they began to fight
+An' me bein' strictly neutral, I hit everyone in sight
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Now my parents never could agree about my childhood school
+My learnin' was all done at home that's why I'm such a fool
+They've both passed on, God rest 'em, but left me caught between
+That awful color problem of the Orange and the Green
+</lines>
+    </verse>
+  </lyrics>
+</song>

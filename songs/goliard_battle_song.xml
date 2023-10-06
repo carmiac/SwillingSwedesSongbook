@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Goliard Battle Song</title>
+    </titles>
+    <tune>Heigh Ho</tune>
+    <verseOrder>c1 v1 v2 v3 v4 v5 v6 v7 c2 v8 v9 v10 v11 v12</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>
+Heigh ho, heigh ho, it's off to war we go
+</lines>
+    </verse>
+    <verse name="v1">
+      <lines>
+We'll hack and slash, and kick some ass
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Our polearms high we'll make them cry
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+We'll join the fray, our foes to slay
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+We'll deal some foe a mighty blow
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Their wall we'll break, and banner take
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+Our swords will swing, their heads will ring
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+We are not bards, we are the Guards
+</lines>
+    </verse>
+    <verse name="c2">
+      <lines>
+High ho heigh ho, it's back from war we go
+</lines>
+    </verse>
+    <verse name="v8">
+      <lines>
+We beat their best, it's time to rest
+</lines>
+    </verse>
+    <verse name="v9">
+      <lines>
+We're really beat, it's time to eat
+</lines>
+    </verse>
+    <verse name="v10">
+      <lines>
+Our armor stinks, it's time for drinks
+</lines>
+    </verse>
+    <verse name="v11">
+      <lines>
+We've dropped our gear, now where's the beer?
+</lines>
+    </verse>
+    <verse name="v12">
+      <lines>
+We're strong and hearty, it's time to party!
+</lines>
+    </verse>
+  </lyrics>
+</song>

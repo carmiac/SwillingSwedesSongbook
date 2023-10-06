@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Isle of Islay</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+How high the gulls fly o'er Islay,
+How sad the farm land deep in plague,
+Felt like the grain on your sand.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+How well the sleep's bill music makes,
+Roving the cliffs where fancy takes
+Felt like a tide left me here.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+How blessed the forest with birds song,
+How neat the cut peat laid so long,
+Fell like a seed on your land.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Felt like a tide left me here,
+Felt like a grain on your sand,
+Felt like a grain on your sand.
+</lines>
+    </verse>
+  </lyrics>
+</song>

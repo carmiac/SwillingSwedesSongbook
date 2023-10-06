@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Greensleeves</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Alas my love, you do me wrong
+To cast me off discourteously,
+And I have loved you so long,
+Delighting in your company.
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Greensleeves was all my joy,
+Greensleeves was my delight;
+Greensleeves was my heart of gold,
+And who but Lady Greensleeves?
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+I have been ready at your hand,
+To grant whatever you would crave;
+I have both waged life and land,
+Your love and good will for to have.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+I bought thee kerchiefs for thy head,
+That were wrought fine and gallantly;
+I kept thee both at board and bed,
+Which cost my purse well favorably.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+I bought thee petticoats of the best,
+The cloth so fine as fine might be;
+I gave thee jewels for thy chest,
+And all this cost I spent on thee.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Thy smock of silk, both fair and white,
+With gold embroidered gorgeously,
+Thy petticoat of Sendall right,
+And this I bought thee gladly.
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+Thy girdle of the gold so red,
+With pearls bedecked sumptuously,
+The like no other lasses had,
+And yet thou wouldst not love me.
+</lines>
+    </verse>
+    <verse name="v7">
+      <lines>
+Thy purse and also thy gay gilt knives,
+Thy pincase gallant to the eye;
+No better wore the Burgesse wives,
+And yet thou wouldst not love me.
+</lines>
+    </verse>
+    <verse name="v8">
+      <lines>
+Thy crimson stockings all of silk,
+With gold all wrought above the knee,
+Thy pumps as white as was the milk,
+And yet thou wouldst not love me.
+</lines>
+    </verse>
+    <verse name="v9">
+      <lines>
+Thy gown was of the glossy green,
+Thy sleeves of satin hanging by,
+Which made thee be our Harvest Queen,
+And yet thou wouldst not love me.
+</lines>
+    </verse>
+  </lyrics>
+</song>

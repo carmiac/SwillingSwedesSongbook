@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Ballad of White Jenna</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Out of the morning, in-to the night,
+Thirty and three rode off to put the dread
+Foe to flight led by the hand of Jenna
+Thirty and three rode side by side,
+And by the moonlight fortified.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+&quot;Fight on, my sisters,&quot; Jenna cried.
+&quot;Fight for the Great White Alts.&quot;
+The blood flowed swift, like good red wine,
+As sisters took the battle line.
+&quot;This kingdom I will claim for mine
+And for the heart of Alta!&quot;
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Thirty and three rode out that day
+To hold the dreaded foe at bay,
+But never more they passed this
+Led by the hand of Jenna.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Yet still, some say, in the darkest night
+The sisters can be heard to fight
+And you will see a flash of white,
+The long white braid of Jenna.
+</lines>
+    </verse>
+  </lyrics>
+</song>

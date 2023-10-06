@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Dumbarton</title>
+    </titles>
+    <authors>
+      <author>Scottish Traditional</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Dumbarton's drums, they sound so bonnie
+When they remind me of my Johnny
+What fond delight can steal upon me
+when Johnny kneels and kisses me
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Across the fields of bounding heather
+Dumbarton tolls the hour of pleasure
+a song of love that has no measure
+When Johnny kneels and sings to me
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Tis he alone that can delight me
+His graceful eye, it doth invite me
+And when his tender arms enfold me
+The blackest night doth turn and dee
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+My love he is a handsome laddie
+And tho he is Dumbarton's caddie
+Someday I'll be a captain's lady
+When Johnny tends his vows to me
+</lines>
+    </verse>
+  </lyrics>
+</song>

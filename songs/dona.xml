@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Dona</title>
+    </titles>
+    <keywords>
+      <keyword>How the winds are laughing</keyword>
+    </keywords>
+    <verseOrder>v1 c1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+On a wagon bound for market
+There's a calf with a mournful eye
+High above him there's a swallow
+Winging swiftly through the sky
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+How the winds are laughing, they laugh with all their might
+Laugh and laugh the whole day through and half the summer's night
+Dona, Dona, Dona, Dona Dona Dona Dona, Don
+Dona, Dona, Dona, Dona Dona Dona Dona, Don
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+&quot;Stop complaining&quot; said the Farmer
+&quot;Who told you a calf to be?&quot;
+&quot;Why don't you have wings to fly with,
+Like the swallow so proud and free?&quot;
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Calves are easily bound and slaughtered
+Never knowing the reason why
+But whoever treasures freedom
+Like the swallow must learn to fly.
+</lines>
+    </verse>
+  </lyrics>
+</song>

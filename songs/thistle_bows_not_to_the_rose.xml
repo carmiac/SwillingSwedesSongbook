@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Thistle Bows Not to The Rose</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Ken ye the hearts of the folk of the plaid?
+or wonder, as many of what they are made?
+They'll be hard as the Highlands, and cold as Loch Moi;
+The Scots hae a spirit ye nae can destroy
+Oh, born in the damp winds, and raised in the hills,
+Those who reach manhood have iron-like wills.
+By the reavers and the rovers and the brigands it's known
+A Scotsman looks after his Clan and his own.
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+So hey for the Highlands, hallo for the low;
+Leave a Scot breathin', he'll strike the last blow.
+As the Chieftain of England so angrily knows,
+The Thistle bows not to the Rose!
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Oh, the French ladies charm with their glances and sighs,
+But give me a lassie with fire in her eyes.
+Scots' girls are fiery, they're long and they're lean,
+And sharper of wit than a dirk it is keen.
+But lovin' the women's like jugglin' with knives;
+Too many at once, and men look to your lives;
+Yet, find ye but one girl and stay to her true
+She'll fight at your back and share in all you do.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Now some say we're vicious, and heartless and cruel,
+But a Scot's a survivor, and nobody's fool.
+We've weathered the ages, and the wages of strife,
+Betimes it takes hard men to lead a hard life.
+So pipe till the blood sings and drink liquid fire;
+Watch where you tread, lest you risk Scottish ire;
+And mark ye the words of the Mackintosh Clan....
+&quot;Touch not the cat --- without a gloved hand!&quot;
+</lines>
+    </verse>
+  </lyrics>
+</song>

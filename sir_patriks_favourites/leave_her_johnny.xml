@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Leave Her Johnny</title>
+    </titles>
+    <authors>
+      <author>Stan Rogers</author>
+    </authors>
+    <verseOrder>v1 c1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+I thought I heard the old man say
+&quot;Leave her, Johnny, leave her
+It's a long, hard pull to the next payday
+And it's time for us to leave her&quot;
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+Leave her, Johnny, leave her!
+Oh, leave her, Johnny, leave her
+For the voyage is done and the winds don't blow
+And it's time for us to leave her!
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Oh, the winds were foul and the work was hard
+Leave her, Johnny, leave her!
+From the Liverpool dock to the London yard
+And it's time for us to leave her
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Oh, the skipper was bad, but the mate was worse
+Leave her, Johnny, leave her
+He'd blow you down with a spike and a curse
+And it's time for us to leave her
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+It was rotten meat and moldy bread
+Leave her, Johnny, leave her!
+You'd eat it or you'd starve to death
+And it's time for us to leave her
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Well it's time for us to say goodbye
+Leave her, Johnny, leave her
+For now those pumps are all pumped dry
+And it's time for us to leave her
+</lines>
+    </verse>
+  </lyrics>
+</song>

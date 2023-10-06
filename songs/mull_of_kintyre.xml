@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Mull of Kintyre</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Mull of Kintyre, Oh Mists rolling in from the sea
+My Desire is always to be here, Oh, Mull of Kintyre
+Far I have traveled and much I have seen
+Far distant mountains with valleys of green
+Vast painted deserts with sunsets on fire
+As he carries me home to the Mull of Kintyre
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Mull of Kintyre, Oh Mists rolling in from the sea
+My Desire is always to be here, On Mull of Kintyre
+Sweet through the heather, right here in the glen
+Carry me back to the days I knew when
+Nights when we sang like a heavenly choir
+Oh the Knights and the times of the Mull of Kintyre
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Mull of Kintyre, Oh Mists rolling in from the sea
+My Desire is always to be here, Oh, Mull of Kintyre
+Smiles in the sunshine and tears in the rain
+Still takes me back where my memories remain
+Flickering embers grow higher and higher
+As they carry me back to the Mull of Kintyre
+</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Cuckoos Nest</title>
+    </titles>
+    <authors>
+      <author>Modern Traditional</author>
+    </authors>
+    <verseOrder>v1 c1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+There's a fun place in the garden where the lads and lassies meet
+For it wouldn't do to do the do they're doing in the street
+And the first time I did come there I was very much impressed
+By the young folk bust rufflin' up the cuckoos nest
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+And it's hi the cuckoo ho the cuckoo hi the cuckoos nest
+Hi the cuckoo ho the cuckoo hi the cuckoos nest
+I'll give any man a shilling, and a bottle of the best
+And ya ruffle up the feathers of the cuckoos nest
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+I met her in the morning, and I took her in the night
+I'd never had another, so I had to do it right
+I'd never gone a wingful and I never would have guessed
+If she hadn't told me where to find the cuckoos nest
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+And she told me where to find it and she told me where to go
+Through the prickles and the brambles where the little people go
+And the minute that I found it she would never let me rest
+'Till I ruffled up the feathers of the cuckoos nest
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+It was blarney it was prickled it was feathered all around
+It was tucked into a corner and it wasn't easy found
+She said &quot;God man you're buggering&quot; I said it wasn't true
+And I left her with the makings of a young cuckoo
+</lines>
+    </verse>
+  </lyrics>
+</song>

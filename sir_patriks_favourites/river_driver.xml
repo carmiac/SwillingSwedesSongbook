@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The River Driver</title>
+    </titles>
+    <authors>
+      <author>Great~Big~Sea</author>
+    </authors>
+    <verseOrder>v1 c1 v2 v3</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+I was just the age of sixteen when I first went on the drive,
+After six months hard labor, at home I did arrive.
+I courted with a pretty girl, t'was her caused me to roam,
+Now I'm just a river driver and I'm far away from home.
+</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+I'll eat when I am hungry and I'll drink when I am dry,
+Get drunk whenever I'm ready, get sober by and by,
+And if this river don't drown me, it's down I'll mean to roam,
+For I'm a river driver and I'm far away from home.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+I'll build a lonesome castle upon some mountain high,
+Where she can sit and view me as I go passing by
+Where she can sit and view me as I go marching on,
+For I'm a river driver and I'm far away from home.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+When I am old and feeble and in my sickness lie,
+Just wrap me up in a blanket and lay me down to die
+Just get a little bluebird to sing for me alone,
+For I'm a river driver and I'm far away from home.
+<comment>Chorus x2</comment>
+</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>The Twa Corbies</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+As I was walking all alane,
+I heard twa corbies making a mane:
+The tane unto the tither did say,
+Whar sall we gang and dine the day?'
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+In behint yon auld fail dyke
+I wot there lies a new-slain knight;
+And naebody kens that he lies there
+But his hawk, his hound, and his lady fair.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+His hound is to the hunting gane,
+His hawk to fetch the wild-fowl hame,
+His lady's ta'en anither mate,
+So we may mak' our dinner sweet.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Ye'll sit on his white hause-bane,
+And I'll pike out his bonny blue e'en:
+Wi' ae lock o' his gowden hair
+We'll theek our nest when it grows bare.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+Mony a one for him maks mane,
+But nane sall ken whar he is gane:
+O'er his white banes, when they are bare,
+The wind sall blaw for evermair.
+</lines>
+    </verse>
+  </lyrics>
+</song>

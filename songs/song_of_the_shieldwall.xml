@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Song of the Shield-Wall</title>
+    </titles>
+    <authors>
+      <author>Lady Malkin~Grey</author>
+      <author>Lady Peregrynne~Windrider </author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Hasten, oh sea-steed, over the swan-road,
+Foamy-necked ship oer the froth of the sea,
+Hengest has called us from Gotland and Frisia
+To Vortigern's country his army to be
+We'll take our pay there in sweeter than silver-,
+We'll take our plunder in richer than gold,
+For Hengest has promised us land for the fighting
+Land for the sons of the Saxons to hold!
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+Hasten, oh fyrdsmen, down to the river
+The dragonships come on the in-flowing tide
+The linden-wood shield and the old spear of ash-wood
+Are needed again by the cold water-side
+Draw up the shield-wall, oh shoulder companions
+Later whenever our story is told
+They'll say that we died guarding what we call dearest,
+Land that the sons of the Saxons will hold!
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+Hasten, of house-karls, north to the Dane-Law
+Harold Hardrada's come over the sea
+His longships he's laden with berserks from Norway
+To gain Cnut's crown and our master to be
+Bitter he'll find there the bite of our spear points
+Hard-running Northmen too strong to die old
+We'll grant him six feet, plus as much as he's taller
+Of land that the sons of the Saxons will hold!
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+Make haste, son of Godwin, southward from Stamford
+Triumph is sweet and your men have fought hard
+But William the Bastard has landed at Pevensey
+Burning the land you have promised to guard
+Draw up the spears on the hilltop at Hastings
+Fight 'til the sun drops and evening grows cold
+And die with the last of your Saxons around you
+Holding the land we were given to hold!
+</lines>
+    </verse>
+  </lyrics>
+</song>

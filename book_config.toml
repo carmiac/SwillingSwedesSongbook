@@ -1,0 +1,76 @@
+[songbook]
+# The songbook section contains general information about the songbook.
+# They will be passed to the templates as variables.
+title = "The Swilling Swede's Songbook"                                                                                                                                              # The title of the songbook.
+author = "Sveinn the Swilling Swede"                                                                                                                                                 # The author of the songbook.
+publish_date = 2023-10-31                                                                                                                                                            # The date the songbook was published.
+license = "CC BY-SA 4.0"                                                                                                                                                             # The license of the songbook.
+license_url = "https://creativecommons.org/licenses/by-sa/4.0/"                                                                                                                      # The URL of the license.
+title_blurb = """A collection of SONGS humbly presented for your amusement preferably around a CAMPFIRE while drinking MEAD, SCOTCH, BEER, OR RUM and surrounded by good COMPANY."""
+
+# Each section has a name, and a list of files to include in that section.
+# The files can be either individual songs or directories containing songs.
+[sections."Songs"]
+files = ["songs/"]
+sort = "filename"  # Sort the songs by filename.
+
+[sections."Sir Patrik's Favourites"]
+files = ["sir_patriks_favourites/"]
+sort = "filename"
+
+# The output_formats section contains information about the different formats
+# you want to generate for your songbook. Each format has a name, and a type.
+# The type can be one of "html", "pdf", or "epub". 
+# [output_formats.static_html]
+# type = "html"
+# template = "songbook_template.html.jinja"
+# stylesheets = ["songbook_html.css", "stylesheets/"]
+# song_xslt = "stylesheets/openlyrics.xsl"
+# output_dir = "html"
+# output_file = "songbook.html"
+
+[output_formats.bound_pdf]
+type = "pdf"
+output_dir = "pdfs"
+output_file = "SwillingSwedesSongbook-BoundPrint" # The file extension will be added automatically.
+songbook_template = "songbook.tex"                # Main tex file for the songbook.
+songbook_style = "tex/songs.sty"                  # Style file for the songbook, containing custom commands.
+image_dir = "img/"                                # Directory containing images. This will be copied to the build directory.
+template_dir = "tex/"                             # Directory containing tex templates. All of these will be rendered with Jinja2 into the build directory.
+
+# Additional variables that will be passed to all templates, including the main template.
+[output_formats.bound_pdf.render_variables]
+documentclass = "book" # The documentclass of the PDF.
+papersize = "letterpaper, twoside" # The paper size of the PDF.
+margin.top = "2cm" # The margins of the PDF.
+margin.bottom = "2cm"
+margin.inner = "4cm"
+margin.outer = "2cm"
+frontcover = "frontcover.tex" # File containing the front cover.
+frontcover_image = "img/longship.png"
+titlepage = "titlepage.tex" # File containing the title page.
+intro = "intro.tex" # File containing the intro.
+backcover = "backcover.tex" # File containing the back cover.
+backcover_image = "img/back.jpg"
+sbd_header = '''
+\newcommand{\tuneof}{}
+\newsongkey{tune}{\def\tuneof{}}
+                {\def\tuneof{Tune: #1\par}}
+                
+\renewcommand{\extendprelude}{
+ %{\itshape\normalsize}
+  \showrefs\showauthors
+  {\itshape\normalsize\tuneof}
+}
+'''
+
+
+# [output_formats.small_screen_pdf]
+# type = "pdf"
+# output_dir = "small_pdf"
+# output_file = "songbook2.pdf"
+
+# [output_formats.ereaders]
+# type = "epub"
+# output_dir = "epub"
+# output_file = "songbook.epub"

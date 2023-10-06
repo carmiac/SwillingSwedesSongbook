@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Come All Ye Fair and Tender Ladies</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+Come all ye fair and tender ladies,
+Take warnin' how you court young men.
+They're like a star on a summers morning.
+First they'll appear then they're gone.
+</lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+They'll tell to you some loving story.
+And they'll declare their love is true.
+Straight way they'll go and court some other,
+And that's the love they have for you.
+</lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+O, Don't you remember our days of courtin',
+When your head lay upon my breast?
+You could make me believe by the falling of your arm,
+That the sun rose in the west.
+</lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+If I had known before I courted,
+That love had been so hard to win;
+I'd have locked my heart in a box of golden,
+And fastened it up with a silver pin.
+</lines>
+    </verse>
+    <verse name="v5">
+      <lines>
+I wish I were a little sparrow,
+And I had wings, and I could fly;
+I'd fly away to my false true lover,
+And when he'd speak I would deny.
+</lines>
+    </verse>
+    <verse name="v6">
+      <lines>
+But I am not a little sparrow.
+I have no wings, nor can I fly.
+I will sit right down in grief and sorrow,
+And try to pass my troubles by.
+</lines>
+    </verse>
+  </lyrics>
+</song>
