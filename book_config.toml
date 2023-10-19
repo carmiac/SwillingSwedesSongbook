@@ -48,10 +48,12 @@ margin.inner = "4cm"
 margin.outer = "2cm"
 frontcover = "frontcover.tex" # File containing the front cover.
 frontcover_image = "img/longship.png"
+frontcover_blank_back = true # Whether to include a blank page after the front cover.
 titlepage = "titlepage.tex" # File containing the title page.
 intro = "intro.tex" # File containing the intro.
 backcover = "backcover.tex" # File containing the back cover.
 backcover_image = "img/back.jpg"
+backcover_num_blank_pages = 2 # Number of blank pages to include before the back cover.
 sbd_header = '''
 \newcommand{\tuneof}{}
 \newsongkey{tune}{\def\tuneof{}}
@@ -88,6 +90,7 @@ titlepage = "titlepage.tex" # File containing the title page.
 intro = "intro.tex" # File containing the intro.
 backcover = "backcover.tex" # File containing the back cover.
 backcover_image = "img/back.jpg"
+backcover_num_blank_pages = 0 # Number of blank pages to include before the back cover.
 sbd_header = '''
 \newcommand{\tuneof}{}
 \newsongkey{tune}{\def\tuneof{}}
@@ -112,6 +115,10 @@ template_dir = "tex/"                          # Directory containing tex templa
 
 # Additional variables that will be passed to all templates, including the main template.
 [output_formats.ereader_pdf.render_variables]
+margin.top = "2cm" # The margins of the PDF.
+margin.bottom = "2cm"
+margin.inner = "3cm"
+margin.outer = "3cm"
 frontcover = "frontcover.tex" # File containing the front cover.
 frontcover_image = "img/longship.png"
 titlepage = "titlepage.tex" # File containing the title page.
@@ -122,7 +129,7 @@ sbd_header = '''
 \newcommand{\tuneof}{}
 \newsongkey{tune}{\def\tuneof{}}
                 {\def\tuneof{Tune: #1\par}}
-                
+
 \renewcommand{\extendprelude}{
  %{\itshape\normalsize}
   \showrefs\showauthors
@@ -130,7 +137,7 @@ sbd_header = '''
 }
 '''
 
-# [output_formats.ereaders]
-# type = "epub"
-# output_dir = "epub"
-# output_file = "songbook.epub"
+[output_formats.ereaders]
+type = "epub"
+output_dir = "epub"
+output_file = "songbook.epub"

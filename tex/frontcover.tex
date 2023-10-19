@@ -13,3 +13,10 @@
 \vfill
 \clearpage
 \normalsize
+
+{% if frontcover_blank_back %}
+\newpage
+\thispagestyle{empty}
+\mbox{}
+\newpage
+{% endif %}

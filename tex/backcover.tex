@@ -1,3 +1,13 @@
+
+{% if backcover_num_blank_pages %}
+{% for i in range(backcover_num_blank_pages) %}
+\newpage
+\thispagestyle{empty}
+\mbox{}
+\newpage
+{% endfor %}
+{% endif %}
+
 \vspace*{\baselineskip}
 \vfill
 \includegraphics[width=\textwidth]{ {{-backcover_image-}} }

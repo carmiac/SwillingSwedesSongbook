@@ -1,12 +1,12 @@
 # SwillingSwedesSongbook
 
-This is a songbook from my days in the SCA at the College of St. Golias.
+This is a collection of songs from my days in the SCA at the College of St. Golias and since. It is a work in progress, and will be updated as I have time.
 
-It is compiled from many sources into the songs package for LaTeX, and includes some helper scripts to make it easily buildable.
+It is compiled from many sources into a series of XML files and a songbook template using my OpenLyrics Songbook Maker tool.
 
 If you just want the pdf's of the songbook, look in the pdf directory.
 
-If you want to be able to build it yourself, keep reading. It is tested in Windows and OSX, and should work the same in Linux.
+If you want to be able to build it yourself, keep reading. The current version of the build system has been tested in Linux.  It may work in MacOS and Windows, but I haven't tested it there.
 
 **Prereqs**
 
@@ -21,6 +21,14 @@ If you want to be able to build it yourself, keep reading. It is tested in Windo
 
 **Building**
 
-1. Clone
-2. python makebook.py -i src/*.txt -d header.txt
-3. Sing with gusto!
+1. Clone this and the OpenLyrics Songbook Maker repos
+2. cd ol_bookmaker
+3. ./ol_bookmaker.py ../path/to/book_config.toml
+4. Sing with gusto!
+
+## TODO
+- Update README.md with link to ol_bookmaker repo.
+- Update publish date
+- Add new pdfs to pdf directory
+
+  
