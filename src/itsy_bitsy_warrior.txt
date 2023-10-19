@@ -1,8 +1,0 @@
-\beginsong{Isty Bitsy Warrior}[tune = {Itsy Bitsy Spider}]
-\beginverse
-The itsy bitsy warrior walked on the tourney field
-Out came the Duke and demanded that he yield
-Out came the Sword and it cut the Duke in twain
-And the itsy bitsy warrior walked off the field again 
-\endverse
-\endsong

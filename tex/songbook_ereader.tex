@@ -1,27 +1,30 @@
-\documentclass[ {{-papersize-}} ]{book}
+\documentclass[12pt]{book}  
 \usepackage[bookmarks]{hyperref}
-%\usepackage[chorded]{songs} % use this for chorded songs, but it leaves big gaps in the lyrics
 \usepackage[lyric]{songs}
+\usepackage[a5paper]{geometry}  
 \usepackage{graphicx}
-\graphicspath{ {./images/} }
-\usepackage[top=2cm, bottom=2cm, inner=3cm, outer = 3cm]{geometry}
-\settowidth{\versenumwidth}{1.\ }
-\pagestyle{empty}
+\graphicspath{ {./img/} }
+\sloppy 
+\pagestyle{empty} 
+\usepackage[scaled]{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+
+% % suppress intersong stuff
+% % which is just images for the printable version
+% \usepackage{environ}
+% \NewEnviron{killcontents}{}
+% \let\intersong\killcontents
+% \let\endintersong\endkillcontents
 
 {% for section in sections %}
 \newindex{ {{-section.replace(" ","_")-}}_idx}{ {{-section.replace(" ","_")-}} }
 {% endfor %}
 \newauthorindex{authoridx}{author_index}
 
-\renewcommand*{\familydefault}{\sfdefault}
-
 % Get the titlepage command
 {% if titlepage %}
 \input{ {{-titlepage-}} }
 {% endif %}
-
-\usepackage{etoolbox}
-\patchcmd{\showauthors}{\bfseries}{\itshape\normalsize}{}{}
 
 \begin{document}
 
@@ -31,28 +34,28 @@
 {% endif %}
 
 % include the title page
-{% if titlepage %}
 \titleGP 
-{% endif %}
 
-% include the introduction, if there is one configured
+% include the introduction
 {% if intro %}
 \input{ {{-intro-}} }
 {% endif %}
 
-% then the song indices
+% then the song index
 {% for section in sections %}
 \showindex{ {{-section-}} }{ {{-section.replace(" ","_")-}}_idx}
 {% endfor %}
 
-% then the song file
+% then the songs
+\songcolumns{1}
 \input{songfile.sbd}
 
 % author list at the end
-\showindex{Index of Authors}{authoridx}
+\showindex[1]{Index of Authors}{authidx}
 
 % include the back cover
 {% if backcover %}
 \input{ {{-backcover-}} }
 {% endif %}
 \end{document}
+

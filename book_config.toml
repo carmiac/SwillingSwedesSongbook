@@ -65,10 +65,70 @@ sbd_header = '''
 '''
 
 
-# [output_formats.small_screen_pdf]
-# type = "pdf"
-# output_dir = "small_pdf"
-# output_file = "songbook2.pdf"
+[output_formats.display_pdf]
+type = "pdf"
+output_dir = "pdfs"
+output_file = "SwillingSwedesSongbook-Display" # The file extension will be added automatically.
+songbook_template = "songbook.tex"             # Main tex file for the songbook.
+songbook_style = "tex/songs.sty"               # Style file for the songbook, containing custom commands.
+image_dir = "img/"                             # Directory containing images. This will be copied to the build directory.
+template_dir = "tex/"                          # Directory containing tex templates. All of these will be rendered with Jinja2 into the build directory.
+
+# Additional variables that will be passed to all templates, including the main template.
+[output_formats.display_pdf.render_variables]
+documentclass = "book" # The documentclass of the PDF.
+papersize = "letterpaper, twoside" # The paper size of the PDF.
+margin.top = "2cm" # The margins of the PDF.
+margin.bottom = "2cm"
+margin.inner = "3cm"
+margin.outer = "3cm"
+frontcover = "frontcover.tex" # File containing the front cover.
+frontcover_image = "img/longship.png"
+titlepage = "titlepage.tex" # File containing the title page.
+intro = "intro.tex" # File containing the intro.
+backcover = "backcover.tex" # File containing the back cover.
+backcover_image = "img/back.jpg"
+sbd_header = '''
+\newcommand{\tuneof}{}
+\newsongkey{tune}{\def\tuneof{}}
+                {\def\tuneof{Tune: #1\par}}
+                
+\renewcommand{\extendprelude}{
+ %{\itshape\normalsize}
+  \showrefs\showauthors
+  {\itshape\normalsize\tuneof}
+}
+'''
+
+
+[output_formats.ereader_pdf]
+type = "pdf"
+output_dir = "pdfs"
+output_file = "SwillingSwedesSongbook-eReader" # The file extension will be added automatically.
+songbook_template = "songbook_ereader.tex"     # Main tex file for the songbook.
+songbook_style = "tex/songs.sty"               # Style file for the songbook, containing custom commands.
+image_dir = "img/"                             # Directory containing images. This will be copied to the build directory.
+template_dir = "tex/"                          # Directory containing tex templates. All of these will be rendered with Jinja2 into the build directory.
+
+# Additional variables that will be passed to all templates, including the main template.
+[output_formats.ereader_pdf.render_variables]
+frontcover = "frontcover.tex" # File containing the front cover.
+frontcover_image = "img/longship.png"
+titlepage = "titlepage.tex" # File containing the title page.
+intro = "intro.tex" # File containing the intro.
+backcover = "backcover.tex" # File containing the back cover.
+backcover_image = "img/back.jpg"
+sbd_header = '''
+\newcommand{\tuneof}{}
+\newsongkey{tune}{\def\tuneof{}}
+                {\def\tuneof{Tune: #1\par}}
+                
+\renewcommand{\extendprelude}{
+ %{\itshape\normalsize}
+  \showrefs\showauthors
+  {\itshape\normalsize\tuneof}
+}
+'''
 
 # [output_formats.ereaders]
 # type = "epub"

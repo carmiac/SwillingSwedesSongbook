@@ -1,6 +1,0 @@
-\vspace*{\baselineskip}
-\vfill
-\includegraphics[width=\textwidth]{back}
-\vfill
-\clearpage
-\normalsize

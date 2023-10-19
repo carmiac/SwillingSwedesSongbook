@@ -1,9 +1,0 @@
-\beginsong{The Trees in the Forest}[
-]
-\beginverse
-Of all the green jerkin and all in green gown
-The trees in the forest they all bear the crown,
-The trees in the forest are cradle and hall,
-The trees in the forest are fairest of all.
-\endverse
-\endsong
