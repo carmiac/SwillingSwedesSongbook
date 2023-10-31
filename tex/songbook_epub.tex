@@ -1,0 +1,61 @@
+\documentclass{book}  
+\usepackage{tex4ebook}
+\usepackage[bookmarks]{hyperref}
+\usepackage[lyric]{songs}
+\usepackage{graphicx}
+\graphicspath{ {./img/} }
+\sloppy 
+\pagestyle{empty} 
+\usepackage[scaled]{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+
+% suppress intersong stuff
+% which is just images for the printable version
+\usepackage{environ}
+\NewEnviron{killcontents}{}
+\let\intersong\killcontents
+\let\endintersong\endkillcontents
+
+{% for section in sections %}
+\newindex{ {{-section.replace(" ","_")-}}_idx}{ {{-section.replace(" ","_")-}} }
+{% endfor %}
+\newauthorindex{authoridx}{author_index}
+
+% Get the titlepage command
+{% if titlepage %}
+\input{ {{-titlepage-}} }
+{% endif %}
+
+\begin{document}
+
+% include the front cover
+{% if frontcover_image %}
+\coverimage{ {{-frontcover_image-}} }
+{% endif %}
+
+% include the title page
+\titleGP 
+
+% include the introduction
+{% if intro %}
+\input{ {{-intro-}} }
+{% endif %}
+
+% then the song index
+{% for section in sections %}
+\showindex{ {{-section-}} }{ {{-section.replace(" ","_")-}}_idx}
+{% endfor %}
+
+% then the songs
+\songcolumns{1}
+\input{songfile.sbd}
+
+% author list at the end
+\showindex[1]{Index of Authors}{authoridx}
+
+% include the back cover
+{% if backcover %}
+\input{ {{-backcover-}} }
+{% endif %}
+\end{document}
+

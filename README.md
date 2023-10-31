@@ -21,14 +21,12 @@ If you want to be able to build it yourself, keep reading. The current version o
 
 **Building**
 
-1. Clone this and the OpenLyrics Songbook Maker repos
-2. cd ol_bookmaker
-3. ./ol_bookmaker.py ../path/to/book_config.toml
+1. Clone this and the [OpenLyric Bookmaker](https://github.com/carmiac/openlyric_bookmaker) repos.
+2. cd openlyric_bookmaker
+3. ./ol_bookmaker.py ../path/to/SwillingSwedesSongbook/book_config.toml
 4. Sing with gusto!
 
 ## TODO
-- Update README.md with link to ol_bookmaker repo.
-- Update publish date
 - Add new pdfs to pdf directory
 
   
