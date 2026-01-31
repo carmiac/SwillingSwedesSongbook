@@ -16,7 +16,7 @@ If you want to be able to build it yourself, keep reading. The current version o
    * Complete songs package for LaTeX from http://songs.sourceforge.net/
 * OSX
    * MacTeX, from http://www.tug.org/mactex/
-* Linux 
+* Linux
    * TeX Live, from http://www.tug.org/texlive/
 
 **Building**
@@ -27,6 +27,8 @@ If you want to be able to build it yourself, keep reading. The current version o
 4. Sing with gusto!
 
 ## TODO
+- Build html version
+  - Fix html templates
+  - Add recordings to html version
+- Fix 'tune' and other custom tags in songs for pdf version
 - Add new pdfs to pdf directory
-
-  

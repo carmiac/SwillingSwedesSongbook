@@ -1,10 +1,19 @@
-\documentclass[ {{-papersize-}} ]{book}
+\documentclass[{{papersize}}]{book}
 \usepackage[bookmarks]{hyperref}
-%\usepackage[chorded]{songs} % use this for chorded songs, but it leaves big gaps in the lyrics
-\usepackage[lyric]{songs}
+\usepackage[chorded]{songs}
 \usepackage{graphicx}
 \graphicspath{ {./images/} }
+{% if margin.inner is defined %}
 \usepackage[top={{margin.top}}, bottom={{margin.bottom}}, inner={{margin.inner}}, outer={{margin.outer}}]{geometry}
+{% else %}
+\usepackage[top={{margin.top}}, bottom={{margin.bottom}}, left={{margin.left}}, right={{margin.right}}]{geometry}
+{% endif %}
+
+% Hide the vertical chord separator line
+\setlength{\cbarwidth}{0pt}
+\setlength{\sbarheight}{0pt}
+
+% Set verse number width
 \settowidth{\versenumwidth}{1.\ }
 \pagestyle{empty}
 
@@ -12,6 +21,7 @@
 \newindex{ {{-section.replace(" ","_")-}}_idx}{ {{-section.replace(" ","_")-}} }
 {% endfor %}
 \newauthorindex{authoridx}{author_index}
+\newindex{titleidx}{title_index}
 
 \renewcommand*{\familydefault}{\sfdefault}
 
@@ -24,6 +34,12 @@
 \patchcmd{\showauthors}{\bfseries}{\itshape\normalsize}{}{}
 
 \begin{document}
+
+% Song numbering starts at 1, not 0
+\setcounter{songnum}{1}
+
+% Allow page breaks within songs (0 = off, 1 = avoid page-turns only, 2 = avoid page-breaks, 3 = default avoid all)
+\songpos{0}
 
 % include the front cover
 {% if frontcover %}
@@ -40,13 +56,16 @@
 \input{ {{-intro-}} }
 {% endif %}
 
-% then the song indices
-{% for section in sections %}
-\showindex{ {{-section-}} }{ {{-section.replace(" ","_")-}}_idx}
-{% endfor %}
+% Show table of contents (title index)
+\showindex{Table of Contents}{titleidx}
+
+% Start songs environment with all indices
+\begin{songs}{ {%- for section in sections -%}{{section.replace(" ", "_")}}_idx{%- if not loop.last %},{% endif -%}{%- endfor -%},authoridx,titleidx}
 
 % then the song file
 \input{songfile.sbd}
+
+\end{songs}
 
 % author list at the end
 \showindex{Index of Authors}{authoridx}

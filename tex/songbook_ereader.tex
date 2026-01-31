@@ -1,32 +1,45 @@
-\documentclass[12pt]{book}  
+\documentclass[12pt,a5paper]{book}
 \usepackage[bookmarks]{hyperref}
 \usepackage[lyric]{songs}
-\usepackage[a5paper]{geometry}  
 \usepackage{graphicx}
-\graphicspath{ {./img/} }
-\sloppy 
-\pagestyle{empty} 
+\graphicspath{ {./images/} }
+{% if margin.inner is defined %}
+\usepackage[top={{margin.top}}, bottom={{margin.bottom}}, inner={{margin.inner}}, outer={{margin.outer}}]{geometry}
+{% else %}
+\usepackage[top={{margin.top}}, bottom={{margin.bottom}}, left={{margin.left}}, right={{margin.right}}]{geometry}
+{% endif %}
+
+\sloppy
+\pagestyle{empty}
 \usepackage[scaled]{helvet}
 \renewcommand{\familydefault}{\sfdefault}
 
-% % suppress intersong stuff
-% % which is just images for the printable version
-% \usepackage{environ}
-% \NewEnviron{killcontents}{}
-% \let\intersong\killcontents
-% \let\endintersong\endkillcontents
+% Set verse number width
+\settowidth{\versenumwidth}{1.\ }
 
 {% for section in sections %}
 \newindex{ {{-section.replace(" ","_")-}}_idx}{ {{-section.replace(" ","_")-}} }
 {% endfor %}
 \newauthorindex{authoridx}{author_index}
+\newindex{titleidx}{title_index}
+
+\renewcommand*{\familydefault}{\sfdefault}
 
 % Get the titlepage command
 {% if titlepage %}
 \input{ {{-titlepage-}} }
 {% endif %}
 
+\usepackage{etoolbox}
+\patchcmd{\showauthors}{\bfseries}{\itshape\normalsize}{}{}
+
 \begin{document}
+
+% Song numbering starts at 1, not 0
+\setcounter{songnum}{1}
+
+% Allow page breaks within songs (0 = off, 1 = avoid page-turns only, 2 = avoid page-breaks, 3 = default avoid all)
+\songpos{1}
 
 % include the front cover
 {% if frontcover %}
@@ -34,28 +47,32 @@
 {% endif %}
 
 % include the title page
+{% if titlepage %}
 \titleGP 
+{% endif %}
 
-% include the introduction
+% include the introduction, if there is one configured
 {% if intro %}
 \input{ {{-intro-}} }
 {% endif %}
 
-% then the song index
-{% for section in sections %}
-\showindex{ {{-section-}} }{ {{-section.replace(" ","_")-}}_idx}
-{% endfor %}
+% Start songs environment with all indices
+\begin{songs}{ {%- for section in sections -%}{{section.replace(" ", "_")}}_idx{%- if not loop.last %},{% endif -%}{%- endfor -%},authoridx,titleidx}
 
-% then the songs
+% Show table of contents (title index)
+\showindex{Table of Contents}{titleidx}
+
+% then the song file
 \songcolumns{1}
 \input{songfile.sbd}
 
+\end{songs}
+
 % author list at the end
-\showindex[1]{Index of Authors}{authoridx}
+\showindex{Index of Authors}{authoridx}
 
 % include the back cover
 {% if backcover %}
 \input{ {{-backcover-}} }
 {% endif %}
 \end{document}
-
