@@ -1,0 +1,255 @@
+name: Build and Deploy Songbook
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install TeX Live
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            texlive-latex-base \
+            texlive-latex-extra \
+            texlive-fonts-recommended \
+            texlive-fonts-extra \
+            texlive-xetex \
+            latexmk
+      
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install git+https://github.com/carmiac/openlyric_bookmaker.git
+      
+      - name: Build songbook
+        run: |
+          openlyric_bookmaker --config book_config.toml
+      
+      - name: Create GitHub Pages structure
+        run: |
+          mkdir -p gh-pages
+          # Copy HTML output
+          cp -r output/html/* gh-pages/
+          # Copy PDFs
+          mkdir -p gh-pages/pdfs
+          cp output/pdfs/*.pdf gh-pages/pdfs/ || true
+          # Create landing page
+          cat > gh-pages/downloads.html << 'EOF'
+          <!DOCTYPE html>
+          <html lang="en">
+          <head>
+              <meta charset="UTF-8">
+              <meta name="viewport" content="width=device-width, initial-scale=1.0">
+              <title>The Swilling Swede's Songbook - Downloads</title>
+              <link rel="stylesheet" href="stylesheets/custom-theme.css">
+              <style>
+                  body {
+                      font-family: Georgia, 'Times New Roman', serif;
+                      margin: 0;
+                      padding: 0;
+                      background: linear-gradient(135deg, #FFF8E7 0%, #FFE4B5 100%);
+                      min-height: 100vh;
+                  }
+                  .container {
+                      max-width: 900px;
+                      margin: 0 auto;
+                      padding: 40px 20px;
+                  }
+                  .header {
+                      text-align: center;
+                      background: linear-gradient(135deg, #8B0000 0%, #5C0000 100%);
+                      color: #D4AF37;
+                      padding: 60px 20px;
+                      border-radius: 10px;
+                      box-shadow: 0 8px 16px rgba(139, 0, 0, 0.3);
+                      margin-bottom: 40px;
+                      border: 3px solid #D4AF37;
+                  }
+                  .header h1 {
+                      margin: 0 0 20px 0;
+                      font-size: 3em;
+                      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+                  }
+                  .header p {
+                      font-size: 1.2em;
+                      font-style: italic;
+                      margin: 10px 0;
+                      color: #F4D03F;
+                  }
+                  .section {
+                      background: white;
+                      padding: 30px;
+                      border-radius: 10px;
+                      margin-bottom: 30px;
+                      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+                      border-left: 5px solid #D4AF37;
+                  }
+                  .section h2 {
+                      color: #8B0000;
+                      border-bottom: 3px solid #D4AF37;
+                      padding-bottom: 10px;
+                      margin-top: 0;
+                  }
+                  .button-group {
+                      display: grid;
+                      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+                      gap: 20px;
+                      margin-top: 20px;
+                  }
+                  .btn {
+                      display: inline-block;
+                      padding: 15px 30px;
+                      background: linear-gradient(135deg, #8B0000 0%, #DC143C 100%);
+                      color: #D4AF37;
+                      text-decoration: none;
+                      border-radius: 5px;
+                      text-align: center;
+                      font-weight: bold;
+                      font-size: 1.1em;
+                      transition: all 0.3s ease;
+                      border: 2px solid #D4AF37;
+                      box-shadow: 0 4px 6px rgba(139, 0, 0, 0.3);
+                  }
+                  .btn:hover {
+                      background: linear-gradient(135deg, #DC143C 0%, #8B0000 100%);
+                      transform: translateY(-3px);
+                      box-shadow: 0 6px 12px rgba(139, 0, 0, 0.4);
+                      color: #F4D03F;
+                  }
+                  .btn-primary {
+                      grid-column: 1 / -1;
+                      background: linear-gradient(135deg, #D4AF37 0%, #B8860B 100%);
+                      color: #5C0000;
+                      border: 2px solid #8B0000;
+                  }
+                  .btn-primary:hover {
+                      background: linear-gradient(135deg, #F4D03F 0%, #D4AF37 100%);
+                      color: #8B0000;
+                  }
+                  .description {
+                      color: #5C4033;
+                      line-height: 1.8;
+                      margin: 15px 0;
+                  }
+                  .footer {
+                      text-align: center;
+                      padding: 30px;
+                      color: #5C4033;
+                      font-style: italic;
+                  }
+                  .icon {
+                      margin-right: 10px;
+                      font-size: 1.2em;
+                  }
+              </style>
+          </head>
+          <body>
+              <div class="container">
+                  <div class="header">
+                      <h1>🍺 The Swilling Swede's Songbook 🍺</h1>
+                      <p>A collection of songs humbly presented for your amusement</p>
+                      <p>Preferably around a campfire while drinking mead, scotch, beer, or rum</p>
+                      <p>And surrounded by good company</p>
+                  </div>
+                  
+                  <div class="section">
+                      <h2>📖 Browse Online</h2>
+                      <p class="description">
+                          View the complete songbook in your browser with our interactive HTML version.
+                          Perfect for quick reference and searching.
+                      </p>
+                      <div class="button-group">
+                          <a href="index.html" class="btn btn-primary">
+                              <span class="icon">🎵</span>View Songbook Online
+                          </a>
+                      </div>
+                  </div>
+                  
+                  <div class="section">
+                      <h2>📥 Download PDFs</h2>
+                      <p class="description">
+                          Download the songbook in various PDF formats for different purposes.
+                          All versions contain the same songs, just formatted differently.
+                      </p>
+                      <div class="button-group">
+                          <a href="pdfs/SwillingSwedesSongbook-BoundPrint.pdf" class="btn">
+                              <span class="icon">📕</span>Bound Print Version
+                          </a>
+                          <a href="pdfs/SwillingSwedesSongbook-Display.pdf" class="btn">
+                              <span class="icon">🖥️</span>Display Version
+                          </a>
+                          <a href="pdfs/SwillingSwedesSongbook-eReader.pdf" class="btn">
+                              <span class="icon">📱</span>eReader Version
+                          </a>
+                      </div>
+                      <p class="description" style="margin-top: 20px; font-size: 0.9em;">
+                          <strong>Bound Print:</strong> Two-sided printing with wider inner margins for binding<br>
+                          <strong>Display:</strong> Single-sided with balanced margins, great for screen viewing<br>
+                          <strong>eReader:</strong> Optimized for tablets and e-readers with minimal margins
+                      </p>
+                  </div>
+                  
+                  <div class="section">
+                      <h2>ℹ️ About</h2>
+                      <p class="description">
+                          This songbook is a collection of songs from my days in the SCA at the College of St. Golias and since.
+                          It is compiled from many sources and is a work in progress, updated as time allows.
+                      </p>
+                      <p class="description">
+                          <strong>Author:</strong> Sveinn the Swilling Swede<br>
+                          <strong>License:</strong> <a href="https://creativecommons.org/licenses/by-sa/4.0/" style="color: #8B0000;">CC BY-SA 4.0</a><br>
+                          <strong>Source:</strong> <a href="https://github.com/carmiac/SwillingSwedesSongbook" style="color: #8B0000;">GitHub Repository</a>
+                      </p>
+                  </div>
+                  
+                  <div class="footer">
+                      <p>🎶 Sing with gusto! 🎶</p>
+                  </div>
+              </div>
+          </body>
+          </html>
+          EOF
+      
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'gh-pages'
+  
+  deploy:
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

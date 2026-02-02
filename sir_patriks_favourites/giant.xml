@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
@@ -7,6 +7,7 @@
     <authors>
       <author>Stan Rogers</author>
     </authors>
+    <copyright>Public Domain</copyright>
     <verseOrder>v1 v2 v3 v4 v5</verseOrder>
   </properties>
   <lyrics>
@@ -21,7 +22,7 @@ The giant will rise with the moon
     <verse name="v2">
       <lines>
 'Twas the same ancient fever in the Isles of the Blest
-That our fathers brought with them when they &quot;went West&quot;
+That our fathers brought with them when they "went West"
 It's the blood of the Druids that never will rest
 The giant will rise with the moon
 </lines>

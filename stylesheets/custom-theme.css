@@ -1,0 +1,216 @@
+/* Red and Gold Theme for Swilling Swede's Songbook */
+/* Clean, readable color scheme inspired by medieval heraldry */
+/* This CSS overrides the embedded styles to apply red/gold theme */
+
+:root {
+    /* Red and Gold color palette */
+    --gold-primary: #D4AF37 !important;
+    --gold-light: #F4D03F !important;
+    --gold-dark: #B8860B !important;
+    --red-primary: #8B0000 !important;
+    --red-light: #DC143C !important;
+    --red-dark: #5C0000 !important;
+    
+    /* Neutral colors for readability */
+    --cream: #FFF8E7 !important;
+    --cream-light: #FFFBF0 !important;
+    --text-dark: #2C1810 !important;
+    
+    /* Override CSS variables from embedded styles */
+    --bg-primary: #FFFBF0 !important;
+    --bg-secondary: #FFF8E7 !important;
+    --bg-tertiary: #FFF0D4 !important;
+    --bg-hover: #FFE4B5 !important;
+    --text-primary: #2C1810 !important;
+    --text-secondary: #5C4033 !important;
+    --border-color: #B8860B !important;
+    --accent-color: #8B0000 !important;
+    --sidebar-bg: #FFF8E7 !important;
+    --header-bg: #8B0000 !important;
+}
+
+[data-theme="dark"] {
+    /* Dark mode with red and gold accents */
+    --bg-primary: #1a0f0a !important;
+    --bg-secondary: #2a1810 !important;
+    --bg-tertiary: #3a2418 !important;
+    --bg-hover: #4a3020 !important;
+    --text-primary: #f5e6d3 !important;
+    --text-secondary: #d4c4b0 !important;
+    --border-color: #B8860B !important;
+    --accent-color: #D4AF37 !important;
+    --sidebar-bg: #2a1810 !important;
+    --header-bg: #5C0000 !important;
+}
+
+/* Top bar/header styling */
+.w3-top {
+    background-color: #8B0000 !important;
+    color: #D4AF37 !important;
+    border-bottom: 3px solid #D4AF37 !important;
+}
+
+/* Title bar - override w3-teal class with MAXIMUM specificity */
+div.w3-teal,
+div.w3-teal *,
+.w3-main .w3-teal,
+.w3-main .w3-teal * {
+    background-color: #8B0000 !important;
+    color: #D4AF37 !important;
+}
+
+/* Force title text to be gold - multiple selectors for specificity */
+.w3-teal h1,
+.w3-teal .w3-container h1,
+.w3-main .w3-teal h1,
+div.w3-teal div.w3-container h1 {
+    color: #D4AF37 !important;
+    background-color: transparent !important;
+    border-bottom: none !important;
+}
+
+.w3-teal h2, .w3-teal h3 {
+    color: #D4AF37 !important;
+    border-bottom: none !important;
+}
+
+.w3-teal .w3-button {
+    background-color: transparent !important;
+    color: #D4AF37 !important;
+}
+
+.w3-teal .w3-container {
+    background-color: transparent !important;
+    color: #D4AF37 !important;
+}
+
+/* Sidebar - subtle red/gold accents */
+.w3-sidebar {
+    border-right: 2px solid #B8860B !important;
+}
+
+/* Section titles in sidebar - make them red with gold underline */
+.section-title {
+    color: #8B0000 !important;
+    border-bottom: 2px solid #D4AF37 !important;
+}
+
+/* Sidebar links - MUST be block display for vertical list */
+.w3-sidebar .w3-bar-item {
+    display: block !important;
+    width: 100% !important;
+}
+
+/* Sidebar links - keep mostly default but add subtle red hover */
+.w3-sidebar .w3-bar-item.w3-button:hover {
+    background-color: #FFE4B5 !important;
+    border-left: 3px solid #8B0000 !important;
+}
+
+/* Close button - FORCE hide on large screens (desktop) */
+.w3-sidebar > button.w3-hide-large {
+    display: none !important;
+}
+
+/* Only show close button on mobile/tablet */
+@media (max-width: 992px) {
+    .w3-sidebar > button.w3-hide-large {
+        display: block !important;
+        background-color: #8B0000 !important;
+        color: #D4AF37 !important;
+        /* Make it sticky so it's always visible while scrolling */
+        position: sticky !important;
+        top: 0 !important;
+        z-index: 100 !important;
+        width: 100% !important;
+        border-bottom: 2px solid #D4AF37 !important;
+    }
+}
+
+/* Main content area headings */
+.w3-main h1 {
+    color: #8B0000 !important;
+    border-bottom: 3px solid #D4AF37 !important;
+    padding-bottom: 8px;
+}
+
+.w3-main h2 {
+    color: #8B0000 !important;
+    border-bottom: 2px solid #B8860B !important;
+    padding-bottom: 6px;
+}
+
+.w3-main h3 {
+    color: #8B0000 !important;
+}
+
+/* Links in main content - make them red */
+.w3-main a {
+    color: #8B0000;
+    transition: color 0.2s ease;
+}
+
+.w3-main a:hover {
+    color: #DC143C;
+}
+
+/* Control buttons (theme toggle, etc) - NOT sidebar buttons */
+.control-btn {
+    border-color: #B8860B !important;
+}
+
+.control-btn:hover {
+    background-color: #FFE4B5 !important;
+}
+
+.control-btn.active {
+    background-color: #8B0000 !important;
+    color: #D4AF37 !important;
+    border-color: #D4AF37 !important;
+}
+
+/* Song content in iframe */
+iframe {
+    border: 1px solid #B8860B !important;
+}
+
+/* Verse and chorus styling if they exist */
+.verse, .chorus {
+    margin: 15px 0;
+    line-height: 1.6;
+}
+
+.chorus {
+    font-style: italic;
+    padding-left: 20px;
+    border-left: 3px solid #8B0000;
+}
+
+/* Scrollbar styling for webkit browsers */
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-track {
+    background: #FFF8E7;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #B8860B;
+    border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #D4AF37;
+}
+
+/* Search input border */
+.search-input {
+    border-color: #B8860B !important;
+}
+
+.search-input:focus {
+    border-color: #8B0000 !important;
+    outline: 2px solid #D4AF37 !important;
+    outline-offset: 0;
+}

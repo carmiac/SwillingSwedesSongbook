@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
@@ -13,7 +13,7 @@
     <verse name="v1">
       <lines>
 Oh, the year was 1778,
-    (&quot;How I wish I was in Sherbrook now!&quot;)
+    ("How I wish I was in Sherbrook now!")
 A letter of mark came from the King
 To the scummiest vessel I've ever seen.
 </lines>
@@ -30,15 +30,15 @@ The last of Barrett's Privateers.
     <verse name="v2">
       <lines>
 Oh, Elcid Barrett cried the town
-    (&quot;How I wish I was in Sherbrook now!&quot;)
+    ("How I wish I was in Sherbrook now!")
 For twenty brave soul all fisherman who
-Would make for him the &quot;Antelope's&quot; crew
+Would make for him the "Antelope's" crew
 </lines>
     </verse>
     <verse name="v3">
       <lines>
-The &quot;Antelopes&quot; sloop was a sickening sight
-    (&quot;How I wish I was in Sherbrook now!&quot;)
+The "Antelopes" sloop was a sickening sight
+    ("How I wish I was in Sherbrook now!")
 She had a list to the port and her sails in rags
 And the cook in the scuppers with the staggers and jags
 </lines>
@@ -46,7 +46,7 @@ And the cook in the scuppers with the staggers and jags
     <verse name="v4">
       <lines>
 On the king's birthday we set to sea
-    (&quot;How I wish I was in Sherbrook now!&quot;)
+    ("How I wish I was in Sherbrook now!")
 It was ninety one days to Montigo Bay
 Pumping like madmen all the way
 </lines>
@@ -54,7 +54,7 @@ Pumping like madmen all the way
     <verse name="v5">
       <lines>
 On the ninety sixth day we sailed again
-    (&quot;How I wish I was in Sherbrook now!&quot;)
+    ("How I wish I was in Sherbrook now!")
 When a bloody great Yankee hove in sight
 With our cracked four-pounders we made to fight.
 </lines>
@@ -62,7 +62,7 @@ With our cracked four-pounders we made to fight.
     <verse name="v6">
       <lines>
 Oh, the Yankee lay low down with gold
-    (&quot;How I wish I was in Sherbrook now!&quot;)
+    ("How I wish I was in Sherbrook now!")
 She was broad and fat and loose in stays
 But to catch her took the Antelope two whole days.
 </lines>
@@ -70,7 +70,7 @@ But to catch her took the Antelope two whole days.
     <verse name="v7">
       <lines>
 Then at length we stood two cables away
-    (&quot;How I wish I was in Sherbrook now!&quot;)
+    ("How I wish I was in Sherbrook now!")
 Our cracked four-pounders made an awful din
 But with one fat ball the Yank stove us in
 </lines>
@@ -78,7 +78,7 @@ But with one fat ball the Yank stove us in
     <verse name="v8">
       <lines>
 Oh, the Antelope shook and pitched on her side
-    (&quot;How I wish I was in Sherbrook now!&quot;)
+    ("How I wish I was in Sherbrook now!")
 Oh Barrett was smashed like a bowl of eggs
 And the Maintruck carried off both me legs.
 </lines>
@@ -86,7 +86,7 @@ And the Maintruck carried off both me legs.
     <verse name="v9">
       <lines>
 So here I sit in my twenty-third year
-    (&quot;How I wish I was in Sherbrook now!&quot;)
+    ("How I wish I was in Sherbrook now!")
 It's been six years since I sailed away
 And I just made Halifax yesterday
 </lines>
