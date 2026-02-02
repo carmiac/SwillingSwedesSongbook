@@ -59,8 +59,31 @@ jobs:
           # Copy PDFs
           mkdir -p gh-pages/pdfs
           cp output/pdfs/*.pdf gh-pages/pdfs/ || true
-          # Create landing page
-          cat > gh-pages/downloads.html << 'EOF'
+          
+          # Add custom theme link to all HTML files
+          echo "Adding custom theme CSS to HTML files..."
+          cd gh-pages
+          # Add to index.html and introduction.html
+          for file in index.html introduction.html; do
+            if [ -f "$file" ]; then
+              sed -i '/<link rel="stylesheet" href="stylesheets\/w3.css">/a\    <link rel="stylesheet" href="stylesheets/custom-theme.css">' "$file"
+            fi
+          done
+          # Add to all song pages
+          if [ -d "songs" ]; then
+            for file in songs/*.html; do
+              if [ -f "$file" ]; then
+                sed -i '/<link rel="stylesheet" href="..\/stylesheets\/w3.css">/a\    <link rel="stylesheet" href="../stylesheets/custom-theme.css">' "$file"
+              fi
+            done
+          fi
+          cd ..
+          
+          # Rename songbook index to songbook.html and create new landing page
+          mv gh-pages/index.html gh-pages/songbook.html
+          
+          # Create landing page as index.html
+          cat > gh-pages/index.html << 'EOF'
           <!DOCTYPE html>
           <html lang="en">
           <head>
@@ -185,7 +208,7 @@ jobs:
                           Perfect for quick reference and searching.
                       </p>
                       <div class="button-group">
-                          <a href="index.html" class="btn btn-primary">
+                          <a href="songbook.html" class="btn btn-primary">
                               <span class="icon">🎵</span>View Songbook Online
                           </a>
                       </div>
