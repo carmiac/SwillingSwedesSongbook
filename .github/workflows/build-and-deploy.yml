@@ -49,7 +49,7 @@ jobs:
       
       - name: Build songbook
         run: |
-          openlyric_bookmaker --config book_config.toml
+          python -m openlyric_bookmaker book_config.toml
       
       - name: Create GitHub Pages structure
         run: |
