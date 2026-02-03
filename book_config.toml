@@ -163,5 +163,6 @@ output_dir = "html"
 stylesheets = ["stylesheets"]
 # song_xslt = "stylesheets/openlyrics.xsl"  # No longer needed with Jinja2 renderer
 image_dir = "img"                        # Directory containing images. This will be copied to the build directory.
+pwa_start_url = "./songbook.html"        # PWA launches at songbook instead of landing page
 
 # Removed - duplicate of bound_pdf
