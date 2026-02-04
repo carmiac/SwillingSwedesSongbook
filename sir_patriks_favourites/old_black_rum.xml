@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
@@ -7,6 +7,7 @@
     <authors>
       <author>Great~Big~Sea</author>
     </authors>
+    <copyright>Public Domain</copyright>
     <verseOrder>v1 v2 c1 v3 v4 v5 v6</verseOrder>
   </properties>
   <lyrics>
@@ -49,7 +50,6 @@ Her friend is lookin' at me with an evil grin
 I think a bloody racket might soon begin
 I must have said something to the George Street queen
 Her boys are joining in
-<comment>Chorus</comment>
 </lines>
     </verse>
     <verse name="v5">
@@ -58,7 +58,6 @@ So I drank all of my money and I slept out in the rain
 Everyday is different, but the nights they're all the same
 You never see the sun on the old black rum
 But I know I'm gonna do it again
-<comment>Chorus x2</comment>
 </lines>
     </verse>
     <verse name="v6">

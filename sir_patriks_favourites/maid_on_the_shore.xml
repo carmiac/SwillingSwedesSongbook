@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
@@ -7,6 +7,7 @@
     <authors>
       <author>Stan Rogers</author>
     </authors>
+    <copyright>Public Domain</copyright>
     <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
   </properties>
   <lyrics>
@@ -22,8 +23,8 @@ But to roam all alone on the shore
     <verse name="v2">
       <lines>
 T'was of the young captain who sailed the salt sea
-Let the wind blow high blow loow
-&quot;I will die, I will die&quot; the young captain did cry
+Let the wind blow high blow low
+"I will die, I will die" the young captain did cry
 If I don't have that maid on the shore shore shore
 If I don't have that maid on the shore
 </lines>
@@ -40,7 +41,7 @@ If they row me that maid on the shore
     <verse name="v4">
       <lines>
 After much persuasion they got her aboard
-Let the wind blow high blow loow
+Let the wind blow high blow low
 They replaced her away in his cabin below
 Here's adieu to all sorrow and care care care
 Here's adieu to all sorrow and care
@@ -49,7 +50,7 @@ Here's adieu to all sorrow and care
     <verse name="v5">
       <lines>
 They replaced her away in his cabin below
-Let the wind blow high blow loow
+Let the wind blow high blow low
 She's so pretty and neat she's so sweet and complete
 She sung captain and sailors to sleep sleep sleep
 She sung captain and sailors to sleep
@@ -66,20 +67,20 @@ And paddled her way to the shore
     </verse>
     <verse name="v7">
       <lines>
-&quot;Well me men must be crazy me men must be mad
+"Well me men must be crazy me men must be mad
 Me men must be deep in despair-o
 For to let you away from my cabin so gay
 And to paddle your way to the shore shore shore
-And to paddle your way to the shore&quot;
+And to paddle your way to the shore"
 </lines>
     </verse>
     <verse name="v8">
       <lines>
-&quot;Well your men was not crazy your men was not mad
+"Well your men was not crazy your men was not mad
 Your men was not deep in despair-o
 I deluded your sailors as well as yourself
 I'm a maiden again on the shore shore shore
-I'm a maiden again on the shore&quot;
+I'm a maiden again on the shore"
 </lines>
     </verse>
     <verse name="v9">

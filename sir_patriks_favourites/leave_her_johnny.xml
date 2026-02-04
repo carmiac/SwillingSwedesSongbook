@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
@@ -7,15 +7,16 @@
     <authors>
       <author>Stan Rogers</author>
     </authors>
+    <copyright>Public Domain</copyright>
     <verseOrder>v1 c1 v2 v3 v4 v5</verseOrder>
   </properties>
   <lyrics>
     <verse name="v1">
       <lines>
 I thought I heard the old man say
-&quot;Leave her, Johnny, leave her
+"Leave her, Johnny, leave her
 It's a long, hard pull to the next payday
-And it's time for us to leave her&quot;
+And it's time for us to leave her"
 </lines>
     </verse>
     <verse name="c1">

@@ -22,3 +22,4 @@ output/
 /songbook_print.log
 /songbook_print.out
 /songbook_print.sxc
+.song_checker_session.json
