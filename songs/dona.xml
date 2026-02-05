@@ -1,9 +1,13 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
       <title>Dona</title>
     </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <copyright>Public Domain</copyright>
     <keywords>
       <keyword>How the winds are laughing</keyword>
     </keywords>
@@ -28,10 +32,10 @@ Dona, Dona, Dona, Dona Dona Dona Dona, Don
     </verse>
     <verse name="v2">
       <lines>
-&quot;Stop complaining&quot; said the Farmer
-&quot;Who told you a calf to be?&quot;
-&quot;Why don't you have wings to fly with,
-Like the swallow so proud and free?&quot;
+"Stop complaining" said the Farmer
+"Who told you a calf to be?"
+"Why don't you have wings to fly with,
+Like the swallow so proud and free?"
 </lines>
     </verse>
     <verse name="v3">

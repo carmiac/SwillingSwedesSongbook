@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
@@ -46,7 +46,7 @@ Where the sons of dead fathers
 Are led toward tempests and gales
 Where their God-given wings
 Are clipped close to their bodies
-And their eyes are bound-'round with ships' sails
+And their eyes are bound-'round with ship's' sails
 </lines>
     </verse>
     <verse name="v4">

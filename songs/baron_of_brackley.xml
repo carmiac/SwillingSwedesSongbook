@@ -1,49 +1,53 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
       <title>The Baron of Brackley</title>
     </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <copyright>Public Domain</copyright>
     <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12</verseOrder>
   </properties>
   <lyrics>
     <verse name="v1">
       <lines>
-Down Deeside cam' lnverey, whistlin' and playin',
+Down Deeside cam' inverey, whistlin' and playin',
 He's lichted at Brackley yetts at the day dawin';
-Says: &quot;Baron o'Brackley, it's are ye within,
-There's sharp swords at your yetts'll gar your bluid spin.&quot;
+Says: "Baron o'Brackley, it's are ye within,
+There's sharp swords at your yetts'll gar your bluid spin."
 </lines>
     </verse>
     <verse name="v2">
       <lines>
 Oot spak the brave baron ower the castle wa',
-&quot;Are ye come to spulyie and plunder my ha'?
+"Are ye come to spulyie and plunder my ha'?
 But gin ye be a gentleman, licht and come in;
-Gin ye drink o'my wine ye'll no'gar my bluid spin.&quot;
+Gin ye drink o'my wine ye'll no'gar my bluid spin."
 </lines>
     </verse>
     <verse name="v3">
       <lines>
 His lady rose up, to the window she went,
 She heard her kye lowin' o'er hill and o'er bent;
-&quot;O, rise up, bold Brackley and turn back your kye,
-For the lads o'Drumwharren are drivin'them by.&quot;
+"O, rise up, bold Brackley and turn back your kye,
+For the lads o'Drumwharren are drivin'them by."
 </lines>
     </verse>
     <verse name="v4">
       <lines>
-&quot;How can I rise, lady, or turn them again?
-For where I hae ae man I wat they hae ten.&quot;
+"How can I rise, lady, or turn them again?
+For where I hae ae man I wat they hae ten."
 She's ca'd on her Maries to come ta her hand,
-Says: &quot;Bring your rocks, lasses, we will them command.
+Says: "Bring your rocks, lasses, we will them command.
 Gin I had a husband as I wat I hae nane,
-He'd no' lie in his bed and see his kye ta'en&quot;.
+He'd no' lie in his bed and see his kye ta'en".
 </lines>
     </verse>
     <verse name="v5">
       <lines>
-&quot;Now haud your tongue, Peggy, and gie me my gun,
+"Now haud your tongue, Peggy, and gie me my gun,
 Ye'll see me gang oot but I'll never come in.
 Arise, Peggy Gordon and gie me my gun,
 I will gang oot though I never come in.
@@ -52,23 +56,23 @@ I will gang oot though I never come in.
     <verse name="v6">
       <lines>
 Then kiss me, my Peggy, I'll nae langer stay,
-For I will gang oot and meet Inverey.&quot;
+For I will gang oot and meet Inverey."
 When Brackley was ready and stood in the close,
 A bonnier gallant ne'er mounted a horse.
 </lines>
     </verse>
     <verse name="v7">
       <lines>
-&quot;What'll come o'your lady and bonny young son?
-O, what'll come o' them when Brackley is gone&quot;
-&quot;Strike, dogs!&quot; cries Inverey, &quot;fecht till you're slain,
+"What'll come o'your lady and bonny young son?
+O, what'll come o' them when Brackley is gone"
+"Strike, dogs!" cries Inverey, "fecht till you're slain,
 For we are four hunder and ye are four men.
 </lines>
     </verse>
     <verse name="v8">
       <lines>
 Strike, you proud boaster, your honour is gone
-Your lands we will plunder, your castle we'll burn.&quot;
+Your lands we will plunder, your castle we'll burn."
 At the head o' the Etnach the battle began,
 At little Aucholzie they killed the first man.
 </lines>

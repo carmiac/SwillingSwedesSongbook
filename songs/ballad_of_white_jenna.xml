@@ -1,9 +1,13 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
       <title>Ballad of White Jenna</title>
     </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <copyright>Public Domain</copyright>
     <verseOrder>v1 v2 v3 v4</verseOrder>
   </properties>
   <lyrics>
@@ -18,12 +22,12 @@ And by the moonlight fortified.
     </verse>
     <verse name="v2">
       <lines>
-&quot;Fight on, my sisters,&quot; Jenna cried.
-&quot;Fight for the Great White Alts.&quot;
+"Fight on, my sisters," Jenna cried.
+"Fight for the Great White Alts."
 The blood flowed swift, like good red wine,
 As sisters took the battle line.
-&quot;This kingdom I will claim for mine
-And for the heart of Alta!&quot;
+"This kingdom I will claim for mine
+And for the heart of Alta!"
 </lines>
     </verse>
     <verse name="v3">

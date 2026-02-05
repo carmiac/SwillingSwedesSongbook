@@ -1,9 +1,13 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
       <title>Eamonn An Chnuic</title>
     </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <copyright>Public Domain</copyright>
     <keywords>
       <keyword>Ned of the Hill</keyword>
     </keywords>
@@ -12,23 +16,23 @@
   <lyrics>
     <verse name="v1">
       <lines>
-&quot;Oh who is without
+"Oh who is without
 That with passionate shout
-Keeps beating my bolted door?&quot;
-&quot;I am Ned of the Hill
+Keeps beating my bolted door?"
+"I am Ned of the Hill
 Forspent wet and chill
-From long trudging marsh and moor&quot;
-&quot;My love, fond and true
+From long trudging marsh and moor"
+"My love, fond and true
 What else could I do
 But shield you from wind and from weather?
 When the shots fall like hail
 They us both shall assail
-And mayhap we shall die together.&quot;
+And mayhap we shall die together."
 </lines>
     </verse>
     <verse name="v2">
       <lines>
-&quot;Through forest and through snow
+"Through forest and through snow
 Tired and hunted I go
 In fear both from friend and from neighbor
 My horses run wild
@@ -39,23 +43,23 @@ Than the loss of my store
 That there's none who would shield me from danger
 So my fate it must be
 To fare eastward o'er sea
-And languish amid the stranger&quot;
+And languish amid the stranger"
 </lines>
     </verse>
     <verse name="v3">
       <lines>
-&quot;Ce-h-e sin amuh
+"Ce-h-e sin amuh
 Go bhfuil faor ar a ghuth
-A' reaba mo dhoruis dunta?&quot;
-&quot;Mise Eamonn a' Chnuic
+A' reaba mo dhoruis dunta?"
+"Mise Eamonn a' Chnuic
 Ta baidhte fuar fliuch
-O shior-shuil sleihbte is gleannta&quot;
-&quot;A lao ghil's a chuid
+O shior-shuil sleihbte is gleannta"
+"A lao ghil's a chuid
 Cad do dheannfainn-se dhuit
 Mara gcuirfinn ort beinn dom ghuna?
 'S go mbeidh pudar dubh
-Is go mbeimis araon muchta&quot;
-&quot;Is fada mise amuh
+Is go mbeimis araon muchta"
+"Is fada mise amuh
 </lines>
     </verse>
     <verse name="v4">
@@ -70,7 +74,7 @@ Nil caraid agam
 Do ghlacfadh me moch na deanach
 Is go gcaithfe me dul
 Thar fairrge soir
-O's ann na fuil mo ghaolta&quot;
+O's ann na fuil mo ghaolta"
 </lines>
     </verse>
   </lyrics>

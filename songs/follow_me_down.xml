@@ -1,16 +1,20 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
       <title>Follow Me Down</title>
     </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <copyright>Public Domain</copyright>
     <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
   </properties>
   <lyrics>
     <verse name="v1">
       <lines>
 Oh then follow me down where the milk water flows,
-And I' ll show you the dew like the tears of rose,
+And I'll show you the dew like the tears of rose,
 And so like a rose my petals fell down,
 And I left my self open to the thorns and the frowns,
 To the thorns and the frowns.
@@ -30,8 +34,8 @@ And to breath the sweet air.
 And when sunset arrived full of hope, full of fear,
 To give birth through my pain, through my joy and my fears,
 At my breast then he lay, a child of the sun.
-Oh many were the whispers, &quot;Oh, what has she done?&quot;
-&quot;Oh what has she done?&quot;
+Oh many were the whispers, "Oh, what has she done?"
+"Oh what has she done?"
 </lines>
     </verse>
     <verse name="v4">

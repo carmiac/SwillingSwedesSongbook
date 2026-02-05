@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
@@ -37,7 +37,7 @@ Now the ghost of his lass waits and sings:
     <verse name="v3">
       <lines>
 Captain Jack was a young man when he went to sea
-Left behind him a young fiancee
+Left behind him a young fiancée
 He married a mermaid and his young lady love
 Was down on the docks heard to say:
 </lines>
@@ -56,11 +56,8 @@ Roy Neal and his bride sought out a new home
 Took a boat from their sweet Dublin Bay.
 They'd been on the water for only three days
 When the storm came and swept them away.
-<comment>2 -  &quot;My Love's Far Away&quot; by Velada of Isenfir</comment>
-<comment>3 -  &quot;Captain Jack and the Mermaid&quot; by Meg Davis</comment>
-<comment>4 -  &quot;Banks of the Lea&quot; by Silly Wizard/Andy M. Stewart</comment>
-<comment>5 -  &quot;Dublin Bay&quot; by Silly Wizard/Andy M. Stewart</comment>
-</lines>
+<comment>5 -  "Dublin Bay" by Silly Wizard/Andy M. Stewart</comment>
+      </lines>
     </verse>
   </lyrics>
 </song>

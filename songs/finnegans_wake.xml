@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
@@ -7,6 +7,7 @@
     <authors>
       <author>Traditional</author>
     </authors>
+    <copyright>Public Domain</copyright>
     <verseOrder>v1 c1 v2 v3 v4 v5</verseOrder>
   </properties>
   <lyrics>
@@ -19,7 +20,7 @@ And to rise in the world he carried a hod.
 Now Tim had a sort of the tipplin' way
 With a love of the whiskey he was born
 And to help him on with his work each day
-He'd a &quot;drop of the cray-thur&quot; every morn.
+He'd a "drop of the cray-thur" every morn.
 </lines>
     </verse>
     <verse name="c1">
@@ -49,15 +50,15 @@ And Mrs. Finnegan called for lunch,
 First they brought in tea and cake
 Then pipes, tobacco and whiskey punch.
 Biddy O'Brien began to bawl
-&quot;Such a nice clean corpse, did you ever see?
-&quot;Aye Tim, mavourneen, why did you die?&quot;
-&quot;Arragh, hold your gob&quot; said Paddy McGee!
+"Such a nice clean corpse, did you ever see?
+"Aye Tim, mavourneen, why did you die?"
+"Arragh, hold your gob" said Paddy McGee!
 </lines>
     </verse>
     <verse name="v4">
       <lines>
 Then Maggie O'Connor took up the job
-&quot;O Biddy,&quot; says she, &quot;You're wrong, I'm sure&quot;
+"O Biddy," says she, "You're wrong, I'm sure"
 Biddy she gave her a belt in the gob
 And left her sprawlin' on the floor.
 And then the war did soon engage
@@ -74,8 +75,8 @@ It missed, and fallin' on the bed
 The liquor scattered over Tim!
 The corpse revives! See how he raises!
 Timothy rising from the bed,
-ays, &quot;Whirl your whiskey around like blazes
-Thanum an Dhul! Did you think I'm dead?&quot;
+ays, "Whirl your whiskey around like blazes
+Thanum an Dhul! Did you think I'm dead?"
 </lines>
     </verse>
   </lyrics>

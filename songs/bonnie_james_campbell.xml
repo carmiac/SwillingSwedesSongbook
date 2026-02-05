@@ -1,9 +1,13 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
       <title>Bonnie James Campbell</title>
     </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <copyright>Public Domain</copyright>
     <verseOrder>v1 v2 v3 v4</verseOrder>
   </properties>
   <lyrics>
@@ -20,9 +24,9 @@ Home came his good horse but never came he
       <lines>
 Out came his mother, weeping full sore
 Out came his new bride, a-tearing her hair
-&quot;My meadow lies green and my corn is unshorn,
+"My meadow lies green and my corn is unshorn,
 My barn is to build and my baby unborn,
-My barn is to build and my baby unborn.&quot;
+My barn is to build and my baby unborn."
 </lines>
     </verse>
     <verse name="v3">

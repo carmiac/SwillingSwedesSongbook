@@ -1,9 +1,10 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
       <title>Ballynure Ballad</title>
     </titles>
+    <copyright>Traditional</copyright>
     <verseOrder>v1 c1 v2 v3 v4</verseOrder>
   </properties>
   <lyrics>
@@ -32,9 +33,9 @@ To his wee lass was talking,
     <verse name="v3">
       <lines>
 Said the wee lad to the wee lass,
-&quot;Oh will ye let me kiss ye,
+"Oh will ye let me kiss ye,
 For it's I have got the cordial eye
-That far exceeds the whiskey.&quot;
+That far exceeds the whiskey."
 </lines>
     </verse>
     <verse name="v4">

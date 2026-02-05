@@ -1,9 +1,12 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
       <title>The Bastard King of England </title>
     </titles>
+    <authors>
+      <author>Oscar Brand</author>
+    </authors>
     <verseOrder>v1 c1 v2 v3 v4 v5 v6 c2</verseOrder>
   </properties>
   <lyrics>
@@ -35,7 +38,7 @@ To invite the King of England down to spend the night with her.
       <lines>
 Well when Phillip of France he heard it by chance
 He declared before his court,
-&quot;The Queen prefers my rival just because I'm somewhat short.&quot;
+"The Queen prefers my rival just because I'm somewhat short."
 So he sent the Count of Zippity-Zap
 To give to the Queen a dose of clap
 To pass it on to the Bastard King of England.
@@ -64,7 +67,7 @@ Draggin' the Frenchman back to merry England.
 When the King of England he saw the sight he felt in a faint on the floor
 For during the ride his rival's hide was stretched a yard or more
 And all the maids of England came down to London town
-And shouted 'round the battlements, &quot;To hell with the British crown.&quot;
+And shouted 'round the battlements, "To hell with the British crown."
 </lines>
     </verse>
     <verse name="c2">

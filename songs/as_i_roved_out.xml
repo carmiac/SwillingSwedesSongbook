@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
@@ -7,6 +7,7 @@
     <authors>
       <author>Traditional</author>
     </authors>
+    <copyright>Public Domain</copyright>
     <verseOrder>v1 c1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
   </properties>
   <lyrics>
@@ -16,7 +17,7 @@ And who are you, me pretty fair maid
 And who are you, me honey?
 And who are you, me pretty fair maid
 And who are you, me honey?
-She answered me quite modestly, &quot;I am me mother's darling.&quot;
+She answered me quite modestly, "I am me mother's darling."
 </lines>
     </verse>
     <verse name="c1">
@@ -53,8 +54,8 @@ She took me horse by the bridle and the bit,
 And she led him to the stable.
 She took me horse by the bridle and the bit,
 And she led him to the stable.
-Saying &quot;There's plenty of oats for a soldier's horse,
-To eat it if he's able.&quot;
+Saying "There's plenty of oats for a soldier's horse,
+To eat it if he's able."
 </lines>
     </verse>
     <verse name="v5">
@@ -63,8 +64,8 @@ Then she took me by the lily-white hand,
 And she led me to the table.
 Then she took me by the lily-white hand,
 And she led me to the table.
-Saying &quot;There's plenty of wine for a soldier boy,
-To drink it if you're able.&quot;
+Saying "There's plenty of wine for a soldier boy,
+To drink it if you're able."
 </lines>
     </verse>
     <verse name="v6">
@@ -74,7 +75,7 @@ And I made it nice and aisy,
 Then I got up and made the bed,
 And I made it nice and aisy,
 Then I got up and laid her down
-Saying &quot;Lassie, are you able?&quot;
+Saying "Lassie, are you able?"
 </lines>
     </verse>
     <verse name="v7">
@@ -84,7 +85,7 @@ And divil a one did hear us.
 And there we lay till the break of day,
 And divil a one did hear us.
 Then I arose and put on me clothes
-Saying &quot;Lassie, I must leave you.&quot;
+Saying "Lassie, I must leave you."
 </lines>
     </verse>
     <verse name="v8">

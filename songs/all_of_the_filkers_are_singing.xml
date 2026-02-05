@@ -1,9 +1,13 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
       <title>All of the Filkers are Singing</title>
     </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <copyright>Public Domain</copyright>
     <tune>Greensleeves-ish</tune>
     <verseOrder>v1 c1 v2 v3</verseOrder>
   </properties>
@@ -27,7 +31,7 @@ When all of the filkers are singing
     <verse name="v2">
       <lines>
 When sing-a-longs start in this gathering of friends
-The authentic mavens scream, &quot;Dear God when will it end&quot;
+The authentic mavens scream, "Dear God when will it end"
 The drunks and the tone deaf add spice to the blend
 Of what we have the gall to call singing
 </lines>

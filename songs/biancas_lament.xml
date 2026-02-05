@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
@@ -20,10 +20,10 @@ And a field of blue o'er the rest
     </verse>
     <verse name="v2">
       <lines>
-He called to his comrades &quot;We fight for the King&quot;
-&quot;For our Queen we lay down our lives,&quot;
-&quot;For our ladies' honour we take up our swords&quot;
-&quot;Outlands! Hark to our cry!&quot;
+He called to his comrades "We fight for the King"
+"For our Queen we lay down our lives,"
+"For our ladies' honour we take up our swords"
+"Outlands! Hark to our cry!"
 </lines>
     </verse>
     <verse name="c1">
@@ -33,7 +33,7 @@ we go forth to fight and to die.
 Be still sweet lady, 'tis not time to mourn;
 for the white stag, he yet marches high!
 Forward my spearmen, I stand with the shield.
-Forward my swordmen, I call.
+Forward my swordsmen, I call.
 To this angry horde, we never shall yield;
 though to the last man, this day we may fall.
 </lines>
@@ -52,7 +52,6 @@ My lord and my kinsmen stand ready to fight
 Waiting only the call of the King.
 LAY ON! Was the call and Outlands the cry
 And sword on armour did ring
-<comment>Chorus</comment>
 </lines>
     </verse>
     <verse name="v5">
@@ -69,7 +68,6 @@ My heart bleeds within me, for my lord lies just there
 Run through for to save his king.
 Long will I remember the battle this day
 Long of its great heroes I'll sing.
-<comment>Chorus</comment>
 </lines>
     </verse>
   </lyrics>

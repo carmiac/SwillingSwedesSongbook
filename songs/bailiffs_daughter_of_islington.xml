@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
@@ -7,6 +7,7 @@
     <authors>
       <author>Traditional</author>
     </authors>
+    <copyright>Public Domain</copyright>
     <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13</verseOrder>
   </properties>
   <lyrics>
@@ -38,7 +39,7 @@ An apprentice for to bind.
       <lines>
 And when he had been seven long years,
 And never his love could see;
-&quot;Many a tear have I shed for her sake
+"Many a tear have I shed for her sake
 When she little thought of me.
 </lines>
     </verse>
@@ -70,29 +71,29 @@ And her true love came riding by.
       <lines>
 She started up with a color so red,
 Catching hold of his bridle rein;
-&quot;One penny, one penny, kind sir,&quot; she said,
-&quot;Will ease me of much pain.&quot;
+"One penny, one penny, kind sir," she said,
+"Will ease me of much pain."
 </lines>
     </verse>
     <verse name="v9">
       <lines>
-&quot;Before I give you one penny fair maid,
-Pray tell me where you were born.&quot;
-&quot;At Islington, kind sir,&quot; said she,
-&quot;Where I have had many a scorn.
+"Before I give you one penny fair maid,
+Pray tell me where you were born."
+"At Islington, kind sir," said she,
+"Where I have had many a scorn.
 </lines>
     </verse>
     <verse name="v10">
       <lines>
 If that be so, I prithee, fair maid,
 Oh, tell me whether you know
-The bailiff's daughter of Islington?&quot;
-&quot;She is dead, sir, long ago.&quot;
+The bailiff's daughter of Islington?"
+"She is dead, sir, long ago."
 </lines>
     </verse>
     <verse name="v11">
       <lines>
-&quot;If she be dead, then take my horse,
+"If she be dead, then take my horse,
 My saddle and bridle also;
 For I will into some far country
 Where no man shall me know.
@@ -100,10 +101,10 @@ Where no man shall me know.
     </verse>
     <verse name="v12">
       <lines>
-&quot;Oh stay, oh stay, thou goodly youth,
+"Oh stay, oh stay, thou goodly youth,
 She standeth by thy side;
 She is here alive, she is
-And ready to be thy bride.&quot;
+And ready to be thy bride."
 </lines>
     </verse>
     <verse name="v13">
@@ -111,7 +112,7 @@ And ready to be thy bride.&quot;
 Oh, farewell grief and welcome joy
 Ten thousand times therefore;
 For now I have found my own true love,
-Whom I tho't I never should see more.&quot;
+Whom I tho't I never should see more."
 </lines>
     </verse>
   </lyrics>

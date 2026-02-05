@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
@@ -7,10 +7,10 @@
     <authors>
       <author>R.~Farran </author>
     </authors>
-    <tune>The Irish Washerwoman</tune>
     <keywords>
       <keyword>An Old Cliche Revisited</keyword>
     </keywords>
+    <tune>The Irish Washerwoman</tune>
     <verseOrder>v1 v2 c1 v3 v4 c1 v5</verseOrder>
   </properties>
   <lyrics>
@@ -51,7 +51,7 @@ We hope that some day, some brave knight will come by.
 Now you have such good taste in your women for sure,
 They always are pretty, they always are pure.
 Bid your notion of dining, it makes us all flinch,
-For your favorite entree is barbecued wench.
+For your favorite entrée is barbecued wench.
 </lines>
     </verse>
     <verse name="v5">

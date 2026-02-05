@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
@@ -7,6 +7,7 @@
     <authors>
       <author>Traditional</author>
     </authors>
+    <copyright>Public Domain</copyright>
     <verseOrder>v1 c1 v2 v3 v4 v5</verseOrder>
   </properties>
   <lyrics>
@@ -28,7 +29,7 @@ Bold, brave and undaunted, was young Brennan on the moor.
       <lines>
 One day upon the highway as young Willie he went down,
 He met the mayor of Cashiell, a mile outside of town.
-The mayor he knew his features, and he said, &quot;Young man&quot;, said he
+The mayor he knew his features, and he said, "Young man", said he
 Your name is Willie Brennan, you must come along with me.
 </lines>
     </verse>
@@ -36,7 +37,7 @@ Your name is Willie Brennan, you must come along with me.
       <lines>
 Now Brennan's wife had gone to town, provisions for to buy;
 And when she saw her Willie, she commenced to weep and cry.
-He said, &quot;Hand to me that tenpenny&quot;, as soon as Willie spoke,
+He said, "Hand to me that tenpenny", as soon as Willie spoke,
 She handed him a blunderbuss from underneath her cloak.
 </lines>
     </verse>

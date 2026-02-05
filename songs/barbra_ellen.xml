@@ -1,9 +1,13 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
       <title>Barb'ra Ellen</title>
     </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <copyright>Public Domain</copyright>
     <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13</verseOrder>
   </properties>
   <lyrics>
@@ -27,7 +31,7 @@ For the love of Barb'ra Ellen
       <lines>
 He sent a servant to the town,
 To the place where she was dwellin'.
-&quot;My master's sick and he bids you come
+"My master's sick and he bids you come
 If your name be Barb'ra Ellen.
 </lines>
     </verse>
@@ -36,31 +40,31 @@ If your name be Barb'ra Ellen.
 Then slowly, slowly she got up,
 And slowly she went nigh him;
 And as she drew the curtain back:
-&quot;Young man, I think you're dyin!&quot;
+"Young man, I think you're dyin!"
 </lines>
     </verse>
     <verse name="v5">
       <lines>
-&quot;O, ken you not in yonder town,
+"O, ken you not in yonder town,
 In the place where we were dwellin',
 You gave a health to the ladies all,
-But you slighted Barb'ra Ellen.&quot;
+But you slighted Barb'ra Ellen."
 </lines>
     </verse>
     <verse name="v6">
       <lines>
-&quot;O, yes I ken. I ken it well.
+"O, yes I ken. I ken it well.
 In the place where we were dwellin',
 I gave a health to the ladies all,
-But my love to Barb'ra Ellen.&quot;
+But my love to Barb'ra Ellen."
 </lines>
     </verse>
     <verse name="v7">
       <lines>
 Then slowly went she down the stairs.
 He trembled like an aspen.
-&quot;Be kind, good friends and neighbors all,
-Be kind to Barb'ra Ellen.&quot;
+"Be kind, good friends and neighbors all,
+Be kind to Barb'ra Ellen."
 </lines>
     </verse>
     <verse name="v8">
@@ -68,31 +72,31 @@ Be kind to Barb'ra Ellen.&quot;
 And as she cross'd the wooded fields,
 She heard his deathbell knellin',
 And ev'ry stroke, it spoke her name
-&quot;Hard-hearted Barb'ra Ellen.&quot;
+"Hard-hearted Barb'ra Ellen."
 </lines>
     </verse>
     <verse name="v9">
       <lines>
 She look'd to the east, she looked to the west.
 She saw his corpse a comin'.
-&quot;O bearers, bearers, lay him down,
-For I think I too am dying'.&quot;
+"O bearers, bearers, lay him down,
+For I think I too am dying'."
 </lines>
     </verse>
     <verse name="v10">
       <lines>
-&quot;O, Mother, Mother, make my bed,
+"O, Mother, Mother, make my bed,
 And make it long and narrow.
 Sweet William died for the love of me;
-I'll die for him of sorrow!&quot;
+I'll die for him of sorrow!"
 </lines>
     </verse>
     <verse name="v11">
       <lines>
-&quot;O, Father, Father, dig my grave,
+"O, Father, Father, dig my grave,
 And dig it deep and narrow.
 Sweet William died for me today.
-I'll die for him tomorrow.&quot;
+I'll die for him tomorrow."
 </lines>
     </verse>
     <verse name="v12">
@@ -107,7 +111,7 @@ And from her heart a briar.
       <lines>
 They climb'd right up the old church wall
 Till they couldn't climb no higher.
-They tied themselves in a true lovers' knot,
+They tied themselves in a true lover's' knot,
 The red rose around the briar.
 </lines>
     </verse>

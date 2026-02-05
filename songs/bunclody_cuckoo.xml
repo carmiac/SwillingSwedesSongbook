@@ -1,9 +1,12 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
       <title>Bunclody Cuckoo</title>
     </titles>
+    <authors>
+      <author>The Irish Rovers</author>
+    </authors>
     <verseOrder>v1 c1 v2 v3 v4</verseOrder>
   </properties>
   <lyrics>

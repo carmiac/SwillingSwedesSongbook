@@ -1,9 +1,13 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
       <title>Cruiskeen Lawn</title>
     </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <copyright>Public Domain</copyright>
     <verseOrder>v1 c1 v2 v3 c2</verseOrder>
   </properties>
   <lyrics>
@@ -40,7 +44,7 @@ Oh, my smiling little Cruiskeen lawn'
       <lines>
 And when grim Death appears, in a few but pleasant years,
 To tell me that my glass has run,
-I'll say, &quot;Begone, you knave! For great Bacchus gave me leave
+I'll say, "Begone, you knave! For great Bacchus gave me leave
 To take another
 Cruiskeen lawn, lawn, lawn!
 To take another Cruiskeen lawn'
@@ -53,7 +57,7 @@ Little jug, my heart's love,
 Bright health to my own dove;
 Little Jug, my own heart's love, love, love,
 Oh! Little jug, my own heart's love!
-</lines>
+      </lines>
     </verse>
   </lyrics>
 </song>

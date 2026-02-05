@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
@@ -7,6 +7,7 @@
     <authors>
       <author>Traditional</author>
     </authors>
+    <copyright>Public Domain</copyright>
     <verseOrder>v1 c1 v2 v3</verseOrder>
   </properties>
   <lyrics>
@@ -15,7 +16,7 @@
 When two lovers meet down beside the green bower
 When two lovers meet down beneath the green tree
 When Mary, fond Mary, declared to her lover
-&quot;You have stolen my poor heart from the Banks of the Lee&quot;
+"You have stolen my poor heart from the Banks of the Lee"
 </lines>
     </verse>
     <verse name="c1">
@@ -28,8 +29,8 @@ Reminds me of my Mary, on the banks of the Lee.
     </verse>
     <verse name="v2">
       <lines>
-&quot;Don't stay out late, love, on the moorlands, my Mary
-Don't stay out late, love, on the moorlands from me&quot;
+"Don't stay out late, love, on the moorlands, my Mary
+Don't stay out late, love, on the moorlands from me"
 How little was our notion when we parted on the ocean
 That we were forever parted from the banks of the Lee
 </lines>

@@ -1,9 +1,13 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
       <title>Basket Of Oysters</title>
     </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <copyright>Public Domain</copyright>
     <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
   </properties>
   <lyrics>
@@ -17,18 +21,18 @@ Just to see if she's got any oysters.
     </verse>
     <verse name="v2">
       <lines>
-&quot;Oysters, Oysters, Oysters&quot;, said she.
-&quot;These are the finest oysters that you will ever see.
+"Oysters, Oysters, Oysters", said she.
+"These are the finest oysters that you will ever see.
 I'll sell them three-a-penny but I give 'em to you free,
-'Cause I see you're a lover of oysters.&quot;
+'Cause I see you're a lover of oysters."
 </lines>
     </verse>
     <verse name="v3">
       <lines>
-&quot;Landlord, Landlord, Landlord&quot;, says I.
-&quot;Have you got a little room that's empty and nearby.
+"Landlord, Landlord, Landlord", says I.
+"Have you got a little room that's empty and nearby.
 Where me and the pretty little oyster girl may lie,
-When we bargain for her basket of oysters.&quot;
+When we bargain for her basket of oysters."
 </lines>
     </verse>
     <verse name="v4">
@@ -41,10 +45,10 @@ She left with her basket of oysters.
     </verse>
     <verse name="v5">
       <lines>
-&quot;Landlord, Landlord, Landlord&quot;, I cried.
-&quot;Did you see that little oyster girl drinking by my side?
-She's gone and picked my pocket&quot;, but the landlord just replied,
-&quot;You shouldn't be so fond of your oysters.&quot;
+"Landlord, Landlord, Landlord", I cried.
+"Did you see that little oyster girl drinking by my side?
+She's gone and picked my pocket", but the landlord just replied,
+"You shouldn't be so fond of your oysters."
 </lines>
     </verse>
     <verse name="v6">

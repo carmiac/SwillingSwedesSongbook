@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
@@ -7,6 +7,7 @@
     <authors>
       <author>P.J.~McCall</author>
     </authors>
+    <copyright>Public Domain</copyright>
     <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
   </properties>
   <lyrics>
@@ -22,8 +23,8 @@ And brought the neighbors from far and near.
       <lines>
 Then Father Murphy, from old Kilcormac,
 Spurred up the rocks with a warning cry.
-&quot;Arm, Arm.&quot; He cried, &quot;For I've come to lead you
-For Ireland's freedom we'll fight or die.&quot;
+"Arm, Arm." He cried, "For I've come to lead you
+For Ireland's freedom we'll fight or die."
 </lines>
     </verse>
     <verse name="v3">
