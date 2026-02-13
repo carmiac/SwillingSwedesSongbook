@@ -3,10 +3,12 @@
 # They will be passed to the templates as variables.
 title = "The Swilling Swede's Songbook"                                                                                                                                              # The title of the songbook.
 author = "Sveinn the Swilling Swede"                                                                                                                                                 # The author of the songbook.
-publish_date = 2023-10-31                                                                                                                                                            # The date the songbook was published.
+publish_date = 2026-02-12                                                                                                                                                            # The date the songbook was published.
 license = "CC BY-SA 4.0"                                                                                                                                                             # The license of the songbook.
 license_url = "https://creativecommons.org/licenses/by-sa/4.0/"                                                                                                                      # The URL of the license.
 title_blurb = """A collection of SONGS humbly presented for your amusement preferably around a CAMPFIRE while drinking MEAD, SCOTCH, BEER, OR RUM and surrounded by good COMPANY."""
+edit_github_repo = "carmiac/SwillingSwedesSongbook"                                                                                                                                  # Enable song edit suggestions via GitHub issues
+edit_email = "carmiac+songbook@gmail.com"                                                                                                                                            # Enable song edit suggestions via email
 
 # Each section has a name, and a list of files to include in that section.
 # The files can be either individual songs or directories containing songs.
@@ -127,32 +129,6 @@ sbd_header = '''
 }
 '''
 
-# [output_formats.ereaders]
-# type = "epub"
-# output_dir = "songbook_epub"
-# output_file = "songbook.epub"
-# songbook_template = "songbook_epub.tex" # Main tex file for the songbook.
-# songbook_style = "tex/songs.sty" # Style file for the songbook, containing custom commands.
-# image_dir = "img/" # Directory containing images. This will be copied to the build directory.
-# template_dir = "tex/" # Directory containing tex templates. All of these will be rendered with Jinja2 into the build directory.
-# frontcover = "frontcover.tex" # File containing the front cover.
-# frontcover_image = "img/longship.png"
-# titlepage = "titlepage.tex" # File containing the title page.
-# intro = "intro.tex" # File containing the intro.
-# backcover = "backcover.tex" # File containing the back cover.
-# backcover_image = "img/back.jpg"
-# sbd_header = '''
-# \newcommand{\tuneof}{}
-# \newsongkey{tune}{\def\tuneof{}}
-#                 {\def\tuneof{Tune: #1\par}}
-
-# \renewcommand{\extendprelude}{
-#  %{\itshape\normalsize}
-#   \showrefs\showauthors
-#   {\itshape\normalsize\tuneof}
-# }
-# '''
-
 # The output_formats section contains information about the different formats
 # you want to generate for your songbook. Each format has a name, and a type.
 # The type can be one of "html", "pdf", or "epub".
@@ -162,7 +138,5 @@ output_dir = "html"
 # template_dir = "html_templates"  # Commented out to use new built-in Jinja2 templates
 stylesheets = ["stylesheets"]
 # song_xslt = "stylesheets/openlyrics.xsl"  # No longer needed with Jinja2 renderer
-image_dir = "img"                        # Directory containing images. This will be copied to the build directory.
-pwa_start_url = "./songbook.html"        # PWA launches at songbook instead of landing page
-
-# Removed - duplicate of bound_pdf
+image_dir = "img"                 # Directory containing images. This will be copied to the build directory.
+pwa_start_url = "./songbook.html" # PWA launches at songbook instead of landing page
