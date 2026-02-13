@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
@@ -46,7 +46,7 @@ And as our ship pulled from the shore, I heard her call and say
     <verse name="v4">
       <lines>
 Now the soldiers life won't suit me, sweet music is my trade
-For I'd rather melt the heardest heart, than pierce it with a blade
+For I'd rather melt the hardest heart, than pierce it with a blade
 Let the time be short 'til I return to my home in the north of Skye
 And the loving girl who stole my heart, with these words as I passed by
 </lines>

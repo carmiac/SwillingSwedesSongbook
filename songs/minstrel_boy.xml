@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
@@ -7,6 +7,7 @@
     <authors>
       <author>Thomas~Moore</author>
     </authors>
+    <copyright>Public Domain</copyright>
     <verseOrder>v1 v2 v3 v4</verseOrder>
   </properties>
   <lyrics>
@@ -20,10 +21,10 @@ His wild harp slung behind him.
     </verse>
     <verse name="v2">
       <lines>
-&quot;Land of song,&quot; sang the warrior bard,
-&quot;Tho all the world betrays ye,
+"Land of song," sang the warrior bard,
+"Tho all the world betrays ye,
 One sword at least thy rights shall guard,
-One faithful harp shall praise thee.&quot;
+One faithful harp shall praise thee."
 </lines>
     </verse>
     <verse name="v3">
@@ -36,10 +37,10 @@ For he tore its cords asunder...
     </verse>
     <verse name="v4">
       <lines>
-And said &quot;No chains shall sully thee,
+And said "No chains shall sully thee,
 Thou soul of love and bravery,
 Thy songs were made for the pure and free,
-They ne'er shall sound in slavery.&quot;
+They ne'er shall sound in slavery."
 </lines>
     </verse>
   </lyrics>

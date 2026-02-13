@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
@@ -47,7 +47,7 @@ While the servants all gossiped in wonder and awe.
 Now, the fool died in madness, saying he was ensorceled
 And the Duke only smiled him a sad secret smile.
 Now, the Duke rules his people in wit and good humor
-And he sings for his Lady like the nightingales' song.
+And he sings for his Lady like the nightingale's' song.
 </lines>
     </verse>
     <verse name="v6">
@@ -55,7 +55,7 @@ And he sings for his Lady like the nightingales' song.
 And she's born him five children, two sons and three daughters
 And they've grown straight and handsome and sorcerers all.
 And they dance in the garden and sing in the moonlight
-Like nightingales singing in a green forest hall.
+Like nightingale's singing in a green forest hall.
 </lines>
     </verse>
   </lyrics>

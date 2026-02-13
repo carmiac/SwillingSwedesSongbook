@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
@@ -8,6 +8,7 @@
       <author>A. Author</author>
       <author>B. Authour</author>
     </authors>
+    <copyright>Public Domain</copyright>
     <verseOrder>v1 c1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14 v15</verseOrder>
   </properties>
   <lyrics>

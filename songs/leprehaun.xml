@@ -1,9 +1,13 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
       <title>Leprehaun</title>
     </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <copyright>Public Domain</copyright>
     <verseOrder>v1 v2 v3</verseOrder>
   </properties>
   <lyrics>
@@ -34,9 +38,9 @@ But the fairy was laughing too!
     <verse name="v3">
       <lines>
 As quick as thought I seized the elf;
-&quot;Your fairy purse!&quot; I cried;
-&quot;The purse!&quot; he said &quot;'tis in her hand
-&quot;That lady at your side!&quot;
+"Your fairy purse!" I cried;
+"The purse!" he said "'tis in her hand
+"That lady at your side!"
 I turned to look: the elf was off!
 Then what was I to do?
 O, I laughed to think what a fool I'd been;

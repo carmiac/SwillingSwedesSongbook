@@ -1,9 +1,12 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
       <title>Red Haired Mary</title>
     </titles>
+    <authors>
+      <author>Sean McCarthy</author>
+    </authors>
     <verseOrder>v1 v2 c1 v3 v4 v5 v6 v7</verseOrder>
   </properties>
   <lyrics>
@@ -58,7 +61,7 @@ And I was minus two front teeth.
     <verse name="v6">
       <lines>
 Now a pealer, he came round the corner,
-Said, &quot;Young man, you done broke the law.&quot;
+Said, "Young man, you done broke the law."
 When my donkey kicked him in the kneecaps
 And he fell down and broke his jaw.
 </lines>
@@ -66,7 +69,7 @@ And he fell down and broke his jaw.
     <verse name="v7">
       <lines>
 Well the red hair girl, she kept a'smiling,
-&quot;Young man, I'll come with you,&quot; she said.
+"Young man, I'll come with you," she said.
 We'll forget the priest this very morning,
 Tonight we'll lie in Murphy's shed.
 </lines>

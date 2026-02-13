@@ -1,9 +1,12 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
       <title>The Harp That Once Through Tara's Halls</title>
     </titles>
+    <authors>
+      <author>[unknown]</author>
+    </authors>
     <verseOrder>v1 v2</verseOrder>
   </properties>
   <lyrics>

@@ -1,9 +1,13 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
       <title>Good Ship Venus</title>
     </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <copyright>Public Domain</copyright>
     <verseOrder>v1 v2 c1 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
   </properties>
   <lyrics>
@@ -25,12 +29,12 @@ From one ship to another
     </verse>
     <verse name="c1">
       <lines>
-<comment>Chorus every two verses</comment>
 Friggin' in the riggin'
 Friggin' in the riggin'
 Friggin' in the riggin'
 There was fuck all else to do
-</lines>
+<comment>Chorus every two verses</comment>
+      </lines>
     </verse>
     <verse name="v3">
       <lines>

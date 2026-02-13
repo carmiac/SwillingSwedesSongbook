@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
@@ -7,6 +7,7 @@
     <authors>
       <author>Lady Carolina~Oliphant</author>
     </authors>
+    <copyright>Public Domain</copyright>
     <verseOrder>v1 c1 v2 v3 v4 v5 v6 v7</verseOrder>
   </properties>
   <lyrics>
@@ -71,7 +72,7 @@ To me they hae nae other sound.
 Sweet the lav'rock's note and lang,
 Lilting wildly up the glen;
 And aye the o'er world o' he sang,
-&quot;Will he no' come back again?&quot;
+"Will he no' come back again?"
 </lines>
     </verse>
   </lyrics>

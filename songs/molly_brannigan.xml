@@ -1,9 +1,13 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
       <title>Molly Brannigan</title>
     </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <copyright>Public Domain</copyright>
     <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
   </properties>
   <lyrics>
@@ -41,7 +45,7 @@ For all that she's left me here alone for to die.
     </verse>
     <verse name="v5">
       <lines>
-The left side of my carcase is as weak as water gruel, ma'am,
+The left side of my carcass is as weak as water gruel, ma'am,
 There's not a pick upon my bones, since Molly's proved so cruel ma'am
 Oh! if I had a blunder gun, I'd go and fight a duel, ma'am,
 For sure I'd better shoot myself than live here to die.
@@ -52,7 +56,7 @@ For sure I'd better shoot myself than live here to die.
 I'm cool an' determined as any salamander, ma'am,
 Won't you come to my wake when I go the long meander, ma'am?
 I'll think myself as valiant as the famous Alexander, ma'am
-When I hear ye cryin' o'er me, &quot;Arrah! why did ye die?&quot;
+When I hear ye cryin' o'er me, "Arrah! why did ye die?"
 </lines>
     </verse>
   </lyrics>

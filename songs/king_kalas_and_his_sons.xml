@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
@@ -12,7 +12,7 @@
 King Kalas had four sons,
 And four sons had he,
 And they rambled around
-In the northern countrie
+In the northern country
 And they rambled around
 Without ever a care.
 The Hound and the Bull
@@ -28,7 +28,7 @@ Any bird on the fly.
 The Hound was out hunting
 When brought down was he
 Alone as he rambled
-The northern countrie.
+The northern country.
 </lines>
     </verse>
     <verse name="c2">
@@ -36,7 +36,7 @@ The northern countrie.
 King Kalas had three sons,
 And three sons had he,
 And they rambled around
-In the northern countrie
+In the northern country
 And they rambled around
 Without ever a care.
 And they were the Bull
@@ -52,7 +52,7 @@ Run from a fight.
 The Bull was out fighting
 When brought down was he
 Alone as he rambled
-The northern countrie.
+The northern country.
 </lines>
     </verse>
     <verse name="c3">
@@ -60,7 +60,7 @@ The northern countrie.
 King Kalas had two sons,
 And two sons had he,
 And they rambled around
-In the northern countrie
+In the northern country
 And they rambled around
 Without ever a care.
 And the names they were called
@@ -76,14 +76,14 @@ When the Cat was right there.
 The Cat was out hiding
 When brought down was he
 Alone as he rambled
-The northern countrie.
+The northern country.
 </lines>
     </verse>
     <verse name="c4">
       <lines>
 King Kalas had one son,
 And one son had he,
-And he rambled around in the northern countrie.
+And he rambled around in the northern country.
 And he rambled around without ever a care,
 And the name he went under
 Was Kalas' Bear.
@@ -98,7 +98,7 @@ With bluster and swag.
 The Bear was out boasting
 When brought down was he
 Alone as he rambled
-The northern countrie.
+The northern country.
 </lines>
     </verse>
     <verse name="c5">
@@ -106,7 +106,7 @@ The northern countrie.
 King Kalas had no sons,
 And no sons had he,
 To ramble around
-In the northern countrie.
+In the northern country.
 Though late in the evening
 The ghosts are seen there
 Of the Hound and the Bull

@@ -1,9 +1,13 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
       <title>Hotspur</title>
     </titles>
+    <authors>
+      <author>Andrew of Wolvenwood</author>
+    </authors>
+    <copyright>Public Domain</copyright>
     <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
   </properties>
   <lyrics>
@@ -57,12 +61,12 @@ The Blue Lion of Percy is pulled to the ground.
     </verse>
     <verse name="v7">
       <lines>
-<comment>softly</comment>
 Squire bring my armor, my sword and destrier.
 I'll live forever to spite Bolingbroke!
 Know then of Hotspur who died by the Severn,
 And list what was heard when Lord Percy spoke:
-</lines>
+<comment>softly</comment>
+      </lines>
     </verse>
     <verse name="v8">
       <lines>

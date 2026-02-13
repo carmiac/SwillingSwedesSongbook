@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
@@ -7,6 +7,7 @@
     <authors>
       <author>Robert~Burns </author>
     </authors>
+    <copyright>Public Domain</copyright>
     <verseOrder>v1 v2 v3</verseOrder>
   </properties>
   <lyrics>
@@ -42,7 +43,7 @@ My auld grey head had lien in clay
 Wi' Bruce and loyal Wallace
 But pith and power, till my last hour
 I'll make this declaration-
-&quot;We were bought and sold for English gold&quot;
+"We were bought and sold for English gold"
 Such a parcel of rogues in a nation
 </lines>
     </verse>

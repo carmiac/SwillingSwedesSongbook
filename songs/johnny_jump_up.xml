@@ -1,9 +1,13 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
       <title>Johnny Jump Up</title>
     </titles>
+    <authors>
+      <author>Tadhg Jordan</author>
+    </authors>
+    <copyright>Public Domain</copyright>
     <verseOrder>v1 v2 c1 v3 v4 v5 c1 v6 v7 c1 v8 v9 c1 v10</verseOrder>
   </properties>
   <lyrics>

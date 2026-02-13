@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
@@ -10,7 +10,7 @@
   <lyrics>
     <verse name="v1">
       <lines>
-Wulf has a stall in the merchants' row,
+Wulf has a stall in the merchant's' row,
 Einhard's armor needs a duct tape patch,
 Supper back in camp is ready to be cooked,
 But it's been so long the breakfast eggs have hatched.

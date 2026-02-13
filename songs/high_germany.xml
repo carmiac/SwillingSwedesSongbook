@@ -1,9 +1,13 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
       <title>High Germany</title>
     </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <copyright>Public Domain</copyright>
     <verseOrder>v1 v2 v3 v4 v5</verseOrder>
   </properties>
   <lyrics>
@@ -11,7 +15,7 @@
       <lines>
 One day as I was walking, and a walkin' all alone
 I heard a young couple, a' makin' their moan
-Said the older one to the sunder one, &quot;Bonnie lass I must away:
+Said the older one to the sunder one, "Bonnie lass I must away:
 For the King he has commanded us, and His orders I must obey
 </lines>
     </verse>
@@ -43,7 +47,7 @@ For the drums do beat, and the drum that sound, and the wars of High Germany
       <lines>
 One day as I was walking, and a walkin' all alone
 I heard a young couple, a' makin' their moan
-Said the older one to the sunder one, &quot;Bonnie lass I must away:
+Said the older one to the sunder one, "Bonnie lass I must away:
 For the King he has commanded us, and His orders I must obey
 </lines>
     </verse>

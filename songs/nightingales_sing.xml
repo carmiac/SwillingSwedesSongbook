@@ -1,9 +1,13 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
       <title>The Nightingales Sing</title>
     </titles>
+    <authors>
+      <author>Andy Gill</author>
+    </authors>
+    <copyright>Public Domain</copyright>
     <keywords>
       <keyword>One Morning in May</keyword>
     </keywords>
@@ -31,31 +35,31 @@ To see waters gliding, hear the nightingales sing.
 They had not been standing but a moment or two
 When out of his knapsack a fiddle he drew
 And the tune that he played made the valleys to ring
-&quot;Hark! Hark!&quot; cried the lady, &quot;hear the nightingales sing.&quot;
+"Hark! Hark!" cried the lady, "hear the nightingales sing."
 </lines>
     </verse>
     <verse name="v4">
       <lines>
-&quot;Pretty lady, pretty lady, it's time to give o'er&quot;
-&quot;O no&quot;, cried the lady,&quot;please play one tune more
+"Pretty lady, pretty lady, it's time to give o'er"
+"O no", cried the lady,"please play one tune more
 I'd rather hear your fiddle, and the touch of one string
-Than to see waters gliding, hear the nightingales sing.&quot;
+Than to see waters gliding, hear the nightingales sing."
 </lines>
     </verse>
     <verse name="v5">
       <lines>
-&quot;O soldier, O soldier, will you marry me?&quot;
+"O soldier, O soldier, will you marry me?"
 'O no, pretty lady, that never can be
 I've a wife in old England and children twice three
-Two wives in the army's too many for me.&quot;
+Two wives in the army's too many for me."
 </lines>
     </verse>
     <verse name="v6">
       <lines>
-&quot;I'll go back to London and stay for a year
+"I'll go back to London and stay for a year
 And drink wine and whiskey, instead of small beer
 But if ever I return it'll be in the spring
-Just to see waters gliding, hear the nightingales sing.&quot;
+Just to see waters gliding, hear the nightingales sing."
 </lines>
     </verse>
   </lyrics>

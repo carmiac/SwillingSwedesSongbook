@@ -1,9 +1,13 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
       <title>John Dory</title>
     </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <copyright>Public Domain</copyright>
     <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
   </properties>
   <lyrics>
@@ -34,10 +38,10 @@ But fell down in a trance, a.
     </verse>
     <verse name="v4">
       <lines>
-&quot;A pardon, a pardon, my liege and my king,
+"A pardon, a pardon, my liege and my king,
 For my merry men and for me, a,
 And all the churls in merry England
-I'll bring them all bound to thee, a.&quot;
+I'll bring them all bound to thee, a."
 </lines>
     </verse>
     <verse name="v5">
@@ -50,10 +54,10 @@ With fifty good oars on a side, a.
     </verse>
     <verse name="v6">
       <lines>
-&quot;Run up, my boy, unto the maintop,
-And look what thou canst spy, a.&quot;
+"Run up, my boy, unto the maintop,
+And look what thou canst spy, a."
 'Who ho, who ho, a goodly ship I do see;
-I trow it be John Dory, a.&quot;
+I trow it be John Dory, a."
 </lines>
     </verse>
     <verse name="v7">

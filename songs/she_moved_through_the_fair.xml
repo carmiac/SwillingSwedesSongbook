@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
@@ -7,15 +7,16 @@
     <authors>
       <author>Traditional</author>
     </authors>
+    <copyright>Public Domain</copyright>
     <verseOrder>v1 v2 v3 v4</verseOrder>
   </properties>
   <lyrics>
     <verse name="v1">
       <lines>
-My young love said to me, &quot;My mother won't mind
-and my father won't slight you for your lack of kind,&quot;
+My young love said to me, "My mother won't mind
+and my father won't slight you for your lack of kind,"
 And she stepped away from me and this she did say,
-&quot;It will not be long love, till our wedding day.&quot;
+"It will not be long love, till our wedding day."
 </lines>
     </verse>
     <verse name="v2">
@@ -39,7 +40,7 @@ And that was the last that I saw of my dear.
 Last night she came to me, she came softly in,
 So softly she came that her feet make no din.
 And she laid her hand on me and this she did say,
-&quot;It will not be long, love, till our wedding day.&quot;
+"It will not be long, love, till our wedding day."
 </lines>
     </verse>
   </lyrics>

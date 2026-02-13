@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
@@ -28,7 +28,7 @@ And nothing is as I would wish it to be.
     </verse>
     <verse name="v2">
       <lines>
-There's too much of worriement goes to a bonnet,
+There's too much of worriment goes to a bonnet,
 There's too much ironing goes to a shirt.
 There's nothing that pays for the time you waste on it;
 There's nothing that lasts us but trouble and dirt.

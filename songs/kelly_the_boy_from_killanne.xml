@@ -1,9 +1,13 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
       <title>Kelly, the Boy from Killanne</title>
     </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <copyright>Public Domain</copyright>
     <verseOrder>v1 v2 v3 v4</verseOrder>
   </properties>
   <lyrics>
@@ -13,10 +17,10 @@ What's the news? What's the news? O my bold Shelmalier,
 With your long-barrelled gun, from the sea?
 A wind from the south brings a messenger dear
 With a hymn of the dawn for the free?
-&quot;Goodly news, goodly news, do I bring, youth of Forth,
+"Goodly news, goodly news, do I bring, youth of Forth,
 Goodly news do I bring, Bargy man!
 For the boys march at dawn from the south to the north
-Led by Kelly, the boy from Killanne!&quot;
+Led by Kelly, the boy from Killanne!"
 </lines>
     </verse>
     <verse name="v2">
@@ -25,10 +29,10 @@ Tell me who is the giant with the gold curling hair,
 He who rides at the head of your van
 Seven feet is his height, with some inches to spare
 And he looks like a king in command!
-&quot;Oh, me boys, that's the pride of the bold Shelmaliers,
-&quot;Mongst our greatest of heroes, a man!
+"Oh, me boys, that's the pride of the bold Shelmaliers,
+"Mongst our greatest of heroes, a man!
 Fling your beavers aloft and your three ringin' cheers
-John Kelly, the boy from Killanne!&quot;
+John Kelly, the boy from Killanne!"
 </lines>
     </verse>
     <verse name="v3">

@@ -1,9 +1,13 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
   <properties>
     <titles>
       <title>Wearin' of the Green</title>
     </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+    <copyright>Public Domain</copyright>
     <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
   </properties>
   <lyrics>
@@ -18,7 +22,7 @@ For there's a cruel law agin' the wearin' of the green.
     <verse name="v2">
       <lines>
 I met with Napper Tandy and he took me by the hand,
-And he said, &quot;How's poor old Ireland, and how does she stand?&quot;
+And he said, "How's poor old Ireland, and how does she stand?"
 She's the most distressful country that ever you have seen;
 They're hangin' men and women there for wearin' of the green.
 </lines>
