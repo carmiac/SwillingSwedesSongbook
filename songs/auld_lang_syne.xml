@@ -9,6 +9,18 @@
     </authors>
     <copyright>Public Domain</copyright>
     <verseOrder>v1 v2 v3 v4</verseOrder>
+    <recordings>
+      <recording>
+        <title>Auld Lang Syne in the Scottish dialect by Robert Burns Csonga  fiddle ,Nick guitar  vocals</title>
+        <artist>Nick Shovlin</artist>
+        <url>https://www.youtube.com/watch?v=i4pN0zn16jk</url>
+      </recording>
+      <recording>
+        <title>Robert Burns - Auld lang syne</title>
+        <artist>Robert~Burns</artist>
+        <url>../media/auld_lang_syne/Robert_Burns_-_Auld_lang_syne.ogg</url>
+      </recording>
+    </recordings>
   </properties>
   <lyrics>
     <verse name="v1">

@@ -9,6 +9,18 @@
     </authors>
     <copyright>Public Domain</copyright>
     <verseOrder>v1 c1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <recordings>
+      <recording>
+        <title>As I Roved Out (Traditional Irish Song) - Lindsay Straw</title>
+        <artist>Lindsay Straw</artist>
+        <url>https://www.youtube.com/watch?v=hP-gqqtmYug</url>
+      </recording>
+      <recording>
+        <title>As I Roved Out - Celtic Aire - United States Air Force Band.mp3</title>
+        <artist>Traditional</artist>
+        <url>../media/as_i_roved_out/As_I_Roved_Out_-_Celtic_Aire_-_United_States_Air_Force_Band.mp3</url>
+      </recording>
+    </recordings>
   </properties>
   <lyrics>
     <verse name="v1">
