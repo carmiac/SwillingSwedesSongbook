@@ -7,8 +7,22 @@ publish_date = 2026-02-12                                                       
 license = "CC BY-SA 4.0"                                                                                                                                                             # The license of the songbook.
 license_url = "https://creativecommons.org/licenses/by-sa/4.0/"                                                                                                                      # The URL of the license.
 title_blurb = """A collection of SONGS humbly presented for your amusement preferably around a CAMPFIRE while drinking MEAD, SCOTCH, BEER, OR RUM and surrounded by good COMPANY."""
-edit_github_repo = "carmiac/SwillingSwedesSongbook"                                                                                                                                  # Enable song edit suggestions via GitHub issues
-edit_email = "carmiac+songbook@gmail.com"                                                                                                                                            # Enable song edit suggestions via email
+
+intro_blurb = """Some of my best memories include singing around the camp fire. This book is dedicated to everyone who has lent their voice while holding a book such as this.
+
+Special thanks to:
+- Lady Amiee of Golias, for the original transcription of most of these songs
+- Lady Auria of Golias, for helpful feedback and cheerleading
+- Lord Galen McIntyre, for providing several songs
+- Lady Ismeralda Franceska Rusciolelli DaVale, for providing several songs
+- Winnifred de Canterbury, for help proofreading and editing
+
+Without all of you this book never would have been possible.
+
+This book is not for sale under any circumstances, it can only be given away.
+""""
+edit_github_repo = "carmiac/SwillingSwedesSongbook" # Enable song edit suggestions via GitHub issues
+edit_email = "carmiac+songbook@gmail.com" # Enable song edit suggestions via email
 
 # Each section has a name, and a list of files to include in that section.
 # The files can be either individual songs or directories containing songs.

@@ -49,6 +49,8 @@ jobs:
       
       - name: Build songbook
         run: |
+          # Update publish_date to today's date before building
+          sed -i "s/^publish_date = .*/publish_date = $(date +%Y-%m-%d)/" book_config.toml
           python -m openlyric_bookmaker book_config.toml
       
       - name: Create GitHub Pages structure
