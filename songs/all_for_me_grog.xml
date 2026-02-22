@@ -7,7 +7,7 @@
     <authors>
       <author>Irish Traditional</author>
     </authors>
-    <verseOrder>c1 v1 v2 v3 v4 v5</verseOrder>
+    <verseOrder>c1 v5 v1 v2 v4</verseOrder>
     <recordings>
       <recording>
         <title>All For Me Grog - Irish Traditional</title>
@@ -40,14 +40,6 @@ Where is me shirt, me noggin', noggin' shirt
 It's all sold for beer and tobacco
 You see the sleeves were all worn out and the collar been torn about
 And the tail was lookin' out for better weather
-</lines>
-    </verse>
-    <verse name="v3">
-      <lines>
-Where is me wife, me noggin', noggin' wife
-She's all sold for beer and tobacco
-You see her front it was worn out and her tail I kicked about
-And I'm sure she's lookin' out for better weather
 </lines>
     </verse>
     <verse name="v4">
